@@ -45,15 +45,16 @@ Bu algoritma her zincirdeki kelimelerin frekansının hesaplanmasına dayanmakta
 Bu algoritma her zincirin yoğunlaştığı paragrafı bulmaya ve bu paragrafta zincirdeki
 kelimeleri içeren cümle frekansına dayanmaktadır. Eğer tüm kelimeler aynı paragraftaysa doğrudan bu paragraftaki cümlelerin analizi yapılır. Eğer zincirdeki kelimeler farklı paragraflardaysa öncelikle paragrafların frekansları alınır. En yüksek frekanslı paragraf seçilir ve bu paragraftaki cümlelerin analizi yapılır. Cümle analizi, öncelikle zincirdeki kelimelerin hangi cümlelerde geçtiği bilindiği için bu kelimeler paragraflara göre ayıklanır ve her paragraf içinde bu kelimelerin ait oldukları cümlelerin frekansı alınır. En yüksek frekanslı cümleyi o zincir için seçilmektedir.
 
-[10] Stamou, S., Oflazer, K., Pala, K., Christodoulakis, D., Cristea, D., Tufis, D., Koeva, S.,Totkov,G., Dutoit, D., Grigoriadou, M.: Balkanet: A multilingual semantic network for Balkan languages.Proceedings of the 1st Global Wordnet Conference. Mysore, Hindistan, (2002).
-[11] Emre Yıldız, “Anlamsal İlişkiler Veri Kümesi”, Yıldız Teknik Üniversitesi, Bilgisayar Müh.
+------
+
+>- [10] Stamou, S., Oflazer, K., Pala, K., Christodoulakis, D., Cristea, D., Tufis, D., Koeva, S.,Totkov,G., Dutoit, D., Grigoriadou, M.: Balkanet: A multilingual semantic network for Balkan languages.Proceedings of the 1st Global Wordnet Conference. Mysore, Hindistan, (2002).
+>- [11] Emre Yıldız, “Anlamsal İlişkiler Veri Kümesi”, Yıldız Teknik Üniversitesi, Bilgisayar Müh.
 Bölümü,(2010).
-[12] Oğuz Yıldırım, Fatih Atık, M. Fatih AMASYALI, "42 Bin Haber Veri Kümesi”, Yıldız Teknik
+>- [12] Oğuz Yıldırım, Fatih Atık, M. Fatih AMASYALI, "42 Bin Haber Veri Kümesi”, Yıldız Teknik
 Üniversitesi, Bilgisayar Müh. Bölümü,(2003).
-[13] Regina Barzilay and Michael Elhadad, “Using Lexical Chains for Text Summarization”, In
+>- [13] Regina Barzilay and Michael Elhadad, “Using Lexical Chains for Text Summarization”, In
 Proceedings of the ACL Workshop on Intelligent Scalable Text Summarization,(1997), 10-17.
-[14] William Doran, Nicola Stokes, Joe Carthy, John Dunnion. "Assessing the Impact of Lexical Chain Scoring Methods and Sentence Extraction Schemes on Summarization",
-Computational Linguistics and Intelligent Text Processing Volume 2945 of the series Lecture Notes in Computer Science , (2004), 627-635.
+>- [14] William Doran, Nicola Stokes, Joe Carthy, John Dunnion. "Assessing the Impact of Lexical Chain Scoring Methods and Sentence Extraction Schemes on Summarization", Computational Linguistics and Intelligent Text Processing Volume 2945 of the series Lecture Notes in Computer Science , (2004), 627-635.
 
 ---
 ###Kurulum
@@ -73,22 +74,18 @@ Projeyi kopyaladiktan sonra [Eclipse Java EE IDE for Web Developers](http://www.
 > **DB kurulumu :** 
 
 >- Öncelikle postgresql için user oluşturuyoruz sonra veritabanını oluşturuyoruz, user şifre olarak"turkishtext" verdim, suan programda default olan bu, eğer farklı bi şifre girerseniz programda da değiştirmeniz gerekiyor!
-><b>sudo -u postgres createuser -D -A -P textsummarizer
->sudo -u postgres createdb -O textsummarizer summarydb</b>
+>- <b>sudo -u postgres createuser -D -A -P textsummarizer
+>- sudo -u postgres createdb -O textsummarizer summarydb</b>
 >- postgresql komutunu girip daha "psql" komutunu girdikten sonra sırasıyla aşağıdaki komutları girmeniz gerekiyor
-><b>CREATE DATABASE summarydb;
->CREATE TABLE public.summary
-(
+>- <b>CREATE DATABASE summarydb;
+>- CREATE TABLE public.summary(
 	  id BIGINT PRIMARY KEY NOT NULL,
 	  context_of_text text NOT NULL,
 	  summary_of_text text NOT NULL,
 	  word_chain text,
 	  filename character varying(255) DEFAULT NULL::character varying,
 	  class_of_text character varying(255) DEFAULT NULL::character varying,
-	  class_of_summary character varying(255) DEFAULT NULL::character varying
-);
-
-</b>
+	  class_of_summary character varying(255) DEFAULT NULL::character varying);</b>
 
 ----------
 
@@ -138,7 +135,7 @@ Yıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının al
 [Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu., Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti., Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı.] 
 
 > **Kelime Zincirleri**
->"P1 S2" kelimenin 1. paragrafdaki 2. cümlede  geçtiğini belirtir
+>- "P1 S2" kelimenin 1. paragrafdaki 2. cümlede  geçtiğini belirtir
 >
 >- (voleybol related_with spor) P0-S0,(final related_with spor) P0-S0,(final related_with spor) P1-S1,(takım related_with spor) P1-S1,(oyun related_with spor) P1-S2,(takım related_with spor) P1-S2,(takım related_with spor) P1-S2,(smaçör related_with spor) P1-S2,(oyun related_with spor) P1-S2,(voleybol related_with spor) P2-S3,(takım related_with spor) P2-S4,(voleybol related_with spor) P3-S5,
 >Zincirdeki kelime sayisi: 12
@@ -158,12 +155,12 @@ Yıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının al
 >Zincirin guc degeri: 9.0
 >
 >- <b> TOPLAM SONUCLAR</b>
->Tüm zincirler: 306
-Benzersiz zincirler: 73
-Güçlü zincirler: 4
-Kelime zinciri ortalama puan değeri:17.904109589041095
-Kelime zinciri ortalama güç değeri:1.2602739726027397
-Kelime zinciri kriter değeri:5.500038727775852
+>- Tüm zincirler: 306
+>- Benzersiz zincirler: 73
+>- Güçlü zincirler: 4
+>- Kelime zinciri ortalama puan değeri:17.904109589041095
+>- Kelime zinciri ortalama güç değeri:1.2602739726027397
+>- Kelime zinciri kriter değeri:5.500038727775852
 
 > **Sinif:**
 > 
@@ -172,13 +169,13 @@ Kelime zinciri kriter değeri:5.500038727775852
 
 > **JSON API RESPOND:**
 >- {
->   <b>"summaryId"</b>:88,
->   <b>"contextOfText"</b>:"﻿Yıldız Kızlarımız Dünya Şampiyonu\r\n\r\nDünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu. Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.\r\n\r\nYıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı. Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu. Türkiye, 2007 yılında Meksika'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.\r\n\r\nBu arada karşılaşmayı Gençlik ve Spor Bakanı Suat Kılıç, Türkiye Voleybol Federasyonu Başkanı Erol Ünal Karabıyık ile birlikte protokol tribününden takip etti. TVF Başkent Salonu'nun tamamını dolduran seyirciler, ellerindeki Türk bayraklarıyla maç boyunca Türk Milli Takımı'nı coşkulu bir şekilde desteklediler.Voleybolseverler, TVF Bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını bir an bile yalnız bırakmadılar.\r\n\r\nYıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.  İlk şampiyona 1989 yılında Brezilya'nın Curitiba kentinde yapılmıştır. Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.",
->  <b>"summaryOfText"</b>:"[Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu., Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti., Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı.]",
->   "<b>wordChain</b>":null,
->   "<b>filename</b>":null,
->   "<b>classOfText</b>":"spor",
->   "<b>classOfSummary</b>":"spor"
+>-   <b>"summaryId"</b>:88,
+>-   <b>"contextOfText"</b>:"﻿Yıldız Kızlarımız Dünya Şampiyonu\r\n\r\nDünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu. Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.\r\n\r\nYıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı. Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu. Türkiye, 2007 yılında Meksika'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.\r\n\r\nBu arada karşılaşmayı Gençlik ve Spor Bakanı Suat Kılıç, Türkiye Voleybol Federasyonu Başkanı Erol Ünal Karabıyık ile birlikte protokol tribününden takip etti. TVF Başkent Salonu'nun tamamını dolduran seyirciler, ellerindeki Türk bayraklarıyla maç boyunca Türk Milli Takımı'nı coşkulu bir şekilde desteklediler.Voleybolseverler, TVF Bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını bir an bile yalnız bırakmadılar.\r\n\r\nYıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.  İlk şampiyona 1989 yılında Brezilya'nın Curitiba kentinde yapılmıştır. Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.",
+>-  <b>"summaryOfText"</b>:"[Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu., Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti., Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı.]",
+>-   "<b>wordChain</b>":null,
+>-   "<b>filename</b>":null,
+>-   "<b>classOfText</b>":"spor",
+>-   "<b>classOfSummary</b>":"spor"
 }
 
 ----------
