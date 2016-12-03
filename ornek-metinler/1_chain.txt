@@ -1,0 +1,11 @@
+    (voleybol related_with spor) P0-S0,(final related_with spor) P0-S0,(final related_with spor) P1-S1,(takım related_with spor) P1-S1,(oyun related_with spor) P1-S2,(takım related_with spor) P1-S2,(takım related_with spor) P1-S2,(smaçör related_with spor) P1-S2,(oyun related_with spor) P1-S2,(voleybol related_with spor) P2-S3,(takım related_with spor) P2-S4,(voleybol related_with spor) P3-S5,:12:48:6.999999999999999
+    
+I|14:41:58.142| ↓ |NewPreprocess#createChains
+    (yıldız hypernymy astronomi) P0-S0,(yıldız holo_member astronomi) P0-S0,(yıldız hypernymy astronomi) P0-S0,(yıldız holo_member astronomi) P0-S0,(yıldız hypernymy astronomi) P1-S1,(yıldız holo_member astronomi) P1-S1,(yıldız hypernymy astronomi) P1-S2,(yıldız holo_member astronomi) P1-S2,(yıldız hypernymy astronomi) P3-S5,(yıldız holo_member astronomi) P3-S5,(yıl related_with astronomi) P3-S6,:11:44:9.0
+    
+I|14:41:58.143| ↓ |NewPreprocess#createChains
+    (takım related_with biyoloji) P1-S1,(takım holo_member biyoloji) P1-S1,(takım related_with biyoloji) P1-S2,(takım holo_member biyoloji) P1-S2,(takım related_with biyoloji) P1-S2,(takım holo_member biyoloji) P1-S2,(takım related_with biyoloji) P2-S4,(takım holo_member biyoloji) P2-S4,:8:32:7.0
+    
+I|14:41:58.143| ↓ |NewPreprocess#createChains
+    (yıldız synonymy takımyıldız) P0-S0,(yıldız holo_member takımyıldız) P0-S0,(yıldız synonymy takımyıldız) P0-S0,(yıldız holo_member takımyıldız) P0-S0,(yıldız synonymy takımyıldız) P1-S1,(yıldız holo_member takımyıldız) P1-S1,(yıldız synonymy takımyıldız) P1-S2,(yıldız holo_member takımyıldız) P1-S2,(yıldız synonymy takımyıldız) P3-S5,(yıldız holo_member takımyıldız) P3-S5,:10:70:9.0
+    

@@ -1,0 +1,9 @@
+Mobil Zararlı Yazılımlar 2015 Yılında Üç Kat Arttı
+
+Akıllı telefonları hedefleyen zararlı yazılımlar, 2015 yılına göre ciddi bir artış gösterdi. Mobil cihazları tehdit eden bu yazılımlar, kullanıcıların kişisel bilgilerini çalıyor.
+
+2015, fidye yazılımlarının yılı oldu. Bir cihaza bu tip bir zararlı yazılım bulaştığında kötü niyetli uygulama, kullanıcının yasadışı işlemler gerçekleştirdiğini bildiren bir mesaj taşıyan bir açılır pencere görüntüleyerek cihazı engeller. Cihazın kilidini açmak için kullanıcıdan, 12 $ ila 100 $ arasında bir fidye ödemesi istenir. Zararlı fidye yazılımlarından Small.o, Kaspersky Lab tarafından geçen yıl tespit edilen tüm mobil fidye yazılımları arasında en yaygın olanı oldu.
+
+2015 yılında en önemli 20 Trojanın neredeyse yarısı mobil cihazlarda araya giren reklamlar görüntüleyen zararlı programlar olduğu açıklandı. Geçtiğimiz sene en aygın olarak görülenler Fadeb, Leech, Rootnik, Gorpro ve Ztorg Trojanlarını dolandırıcılar web afişleri, sahte oyunlar ve resmi uygulama mağazalarında yayınlanan diğer yasal uygulamalar üzerinden kullanıcılara bulaştırdı. 
+
+Bu uygulamalardan bazıları SuperSu erişim hakları veya kök erişim elde etme becerisine de sahip. Bu gibi haklar saldırganlara, saldırıya uğrayan cihaz üzerinde depolanan bilgileri değiştirmeye yönelik neredeyse sınırsız imkan sunuyor. Yükleme başarılı olursa, fabrika ayarlarına geri yüklemenin ardından bile zararlı yazılımın silinmesi neredeyse imkânsız hale geliyor. Kök erişimi elde etme becerisine sahip mobil zararlı yazılımlar 2011 yılından beri biliniyor ve geçtiğimiz yıl, siber suçular arasında son derece popüler hale geldiler. Akıllı telefonlarınızda bankacılık gibi önemli işlemlerinizi gerçekleştiriyorsanız, lisanslı bir mobil antivirüs programı kullanmalısınız.
