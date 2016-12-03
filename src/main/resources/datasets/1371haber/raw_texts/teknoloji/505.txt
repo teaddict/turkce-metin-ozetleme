@@ -1,0 +1,7 @@
+ABD'den Çin'e 7 bin siber saldırı
+Son günlerde Çinli hackerlerin ABD'ye saldırı gerçekleştirdiği haberlerine karşın Çin de ABD'den 7 bin 300 siber saldırı aldığını açıkladı.
+Çin Ulusal İnternet Siteleri Acil Müdahale Merkezi (CNCERT) tarafından açıklanan verilere göre, esas olarak yurt dışından gelen Truva Atı (Trojan) virüsü ya da Botnet yoluyla virüs içeren kodların yayılması ve yurt dışındaki IP adreslerinin, Çin'in ana kesimindeki IP'leri kontrol altına alması yoluyla siber saldırılar gerçekleştirildi. Buna göre, ABD'deki 7 bin 370 IP'den yapılan saldırılarla Çin'in ana kesimindeki 10 bin 37 IP adresi ele geçirildi.
+
+Çin Uluslararası Radyosu'nun haberine göre, internet teknolojisinin hızla gelişmesiyle birlikte, Çin'in ana kesimindeki internet kullanıcısı sayısı da önemli ölçüde arttı. Ancak, açıklanan bilgilere göre, Çinli kullanıcıların güvenlik bilincinin zayıflığı ve dış ülkelerden gelen siber saldırılar nedeniyle Çinli kullanıcılar "siber suçların" kurbanı haline geldi.
+
+Haberde, internet sitelerinin uğradığı ciddi saldırılar nedeniyle, 2012 yılında CNCERT ve diğer ilgili kurumlar, konuyla mücadele için ülke çapında 14 kampanya düzenlediği kaydedildi.

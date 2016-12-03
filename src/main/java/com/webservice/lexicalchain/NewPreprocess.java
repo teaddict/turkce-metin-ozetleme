@@ -184,10 +184,8 @@ public class NewPreprocess {
 	public String createChains(List<NewLexical> lexicals) throws IOException {
 		List<NewChain> chains = lexicalChain.chainBuilder(lexicals);
 		LOGGER.info("#############All Chains: " + chains.size());
-
 		List<NewChain> uniqueChains = lexicalChain.chainAnalyse(chains);
 		LOGGER.info("#############Unique Chains: " + uniqueChains.size());
-
 		uniqueChains = chainScores.calculateChainScores(uniqueChains);
 		uniqueChains = chainScores.calculateChainStrengths(uniqueChains);
 		String uniqueFilename = "datasets/test/uniqueChains.csv";

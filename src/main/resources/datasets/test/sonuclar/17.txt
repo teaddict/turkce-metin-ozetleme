@@ -1,0 +1,321 @@
+I|12:10:46.605|Parser ready: 2498ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:10:46.944|Cache ready: 2855ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Altın neden yükselir
+
+2010 yılı altın yılı oldu demek için birçok neden var.Birincisi fonların sayısı da büyüklüğü de arttı. Bunda yatırımcının altına olan inancı kadar, bu fonları yönetenlerin aldıkları riskin de payı büyük. Fon yöneticileri, bu riski aldıkları için pişman olmadılar.  Tüm fonlar içinde en parlak getirileri onlar elde etti.
+
+Altın'da görülen rekor artışlarda, dünyanın önde gelen Merkez Bankaları tarafından uygulanan gevşek para politikası, spekülatif işlemler ve dalgalanmalarda güvenli liman olma özelliği önemli rol oynadı. Yaşanan yukarı yönlü hareketler nedeniyle altın 2010 yılının en çok kazandıran yatırım enstrümanı oldu.  Yüzde 100 altından oluşan B tipi fonlar da bu sayede yılın en çok kazandıran B tipi fonları olarak yatırımcısının yüzünü güldürmeyi başardı.
+
+Altındaki yükseliş, B tip altın fonlara olan ilgiyi de artırdı. 2009 yıl sonunda 7 adet B tipi altın fonunun büyüklüğü 236.2 milyon lirayken, 2010 sonunda fon sayısı 11’e ve toplam büyüklüğü 479.4 milyon liraya çıktı. B Tipi altın fonunda getiri şampiyonları ise Erkan Bilgün'ün yönettiği yüzde 29.54 getiri sağlayan T. Garanti Bankası B Tipi Altın Fonu, Çağrı Özel'in yönettiği yüzde 29.2 getiri sağlayan HSBC Yatırım B Tipi Altın Fonu ve Emrah Tercan'ın yönettiği yüzde 28.7 getiri sağlayan TEB B Tipi Altın Fonu. Diğer altın fonlarının getirisi de ilk üçe yakın seviyelerde seyrediyor.
+
+
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿altın yükselir
+
+2010 yılı altın yılı demek var.birincisi fonların sayısı büyüklüğü arttı. yatırımcının altına inancı kadar, fonları yönetenlerin aldıkları riskin payı büyük. fon yöneticileri, riski aldıkları pişman olmadılar.  fonlar içinde parlak getirileri elde etti.
+
+altın'da görülen rekor artışlarda, dünyanın önde gelen merkez bankaları uygulanan gevşek para politikası, spekülatif işlemler dalgalanmalarda güvenli liman olma özelliği önemli rol oynadı. yaşanan yukarı yönlü hareketler nedeniyle altın 2010 yılının kazandıran yatırım enstrümanı oldu.  yüzde 100 altından oluşan b tipi fonlar sayede yılın kazandıran b tipi fonları yatırımcısının yüzünü güldürmeyi başardı.
+
+altındaki yükseliş, b tip altın fonlara ilgiyi artırdı. 2009 yıl sonunda 7 adet b tipi altın fonunun büyüklüğü 236.2 lirayken, 2010 sonunda fon sayısı 11’e toplam büyüklüğü 479.4 liraya çıktı. b tipi altın fonunda getiri şampiyonları erkan bilgün'ün yönettiği yüzde 29.54 getiri sağlayan t. garanti bankası b tipi altın fonu, çağrı özel'in yönettiği yüzde 29.2 getiri sağlayan hsbc yatırım b tipi altın fonu emrah tercan'ın yönettiği yüzde 28.7 getiri sağlayan teb b tipi altın fonu. altın fonlarının getirisi ilk üçe yakın seviyelerde seyrediyor.
+
+
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿altın yükselir
+
+PARAGRAPH: 2010 yılı altın yılı demek var.birincisi fonların sayısı büyüklüğü arttı. yatırımcının altına inancı kadar, fonları yönetenlerin aldıkları riskin payı büyük. fon yöneticileri, riski aldıkları pişman olmadılar.  fonlar içinde parlak getirileri elde etti.
+
+PARAGRAPH: altın'da görülen rekor artışlarda, dünyanın önde gelen merkez bankaları uygulanan gevşek para politikası, spekülatif işlemler dalgalanmalarda güvenli liman olma özelliği önemli rol oynadı. yaşanan yukarı yönlü hareketler nedeniyle altın 2010 yılının kazandıran yatırım enstrümanı oldu.  yüzde 100 altından oluşan b tipi fonlar sayede yılın kazandıran b tipi fonları yatırımcısının yüzünü güldürmeyi başardı.
+
+PARAGRAPH: altındaki yükseliş, b tip altın fonlara ilgiyi artırdı. 2009 yıl sonunda 7 adet b tipi altın fonunun büyüklüğü 236.2 lirayken, 2010 sonunda fon sayısı 11’e toplam büyüklüğü 479.4 liraya çıktı. b tipi altın fonunda getiri şampiyonları erkan bilgün'ün yönettiği yüzde 29.54 getiri sağlayan t. garanti bankası b tipi altın fonu, çağrı özel'in yönettiği yüzde 29.2 getiri sağlayan hsbc yatırım b tipi altın fonu emrah tercan'ın yönettiği yüzde 28.7 getiri sağlayan teb b tipi altın fonu. altın fonlarının getirisi ilk üçe yakın seviyelerde seyrediyor.
+
+
+
+######Cümleler:######
+
+﻿altın yükselir
+
+2010 yılı altın yılı demek var.
+birincisi fonların sayısı büyüklüğü arttı.
+yatırımcının altına inancı kadar, fonları yönetenlerin aldıkları riskin payı büyük.
+fon yöneticileri, riski aldıkları pişman olmadılar.
+fonlar içinde parlak getirileri elde etti.
+altın'da görülen rekor artışlarda, dünyanın önde gelen merkez bankaları uygulanan gevşek para politikası, spekülatif işlemler dalgalanmalarda güvenli liman olma özelliği önemli rol oynadı.
+yaşanan yukarı yönlü hareketler nedeniyle altın 2010 yılının kazandıran yatırım enstrümanı oldu.
+yüzde 100 altından oluşan b tipi fonlar sayede yılın kazandıran b tipi fonları yatırımcısının yüzünü güldürmeyi başardı.
+altındaki yükseliş, b tip altın fonlara ilgiyi artırdı.
+2009 yıl sonunda 7 adet b tipi altın fonunun büyüklüğü 236.2 lirayken, 2010 sonunda fon sayısı 11’e toplam büyüklüğü 479.4 liraya çıktı.
+b tipi altın fonunda getiri şampiyonları erkan bilgün'ün yönettiği yüzde 29.54 getiri sağlayan t. garanti bankası b tipi altın fonu, çağrı özel'in yönettiği yüzde 29.2 getiri sağlayan hsbc yatırım b tipi altın fonu emrah tercan'ın yönettiği yüzde 28.7 getiri sağlayan teb b tipi altın fonu.
+altın fonlarının getirisi ilk üçe yakın seviyelerde seyrediyor.
+
+
+
+######Title######
+﻿altın yükselir
+
+
+######Nouns of text:######
+[altı, yıl, altı, yıl, fon, sayı, büyük, yatırım, altın, inanç, fon, risk, pay, büyük, fon, risk, fon, için, getiri, el, altın, rekor, Dünya, ön, gele, merkez, banka, par, politika, spekülâtif, işlem, güven, liman, özellik, önem, rol, yukarı, yön, hareket, neden, altı, yıl, yatır, enstrüman, yüz, altın, tip, fon, saye, yıl, tip, fon, yatırım, yüz, altın, tip, altı, fon, ilgi, yıl, son, adet, tip, altı, fon, büyük, son, fon, sayı, toplam, büyük, lira, çıktı, tip, altı, fon, getiri, şampiyon, erkân, yüz, getiri, garanti, banka, tip, altı, fon, çağrı, özel, yüz, getiri, yatır, tip, altı, fon, Tercan, yüz, getiri, tip, altı, fon, altı, fon, getiri, ilk, üç, yakı, seviye]
+I|12:10:48.444|Parser ready: 1397ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:10:48.530|Cache ready: 1483ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[yükselmek, art, almak, almak, olmak, fonlamak, etmek, görmek, gelmek, uygulamak, olmak, oynamak, yaşanmak, yılmak, kazanmak, olmak, oluşmak, fonlamak, yılmak, kazanmak, başarmak, artırmak, yılmak, çıkmak, yönetmek, sağlamak, yönetmek, sağlamak, yönetmek, sağlamak, yakmak, seyretmek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 533
+All chain size: 252
+Unique Chains: 66
+Chain Puan Eşik değeri:19
+Chain Strength Eşik değeri:1.4545454545454546
+Chain criterion değeri:7.364801749883588
+Strong Chains: 4
+fon
+related_with
+ekonomi
+yatırım
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+yatırım
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+fon
+related_with
+ekonomi
+16
+64
+14.0
+
+
+el
+holo_part
+insan
+yüz
+holo_member
+insan
+yüz
+holo_part
+insan
+yüz
+holo_member
+insan
+yüz
+holo_part
+insan
+yüz
+holo_member
+insan
+yüz
+holo_part
+insan
+yüz
+holo_member
+insan
+yüz
+holo_part
+insan
+yüz
+holo_member
+insan
+yüz
+holo_part
+insan
+11
+44
+9.0
+
+
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+fon
+synonymy
+stok
+14
+140
+13.0
+
+
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+altı
+synonymy
+vl
+9
+90
+8.0
+
+
+[0, 1, 2, 4]
+#############Heuristic1 OUTPUT############
+0 : 2010 yılı altın yılı oldu demek için birçok neden var.
+1 : Birincisi fonların sayısı da büyüklüğü de arttı.
+2 : Bunda yatırımcının altına olan inancı kadar, bu fonları yönetenlerin aldıkları riskin de payı büyük.
+4 : Tüm fonlar içinde en parlak getirileri onlar elde etti.
+representative
+[fon, yüz]
+#############Heuristic2 OUTPUT############
+2010 yılı altın yılı oldu demek için birçok neden var.
+Birincisi fonların sayısı da büyüklüğü de arttı.
+Yüzde 100 altından oluşan B tipi fonlar da bu sayede yılın en çok kazandıran B tipi fonları olarak yatırımcısının yüzünü güldürmeyi başardı.
+#############Heuristic3 OUTPUT############
+0 : 2010 yılı altın yılı oldu demek için birçok neden var.
+2 : Bunda yatırımcının altına olan inancı kadar, bu fonları yönetenlerin aldıkları riskin de payı büyük.
+3 : Fon yöneticileri, bu riski aldıkları için pişman olmadılar.
+7 : Yüzde 100 altından oluşan B tipi fonlar da bu sayede yılın en çok kazandıran B tipi fonları olarak yatırımcısının yüzünü güldürmeyi başardı.
+####################CLASS OF ORIGINAL TEXT################
+﻿Altın neden yükselir
+
+2010 yılı altın yılı oldu demek için birçok neden var.Birincisi fonların sayısı da büyüklüğü de arttı. Bunda yatırımcının altına olan inancı kadar, bu fonları yönetenlerin aldıkları riskin de payı büyük. Fon yöneticileri, bu riski aldıkları için pişman olmadılar.  Tüm fonlar içinde en parlak getirileri onlar elde etti.
+
+Altın'da görülen rekor artışlarda, dünyanın önde gelen Merkez Bankaları tarafından uygulanan gevşek para politikası, spekülatif işlemler ve dalgalanmalarda güvenli liman olma özelliği önemli rol oynadı. Yaşanan yukarı yönlü hareketler nedeniyle altın 2010 yılının en çok kazandıran yatırım enstrümanı oldu.  Yüzde 100 altından oluşan B tipi fonlar da bu sayede yılın en çok kazandıran B tipi fonları olarak yatırımcısının yüzünü güldürmeyi başardı.
+
+Altındaki yükseliş, B tip altın fonlara olan ilgiyi de artırdı. 2009 yıl sonunda 7 adet B tipi altın fonunun büyüklüğü 236.2 milyon lirayken, 2010 sonunda fon sayısı 11’e ve toplam büyüklüğü 479.4 milyon liraya çıktı. B Tipi altın fonunda getiri şampiyonları ise Erkan Bilgün'ün yönettiği yüzde 29.54 getiri sağlayan T. Garanti Bankası B Tipi Altın Fonu, Çağrı Özel'in yönettiği yüzde 29.2 getiri sağlayan HSBC Yatırım B Tipi Altın Fonu ve Emrah Tercan'ın yönettiği yüzde 28.7 getiri sağlayan TEB B Tipi Altın Fonu. Diğer altın fonlarının getirisi de ilk üçe yakın seviyelerde seyrediyor.
+
+
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Altın neden yükselir\n\n2010 yılı altın yılı oldu demek için birçok neden var.Birincisi fonların sayısı da büyüklüğü de arttı. Bunda yatırımcının altına olan inancı kadar, bu fonları yönetenlerin aldıkları riskin de payı büyük. Fon yöneticileri, bu riski aldıkları için pişman olmadılar.  Tüm fonlar içinde en parlak getirileri onlar elde etti.\n\nAltın\'da görülen rekor artışlarda, dünyanın önde gelen Merkez Bankaları tarafından uygulanan gevşek para politikası, spekülatif işlemler ve dalgalanmalarda güvenli liman olma özelliği önemli rol oynadı. Yaşanan yukarı yönlü hareketler nedeniyle altın 2010 yılının en çok kazandıran yatırım enstrümanı oldu.  Yüzde 100 altından oluşan B tipi fonlar da bu sayede yılın en çok kazandıran B tipi fonları olarak yatırımcısının yüzünü güldürmeyi başardı.\n\nAltındaki yükseliş, B tip altın fonlara olan ilgiyi de artırdı. 2009 yıl sonunda 7 adet B tipi altın fonunun büyüklüğü 236.2 milyon lirayken, 2010 sonunda fon sayısı 11’e ve toplam büyüklüğü 479.4 milyon liraya çıktı. B Tipi altın fonunda getiri şampiyonları ise Erkan Bilgün\'ün yönettiği yüzde 29.54 getiri sağlayan T. Garanti Bankası B Tipi Altın Fonu, Çağrı Özel\'in yönettiği yüzde 29.2 getiri sağlayan HSBC Yatırım B Tipi Altın Fonu ve Emrah Tercan\'ın yönettiği yüzde 28.7 getiri sağlayan TEB B Tipi Altın Fonu. Diğer altın fonlarının getirisi de ilk üçe yakın seviyelerde seyrediyor.\n\n\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi
+###################CLASS OF SUMMARY#######################
+[0 : 2010 yılı altın yılı oldu demek için birçok neden var., 2 : Bunda yatırımcının altına olan inancı kadar, bu fonları yönetenlerin aldıkları riskin de payı büyük., 3 : Fon yöneticileri, bu riski aldıkları için pişman olmadılar., 7 : Yüzde 100 altından oluşan B tipi fonlar da bu sayede yılın en çok kazandıran B tipi fonları olarak yatırımcısının yüzünü güldürmeyi başardı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : 2010 yılı altın yılı oldu demek için birçok neden var., 2 : Bunda yatırımcının altına olan inancı kadar, bu fonları yönetenlerin aldıkları riskin de payı büyük., 3 : Fon yöneticileri, bu riski aldıkları için pişman olmadılar., 7 : Yüzde 100 altından oluşan B tipi fonlar da bu sayede yılın en çok kazandıran B tipi fonları olarak yatırımcısının yüzünü güldürmeyi başardı.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

@@ -1,0 +1,7 @@
+En hızlı Intel işlemci hangisi
+İşlemci devi Intel'in yeni işlemcisi Haswell mevcut Ivy Bridge yongalarından ne kadar hızlı?
+OClab.ru isimli Rus teknoloji blogu Intel'in yeni nesil Core işlemci serisi Haswell'i birebir test etti ve piyasada bulunan mevcut Ivy Bridge işlemcilerle karşılaştırdı.
+
+İki işlemcinin de 2.80 GHz hızında çalıştığı testte Turvo Boost, EIST ve C1E gibi rakamları değiştirmesi muhtemel özellikler kapatıldı.
+
+Test sonucu ise kimseyi şaşırtmadı ve Haswell ipi göğüsleyen isim oldu.

@@ -1,0 +1,16 @@
+ASELSAN'ın tasarladığı kart dünya birincisi oldu
+ASELSAN, Türk mühendislerince tasarlanan ve termal kameralarda kullanılan Kompakt Görüntüleme Modülü Kartı ile Uluslararası Baskı Devre Kartı Teknolojisi Liderliği Yarışması'nda birincilik ödülü kazandı.ASELSAN Genel Müdür Yardımcısı Özcan Kahramangil, yaptığı açıklamada, elektronik tasarım otomasyonu yazılımlarının dünya lideri MentorGraphics'in 24 yıldır düzenlediği ve kendi alanında dünyanın en prestijli yarışmalarından olan bu organizasyonda Türkiye'nin ilk kez birincilik elde ettiğini söyledi.
+
+Yarışmaya katılan elektronik kart tasarımlarının, her biri elektronik endüstrisinde uzman ve dünya çapında tanınmış üyelerden oluşan bir jüri kadrosu tarafından değerlendirildiğini ifade eden Kahramangil, Yarışma 6 kategoride düzenlendi. En zorlu kategori olan 'Savunma, Havacılık ve Uzay alanında İsrail'in IAI Elta firmasını geride bırakarak birincilik ödülünü kazandık dedi.
+
+Kahramangil, tasarladıkları kartın termal kameralarda kullanılacağına işaret ederek, Kartımız, termal kameralarda, görüntünün insan gözüne en iyi hitap eden, en yüksek ayrıştırılabilirlik derecesini oluşturmak için tasarlandı. Mühendislerimiz kartı tasarlarken çok küçük ve kompakt olmasına, yoğun olmasına çalıştı. Bunun da nedeni hem silah üstü termal kameralar gibi sistemlerde hem de ASELPOD gibi uçakların nişangahlarında kullanılacak olması diye konuştu.
+
+Yarışmaya dünyaca ünlü firmalar katıldı
+
+Bu ödülün Türkiye için çok önemli olduğunu belirten Kahramangil, şöyle devam etti: Elektronik tasarımın Oscar'ı olarak nitelendirilen bir yarışmada birinci olduk. Bu yarışmaya başta ABD olmak üzere İtalya, Japonya gibi ülkelerin dünyaca ünlü firmaları katıldı. Daha önceki senelerde bu yarışmada General Electric, Selex Galileo, L-3 Avionics Systems, General Dynamics ve Astrium gibi dünyanın en önde gelen firmaları birinci olmuştu. Bu yıl ASELSAN, onların elinden bu ödülü alma başarısını gösterdi. Bu yıl Bilgisayar ve Hafıza Sistemleri kategorisinde Japonya'dan Fujitsu firması, Telekomünikasyon Ağ Kontrolleri Hat Kartları kategorisinde ABD'den Alcatel-Lucent firması, Tüketici Elektroniği kategorisinde yine ABD'den Qualcomm firması birinci oldu. Savunma, Havacılık ve Uzay kategorisinde ise ASELSAN birinciliği elde etti. Yarışmaya kaç firmanın katıldığı açıklanmıyor. Ama bu alanda dünyada 20 binden fazla firma tasarım yapabiliyor. Bu durumda biz 20 bin firmayla yarışmış olduk diyebiliriz.
+
+Elektronik kart tasarım teknolojisinin bütün sınırlarını zorladık
+
+Kahramangil, ASELSAN tarafından geliştirilen Kompakt Görüntüleme Modülü Kartı ile şu anda elektronik kart tasarım teknolojisinin bütün sınırlarını zorlamış olduklarını kaydetti.
+
+Özcan Kahramangil, yarışmaya katılan kart tasarımlarının, boyut, kat sayısı, hatlar arası mesafe, via sayısı, sinyal sayısı, bağlantı sayısı, yüksek hızlı sinyal sayısı gibi özelliklerine göre değerlendirildiğini sözlerine ekledi.

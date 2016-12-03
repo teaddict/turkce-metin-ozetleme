@@ -1,0 +1,329 @@
+I|12:14:44.224|Parser ready: 2473ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:14:44.580|Cache ready: 2848ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Üç Kadından Biri Şiddet Kurbanı
+ 
+Kadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor. Dünyada her üç kadından biri, hayatının bir döneminde şiddet, tecavüz ya da farklı şekillerde tacize maruz kalıyor. "Kadına karşı şiddete hayır" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor. Dünya Bankası verilerine göre, 15-44 yaşları arasındaki bir kadının tecavüze uğrama ya da aile içi şiddete maruz kalma riski, kansere yakalanma veya trafik kazası riskinden daha fazla.
+Sudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri. Ortaya çıkan bu tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte. Birleşmiş Milletler Kadın Kalkınma Fonu'nun iyi niyet elçisi olan Oskar ödüllü aktris Nicole Kidman, örgütün internette başlattığı kampanyaya destek çağrısında bulundu. Kidman, "Kadın olarak dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum" diyerek verilecek desteğin önemine dikkat çekti. 
+
+Birleşmiş Milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek için internette başlatılan kampanyada imza sayısı 200 bini geçti.Kampanyaya destek verenler arasında başbakanlar ve parlamento üyeleri de bulunuyor. 
+
+
+
+######Clean text file:######
+﻿üç kadından şiddet kurbanı
+ 
+kadına karşı şiddetin önüne geçilmesi çalışmalar hız kazanıyor. dünyada kadından biri, hayatının döneminde şiddet, tecavüz farklı şekillerde tacize maruz kalıyor. "kadına karşı şiddete hayır" kampanyalarının hız kazanması dünya çapında çalışmalar sürüyor. dünya bankası verilerine göre, 15-44 yaşları arasındaki kadının tecavüze uğrama aile içi şiddete maruz kalma riski, kansere yakalanma trafik kazası riskinden fazla.
+sudan kongo demokratik cumhuriyeti şiddetin pençesindeki ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri. ortaya çıkan tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte. birleşmiş milletler kadın kalkınma fonu'nun iyi niyet elçisi oskar ödüllü aktris nicole kidman, örgütün internette başlattığı kampanyaya destek çağrısında bulundu. kidman, "kadın dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum" diyerek verilecek desteğin önemine dikkat çekti. 
+
+birleşmiş milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek internette başlatılan kampanyada imza sayısı 200 bini geçti.kampanyaya destek verenler arasında başbakanlar parlamento üyeleri bulunuyor. 
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿üç kadından şiddet kurbanı
+
+PARAGRAPH: kadına karşı şiddetin önüne geçilmesi çalışmalar hız kazanıyor. dünyada kadından biri, hayatının döneminde şiddet, tecavüz farklı şekillerde tacize maruz kalıyor. "kadına karşı şiddete hayır" kampanyalarının hız kazanması dünya çapında çalışmalar sürüyor. dünya bankası verilerine göre, 15-44 yaşları arasındaki kadının tecavüze uğrama aile içi şiddete maruz kalma riski, kansere yakalanma trafik kazası riskinden fazla.
+
+PARAGRAPH: sudan kongo demokratik cumhuriyeti şiddetin pençesindeki ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri. ortaya çıkan tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte. birleşmiş milletler kadın kalkınma fonu'nun iyi niyet elçisi oskar ödüllü aktris nicole kidman, örgütün internette başlattığı kampanyaya destek çağrısında bulundu. kidman, "kadın dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum" diyerek verilecek desteğin önemine dikkat çekti. 
+
+PARAGRAPH: birleşmiş milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek internette başlatılan kampanyada imza sayısı 200 bini geçti.kampanyaya destek verenler arasında başbakanlar parlamento üyeleri bulunuyor. 
+
+
+
+######Cümleler:######
+
+﻿üç kadından şiddet kurbanı
+ 
+kadına karşı şiddetin önüne geçilmesi çalışmalar hız kazanıyor.
+dünyada kadından biri, hayatının döneminde şiddet, tecavüz farklı şekillerde tacize maruz kalıyor.
+"kadına karşı şiddete hayır" kampanyalarının hız kazanması dünya çapında çalışmalar sürüyor.
+dünya bankası verilerine göre, 15-44 yaşları arasındaki kadının tecavüze uğrama aile içi şiddete maruz kalma riski, kansere yakalanma trafik kazası riskinden fazla.
+sudan kongo demokratik cumhuriyeti şiddetin pençesindeki ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri.
+ortaya çıkan tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte.
+birleşmiş milletler kadın kalkınma fonu'nun iyi niyet elçisi oskar ödüllü aktris nicole kidman, örgütün internette başlattığı kampanyaya destek çağrısında bulundu.
+kidman, "kadın dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum" diyerek verilecek desteğin önemine dikkat çekti.
+birleşmiş milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek internette başlatılan kampanyada imza sayısı 200 bini geçti.
+kampanyaya destek verenler arasında başbakanlar parlamento üyeleri bulunuyor.
+
+
+
+######Title######
+﻿üç kadından şiddet kurbanı
+
+
+######Nouns of text:######
+[kadın, şiddet, kurban, kadın, karşı, şiddet, ön, hız, Dünya, kadın, bir, hayat, dönem, şiddet, tecavüz, fark, şekil, taciz, kadın, karşı, şiddet, hayır, kampanya, hız, Dünya, çap, Dünya, banka, veri, yaş, ara, kadın, tecavüz, uğra, aile, iç, şiddet, risk, kanser, trafik, kaza, risk, faz, su, Kongo, cumhuriyet, şiddet, pençe, ülke, is, kadın, karşı, şiddet, savaş, kir, silâh, bir, ortay, çıkan, tablo, kadın, karşı, şiddet, son, kampanya, önem, vurgu, nitelik, birleş, millet, kadı, fon, iyi, niyet, elçi, ödül, aktris, örgüt, İnternet, kampanya, destek, çağrı, kadı, Dünya, insan, hak, ihlâl, karşı, karşı, risk, gerçek, hal, zor, destek, önem, dikkat, birleş, millet, yetki, örgüt, kadın, koru, amaç, proje, destek, İnternet, kampanya, imza, sayı, bin, destek, ara, başbakan, parlâmento, üye]
+I|12:14:45.950|Parser ready: 1267ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:14:46.034|Cache ready: 1351ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[kazanmak, kalmak, sürümek, görmek, uğramak, kalmak, yakalamak, kazmak, kullanmak, çıkmak, vurgulamak, birleşmek, kalkınmak, başlamak, bulunmak, kalmak, taşımak, inanmak, çekmek, vermek, çekmek, birleşmek, görmek, korumak, başlamak, bulunmak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 576
+All chain size: 383
+Unique Chains: 97
+Chain Puan Eşik değeri:18
+Chain Strength Eşik değeri:0.9278350515463918
+Chain criterion değeri:4.267659390163247
+Strong Chains: 7
+karşı
+synonymy
+yol
+şekil
+synonymy
+yol
+karşı
+synonymy
+yol
+karşı
+synonymy
+yol
+karşı
+synonymy
+yol
+karşı
+synonymy
+yol
+karşı
+synonymy
+yol
+7
+70
+5.0
+
+
+şiddet
+synonymy
+sertlik
+şiddet
+synonymy
+sertlik
+şiddet
+synonymy
+sertlik
+şiddet
+synonymy
+sertlik
+şiddet
+synonymy
+sertlik
+şiddet
+synonymy
+sertlik
+şiddet
+synonymy
+sertlik
+7
+70
+6.0
+
+
+karşı
+synonymy
+zıt
+karşı
+synonymy
+zıt
+karşı
+synonymy
+zıt
+karşı
+synonymy
+zıt
+karşı
+synonymy
+zıt
+karşı
+synonymy
+zıt
+6
+60
+5.0
+
+
+kadın
+synonymy
+hatun
+kadın
+synonymy
+hatun
+kadın
+synonymy
+hatun
+kadın
+synonymy
+hatun
+kadın
+synonymy
+hatun
+kadın
+synonymy
+hatun
+kadın
+synonymy
+hatun
+7
+70
+6.0
+
+
+şiddet
+synonymy
+hız
+hız
+state_of
+hız
+şiddet
+synonymy
+hız
+şiddet
+synonymy
+hız
+hız
+state_of
+hız
+şiddet
+synonymy
+hız
+şiddet
+synonymy
+hız
+şiddet
+synonymy
+hız
+şiddet
+synonymy
+hız
+9
+70
+7.0
+
+
+karşı
+synonymy
+deniz
+karşı
+synonymy
+deniz
+su
+synonymy
+deniz
+karşı
+synonymy
+deniz
+karşı
+synonymy
+deniz
+karşı
+synonymy
+deniz
+karşı
+synonymy
+deniz
+7
+70
+5.0
+
+
+kadın
+synonymy
+eş
+kadın
+synonymy
+eş
+bir
+synonymy
+eş
+kadın
+synonymy
+eş
+kadın
+synonymy
+eş
+aile
+synonymy
+eş
+kadın
+synonymy
+eş
+bir
+synonymy
+eş
+kadın
+synonymy
+eş
+son
+synonymy
+eş
+kadın
+synonymy
+eş
+11
+110
+7.0
+
+
+[0, 1, 2, 3, 4, 5, 9]
+#############Heuristic1 OUTPUT############
+0 : Kadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor.
+1 : Dünyada her üç kadından biri, hayatının bir döneminde şiddet, tecavüz ya da farklı şekillerde tacize maruz kalıyor.
+2 : "Kadına karşı şiddete hayır" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor.
+3 : Dünya Bankası verilerine göre, 15-44 yaşları arasındaki bir kadının tecavüze uğrama ya da aile içi şiddete maruz kalma riski, kansere yakalanma veya trafik kazası riskinden daha fazla.
+4 : Sudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri.
+5 : Ortaya çıkan bu tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte.
+9 : Birleşmiş Milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek için internette başlatılan kampanyada imza sayısı 200 bini geçti.
+representative
+[karşı, şiddet, kadın]
+#############Heuristic2 OUTPUT############
+Kadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor.
+Dünyada her üç kadından biri, hayatının bir döneminde şiddet, tecavüz ya da farklı şekillerde tacize maruz kalıyor.
+"Kadına karşı şiddete hayır" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor.
+Sudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri.
+#############Heuristic3 OUTPUT############
+0 : Kadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor.
+2 : "Kadına karşı şiddete hayır" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor.
+3 : Dünya Bankası verilerine göre, 15-44 yaşları arasındaki bir kadının tecavüze uğrama ya da aile içi şiddete maruz kalma riski, kansere yakalanma veya trafik kazası riskinden daha fazla.
+4 : Sudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri.
+5 : Ortaya çıkan bu tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte.
+7 : Kidman, "Kadın olarak dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum" diyerek verilecek desteğin önemine dikkat çekti.
+9 : Birleşmiş Milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek için internette başlatılan kampanyada imza sayısı 200 bini geçti.
+####################CLASS OF ORIGINAL TEXT################
+﻿Üç Kadından Biri Şiddet Kurbanı
+ 
+Kadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor. Dünyada her üç kadından biri, hayatının bir döneminde şiddet, tecavüz ya da farklı şekillerde tacize maruz kalıyor. "Kadına karşı şiddete hayır" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor. Dünya Bankası verilerine göre, 15-44 yaşları arasındaki bir kadının tecavüze uğrama ya da aile içi şiddete maruz kalma riski, kansere yakalanma veya trafik kazası riskinden daha fazla.
+Sudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri. Ortaya çıkan bu tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte. Birleşmiş Milletler Kadın Kalkınma Fonu'nun iyi niyet elçisi olan Oskar ödüllü aktris Nicole Kidman, örgütün internette başlattığı kampanyaya destek çağrısında bulundu. Kidman, "Kadın olarak dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum" diyerek verilecek desteğin önemine dikkat çekti. 
+
+Birleşmiş Milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek için internette başlatılan kampanyada imza sayısı 200 bini geçti.Kampanyaya destek verenler arasında başbakanlar ve parlamento üyeleri de bulunuyor. 
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Üç Kadından Biri Şiddet Kurbanı\n \nKadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor. Dünyada her üç kadından biri, hayatının bir döneminde şiddet, tecavüz ya da farklı şekillerde tacize maruz kalıyor. \"Kadına karşı şiddete hayır\" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor. Dünya Bankası verilerine göre, 15-44 yaşları arasındaki bir kadının tecavüze uğrama ya da aile içi şiddete maruz kalma riski, kansere yakalanma veya trafik kazası riskinden daha fazla.\nSudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri. Ortaya çıkan bu tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte. Birleşmiş Milletler Kadın Kalkınma Fonu\'nun iyi niyet elçisi olan Oskar ödüllü aktris Nicole Kidman, örgütün internette başlattığı kampanyaya destek çağrısında bulundu. Kidman, \"Kadın olarak dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum\" diyerek verilecek desteğin önemine dikkat çekti. \n\nBirleşmiş Milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek için internette başlatılan kampanyada imza sayısı 200 bini geçti.Kampanyaya destek verenler arasında başbakanlar ve parlamento üyeleri de bulunuyor. \n'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji
+###################CLASS OF SUMMARY#######################
+[0 : Kadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor., 2 : "Kadına karşı şiddete hayır" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor., 3 : Dünya Bankası verilerine göre, 15-44 yaşları arasındaki bir kadının tecavüze uğrama ya da aile içi şiddete maruz kalma riski, kansere yakalanma veya trafik kazası riskinden daha fazla., 4 : Sudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri., 5 : Ortaya çıkan bu tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte., 7 : Kidman, "Kadın olarak dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum" diyerek verilecek desteğin önemine dikkat çekti., 9 : Birleşmiş Milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek için internette başlatılan kampanyada imza sayısı 200 bini geçti.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : Kadına karşı şiddetin önüne geçilmesi için çalışmalar hız kazanıyor., 2 : \"Kadına karşı şiddete hayır\" kampanyalarının hız kazanması için dünya çapında çalışmalar sürüyor., 3 : Dünya Bankası verilerine göre, 15-44 yaşları arasındaki bir kadının tecavüze uğrama ya da aile içi şiddete maruz kalma riski, kansere yakalanma veya trafik kazası riskinden daha fazla., 4 : Sudan ve Kongo Demokratik Cumhuriyeti gibi şiddetin pençesindeki bazı ülkelerde ise, kadına karşı şiddet savaşta kullanılan kirli silahlardan biri., 5 : Ortaya çıkan bu tablo, kadına karşı şiddete son verilmesine yönelik kampanyaların önemini vurgular nitelikte., 7 : Kidman, \"Kadın olarak dünyaya gelmenin korkunç insan hakları ihlalleriyle karşı karşıya kalma riski taşıdığı gerçeğine inanmakta hala zorluk çekiyorum\" diyerek verilecek desteğin önemine dikkat çekti., 9 : Birleşmiş Milletler yetkililerine göre, örgütün kadını koruma amaçlı projelerine destek için internette başlatılan kampanyada imza sayısı 200 bini geçti.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

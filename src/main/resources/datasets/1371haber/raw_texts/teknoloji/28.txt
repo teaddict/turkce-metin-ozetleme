@@ -1,0 +1,9 @@
+Apple hala "I"ya basamıyor
+Apple yen iPad'i yeni iOS sürümünü çıkarmasına çıkardı ama kullanıcılar hala "I"ya basamıyor.
+Apple'ın iOS 6 ile birlikte F klavye ve Türkçe karakterleri doğrudan desteklemesi kullanıcıları sevindirmişti. Ancak F klavye altında yazı yazmaya çalışanlar hala güçlük yaşıyor. Örneğin I harfine basan kullanıcılar ekranda "İ" karakterini görüyor. iOS 6.0.1 sürümü yayınlanmasına karşın sorun düzelmiş değil. Peki Apple bu sorunu neden düzeltmiyor? Düzeltilmesi zor bir sorun mu yoksa Apple'ın bir ihmali mi söz konusu? 
+
+TDK eski başkanı Şükrü Haluk Akalın, konuyla ilgili hurriyet.com.tr'ye açıklamalarda bulundu. iPad'lerde Türkçe karakterlerin tek tıklanışla kullanılamamasının uygun olmadığını dile getiren Akalın, Türk alfabesinde kullanılan harflere kullanıcıların tek tıkla ulaşması gerektiğini kaydetti. Bu sorun yüzünden kullanıcıların Türkçe harfleri doğru kullanmadığına dikkat çeken Akalın, Ç yerine C, Ş yerine de S harfinin yoğun bir şekilde kullanıldığını belirtti. 
+
+iPad için uygulama geliştiren Akın İdil ise konuyla daha farklı bir açıdan bakıyor. İdil'e göre Apple'ın bu sorunu düzeltmemesinde en önemli etken Apple'un sorundan haberdar olmaması. İdil, developer.apple.com adresinden geri bildirim (feedback) gönderimi yapılmasıyla Apple'ın söz konusu sorunu ortadan kaldırabileceğine vurgu yaptı. Ancak kullanıcının tek başına geri bildirimde bulunması da bir şey ifade etmiyor. İdil, birçok kullanıcının aynı sorunu Apple'a bildirmesi gerektiğini, sorunun bu şekilde çözüleceğini belirtti. Türkçe dışında Japonca gibi farklı dillerde de benzer sorunların yaşandığını dile getiren İdil, ilerleyen sürümlerde Apple'ın haberdar olmasıyla sorunun çözüleceğine inandığını kaydetti.
+
+iPad'in Türkiye Distribütörü Bilkom ise konuyla ilgili açıklama yapmadı.

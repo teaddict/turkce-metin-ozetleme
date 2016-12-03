@@ -1,0 +1,11 @@
+Microsoft GPS'e de el attı
+Microsoft mobil cihazları gerçek bir pil canavarına dönüştüren mevcut GPS teknolojisini öldürmeye kararlı...
+GPS destekleyen uygulamaları mobil cihazında yoğun olarak kullanan herkesin fark ettiği bir şey vardır: GPS cihazın pilini adeta emer. Konum hizmetlerini kullanan uygulamaların sayısı artıp popülerlik kazandıkça, kısıtlı pil ömrü gittikçe daha can sıkıcı bir sorun haline geliyor.
+
+GPS, konum belirlemek için gerekli bilgi miktarı ve işlem ihtiyacından dolayı, çok fazla enerji gerektiren bir sistem. Çoğu bağımsız GPS cihazı konum tespiti için uydulardan saniyede 50 bit gibi çok yavaş bir hızla gelen veriye ihtiyaç duyuyor. Veriyi aldıktan sonra yorumlamak için gerekli süreyi de katarsak, bazı durumlarda başlangıç konumunu hesaplamak için 30 saniye kadar beklemek gerekebiliyor.
+
+Cep telefonlarındaysa durum biraz farklı; Assisted GPS (A-GPS) adı verilen bir sistem sayesinde cep telefonları konum belirlemek için gerekli GPS verisinin bir kısmını şebeke üzerinden alıyor. Bazı akıllı telefon uygulamalarıysa, baz istasyonları ve Wi-Fi erişim noktalarını kullanarak daha hızlı konum tespiti yapabiliyor. Bütün bunlara rağmen konum tespiti için gerekli işlem miktarı, cihazın pilini kısa sürede tüketmeye yetecek kadar fazla.
+
+Microsoft Research, geliştirdiği Cloud Offloaded GPS (CO-GPS) sistemiyle, cihazların pilini emmeyen bir konum belirleme sistemi geliştirmişe benziyor. CO-GPS sisteminde tüm işlem cloud üzerinde yapılıyor. CLEO adı verilen ilk örnek, işlenmemiş GPS verisini işlenmesi için clouda gönderiyor. Böylece ciddi enerji tasarrufu sağlanıyor. Öyle ki, "teorik olarak CLEO, iki adet kalem pille, bir buçuk yıl boyunca, (1s/örnek öğe boyu) kesintisiz GPS algılama sağlayabiliyor."
+
+Bu sistemin mobil cihazlarda kullanıldığını görmek için biraz beklememiz gerekiyor. Microsoft'un öncelikli amacı bağımsız GPS cihazlar geliştirmek. Ama mevcut teknolojide bu kadar büyük değişiklik yaratan bir gelişmenin bir gün mobil cihazları da etkileyeceğini söyleyebiliriz.

@@ -1,0 +1,12 @@
+İşte iPhone'un ilk hali !
+Akıllı telefon dünyasının bir numaralı markası olarak kabul edelen iPhone'un ilk hali bugün ortaya çıktı.
+Akıllı telefon dünyasının bir numaralı markası olarak kabul edelen iPhone'un ilk hali bugün ortaya çıktı.
+Ars Technica tarafından Apple donanım projelerinde görev almış bir çalışandan elde edilen görseller, ilk iPhone prototiplerinin daha eskiye dayandığını ve üzerinde farklı teknolojiler denendiğini ortaya koyuyor. Apple çalışanının bunun bir iPhone prototipi olduğunu teyit ettiği görselde 12cm x 17cm boyutlara sahip bir panel ve altında mantık kartı bulunan ve 5cm kalınlığındaki bir sistem görülüyor. Görseller ise 2005 yılına ait. 
+
+Prototipte USB girişi, Ethernet girişi ve seri portlar gibi iPhone modellerinde hiçbir zaman rastlayamayacağımız bağlantılara yer verilmiş. Kaynak, bunun bir geliştirici cihazı olduğunu ve işlemlerin daha kolay yürümesi için bu bağlantılara ihtiyaç duyulduğunu belirtiyor. O dönemde kimsenin final sürümün neye benzeyeceği konusunda bir fikri yoktu.
+
+Prototipin boyutlarının şu anki modellerle hiç bir benzerliği olmasa da kaynak, o dönemde bu boyutlardaki bir cihaz üzerinde farklı bir OS X versiyonunu çalıştırmanın oldukça heyecan verici olduğunu dile getiriyor. Kaynak ayrıca Apple'ın 2005 yılında iPhone'un neye benzeyeceği konusunda kesin bir fikrinin olduğunu ve cihazın daha da entegre bir hale geleceğinin anlaşıldığını ifade ediyor. 
+
+Prototipte kullanılan işlemci ARM9 tabanlı Samsung üretimi S3C2410 çözümünün farklı bir versiyonu ve 200-233MHz arasında bir saat hızına sahip. İlk iPhone ise yine Samsung üretimi 412MHz saat hızına sahip bir işlemci kullanıyordu ancak temel aldığı teknoloji ARM11 idi. Verilen bilgilerden Apple'ın işlemci üretimi konusunda Samsung ile işbirliğinin daha da eski bir tarihe dayandığı anlaşılıyor.
+
+Prototipler şimdiki modellere göre oldukça ilginç tasarımlara sahip olsa da şu an faydasını gördüğümüz pek çok teknolojinin de doğduğu yer olarak görülüyor. Kaynak prototipin iPhone çalışmalarına ait olduğunu söylese de bu çalışmaların iPad modeline de ilham vermiş olması muhtemel.

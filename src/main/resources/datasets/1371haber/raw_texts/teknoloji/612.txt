@@ -1,0 +1,29 @@
+Çin ile ABD arasında siber saldırı gerginliği
+Çin ile ABD arasında patlak veren siber saldırı gerginliği devam ederken, tarafların karşılıklı suçlamaları da sürüyor. ABD'li güvenlik uzmanları, birçok büyük kuruluş ve firmayı hedef alan siber saldırıların sorumlusu olarak Çin'i gösterirken, Çin ise hiçbir korsanlık eylemine karışmadığını, aksine ABD'nin siber saldırılarına maruz kaldığını öne sürüyor.ABD'li internet güvenliği şirketi Mandiant tarafından yayımlanan raporda, ABD'de çeşitli kamu kuruluşları ile Coca Cola ile Telvent gibi büyük firmaları hedef alan siber saldırıların, Çin Halk Cumhuriyeti Ordusu'nun desteklediği internet korsanları tarafından düzenlendiği iddia ediliyor.
+
+Virginia merkezli Mandiant'ın raporunda, söz konusu korsanların Çin'in Şanghay kentinin Pudong bölgesinde orduya ait 12 katlı bir binada faaliyet gösterdikleri ve "61398" adlı gizli bir askeri birimin parçası oldukları öne sürülüyor. Mandiant'ın, siber saldırıların çıkış noktası olarak gösterilen üssün fotoğraflarını da yayınladığı belirtiliyor.
+
+Çin ordusuyla temas halinde olduğu iddia edilen hacker grubunun, şimdiye kadar dünya çapında yaklaşık 20 sektörde faaliyet gösteren 141 kuruluştan ciddi miktarda veri çalmış olabileceği ihtimaline dikkati çeken Mandiant yetkilileri, grubun internet sitelerine defalarca saldırdığını, önde gelen kamu kuruluşlarını ve özel şirketlerin bilgisayarlarına sızdığını belirtiyor. Adı geçen 141 kuruluştan 115'nin ise ABD'li olduğu ifade ediliyor.
+
+Hedef alınan kuruluşların bilgi teknolojileri, havacılık, enerji, ulaşım, inşaat, bilimsel araştırmalar, mühendislik ve uydu sistemleri gibi alanlarda faaliyet gösterdikleri, çalınan yüzlerce terabaytlık veri arasında e-postalar, irtibat kişisi listeleri, planlar, fiyatlandırma belgeleri ile satın alma ve birleşmelere ilişkin bilgilerin yer aldığı belirtiliyor.
+
+Yakın geçmişte, ABD'nin önde gelen gazetelerinden The New York Times ve ABD Ticaret Odası (USCC) da Çin kaynaklı korsanlık faaliyetlerine hedef olduklarını açıklamıştı.
+
+ABD Başkanı Barack Obama da, geçen hafta ABD'de bilgi güvenliğinin sağlanmasına ilişkin bir kararnameye onay vermişti.
+
+Son gelişmeler üzerine, üst düzey ABD'li yetkililer tarafından yapılan açıklamalarda, ABD ile Çin hükümetleri arasında konuyla ilgili olarak en üst düzeyden diyalog başlatıldığı, askeri yetkililerle de temaslarda bulunulduğu kaydedildi.
+
+Çin, iddiaları reddediyor
+
+Çin Savunma Bakanlığı ise, Çin ordusundaki gizli bir birimin dünyadaki en yayılmacı siber casusluk birimi olduğu yönündeki iddiaları yalanlıyor.
+
+Bakanlıktan yapılan açıklamada, Çin ordusunun siber casusluk eylemlerine kesinlikle destek vermediği ifade ediliyor. Bakanlık, siber saldırıların ve internet güvenliğine zarar verecek her tür eylemin Çin yasalarınca yasaklandığının ve Çin'in bu tür girişimlerle mücadele etmekte kararlı olduğunun altını çiziyor.
+Pekin yönetimi, suç sayılan siber casusluğun kesinlikle hükümet eliyle işlenmeyeceğini de vurguluyor.
+
+Açıklamada ayrıca, kendilerinin de birçok defa siber saldırıya maruz kaldığı ve saldırının yapıldığı IP adresleri arasında ABD'nin başı çektiği, fakat bundan ötürü hiçbir zaman Washington'u suçlamadıkları dile getiriliyor.
+
+ABD'yi bu tür durumlarda kendisiyle işbirliği yapmaya çağıran Çin, İnternet suçlularının yakalanmasında medya kuruluşlarına belge sızdırıp ülke yönetimlerini hedef göstermenin, bu suçların azalması hedefine fayda sağlamayacağını ifade ediyor.
+
+Çin Dışişleri Bakanlığı ise, konuyla ilgili yaptığı açıklamada, İnternet suçlularının yakalanmasında ABD'nin de içerisinde olduğu tüm dünya ülkeleri ile işbirliği içerisinde çalışmaya hazır oldukları mesajını verdi.
+
+Siber tehdit altında olunduğu iddiası ile sınırsız paranoya ve kınama söylemlerinin, son derece sorumsuzca olduğunu savunan Çin Dışişleri Bakanlığı Sözcüsü Hong Ley, Çin'in de yıllardır siber saldırıların hedefinde olduğunu, fakat bundan ötürü şimdiye kadar hiçbir ülkeyi hedef göstermediğini söyledi.

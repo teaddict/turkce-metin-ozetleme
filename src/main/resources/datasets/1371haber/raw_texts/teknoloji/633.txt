@@ -1,0 +1,14 @@
+Psikologlara teknolojik destek
+Hastalarına yardımcı olmak amacıyla, gün içindeki duygu durumları hakkında bilgi sahibi olmak isteyen psikologlara teknolojik destek geliyor.İngiltere'de akıllı telefonlar için geliştirilen bir uygulama, kullanıcının duygu durumunu belirleyip, psikologlara, hastalarının gün içindeki ruh hali hakkında ayrıntılı bilgi vererek yardımcı olacak.
+
+EI Technologies adlı şirket tarafından geliştirilen Xpression adlı uygulama, kullanıcıların sesindeki duygu durumlarını belli eden değişikliklere bakarak, bu kişi için, sakin, mutlu, üzgün, öfkeli ve kızgın veya korkmuş olarak tanımlanan 5 ruh halinden hangisinin geçerli olduğunu belirliyor. Daha sonra ise duygu durumundaki değişikliklerin hangi zamanlarda meydana geldiğini kaydeden uygulama, bu bilgileri günün sonunda otomatik olarak kullanıcıların psikologlarına e-posta ile gönderiyor.
+
+Her zaman açık durumda tutulması gereken uygulama kullanıcının sesini, ailesiyle, dostlarıyla, meslektaşlarıyla ve hatta evcil hayvanlarıyla yaptığı konuşmaları her saniye dinliyor. Telefon konuşmalarını da dinleyen uygulama buna karşılık kullanıcının özel hayatının gizliliğine saygı göstererek, sözlerini kaydetmiyor. Uygulama bunun yerine sadece kullanıcının sesindeki ani düşüşler gibi belirleyici akustik özelliklere odaklanıyor.
+
+Xpression, önce 200 milisaniye uzunluktaki akustik enstantaneleri uzaktaki bir hizmet sağlayıcıya gönderiyor. Burada kişinin duygu durumu otomatik öğrenme sistemi aracığıyla belirlendikten sonra kaydedilmek üzere tekrar uygulamaya geri gönderiliyor. Sistem, sesleri analiz ederek, yükselme, şiddet, ani düşüşler ve konuşma hızı gibi faktörlere göre kişinin içinde bulunduğu ruh halini kusursuz bir şekilde belirleyebiliyor.
+
+Uygulamayı geliştiren şirketin bilim danışmanı, İngiltere'nin Norvich kentindeki East Anglia Üniversitesi'nden Stephen Cox, kişinin ses kalıplarına bakarak duygu durumunu belirlemenin çok başarılı sonuçlar verdiğini ifade etti.
+
+İngiliz klinik psikolog Adrian Skinner da uygulamaya ilişkin düşüncelerini, Bu tip bir teknolojiye büyük bir ihtiyaç var sözleriye dil getirdi. Skinner, Depresyon gibi sağlık durumlarında, kişiler kendi ruh halleri hakkında günlük tutmayı keserler. Hastaların duygu durumuna ilişkin bize daha eksiksiz günlükler sunması halinde bu uygulama, hastanın ruh halini yükselten veya düşüren günlük tetikleyicileri daha iyi belirlememize katkı sağlar diye konuştu.
+
+Şirket yetkilileri geliştirilen uygulamanın klinik denemelerinin bu yıl içinde yapılacağını duyurdu.

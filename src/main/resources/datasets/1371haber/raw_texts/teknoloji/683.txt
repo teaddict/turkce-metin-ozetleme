@@ -1,0 +1,49 @@
+Robot savaşları mümkün mü
+Günümüzde insansız savaş uçaklarıyla yapılan savaşlara tanık oluyoruz. Robotlarla sürdürülen savaşlar çağı da hızla yaklaşıyor olabilir.
+Ok biçimli X-47B tipi uçaklarda olduğu gibi, yerden "pilot" kontrolü olmaksızın bir uçuşu kendi başına tamamlayıp dönen insansız uçaklar mevcut.
+
+Otomatik olarak hedef tespiti yapan Patriot tipi füze sistemleri de var.
+
+Buradan hareketle, savaş anlayışımızı ve pratiğimizi büyük ölçüde etkileyecek bir silahlı robot savaşçılar olgusu, çok da büyük bir sıçrama olmasa gerek.
+ABD'nin Atlanta kentinde bulunan Georgia Teknoloji Enstitüsü'nde bir laboratuardaki halı üzerinde Profesör Henrik Christiensen'in robotları isyancı avına çıkmış. Christiensen ve ekibi, savunma sanayi devi BAE Systems'in finanse ettiği bir proje üzerinde çalışıyor.
+
+Projenin hedefi, askerlerin bir bina ile ilgili uzak mesafeden bilgi toplamasını sağlayarak, düşmanın saklandığı yerleri tespit edecek türden bir insansız araç geliştirmek.
+
+Keşif robotları
+
+"Bu robotlar etrafa dağılarak bina ile ilgili bilgi toplayacak ve böylece askerler binaya girmeden önce, orada olup bitenler hakkında fikir sahibi olacak" diyor Christensen.
+
+Bu projenin temelinde keşif ve istihbarat toplama var. Fakat bilim dünyasında silahlı robotlar ihtimali de tartışılıyor. Savaş alanında düşman hedefler belirdikçe, her biri küçük bir savaş başlığıyla donanmış bu robotlar çekirge sürüsü gibi ortalığa yayılıp harekete geçiyor.
+ 
+Washington'daki Brooking Institution adlı düşünce kuruluşunda savaşların geleceği konusunda uzman Peter W Singer, savaş alanında robot savaşçıların varlığının ciddi sorular gündeme getirdiğini vurguluyor.
+
+Singer, "Tarihte belli dönemlerde büyük değişikliklere yol açan yeni teknolojiler ortaya çıkar. Barut, makinalı tüfek, atom bombası, bilgisayar,... ve şimdi de robotlar bunlardan bazıları. Bunlar, savaşlarda uygulanan taktikler, doktrin, askerlerin örgütlenme biçiminden tutun da politika, hukuk, etik gibi daha büyük sorunları etkileyecek türden gelişmelerdir." diyor.
+
+Anti-personel mayınların yasaklanması konulu çalışmasından dolayı 1997'de Nobel Barış Ödülü alan Amerikalı Jody Williams, şu anda geliştirilmekte olan bağımsız sistemlerin öldürücü gücünün zamanla ortaya çıkacağını söylüyor.
+
+'Katil robotlar'
+
+Williams, "bağımsız silah sistemleri" gibi değer içermeyen kavramların terk edilmesi gerektiğine inanıyor.
+
+İnsanın başka insanları öldürmek üzere makine yaratması düşüncesini çok itici bulduğunu ifade eden Williams, "Bunlara katil robotlar demeyi tercih ederiz" diyor.
+Georgia Teknoloji Enstitüsü'nden Profesör Ronald Arkin ise farklı düşünüyor. "Etik yönetici"nin kontrolü altında olan bir silah sistemi kavramını o geliştirdi.
+
+Yani tetiği çeken bir insan olmayacak, ama uluslararası savaş hukuku kurallarına uyacak şekilde programlanmış olacak.
+
+"Herkes 'Aman tanrım kötü robotlar, katil robotlar' diye haykırıyor, ama bu işi şimdi askerler yapıyor" diyen Profesör Arkin'in yanıtı basit: "Savaş alanında çatışma dışı zayiat oranını azaltmaya yarayacak teknolojiyi kullanıma sokmak lazım. İnsanlar savaşı sürdürmekte ısrar edecek kadar aptalsa eğer, etik robot sistemleri devreye sokularak bu iş yapılabilir."
+
+'Global olgu'
+
+Bugün için ABD bu alanda başı çekenlerden biri. Fakat Singer, askeri robot programını yürüten 76 ülke bulunduğunu hatırlatarak bu durumun hep böyle devam etmeyeceğini söylüyor.
+
+"Birkaç yıl önce sadece orduların kullanımına açık insansız uçakları birkaç yüz dolara satın alabilirsiniz bugün. Bu sadece Amerika için geçerli değil, global bir olgu."
+
+İnsansız savaç uçağı teknolojisi hızla yayılıyor. Robot teknolojisi de yaygınlaşacağa benziyor. Bu durum, bu silahların nasıl kullanılacağı ve nasıl denetim altına alınması gerektiği konusunda sorulara neden oluyor.
+
+Nobel ödüllü Jody Williams robot silahlar konusundaki araştırmaların yasaklanması için uluslararası bir kampanya başlatmayı planlıyor.
+
+"Bu konuda araştırma, geliştirme ve kullanım işine bu şekilde devam edilmesine izin verilirse, savaş olgusu tümüyle ve korkunç bir şekilde değişecektir" diyor Williams.
+
+Etik konusundaki tartışmalarda Arkin farklı görüşte.
+
+Arkin, çatışma dışı zayiatı azaltıp azaltmadığı konusunda bir araştırma yapmadan robotları tümüyle yasaklamak "savaşta maalesef insan askerler tarafından öldürülenlere saygısızlık olacaktır" diyor.

@@ -1,0 +1,19 @@
+Eğitim desteği Türkiye'den
+Microsoft, Ekim ayı sonunda, Windows 8'i satışa sundu. Windows'un yeniden tasarlandığı bu yeni işletim sistemine, Türkiye'den de bir eğitim uygulaması desteği geldi.Yapılan açıklamaya göre, Windows 8 için, Türkiye'nin eğitim teknolojilerinde öncü markası Sebit tarafından da içerik üretildi.
+
+Türk Telekom iştiraki olan Sebit Eğitim ve Bilgi Teknolojileri AŞ, Vitamin (vitaminegitim.com) ile Türkiye ve farklı kıtalardaki 6 ülkede 2 milyona yakın kullanıcıya, Adaptive Curriculum (adaptivecurriculum.com) ile de ABD'de 500'den fazla okulda 300 bini aşkın kullanıcıya ulaşarak eğitime yeni bir boyut kazandırdı. Adaptive Curriculum'un güçlü Fizik ve Matematik (Geometri) içeriğini, yeni bir yaklaşımla yaratılan VBook'larla Windows Mağazası'nda kullanıcı deneyimine sunuluyor.
+
+Modüler bir yapıda tasarlanan AC VBooks, kişiselleştirilebilen öğrenme deneyimi ile bir anlamda kendi kendini oluşturan yeni nesil elektronik kitap uygulaması olduğu belirtiliyor. Vitamin'in 'V'si ile VBook olarak adlandırılan her bir uygulama birbiriyle bağlantılı konuları bir arada sunuyor. Öğrenme nesnelerini kullanıcının yeterliğine göre sıralıyor.
+
+Windows 8'de ihtiyaca göre ayrı ayrı satın alınabilen küçük parçalar halinde yer alan bu uygulamalarda kullanıcı, konu ile ilgili hazır bulunuşluğunu değerlendirdikten sonra detaylı konu anlatımlarına çalışabiliyor, özet bölümünün ardından ilgili testi çözüyor. Sistem, eksiklerini belirleyen geri bildirimler vererek, kullanıcıyı bu eksiklerini tamamlayabileceği anlatımlara yönlendiriyor.
+
+VBook'larda widget adı verilen, kullanıcının etkileşime girip sonucu görebildiği özgün etkileşimlerin yanı sıra interaktif etkinlikler ve 3D animasyonlar bulunuyor. Kullanıcı ayrıca, VBook'un üzerine notlarını alabiliyor, link ekleyebiliyor. Sebitin içeriğinin, yakında matematik, kimya ve biyoloji VBook'ları ile de eğitsel uygulama marketlerinde yer alması bekleniyor.
+
+Bulut teknolojisiyle uyumu sayesinde kullanıcının öğretmen/öğrenci tabletinde, bilgisayarında, cep telefonunda herhangi bir aktarma gerekmeksizin kullanabildiği bu uygulamalar, elektronik kitap teknolojisine yepyeni bir yaklaşım getirerek, bir sonraki nesli başlatıyor.
+
+Sebit'in hazırladığı VBook, benzersiz modüler yapısıyla eğitime yepyeni bir bakış getiriyor
+
+Sebit Genel Müdürü Ahmet Eti de konuya ilişkin değerlendirmesinde, Windows 8'de özel bir ürünümüzle yer almak çok heyecan verici. 2005 yılında, gelecekte eğitsel uygulamalara bütünsel bir akış içinde değil de ayrı ayrı kullanım ihtiyacı duyulacağını öngörerek, Adaptive Curriculum'u modüler bir yapıda tasarlamıştık. Yani, dünyaya ilk olarak bizim sunduğumuz yeni nesil elektronik kitaplar olan VBook'ların altyapısı uzun zamandır hazırlanmaya başlamıştı. Microsoft genel merkezinde heyacanla karşılanan bu uygulamalarımızın sayısı da, Microsoft'la işbirliğimiz de artarak devam edecek bilgisini verdi.
+
+Sadece Türkiye'nin değil, tüm dünya eğitim sektörünün Windows 8 üzerinde böylesine kapsamlı bir uygulamaya kavuşmasından çok mutlu olduklarını belirten Microsoft Türkiye Genel Müdürü Tamer Özmen ise İş ortağımız Sebit'in hazırladığı VBook uygulaması benzersiz modüler yapısı ile eğitime yepyeni bir bakış getiriyor. Bu bakışı Windows Mağazası'nın eşsiz erişim gücü ile milyonlarca kullanıcıya ve öğrenciye ulaştıracağımız için çok heyecanlıyız yorumunu yaptı.
+Yeni kullanıcı arayüzü ve sayısız fonksiyonel uygulama ile Windows 8, aralarında Türkiye'nin de yer aldığı 140'tan fazla ülkede toplam 37 dilde yüklemeye hazır durumda. Mevcut bilgisayarlarını Windows 8'e yükseltmek isteyen kullanıcılar http://www.windows.com adresinden yükleme yapabilecekleri gibi, işletim sistemini, teknoloji mağazalarından da satın alabilecekler.

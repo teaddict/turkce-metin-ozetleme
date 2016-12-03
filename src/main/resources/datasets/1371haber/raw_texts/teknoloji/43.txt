@@ -1,0 +1,11 @@
+Yandex'ten Türkçe Twitter grafiği
+Yandex, Twitter'ın Türkçe dünyasında neler olup bittiğini bu çarpıcı infografiğe döktü.
+Twitter'da paylaşılan halka açık tüm tweetleri indeksleyen Yandex, elindeki verilere dayanarak Türkçe içerik üreten Twitter topluluğunun bir analizini yaptı.
+
+Bu analize göre elde edilen bilgilerden en öne çıkanları şöyle:
+
+-Dünya genelindeki Twitter kullanıcılarının %2.5'ini (3.8 milyon kullanıcı ile) Türkçe Twitter kulllanıcıları oluşturuyor
+
+-Türkçe Twitter kullanıcıları hafta içi günleri, hafta sonu günlerine oranla Twitter'ı %48 daha aktif kullanıyor
+
+-Çalışmada, bu rakamlarla birlikte, Türkçe Twitter dünyasında en çok bahsedilen Twitter kullanıcıları, en çok kullanılan etiketler (hashtagler) ve en çok bahsedilen bağlantıların alan adları listeleniyor (Ağustos-Eylül 2012 dönemi için).

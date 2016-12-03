@@ -1,0 +1,9 @@
+Milyonlarca hesap tehlikede
+Sosyal medya devi Facebook'ta tespit edilen bir açık milyonlarca hesabın tehlikede olduğunu gözler önüne serdi.
+Web uygulamaları uzmanı Nir Goldshlager, uzun bir süredir Facebook üzerinde çalıştığını ve son dönemde ortaya çıkan tehlikeli bir açığı keşfettiğini duyurdu. Goldshlager, kişisel blog sayfasında yaptığı açıklamada Facebook'ta milyonlarca kullanıcının kullandığı uygulamalardaki açığa dikkat çekti.
+
+Kullanıcıların gelişigüzel uygulamaları indirmemesi gerektiğinin altını çizen Goldshlager, uygulamaların yüklenirken Facebook hesabına erişim hakkı elde ettiğini ve bu şekilde kullanıcıların fotoğraf, video ve diğer içeriklerine ulaşabildiğine dikkat çekti.
+
+Uygulama geliştiricilerinin Facebook'a bu sayede kolayca girerek hesapları kurcalayabileceğini belirten Goldshlager, Facebook'un söz konusu açığı kapattığını; ancak açığın kapanmadan önce kaç kullanıcının bu açıktan etkilendiğinin bilinmediğini dile getirdi.
+
+Facebook'tan konuyla ilgili bir açıklama gelmezken, şu uyarıda bulunmakta fayda görüyoruz: Facebook'ta irili ufaklı binlerce uygulama var. O nedenle güvenilir bulmadığınız, bilinmeyen bir şirketin, bir yazılımcının geliştirdiği uygulamayı indirirken dikkatli olun.

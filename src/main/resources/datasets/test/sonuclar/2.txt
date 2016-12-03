@@ -1,0 +1,218 @@
+I|12:17:01.941|Parser ready: 2487ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:17:02.342|Cache ready: 2914ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Körfez'in en zengini Denizbank'a talip
+
+Dexia'nın vitrine çıkardığı Denizbank'a Körfez'den ikinci talip çıktı. Euro Bölgesi'ndeki borç krizinden olumsuz etkilenen Avrupalı finans devi Dexia'nın vitrine koyduğu Denizbank'a Körfez'den ikinci bir talip var. Birleşik Arap Emirlikleri'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank'a göz kırptığını açıkladı. Ürdün'ün başkenti Amman'da düzenlenen Dünya Ekonomik Forumu (World Economic Forum) toplantısına katılan Mashreq bank'ın Yönetim Kurulu Başkanı ve CEO'su Abdul Aziz Al- Ghurair, Türkiye'yi uzun süredir yakından izlediklerini belirtti. Denizbank'ı alabileceklerini belirten Al-Ghurair, "Türkiye'de banka fiyatları biraz yüksek, eğer uygun bir fiyat önümüze çıkarsa alabiliriz" diye konuştu. 
+
+30 bin çalışanı bulunan Al-Ghurair Ailesi'nin iki üyesi Forbes'ın en zenginler listesinde yer alıyor. Finans yatırımlarının başında duran Abdul Aziz Al-Ghurair, 3.5 milyar dolarlık kişisel servetiyle Birleşik Arap Emirlikleri'nin en zengin, dünyanın da 258'inci işadamı. Ailenin bir diğer üyesi Saif Al Ghurair ise 1.7 milyar dolarla ülkenin ikinci, dünyanın da 736'ncı dolar milyarderi. Birleşik Arap Emirlikleri Parlamentosu Ulusal Konseyi'nin sözcülüğü görevini de yapan CEO Abdul Aziz Al-Ghurair, daha önce Türkiye'de yatırımı bulunan Emaar'ın yönetiminde yer aldı.
+
+Mashreq bank dışında Dexia'nın satış için Bank of America, Merrill Lynch ve White & Case firmalarını görevlendirdiği Denizbank için dünya bankacılık devi HSBC, Rusya'nın en büyük bankası Sberbank ve İtalyan Intesa Sanpaolo'nun da adı geçmişti. İtalyan banka, iddiaları yalanlarken, Rus Sberbank ise görüşme yapmadığını açıklamıştı.
+
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿körfez'in zengini denizbank'a talip
+
+dexia'nın vitrine çıkardığı denizbank'a körfez'den ikinci talip çıktı. euro bölgesi'ndeki borç krizinden olumsuz etkilenen avrupalı finans devi dexia'nın vitrine koyduğu denizbank'a körfez'den ikinci talip var. birleşik arap emirlikleri'nin (bae) büyük bankalarından mashreq bank, denizbank'a göz kırptığını açıkladı. ürdün'ün başkenti amman'da düzenlenen dünya ekonomik forumu (world economic forum) toplantısına katılan mashreq bank'ın yönetim kurulu başkanı ceo'su abdul aziz al- ghurair, türkiye'yi uzun süredir yakından izlediklerini belirtti. denizbank'ı alabileceklerini belirten al-ghurair, "türkiye'de banka fiyatları biraz yüksek, uygun fiyat önümüze çıkarsa alabiliriz" konuştu. 
+
+30 çalışanı bulunan al-ghurair ailesi'nin üyesi forbes'ın zenginler listesinde yer alıyor. finans yatırımlarının başında duran abdul aziz al-ghurair, 3.5 dolarlık kişisel servetiyle birleşik arap emirlikleri'nin zengin, dünyanın 258'inci işadamı. ailenin üyesi saif al ghurair 1.7 dolarla ülkenin ikinci, dünyanın 736'ncı dolar milyarderi. birleşik arap emirlikleri parlamentosu ulusal konseyi'nin sözcülüğü görevini yapan ceo abdul aziz al-ghurair, önce türkiye'de yatırımı bulunan emaar'ın yönetiminde yer aldı.
+
+mashreq bank dışında dexia'nın satış bank of america, merrill lynch white & case firmalarını görevlendirdiği denizbank dünya bankacılık devi hsbc, rusya'nın büyük bankası sberbank italyan ıntesa sanpaolo'nun adı geçmişti. italyan banka, iddiaları yalanlarken, rus sberbank görüşme yapmadığını açıklamıştı.
+
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿körfez'in zengini denizbank'a talip
+
+PARAGRAPH: dexia'nın vitrine çıkardığı denizbank'a körfez'den ikinci talip çıktı. euro bölgesi'ndeki borç krizinden olumsuz etkilenen avrupalı finans devi dexia'nın vitrine koyduğu denizbank'a körfez'den ikinci talip var. birleşik arap emirlikleri'nin (bae) büyük bankalarından mashreq bank, denizbank'a göz kırptığını açıkladı. ürdün'ün başkenti amman'da düzenlenen dünya ekonomik forumu (world economic forum) toplantısına katılan mashreq bank'ın yönetim kurulu başkanı ceo'su abdul aziz al- ghurair, türkiye'yi uzun süredir yakından izlediklerini belirtti. denizbank'ı alabileceklerini belirten al-ghurair, "türkiye'de banka fiyatları biraz yüksek, uygun fiyat önümüze çıkarsa alabiliriz" konuştu. 
+
+PARAGRAPH: 30 çalışanı bulunan al-ghurair ailesi'nin üyesi forbes'ın zenginler listesinde yer alıyor. finans yatırımlarının başında duran abdul aziz al-ghurair, 3.5 dolarlık kişisel servetiyle birleşik arap emirlikleri'nin zengin, dünyanın 258'inci işadamı. ailenin üyesi saif al ghurair 1.7 dolarla ülkenin ikinci, dünyanın 736'ncı dolar milyarderi. birleşik arap emirlikleri parlamentosu ulusal konseyi'nin sözcülüğü görevini yapan ceo abdul aziz al-ghurair, önce türkiye'de yatırımı bulunan emaar'ın yönetiminde yer aldı.
+
+PARAGRAPH: mashreq bank dışında dexia'nın satış bank of america, merrill lynch white & case firmalarını görevlendirdiği denizbank dünya bankacılık devi hsbc, rusya'nın büyük bankası sberbank italyan ıntesa sanpaolo'nun adı geçmişti. italyan banka, iddiaları yalanlarken, rus sberbank görüşme yapmadığını açıklamıştı.
+
+
+
+######Cümleler:######
+
+﻿körfez'in zengini denizbank'a talip
+
+dexia'nın vitrine çıkardığı denizbank'a körfez'den ikinci talip çıktı.
+euro bölgesi'ndeki borç krizinden olumsuz etkilenen avrupalı finans devi dexia'nın vitrine koyduğu denizbank'a körfez'den ikinci talip var.
+birleşik arap emirlikleri'nin (bae) büyük bankalarından mashreq bank, denizbank'a göz kırptığını açıkladı.
+ürdün'ün başkenti amman'da düzenlenen dünya ekonomik forumu (world economic forum) toplantısına katılan mashreq bank'ın yönetim kurulu başkanı ceo'su abdul aziz al- ghurair, türkiye'yi uzun süredir yakından izlediklerini belirtti.
+denizbank'ı alabileceklerini belirten al-ghurair, "türkiye'de banka fiyatları biraz yüksek, uygun fiyat önümüze çıkarsa alabiliriz" konuştu.
+30 çalışanı bulunan al-ghurair ailesi'nin üyesi forbes'ın zenginler listesinde yer alıyor.
+finans yatırımlarının başında duran abdul aziz al-ghurair, 3.5 dolarlık kişisel servetiyle birleşik arap emirlikleri'nin zengin, dünyanın 258'inci işadamı.
+ailenin üyesi saif al ghurair 1.7 dolarla ülkenin ikinci, dünyanın 736'ncı dolar milyarderi.
+birleşik arap emirlikleri parlamentosu ulusal konseyi'nin sözcülüğü görevini yapan ceo abdul aziz al-ghurair, önce türkiye'de yatırımı bulunan emaar'ın yönetiminde yer aldı.
+mashreq bank dışında dexia'nın satış bank of america, merrill lynch white & case firmalarını görevlendirdiği denizbank dünya bankacılık devi hsbc, rusya'nın büyük bankası sberbank italyan ıntesa sanpaolo'nun adı geçmişti.
+italyan banka, iddiaları yalanlarken, rus sberbank görüşme yapmadığını açıklamıştı.
+
+
+
+######Title######
+﻿körfez'in zengini denizbank'a talip
+
+
+######Nouns of text:######
+[körfez, zengin, talip, vitrin, körfez, ikinci, talip, çıktı, euro, bölge, borç, kriz, Avrupa, finans, dev, vitrin, körfez, ikinci, talip, var, arap, emir, büyük, banka, bank, göz, Ürdün, başkent, dünya, forum, forum, toplantı, ben, yönetim, kurul, başkan, aziz, Al, Türkiye, uz, yakın, belirten, Türkiye, banka, fiyat, yüksek, fiyat, ön, çalışan, aile, üye, zengin, liste, yer, finans, yatırım, baş, aziz, dolar, kişi, servet, arap, emir, dünya, in, işadam, aile, üye, Al, dolar, ülke, ikinci, dünya, do, milyarder, arap, emir, parlâmento, ulusal, konsey, sözcü, görev, aziz, ön, Türkiye, yatırım, yönetim, yer, bank, dış, satış, bank, Of, firma, dünya, banka, dev, Rusya, büyük, banka, İtalya, ad, İtalya, banka, iddia, Rus, görüşme]
+I|12:17:03.653|Parser ready: 1174ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:17:03.731|Cache ready: 1252ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[çıkarmak, çıkmak, etkilemek, koymak, varmak, kırpmak, açıklamak, düzenlemek, katılmak, almak, sürmek, izlemek, belirtmek, belirtmek, çıkarmak, almak, konuşmak, bulunmak, zenginlemek, yemek, almak, durmak, almak, dolmak, yapmak, bulunmak, yemek, al, görevlenmek, geçmiş, yalanlamak, görüşmek, yapmak, açıklamak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 551
+All chain size: 240
+Unique Chains: 65
+Chain Puan Eşik değeri:17
+Chain Strength Eşik değeri:0.9076923076923077
+Chain criterion değeri:3.8159950519180525
+Strong Chains: 2
+banka
+hypernymy
+yer
+göz
+hypernymy
+yer
+başkent
+hypernymy
+yer
+dünya
+synonymy
+yer
+banka
+hypernymy
+yer
+yüksek
+hypernymy
+yer
+ön
+hypernymy
+yer
+ön
+antonymy
+yer
+dünya
+synonymy
+yer
+dünya
+synonymy
+yer
+ön
+hypernymy
+yer
+ön
+antonymy
+yer
+dış
+hypernymy
+yer
+dünya
+synonymy
+yer
+banka
+hypernymy
+yer
+banka
+hypernymy
+yer
+banka
+hypernymy
+yer
+17
+98
+10.0
+
+
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+5
+50
+4.0
+
+
+[2, 4]
+#############Heuristic1 OUTPUT############
+2 : Birleşik Arap Emirlikleri'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank'a göz kırptığını açıkladı.
+4 : Denizbank'ı alabileceklerini belirten Al-Ghurair, "Türkiye'de banka fiyatları biraz yüksek, eğer uygun bir fiyat önümüze çıkarsa alabiliriz" diye konuştu.
+representative
+[ön, dünya, banka]
+#############Heuristic2 OUTPUT############
+Birleşik Arap Emirlikleri'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank'a göz kırptığını açıkladı.
+Ürdün'ün başkenti Amman'da düzenlenen Dünya Ekonomik Forumu (World Economic Forum) toplantısına katılan Mashreq bank'ın Yönetim Kurulu Başkanı ve CEO'su Abdul Aziz Al- Ghurair, Türkiye'yi uzun süredir yakından izlediklerini belirtti.
+#############Heuristic3 OUTPUT############
+2 : Birleşik Arap Emirlikleri'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank'a göz kırptığını açıkladı.
+10 : Mashreq bank dışında Dexia'nın satış için Bank of America, Merrill Lynch ve White & Case firmalarını görevlendirdiği Denizbank için dünya bankacılık devi HSBC, Rusya'nın en büyük bankası Sberbank ve İtalyan Intesa Sanpaolo'nun da adı geçmişti.
+####################CLASS OF ORIGINAL TEXT################
+﻿Körfez'in en zengini Denizbank'a talip
+
+Dexia'nın vitrine çıkardığı Denizbank'a Körfez'den ikinci talip çıktı. Euro Bölgesi'ndeki borç krizinden olumsuz etkilenen Avrupalı finans devi Dexia'nın vitrine koyduğu Denizbank'a Körfez'den ikinci bir talip var. Birleşik Arap Emirlikleri'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank'a göz kırptığını açıkladı. Ürdün'ün başkenti Amman'da düzenlenen Dünya Ekonomik Forumu (World Economic Forum) toplantısına katılan Mashreq bank'ın Yönetim Kurulu Başkanı ve CEO'su Abdul Aziz Al- Ghurair, Türkiye'yi uzun süredir yakından izlediklerini belirtti. Denizbank'ı alabileceklerini belirten Al-Ghurair, "Türkiye'de banka fiyatları biraz yüksek, eğer uygun bir fiyat önümüze çıkarsa alabiliriz" diye konuştu. 
+
+30 bin çalışanı bulunan Al-Ghurair Ailesi'nin iki üyesi Forbes'ın en zenginler listesinde yer alıyor. Finans yatırımlarının başında duran Abdul Aziz Al-Ghurair, 3.5 milyar dolarlık kişisel servetiyle Birleşik Arap Emirlikleri'nin en zengin, dünyanın da 258'inci işadamı. Ailenin bir diğer üyesi Saif Al Ghurair ise 1.7 milyar dolarla ülkenin ikinci, dünyanın da 736'ncı dolar milyarderi. Birleşik Arap Emirlikleri Parlamentosu Ulusal Konseyi'nin sözcülüğü görevini de yapan CEO Abdul Aziz Al-Ghurair, daha önce Türkiye'de yatırımı bulunan Emaar'ın yönetiminde yer aldı.
+
+Mashreq bank dışında Dexia'nın satış için Bank of America, Merrill Lynch ve White & Case firmalarını görevlendirdiği Denizbank için dünya bankacılık devi HSBC, Rusya'nın en büyük bankası Sberbank ve İtalyan Intesa Sanpaolo'nun da adı geçmişti. İtalyan banka, iddiaları yalanlarken, Rus Sberbank ise görüşme yapmadığını açıklamıştı.
+
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Körfez\'in en zengini Denizbank\'a talip\n\nDexia\'nın vitrine çıkardığı Denizbank\'a Körfez\'den ikinci talip çıktı. Euro Bölgesi\'ndeki borç krizinden olumsuz etkilenen Avrupalı finans devi Dexia\'nın vitrine koyduğu Denizbank\'a Körfez\'den ikinci bir talip var. Birleşik Arap Emirlikleri\'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank\'a göz kırptığını açıkladı. Ürdün\'ün başkenti Amman\'da düzenlenen Dünya Ekonomik Forumu (World Economic Forum) toplantısına katılan Mashreq bank\'ın Yönetim Kurulu Başkanı ve CEO\'su Abdul Aziz Al- Ghurair, Türkiye\'yi uzun süredir yakından izlediklerini belirtti. Denizbank\'ı alabileceklerini belirten Al-Ghurair, \"Türkiye\'de banka fiyatları biraz yüksek, eğer uygun bir fiyat önümüze çıkarsa alabiliriz\" diye konuştu. \n\n30 bin çalışanı bulunan Al-Ghurair Ailesi\'nin iki üyesi Forbes\'ın en zenginler listesinde yer alıyor. Finans yatırımlarının başında duran Abdul Aziz Al-Ghurair, 3.5 milyar dolarlık kişisel servetiyle Birleşik Arap Emirlikleri\'nin en zengin, dünyanın da 258\'inci işadamı. Ailenin bir diğer üyesi Saif Al Ghurair ise 1.7 milyar dolarla ülkenin ikinci, dünyanın da 736\'ncı dolar milyarderi. Birleşik Arap Emirlikleri Parlamentosu Ulusal Konseyi\'nin sözcülüğü görevini de yapan CEO Abdul Aziz Al-Ghurair, daha önce Türkiye\'de yatırımı bulunan Emaar\'ın yönetiminde yer aldı.\n\nMashreq bank dışında Dexia\'nın satış için Bank of America, Merrill Lynch ve White & Case firmalarını görevlendirdiği Denizbank için dünya bankacılık devi HSBC, Rusya\'nın en büyük bankası Sberbank ve İtalyan Intesa Sanpaolo\'nun da adı geçmişti. İtalyan banka, iddiaları yalanlarken, Rus Sberbank ise görüşme yapmadığını açıklamıştı.\n\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi
+###################CLASS OF SUMMARY#######################
+[2 : Birleşik Arap Emirlikleri'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank'a göz kırptığını açıkladı., 10 : Mashreq bank dışında Dexia'nın satış için Bank of America, Merrill Lynch ve White & Case firmalarını görevlendirdiği Denizbank için dünya bankacılık devi HSBC, Rusya'nın en büyük bankası Sberbank ve İtalyan Intesa Sanpaolo'nun da adı geçmişti.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[2 : Birleşik Arap Emirlikleri\'nin (BAE) en büyük bankalarından Mashreq bank, Denizbank\'a göz kırptığını açıkladı., 10 : Mashreq bank dışında Dexia\'nın satış için Bank of America, Merrill Lynch ve White & Case firmalarını görevlendirdiği Denizbank için dünya bankacılık devi HSBC, Rusya\'nın en büyük bankası Sberbank ve İtalyan Intesa Sanpaolo\'nun da adı geçmişti.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

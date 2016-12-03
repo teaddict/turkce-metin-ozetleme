@@ -1,0 +1,17 @@
+Türk yazılımcılar yaptı bilişim devi alkışladı
+Türkiye'de istediği destek Inovatif bulunmadığı gerekçesiyle reddedilen firma, Microsoft'un Inovasyon merkezine kabul edildi.Bilkent Cyberpark'ta kurulu Kimola adlı şirketin yöneticisi Mustafa Savaş, yaptığı açıklamada, Burak Dobur ve Burak Akkor ile çalıştıkları firmanın Microsoft İnovasyon merkezine 1 yıl önce kabul edildiğini söyledi.
+
+Firmanın yüzde yüz yerli sermaye ile Türkiye'nin ilk bulut tabanlı arama hizmetini yayımladığını belirten Savaş, kurumların çok yüksek hacimli metin verilerinin otomatik sınıflandırmasını ve içinde arama yapılmasını sağlayan bir bulut bilişim hizmeti sağladıklarını vurguladı.
+
+Savaş, Dallas'ta eğitimi verilen ve ardından San Fransisco'da Silikon Vadisi'nde yatırımcılarla buluştukları Global Accelerator Exchange etkinliğine çağrılan 5 şirketten biri olduklarını, Global Innovation through Science and Technology etkinliğinde de ilk 30'a kaldıklarını, finaller için Dubai'ye gideceklerini açıkladı.
+Farklılıklarına değinen Savaş, bu sektördeki kurumsal hizmet veren diğer şirketlerin ücreti belirlemek için bizimle irtibata geçin şeklinde ifadeler kullanırken kendilerinin şeffaf fiyatlandırma politikası belirleyerek kurumsal firma mantığından çıkan cazip bir profil oluşturduklarını anlattı.
+
+Savaş, şu bilgiyi verdi: Arama yapılabilecek uygulamaların geliştirilebilmesi için bir altyapı sunuyoruz. Bu, dünya arama devlerinin yaklaşımından çok farklı. Çünkü bu şirketler size arama ürünleri sunar. Mesela, müşterilerimizden biri kendi işleriyle alakalı tweetleri bizim altyapımız üzerinde tutuyor, sosyal medyada ne konuşulduğuna ilişkin arama yapıyor. Bizden aldıkları hizmetle internette izlenen TV dizilerini takip ediyor ve bunlarla ilgili tweetleri sunduğumuz altyapı üzerinde depoluyor ve bunlar üzerinde arama yaparak Türkiye'de insanların hangi dizileri izlemekten memnun olduğunu öğreniyor. Çünkü gerçek rating televizyon üzerinden ölçülmüyor. O firmaların bu kadar yüksek hacimli verileri bir alanda saklayıp içinde arama yapmaları çok masraflı olduğu için, ratingi bizim ürünümüz sayesinde ölçüyorlar. Her şirket farklı bir uygulamayı geliştirmek için bizim altyapımızı kullanıyor. Bu, bizi diğer arama devlerinden ayıran en önemli nokta.
+Çalışmalarını Microsoft'un desteğiyle yürüttüklerini belirten Savaş, Her fırsatta duyulan destekler için ret cevabı aldık. Bununla gurur duymuyoruz ama kendi imkanlarımızla ve arama alanındaki girişimimizle ayakta tuttuk firmamızı dedi.
+
+Klavyesiz akıllı cihazlara PhraseTag teknolojisi
+
+Arama hizmetine PhraseTag adını verdikleri teknolojileriyle yeni bir boyut da kattıklarını dile getiren Savaş, bu teknolojinin genel arama özelliklerini sağlamanın yanı sıra metin arşivleri içinde belirli bir sıklığın üzerinde tekrar eden ya da aranma ihtimali yüksek olan kelimeleri metin içinde linkler halinde sunduğunu anlattı.
+Mustafa Savaş, Böylece dokümanlar arasında kolayca gezinmeyi mümkün kılmakla kalmayıp, günümüzün arama teknolojilerini geleceğin klavyesiz akıllı cihazlarına şimdiden adapte edebiliyoruz dedi.
+
+Türkiye'de bu alandaki ilk ve tek şirket olduklarını ifade eden Savaş, bu nedenle kendi imkanlarıyla ayakta durmaya çalıştıklarını sözlerine ekledi.

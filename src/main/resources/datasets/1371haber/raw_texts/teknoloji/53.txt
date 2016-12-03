@@ -1,0 +1,9 @@
+Chrome'dan vazgeçmiyorlar
+Windows kullanıcılarının Chrome'a ne kadar bağlı oldukları, bu hız testinde bile ortaya çıkıyor.
+Microsoft, Google ve Apple sadece telefonlarda ve tabletlerde değil, web tarayıcılarında da büyük bir rekabet içindeler. Web tarayıcıları dendiğinde tabi ki Mozilla ve Opera da işin içine giriyor. New Relic adındaki bağımsız bir şirket ise Windows 8'deki Internet Explorer 10'u da içeren bir hız testi araştırması yaptı ve sonuçlarını yayınladı.
+
+New Relic yayınladığı infografikte Internet Explorer 10'un en yüksek performansa sahip olduğunu, IE9 ve diğer web tarayıcılarını geride bıraktığını söylüyor. Şirket, bu verileri "Real User Monitoring (RUM)" ("Gerçek Kullanıcı İzleme") adını verdiği, günde 1.4 milyon sayfa gösterimini izleyen bir sistem ile elde etmiş.
+
+Araştırma sonuçları IE10'un en hızlı web tarayıcısı olduğunu söylerken, Chrome 19'un Linux sürümünün işletim sistemindeki en hızlı tarayıcı olduğunu iddia ediyor. IE10, tüm laptop ve masaüstü PC'lerde ise 8. sırada yer alıyor.
+
+Popülerlik alanında ise Chrome, Windows'lu PC'lerde yüzde 41 ile birinci sırada yer alıyor. IE yüzde 35 ile ikinci sırada yer alırken Firefox yüzde 21 ile üçüncü konumda bulunuyor. Tüm infografiği görüntülemek için sağdaki infografiğin üzerine tıklayabilirsiniz.

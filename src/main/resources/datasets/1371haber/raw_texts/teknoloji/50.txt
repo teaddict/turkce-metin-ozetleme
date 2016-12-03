@@ -1,0 +1,5 @@
+iOS 6.0.1'de yeni bir sorun
+Apple, iOS 6.0.1 güncellemesiyle iPhone 5 ve 4S'deki Wi-Fi bağlantı sorunlarını giderdiğini söylemişti.
+ Ancak kullanıcılardan gelen şikayetler, sorunun hala yaşandığını gösteriyor.
+ iOS 6.0.1′in sunduğu geliştirmelerden bir tanesi de Apple tarafından şöyle tarif ediliyordu: "iPhone 5 ve iPod touch'ın (5. jenerasyon) şifreli WPA2 Wi-Fi ağlarına bağlanma güvenilirliğini artırır." Ancak Apple forumunda yapılan şikayetlere göre kullanıcılar, bazı yeni Wi-Fi sorunları yaşıyorlar. Bunlar arasında Wi-Fi seçeneğinin devre dışı kalması, iTunes ile Wi-Fi eşitlemenin mümkün olmaması, uyku modundayken Wi-Fi'ın kendi kendine kapanması, Wi-Fi ağına bağlanılamaması var. Bu sorunlarla ilgili Apple forumlarında yüzlerce şikayet bulunuyor.
+ Forumların benzer konularla dolup taşıyor olması, soruna çok da nadir rastlanmadığının bir işareti olsa gerek. Apple ise şikayetler hakkında henüz herhangi bir açıklama yapmadı.

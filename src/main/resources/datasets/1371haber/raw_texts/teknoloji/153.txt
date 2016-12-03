@@ -1,0 +1,19 @@
+Isınan laptoplara son
+Eğer laptop'unuz çok fazla ısınıyorsa, işte bu sorunu yenmenizi sağlayacak en iyi araç...
+Dizüstü bilgisayar kullanırken pek çok yazılımı aynı anda kullandığınızda belirgin bir sıcaklık artışı olabiliyor. Özellikle biraz eski bir model kullanıyorsanız, bu durum can sıkıcı bir hal bile alabiliyor.
+
+Dizüstü bilgisayar, gücüne göre farklı seviyelerde zorlanabilir veya rahatlıkla bu işlemleri kaldırabilir. Ama bütün bilgisayarların zorlandığı, ısınmaya başladığı bir yük vardır. Sıcaklık yükseldikçe elektronik cihazların çalışma verimi düşer. İşte bu yüzden zaten çok işlem altında zorlanan dizüstü bilgisayarlar, ısındıkça yavaşlar, yavaşladıkça da işlemler sürünmeye başlar.
+
+Bu durumun temel çözümü, dizüstü bilgisayarı soğutmaktır. Peki bu noktada çözüm öneren dizüstü soğutucular ne derece etkilidir? Sizlerle hem yapılan bir araştırmayı, hem de kendi testinizi yapmanız için gereken küçük bir yazılımı paylaşacağız.
+
+Bu işlem için kullanılabilecek en iyi yazılım SpeedFan. Bu yazılım bilgisayarınızdaki farklı donanımların sıcaklığını ölçüp size bildirdiği gibi, fanların dönüş hızını ayarlamanıza da imkan tanır. Bu sayede fan gürültüsünü azaltabilir ya da bilgisayarınızı daha verimli soğutabilirsiniz.
+
+Yapacağınız test çok basit, pek çok pencere ve internet tarayıcı açın. Biz yaptığımız denemede Chrome üzerinden Facebook çalıştırmanın dizüstünü çok iyi ısıttığını gördük. Aynı anda ne kadar çok işlem yapmaya kalkar, bilgisayarı ne kadar zorlarsanız o kadar iyi, tabii ki yakmadan ve çökertmeden.
+
+Belli bir sıcaklığa gelince bir ekran görüntüsü alın ve dizüstü soğutucuyu takarak 5 dakika boyunca dizüstünü soğutun. Ama uygulamaları kapatmayın, sistem aynı yük altında olmalı.
+
+Yapılan örnek bir testte 5 dakika sonra yapılan ölçüm, iç sıcaklığın 40 dereceden 37 dereceye düşmesini sağlamış. Biz de 42 dereceden 38 dereceye düştüğünü gördük. Yani dizüstü soğutucular birkaç derecelik bir fark yaratıyor. 5 dakikadan 10 dakikaya çıkıldığında da ortalama bir soğutucu ısıyı normal seviyeye düşüremiyor.
+
+İkinci test çok daha önemli, bu testte dizüstü bilgisayara açık olan internet tarayıcı pencerelerini ve uygulamaları kapatıyoruz. Bir 10 dakika bekleyip SpeedFan üzerinden core temp history'e baktığımızda bu sefer 6 derece daha düştüğünü görebiliyoruz. Yapılan bazı örnek testler de ortalama 5 derece fark olduğunu gösteriyor.
+
+Ağır yük altında yeterli olmasa da dizüstü soğutucular işe yarıyor. Ayrıca taşınabilir olanlar, erkeklerde kucakta sıcaklık artığının sperm sayısını düşürmesini engelliyor. Bu açıdan soğutucular önemli olsalar da belirttiğimiz gibi en iyi yöntem bilgisayarı soğutucu açıkken biraz dinlendirmek ve normale döndürmek.

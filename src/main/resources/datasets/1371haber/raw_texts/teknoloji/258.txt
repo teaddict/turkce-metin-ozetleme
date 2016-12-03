@@ -1,0 +1,17 @@
+Cep telefonunuz kendi kendine SMS mi atıyor?
+Cebinizde taşıdığınız akıllı telefon ile siber suçlulara para kazandırıyor olabilirsiniz. Boxer adlı truva atı, bulaştığı cep telefonundan kullanıcının bilgisi olmadan ücretli hatlara SMS atıyor. 
+Yüksek faturalara neden olan bu truva atı, ilk kez Latin Amerika ülkelerinde görüldü ancak yapılan analizler sonucunda 60’dan fazla ülkeye yayıldığı tespit edildi.
+
+Siber suçlular, akıllı telefonları yalnızca bilgi çalmak için hedeflemiyor, artık kullanıcıları ücretli hatlara abone yaparak da para kazanabiliyorlar. Böyle bir işleve sahip olan Boxer adlı truva atı, ESET tarafından Latin Amerika’da tespit edildi. “Android/TrojanSMS.Boxer.A“ adıyla etiketlenen bu zararlı yazılım, Latin Amerika bölgesindeki 9 ülkenin yanı sıra dünya genelinde 60’dan fazla ülkede görüldü.
+
+Latin Amerika Güvenlik Araştırmacısı Pablo Ramos’a göre ilk defa bir SMS truva atı bu kadar etkili. “Boxer, ücretli numaralara SMS gönderen bir truva atı“ diyen Ramos, açıklamalarını şöyle sürdürdü: “Bu truva atı, kullanıcının haberi olmadan yüksek ücretli mesajlar gönderiyor. Bu tip hizmetler genelde kullanıcıyı ücretli bir servise abone oldukları konusunda uyarır. Fakat bu truva atı servisin gönderdiği bilgilendirme mesajlarını filtreleyerek kullanıcıdan saklıyor. Doğal olarak bu gelişme kullanıcının faturalarına yansıyor.“
+
+Oyunlar yoluyla bulaşıyor 
+
+Diğer zararlı yazılımlardan farklı olarak SMS truva atları kendilerini yayamıyor. Bu nedenle bu truva atı, çeşitli uygulamalar ya da video oyunlarının içine gömülerek bulaşıyor. Kullanıcıların bir kez kandırılarak uygulamayı indirmesi ve kurması sağlandığında, artık truva atı cep telefonuna bulaşmış oluyor. Kullanıcı, uygulamayı çalıştırdığında ücretli numaraya bir SMS gönderilerek faturaya yansıyacak abonelik başlatılıyor. Ücretli numaraların çalışma mantığı ise basit: Kullanıcının telefonundan gönderilen bir SMS ile etkinleştiriliyorlar. Abone olan kullanıcıya şakalar, resimler ve SMS içeriği olabilecek her tür veri gönderilmeye başlanıyor. Ancak alınan her mesaj ücretldirilmiş oluyor.
+
+Pablo Ramos, bu tür tehditlerin kurbanı olmamak için şu tavsiyelerde bulunuyor:
+
+-Akıll telefonlara yönelik uygulamaları sadece Google Play, Apple Store gibi resmi marketlerden yükleyin.
+- E-posta veya SMS ile gönderilen ve tanımadığınız kişilerden gelen bağlantıları tıklamayın.
+- Bir güvenlik yazılımı kullanın. Android tablet ve akıllı telefonlarını korumak için ESET Mobile Security for Android kullanabilirsiniz.

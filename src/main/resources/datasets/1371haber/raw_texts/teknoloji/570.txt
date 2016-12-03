@@ -1,0 +1,21 @@
+DNS performansınızı ölçün
+DNS sunucunuzun hızını test edin, sizin için en uygun olanını bulun ve internetinizi hızlandırın.
+Bir veri paketinin internet üzerinden size ulaşması, onun belirli bir rotayı takip etmesini gerektirir. İnternet bağlantınızın performansını, bu rotaların optimizasyonu ile artırmanız mümkün olabilir. Bunun yanında, sadece DNS ayarlarınızda değişiklik yaparak bile internette gezinti hızınızı bir miktar artırmanız mümkün. 
+
+DNS optimizasyonu nedir, ne işe yarar?
+
+DNS sunucuları, internete bağlı olan bilgisayarların "alan adlarını" kayıt altında tutan bilgisayarlardır. Bazı DNS sunucuları kayıtlarını yenilememiş olabileceği gibi, bazıları geç tepki süresi nedeniyle web sayfalarının açılmasını geciktirebilir. DNS sunucunuzla ilgili herhangi bir sorun, tüm internet deneyiminizi olumsuz etkileyebilir.
+
+DNS hızınızı ölçün
+
+"DNS hız testi" kategorisi altına giren çeşitli yazılımlarla DNS performansınızı ölçeblirsiniz. Bu araçlar, son zamanlarda kullandığınız DNS sunucularının tepki süresini, herkese açık DNS sunucularıyla karşılaştırıyor.
+
+DNS sunucularının tepki sürelerini karşılaştırıarak ve bu listeyi optimize ederek tarama hızınızı geliştirebilirsiniz. Sadece 160KB'lık Domain Name Speed Benchmark, bu işi kolayca yapmanıza izin veriyor. Tarama işlemini gerçekleştirdikten sonra "Conclusions" sekmesine geçerek DNS bağlantılarınızın durumunu özet şeklinde görebiliyorsunuz.
+
+NameBench ise DNS sunucularıyla ilgili sorunları bulmanızda size yardımcı olabilecek harika bir araç. DNS optimizasyon araçlarından önce bu aracı kullanmalısınız. Çünkü eğer DNS sunucularınızın performansı yüksek ise, optimizasyona çok da fazla ihtiyacınız olmayacaktır.
+
+DNS performansınızı optimize etme
+
+DNS hız testleriniz sonucunda DNS bağlantılarınız yeterince hızlı çıkmadıysa DNS sunucularınızı değiştirmenin vakti gelmiş olabilir.
+
+DNS ayarlarınızı elle güncelleştirebileceğiniz gibi, bu konuda size yardımcı olabilecek bir araç da var. Northwestern University araştırmacıları tarafından geliştirilen NameHelp, arka planda çalışıyor ve DNS ayarlarınızı konumunuzda bulunan en hızlı DNS sunucularıyla değiştiriyor. Aracın kullanmaya başlamak için onu kurmanız ve ayarlarını gözden geçirmeniz yeterli.

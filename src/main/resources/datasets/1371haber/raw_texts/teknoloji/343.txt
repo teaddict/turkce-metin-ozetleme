@@ -1,0 +1,9 @@
+Hotmail'de erişim sıkıntısı yaşanıyor
+Popüler e-mail servislerinden Hotmail erişim sıkıntısı yaşıyor.
+Son birkaç gündür devam eden erişim sıkıntısı nedeniyle Hotmail ve Outlook.com kullanıcıları e-posta hesaplarına bakmakta güçlük çekiyor. Yer yer tamamen erişime kapanan söz konusu servisler şu hatayı kullanıcılara gösteriyor: Bağlanmaya çalışılan servislerde şu an için bir problem yaşanıyor.
+
+Web'den doğrudan Hotmail'e girmeye çalışanlarda herhangi bir sıkıntı yaşanmazken, mobil platformlardan bu servislere girmeye çalışanlar hesaplarına giremiyor.
+
+Microsoft'tan yapılan yazılı açıklamada devam eden sorunun az sayıda kullanıcıyı etkilediği ve sorunun giderilmesi için çalışmaların sürdüğü belirtildi.
+
+ İşte o hata

@@ -1,0 +1,9 @@
+Akıllı telefonlarda şoke eden gerçek
+Android işletim üzerinde yapılan son araştırma, zararlılarla ilgili bu korkunç gerçeği ortaya döktü.
+Akıllı telefonlara "akıllı" ya da "cep bilgisayarı" ibarelerini çok kolay bir şekilde yapıştırdığımız günümüzde, ne yazık ki bu cihazları normalde kullandığımız bilgisayarları koruduğumuzun yarısı kadar bile korumuyoruz. Hatta birçoklarımız akıllı telefonların zararlı yazılımlardan korunması gerektiğini bile düşünmüyor.
+
+Fakat Trend Micro isimli güvenlik firması, daha önce yaptığı bir araştırma ile Android işletim sistemi içerisinde en az bir milyon zararlı yazılım olduğunu iddia etmişti. Sadece kabaca yapılmış olan bu hesap, firmanın yaptığı son araştırma ile gerçek rakamlara kavuştu. İçerisinde tüm Play Store veri tabanın da bulunduğu toplamda iki milyon uygulamayı "Mobile App Reputation Service" ile tarayan Trend Micro, her 10 uygulamadan bir tanesinin malware, yani zararlı yazılım olduğunu ortaya çıkardı.
+
+Araştırma altında mercek altına alınan iki milyon uygulamanın 293,091 tanesi bulaşıcı virüs kategorisi olarak nitelendirilirken, 150,203 tanesi yüksek tehlike içeren virüs şeklinde gözlemlendi. 293,091 adet zararlı yazılımın, 68,740 tanesinin kaynağı ise direkt olarak Google Play Store olarak gözükmesi dikkat çekti zira an itibariyle Play Store'da 700,000 civarı uygulama bulunuyor ki bu da her 10 uygulamadan birisinin zararlı yazılım taşıyor olması anlamına geliyor.
+
+Tüm bu verilerin haricindeyse uygulamaların yüzde 22'si, kullanıcıların verilerini dilediğince etrafa yolluyor. İletişim bilgileri, telefon numaraları ve hatta mikrofon bilgilerine kadar uzayan liste, belki de zararlı yazılımların ne kadar tehlikeli olabileceğinin en net göstergesi.

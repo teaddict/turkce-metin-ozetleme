@@ -1,0 +1,7 @@
+Nokia kendi Street View'ini yaratıyor
+Windows Phone 8 ile yeni bir başlangıç yapan Nokia şimdi de Street View'e rakip oluyor.
+Harita uygulamasını geliştiren Nokia, Here ile yeni bir başlangıç yaparken, sokak görüntülerini toplayan Earthmine isimli şirketi de satın aldı. Google'ın Street View servisinde olduğu gibi kullanıcıların sokak sokak gezmesine olanak veren Earthmine, 2006 yılından beri üç boyutlu harita üzerinde çalışıyor. 
+
+Street View'den farklı olarak Türkiye'de de söz konusu servisi yaygınlaştırmayı planlayan şirket, yeni harita uygulaması Here'ı da yaygınlaştırmayı planlıyor. Bu anlamda şirket, Here uygulamasını ilerleyen haftalarda Windows Phone işletim sistemi için yayınlayacak. 
+
+Nokia'a yakın bir kaynağa göre ise şirket, Apple'ın uygulama mağazasında yayınlanması için Here'ı App Store'a gönderdi ve Apple'ın uygulamayı onaylayıp yayınlamasını bekliyor.

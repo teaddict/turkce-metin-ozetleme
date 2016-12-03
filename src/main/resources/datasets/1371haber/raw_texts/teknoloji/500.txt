@@ -1,0 +1,9 @@
+Telefonda bunu yapanlar yandı
+Telefonlarda 3 kez şifreyi yanlış girenler yandı.
+Artık cep telefonunuz, kendi hırsızının resmini çekip size yollayabilecek.
+
+Android tabalı cihazlar için geliştirilen ve Lookout Security&Antivirus isimli güvenlik yazılımı şirketine ait olan Lock Cam uygulaması, ard arda 3 kez telefonlara girmeye çalışan ve yanlış şifre girenlerin fotoğrafını ön yüzdeki dahili kamerayla çekiyor. 
+
+Daha sonra uygulama fotoğrafı otomatik olarak kullanıcılarının kendi e-posta hesabına gönderiyor ve olası hırsıza ait olan fotoğraf telefon sahibinin eline geçmiş oluyor. Bunun dışında şifrenin yanlış girildiği lokasyonu da belirleyen uygulama, Lookout.com üzerinden de hırsızın yerini kullanıcıyla paylaşıyor.
+
+Ücretsiz olan uygulama sadece Android tabanlı telefonlarda kullanılabiliyor.

@@ -1,0 +1,28 @@
+Bilim kurgu gerçeğe dönüşüyor
+Bilgisayar teknolojisinin ulaştığı yeni boyutlar sayesinde, ancak bilim kurgu filmlerinde rastlanabileceğini düşündüğümüz olaylar gerçeğe dönüşüyor.ABD'nin Chicago kentindeki Illinois Üniversitesi bilgisayar uzmanlarının geliştirdiği sanal gerçeklik sistemi sayesinde, 3 boyutlu gözlüklerinizi takarak insan beninin içinde tur atmak, Mars gezegeninin yüzeyinde uçmak artık hayal olmaktan çıktı.
+
+Cave Automatic Virtual Environment 2 (CAVE2) adı verilen sistem, yaklaşık 2,44 metre yüksekliğinde, kullanıcının etrafını 320 derecelik bir açıyla kaplayan bir ekran, 3 boyutlu görüş imkanı veren gözlükler, bilgisayar ve "sihirli değnek" adı verilen bir kontrol çubuğundan ibaret.
+
+Sistemdeki, çevreye ilişkin kesintisiz görüntü alma imkanı veren stereoskopik (derin görüşlü) 72 LCD panelinden çıkan görüntüler, insanda, gerçekte var olmayan bir dünyaya neredeyse dokunacakmış hissi yaratıyor.
+
+CAVE teknolojisi ilk kez 1990'lı yıllarda Illinois Üniversitesi eski laboratuvar direktörleri Tom DeFanti ve ve Dan Sandin tarafından bilim dünyasına tanıtıldı.
+CAVE teknolojisinin yeni sürümü olan daha yüksek çözünürlükteki CAVE2 sistemiyse yine aynı üniversitede bilgisayar uzmanı olarak çalışan Andy Johson ve Jason Leigh tarafından geliştirildi.
+
+CAVE2 bilimin hizmetinde
+
+Sistemin, esasta verileri bir noktada bir araya getirme imkanı veren etkileyici nitelikteki lenslerden oluştuğunu belirten Leigh, asıl amaçlarının, bilim adamlarının önünde büyük bir sorun olarak ortaya çıkan, çok büyük boyutlara ulaşmış durumdaki bilimsel verileri doğru olarak anlama problemine çözüm getirmek olduğunu ifade etti.
+
+Leigh, "Gelecek 5 yıl içinde CAVE, bilim adamlarının, gerçekten büyük boyuttaki verileri seyretmesini ve bu bilgilerden anlam çıkarmasını sağlayacak" dedi.
+CAVE2 sanal dünyası, doktorların eğitim yöntemlerini değiştirerek hasta bakımını iyileştirebileceği gibi eczacılık alanında çalışan araştırmacılara, insan vücudundaki proteinlere bağlanan yeni ilaçların modellerini çıkarmada yardımcı olabilecek. Araba tasarımcılar yeni tasarladıkları araçlarla bu sistem sayesinde sanal bir tur atabilecek. Mimarlar, tasarladıklar gökdelen daha inşa edilmeden içinde dolaşabilecek. Cerrahlar, ameliyat edecekleri hastadan alınan veriler ışığında yapacakları cerrahi müdahaleyi sanal ortamda prova etme imkanına kavuşabilecek.
+
+Test çalışmaları sürüyor
+
+Chicago'daki çalışmalarda lisans üstü öğrenciler ve araştırmacılar yarattıkları sanal senaryolarla CAVE2'yi test etmeyi sürdürüyor.
+
+Test çalışmaları sırasında, NASA'ya ait gerçek verilere dayanarak oluşturulmuş Mars görüntüleri üzerinde sanal bir uçuş gerçekleştiren araştırmacılar, ayrıca gerçek bir hastanın damarları üzerinde sanal bir beyin turu da yaptı.
+
+Illinois College of Medicine adlı tıp okulunda sinir cerrahı olarak çalışan Ali Alaraj, CAVE2 ile ilk kez beyni içerden izleme deneyimini, "Damarlar arasında yürüyebiliyorsunuz. Atardamarlara aşağıdan ve kenarlardan bakabiliyorsunuz. Bu benim için bir bilim kurguydu" sözleriyle ifade etti.
+
+Leigh de her gün işe gelip çalışmanın kendisi için harikulade bir olay olduğunu belirterek, "Bu, sanki her gün bir bilim kurgu düşü yaşamak gibi. Böylesi bir ortamda bilim yapmak kesinlikle harika" diye konuştu.
+
+CAVE2 projesi, ABD hükümeti bünyesinde görev yapan bağımsız bir bilim kurumu olan ABD Ulusal Bilim Vakfı ile ABD Enerji Bakanlığı'ndan sağlanan fonlarla yürütülüyor.

@@ -1,0 +1,15 @@
+Bebeklerin dilinden anlayan cihaz geliştirildi 
+
+Üzerindeki mikrofon yoluyla sesi inceleyerek bebeğin ağlama nedenini gösteren cihaz, bebek bakımını kolaylaştırıyor. 
+
+(Habersaglık-Istanbul) Bebeğin ağırlığına göre 50 santimetre ila 2 metre arasında bir mesafede bebeğe doğru tutulan aygıt, üzerindeki mikrofon yoluyla sesin frekansını, şiddetini, şeklini inceleyerek ağlama nedenini 20 saniye içerisinde üzerindeki lambalar yoluyla gösteriyor.
+Kendi bebeğini daha çabuk ve kolay anlamak isteyen elektronik mühendisi bir babanın yıllar süren çalışmalarıyla ortaya çıkan bir buluş olan WhyCry Bebekölçer, bebeğin ağlama nedenini beş alt başlığa indirgiyor:
+
+1) Açlık 
+2) İlgi isteği 
+3) Rahatsızlık / ağrı 
+4) Uyku 
+5) Gerginlik / korku 
+
+
+

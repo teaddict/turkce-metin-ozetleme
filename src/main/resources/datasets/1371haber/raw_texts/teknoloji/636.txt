@@ -1,0 +1,47 @@
+Playstation 4 yıl sonu raflarda olacak
+2 gün önce tanıtımı yapılan ve sadece Kontrolcüsü ortaya çıkan Playstation 4 ile ilgili olarak yapılan açıklamada yıl sonu piyasaya sürülecek.
+2 gün önce tanıtımı yapılan ve sadece Kontrolcüsü ortaya çıkan Playstation 4 ile ilgili olarak yapılan açıklamada yıl sonu piyasaya sürülecek.
+
+Haber ile ilgili Sony Computer Entertainment Inc. (SCEI), güçlü grafikleri ve hızı, akıllı kişiselleştirme özelliği, son derece entegre sosyalleşme imkanları ve yenilikçi ikinci ekran özelliği ile zengin ve sarmalayıcı oyun oynama deneyimini yeniden tanımlayan yeni nesil Bilgisayar eğlence sistemi PlayStation®4 (PS4)'ü New York'ta tanıttı. Bulut teknolojili PlayStation®Network ile bir araya gelen PS4, oyuncuları merkez alan ve istedikleri yerde, zamanda ve şekilde oyun oynamalarına imkan veren kapsamlı bir oyun ekosistemi sunuyor. PS4, bu yılın sonundan itibaren mağazalardaki yerini alacak.
+
+Oyuncuya odaklanıyor, geliştiriciden esinleniyor
+
+PS4, PlayStation ile oyun oynayanlara en iyi oyunların ve en sarmalayıcı deneyimlerin ulaşmasını sağlamak amacıyla sıfırdan tasarlandı. PS4 bu amacına, dünyanın en büyük oyun geliştiricilerinin tam olarak ihtiyaçlarına göre ayarlanmış bir sistem yoluyla yaratıcılıklarını ortaya çıkararak oyunun sınırlarını daha da ileriye taşınmalarını sağlayarak ulaşıyor.
+
+PS4 aynı zamanda oyuncuları konsol ve mobil alanlarda PlayStation ve PlayStation® Network (PSN) tarafından sunulan deneyimlerden oluşan daha geniş dünyaya da kusursuz şekilde bağlayabiliyor.
+
+PS4 sistem mimarisi, yüksek performansı ve geliştirme kolaylığı ile de farkını ortaya koyuyor. PS4'ün merkezinde, sekiz x86-64 çekirdek ve en son teknoloji grafik işlemci içeren, güçlü bir özel yonga yatıyor.
+
+Grafik İşlem Birimi (GPU), başta fizik simülasyonu gibi genel amaçlı hesaplama (GPGPU) için GPU'nun daha kolay şekilde kullanımına imkan verilmesi olmak üzere, farklı şekillerde daha da geliştirildi. GPU, grafikler, simülasyon görevleri veya her ikisinin karışımına serbestçe uygulanabilen toplam 1,84 traflopluk işleme gücüne sahip, 18 hesaplama birimli bir birleşik dizi içeriyor.
+
+PS4, platform üzerinde oyunların yaratılmasını kolaylaştıran ve erişilebilen içeriğin zenginliğini artıran 8 GB'lik birleşik sistem belleği ile donatılmış bulunuyor. Bellekte GDDR5 kullanılması sayesinde saniyede 176 GB'lik bant genişliğine kavuşan sistemin grafik performansı daha da artırılmış oluyor. Bunun sonucunda ise oyunseverler de tüm beklentilerinin üzerine çıkacak zengin, yüksek duyarlıklı grafikler ve son derece sarmalayıcı deneyimler sunan yeni oyunlara kavuşmuş oluyor.
+
+Paylaşılan oyun deneyimleri
+
+Sosyal etkileşim, PS4 deneyimlerinde merkezi bir yere sahip olduğundan yeni özellikler de sistemin donanım mimarisinin asıl temeline entergre edildi. PS4, oynanan oyunların kusursuz şekilde karşıya yüklenmesine imkan veren adanmış, "daima açık" video sıkıştırma ve açma sistemleri sunuyor. Bugüne kadar ilk defa, oyunseverler tek bir düğmeye basarak efsanevi zaferlerini diğerleri ile paylaşabiliyor. Oyunseverlerin tek yapması gereken, Kumanda üzerindeki "PAYLAŞ düğmesi"ne basarak oynanan oyunun son birkaç dakikasına bakmak, etiketlemek ve oyuna geri dönmek. Oyuncu oyununa devam ederken, video da karşı tarafa yükleniyor. Oyunseverler görüntü ve videolarını Facebook gibi sosyal ağ hizmetleri üzerindeki dostları ile paylaşabiliyor.
+
+PS4 aynı zamanda oyunseverlerin Ustream gibi canlı internet üzerinden akıtma hizmetlerinden yararlanarak oynadıkları oyunları arkadaşlarına gerçek zamanlı olarak yayınlamasına imkan vererek sosyal izlemeyi de geliştiriyor. Canlı yayınlar sırasında, izleyiciler akıtımı yapılan oyun hakkında yorumlar yapabiliyor ve oyuncunun zorlu bir düzeyde takılıp kalması durumunda, arkadaşları da oyuna tamamıyla yeni şekillerde katılabiliyor. Örneğin, oyuncunun oyun oynarken en çok ihtiyaç duyduğu anlarda, arkadaşları kendisine sağlık iksirleri veya özel silahlar sunabiliyor.
+
+Ayrıca, kullanıcılar Sony Entertainment Network hesabı ile Facebook hesaplarına da bağlanabiliyor. PS4 üzerinden, kullanıcılar birlikte oynama veya "oyunlar arası söyleşi" yoluyla bağlantılarını daha da derinleştirebiliyor.
+
+PS4 ikinci ekranlar
+
+PS4, oyunseverlerin en sevdikleri içeriğe nerede olurlarsa olsunlar ulaşabilmesini sağlamak üzere PlayStation®Vita (PS Vita), akıllı Telefon ve tabletler de dahil olmak üzere ikinci ekranları da entegre ediyor. PS4, PS Vita'yı en üst düzey refakatçi cihaz haline getirerek ikinci ekranın mümkün kıldığı temel özelliklerden biri olan "Uzaktan Oynama"nın (Remote Play) potansiyelini de tam olarak gerçekleştiriyor. PS Vita ile oyunseverler PS4 oyunlarını oturma odalarındaki televizyondan kusursuzca alıp Wi-Fi ağları*1 üzerinden PS Vita'nın mükemmel 5 inçlik ekranında ve sezgisel çift analog çubukları ile oynayabilecek. SCEI'nin uzun vadedeki vizyonunda, PS4 oyunlarının çoğunun PS Vita*2 üzerinde oynanabilir hale getirilmesi de bulunuyor.
+
+SCE'nin sunduğu yeni bir uygulama olan "PlayStation®App", iphone, ipad ve Android tabanlı akıllı Telefon ve tabletleri*3 ikinci ekranlar haline getiriyor. Uygulamanın bu cihazlara kurulumu tamamlandıktan sonra, kullanıcılar örneğin bir macera oyunu oynarken ikinci ekranları üzerinde haritaları görebiliyor, evde olmadıkları sırada PS4 oyunları satın alıp doğrudan evdeki konsollarına indirebiliyor veya cihazları üzerinde oyun oynayan diğer oyunseverleri uzaktan izleyebiliyor.
+
+Anında oyun oynama
+
+PS4, oyuncular ile sahip oldukları içerik arasındaki gecikme süresini de muazzam ölçüde düşürüyor. PS4'te, sistemi düşük enerji tüketiminde tutarken oyun oturumunu koruyan bir "askıya alma modu" da bulunuyor. Artık konsolu başlatarak kayıtlı bir oyunu yüklemek için beklemek de geçmişte kalıyor. PS4 ile oyunseverler yeniden sadece açma düğmesine basarak oynadıkları oyuna tam da bıraktıkları yerden devam edebiliyor. Ayrıca, kullanıcılar PS4 üzerinde oyun oynarken internet tarayıcısının da aralarında bulunduğu çeşitli uygulamaları başlatabiliyor.
+
+PS4 aynı zamanda oyunların arka planda, hatta bekletme modunda bile indirilmesine veya güncellenmesine de imkan veriyor. Sistem bunu bir adım daha da ileriye götürerek, dijital oyunları yüklenirken oynanabilir hale getiriyor. Oyuncu bir oyun satın aldığında, PS4 verilerin sadece küçük bir kısmını indirerek oyunseverin oynamaya derhal başlamasına imkan verirken, geriye kalan kısım ise oyun oynanırken arka planda indiriliyor.
+
+Kişiselleştirilmiş içerik
+
+Yeni tasarlanan PS4 menü ekranı üzerinde oyuncular arkadaşlarının paylaştığı oyunla ilgili bilgilere bakabiliyor, arkadaşlarının oyunlarını kolaylıkla izleyebiliyor veya oyunlar, Televizyon programları veya filmler gibi tavsiye edilen içerikler hakkında bilgi elde edebiliyor. PS4'ün uzun vadeli hedefini ise dijital oyunları indirme süresini sıfıra indirmek oluşturuyor. Sistemin oyuncu hakkında, bir sonra satın alacağı oyunu tahmin edecek kadar yeterli bilgiye sahip olması halinde, oyun "satın al" düğmesine basılmadan önce indirilerek kullanıma hazır hale de getirilebiliyor. PS4, kullanıcıların potansiyel oyun ihtiyaçlarını karşılamak suretiyle eğlence deneyimini daha da zenginleştiriyor.
+
+Bulutta oyun oynamak
+
+PlayStation kullanıcılarına yönelik bir ağ hizmeti olarak Kasım 2006'da hayata geçirilen ve halen dünyanın dört bir yanındaki 67 ülke ve bölgede*4 faaliyet gösteren PlayStation Network üzerinden indirilen içerik miktarı bugüne kadar 2,8 milyarı aştı*5. PlayStation®Store üzerinden erişilebilen çeşitli oyunlara ek olarak, PS4 kullanıcıları aynı zamanda Sony Corporation'ın bulut temelli müzik abonelik hizmeti Music Unlimited ve premium video hizmeti Video Unlimited gibi PSN tarafından sunulan çeşitli hizmetlerin yanı sıra çeşitli içerik dağıtım hizmetlerinden de faydalanabilecek.
+
+PlayStation Network ile Gaikai Inc'in bulut teknolojisini bir araya getirmek suretiyle çeşitli oyunların ücretsiz olarak incelenebilmesini sağlamak da SCE'nin hedefini oluşturuyor. Gelecekte, oyuncu PlayStation Store üzerinde ilgisini çeken bir oyun gördüğünde, o oyunun kısıtlanmış bir sürümünü değil, asıl oyunun bir bölümünü de anında oynamaya başlayabilecekler. Gaikai ve PlayStation Store ile oyunseverler kendilerine cazip gelen oyunları deneyebilecek ve sadece gerçekten hoşlarına giden oyunları oynayabilecek. PlayStation Network ve bulut PlayStation üzerinde oyun oynayanlara ek değer sağlayacak. SCE, aralarında sektörde benzeri olmayan ve 3000'i aşkın PS3 oyunundan*6 oluşan inanılmaz bir katalogun da aralarında bulunduğu PlayStation kütüphanelerinin büyük ölçüde PS4 üzerinde oynanabilir olmasını sağlamaya yönelik uzun dönemli vizyonu doğrultusunda bulut teknolojisinin mümkün kıldığı eşsiz fırsatları da inceliyor gerçekten.

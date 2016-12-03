@@ -1,0 +1,20 @@
+Osmanlı'nın savaşları oyun oluyor
+Osmanlı İmparatorluğu döneminde yapılan savaşları konu edinen web tabanlı bilgisayar oyunu geliştirmek üzere bir araya gelen 6 kişi, 1,5 yıl süren çalışmalarda askeri karakterler ile konsept çizimleri tamamlanan oyunu 3 ay içerisinde teste hazır hale getirmeyi planlıyor.Elazığ'da yaşayan, oyunun karakterlerini ve mekanlarını tasarlayan konsept ve grafik tasarımcı Ahmet Tanyıldızı, yaptığı açıklamada, yaklaşık 2 yıl önce grafik sanatçılarına yönelik bir internet sitesinde çizimlerini paylaşırken, çizimlerini beğenen üç boyutlu oyun modellemeci Ömer Faruk Bulanık'ın kendisini, Osmanlı İmparatorluğu'ndaki savaşları konu edinen oyun hazırlayan ekibe davet ettiğini söyledi.
+
+Ekipte bulunmayı kabul ettiğini bildiren Tanyıldızı, Ben zaten Osmanlı İmparatorluğu'nun mümkün olduğunca tanıtılması taraftarıyım. Bu oyun da büyük katkı sağlayacak. Arkadaşlarla yaptığım görüşmelerde güzel bir iş ortaya koyacağımıza inanarak bu işe dahil oldum dedi.
+
+Tanyıldızı, çalışmalarının 1,5 yıldır sürdüğünü belirterek, Oyun 3D olacak. Oyunun server yazılımı, veri tabanı alt yapısı, çoğu asker ve kale gibi yapıların iki boyutlu çizimleri tamamlandı. 3 boyuta aktarılıyor. Oyunun çoğu kısmı programlamadan ibaret. Programlama işleri bitince yapı ve askerler oyuna dahil edilecek. Esnek bir alt yapı için uğraşıyoruz. Oyunun kapalı betasını 2-3 aya kadar bitirmeye çalışıyoruz. Burada oyundaki hatalar belirlenecek, eksiklikler tamamlanacak. Bu testler bittikten sonra kesin çıkış tarihi belirlenecek diye konuştu.
+
+Bugüne kadar sadece Osmanlı İmparatorluğunu konu edinen, internet üzerinden online oynanabilen ve tamamı Türk yapımı olan bir oyunun olmadığını ifade eden Tanyıldızı, şunları aktardı: Bugüne kadar gördüğümüz oyunlarda Osmanlı İmparatorluğu oyunun bir kısmında kısıtlı olarak konu edinilmiş. Bizim oyun ise tamamen Osmanlı İmparatorluğu'nu konu ediniyor. Bu yönden online olarak ilk oyun olacak. Benzer oyunlardan CD ortamında yapılmış olanlar vardı. Bu oyun çevrim içi herkesin bir arada oynayacağı bir oyun olacak. Ayrıca bu oyunlar devasa şirketlerce yapılmış oyunlar. Bizler ise tamamı bilgisayar oyunları meraklısı kişileriz. Kısaca söylemek gerekirse sadece Osmanlı İmparatorluğu'nu konu edinen, büyük firmalar yerine bilgisayar oyunu meraklılarınca hazırlanmış ve hazırlayan ekibin tamamı Türk olan, online oynanabilen tek oyun.
+
+Ahmet Tanyıldızı, oyunda Osmanlı ile savaşların yapıldığı ülkelerin kullandıkları asker ve mekanların çizimine azami özen gösterdiklerini, oyun ilerledikçe oyuncunun gerek mevcut askerlerini güçlendirebileceği gibi artan ekonomik güç ve teknolojiye paralel olarak yeni askeri sınıfları kullanma hakkı kazanacağını kaydetti.
+
+Oyunun senaryosu
+
+Tanyıldızı, oyunun Osmanlı İmparatorluğu'nun kurulduğu 1299 yılından başlayacağını belirtti.
+
+Oyuncuya başlangıçta çok gelişmemiş bir şehir verilerek oyuncudan Osmanlı İmparatorluğu'nu kurması isteneceğini ifade eden Tanyıldızı, Oyuncuya kuruluştaki savaşlar görev olarak veriliyor. Oyuncu o savaşları yapıyor. Kazandıkça ekonomi gelişiyor, güç artıyor. Oyun strateji uygulamayı öngörüyor dedi.
+
+Senaryoda oyunun ileri aşamalarında Osmanlı İmparatorluğu'nun yıkılmayacağını vurgulayan Tanyıldızı, Osmanlı yıkılmayacak. Gerileme dönemindeki savaşlar daha zor olacak. Oyuncu bunları yenmeye çalışacak. Başarılı oldukça devam edecek Osmanlı İmparatorluğu. Oyunun hedefi 'En iyi Osmanlı kim olacak? diye konuştu.
+
+Ahmet Tanyıldızı, oyunu hazırlayanlar ile aynı ortamda bulunamamalarının süreci olumsuz etkilediğini belirterek, Ama gece gündüz yılmadan çalışıyoruz. Bu tür projeler için hibe veya destek verecek kuruluşlar için de şansımızı deneyeceğiz. Şu aşamada emek dışında sıfır maliyetle ilerliyoruz dedi.

@@ -1,0 +1,11 @@
+Redhack YÖK'ü hedef aldı
+Daha önce bir çok kamu kuruluşununun internet sitesini çökerten Redhack'in 2013'deki ilk hedefi YÖK oldu.Bilgisayar korsanları daha sonra Bitlis Üniversitesi'ni hedef aldı.
+Redhack, 2012'de çökerttiği İçişleri Bakanlığı, Dışişleri Bakanlığı ve Emniyet Genel Müdürlüğü gibi kamu kuruluşlarının internet sitelerinden sonra 2013'ün ilk saatlerinde YÖK'ü hedef aldı. 
+
+Redhack sabah 04.30 sıralarında Twitter'dan yaptığı "Herhade YÖK'un adminleri yilbasi eglencesinde.. Bugunu secmemiz iyi olmus. :) Halen hacklidir. Yazilar ortada=> http://ide.yok.gov.tr" duyuru ile eylemini açıkladı. YÖK'ün resmi sitesine bağlı internet eğitim sayfası olan ide.yok.gov.tr adresine girenler bilgisayar korsanlarının ODTÜ öğrencilerine destek amacıyla yayınladıkları mesajla karşılaştı.
+
+Redhack yaptıkları eylem için "Bu sadece başlangıç kıyamet 2013'de kopacak" dedi.
+ 
+Başbakan Erdoğan'ın Göktürk-2 uydusunun fırlatılması için ODTÜ üniversitesite gittiği sırada düzenlenen öğrenci eylemlerinde olaylar çıkmış ve konu uzun süre gündeme oturmuştu. 
+
+Redhack sabah 06.00'da ise Bitlis Üniversitesi'nin internet sitesini çökerttiğini "YuksekOgretim Kurumu http://ide.yok.gov.tr/  sonra Yozgat ve Bitis universiteleride hacklenenler arasinda. Bekleyin bu hafta ici $a$irtacagiz;) " mesajı ile duyurdu.

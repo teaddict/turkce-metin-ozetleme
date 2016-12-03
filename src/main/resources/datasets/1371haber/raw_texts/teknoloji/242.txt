@@ -1,0 +1,13 @@
+Gökteki uçaklara internetten yakın takip
+Teknoloji sayesinde isteyen herkes gökyüzündeki binlerce yolcu uçağını, internet üzerinden saniye saniye takip edebiliyor.
+'Transponder' adlı haberleşme cihazı ile donatılan uçaklardan yeryüzüne ulaşan sinyaller yardımıyla çalışan sistem; o an seferdeki uçakların; tipi dâhil hangi havayolu şirketine ait olduğu, nereden-nereye gittiği, hızı, yüksekliği, bulunduğu koordinat gibi anlık bilgiler veriyor. İsteyen meraklılar, simülasyon aracılığıyla kokpitteki pilotların bakış açısıyla, o anki uçuşa eşlik edebiliyor. Ancak, ABD hava sahasındaki uçaklarla ilgili bilgiler, güvenlik göz önüne alınarak 5 dakika gecikme ile izleniyor.
+
+Google Maps (haritalar) aracılığıyla www.flightradar24.com, www.iststatus.com gibi internet platformları, gökyüzündeki uçaklara ait bilgilerin yanı sıra pilotların, radar merkezleri ile yaptığı telsiz konuşmalarını da yayınlıyor.
+
+GÜVENLİK ENDİŞESİ
+
+Yeryüzüne ulaşan sinyallerle oluşturulan grafikler, gökyüzünde aynı anda binlerce uçağın sefer yaptığını gösteriyor. 
+
+Sistem, Airbus şirketine ait bütün uçak modellerini kapsıyor. Ancak güvenlik endişesinden başta ABD başkanlık uçağı Air Force One, çoğu askeri uçak, büyük uçaklar, birkaç modeli hariç tüm Embraer, CASA, Bombardier şirketlerine ait uçaklar, Antonov AN225 ile Boeing'in bazı modelleri uygulama için sinyal göndermiyor.
+
+Gökteki binlerce uçağı izleme fırsatı sunan takip sistemi; Avrupa'nın yüzde 90'ı, ABD, Kanada, Avustralya, Ortadoğu ve Japonya'nın tamamı ile dünyanın geri kalan bazı bölgelerinde aktif olarak çalışıyor.

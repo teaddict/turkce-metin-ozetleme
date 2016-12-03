@@ -1,0 +1,447 @@
+I|12:15:04.001|Parser ready: 2649ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:15:04.337|Cache ready: 3004ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Dünya medyasından Deprem Manzaraları
+
+Van depremi yabancı medyada yoğun biçimde değerlendiriliyor. Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor. New York Times gazetesi, deprem bölgesinde "kahramanlık ve inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, "Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" diye yazdı. İsrail dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+
+ABD'nin çok satan gazetesi Wall Street Journal da, "Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil" başlıklı haberinde ABD'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın "Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır" değerlendirmesini aktardı. Binaların kolay çökmesine de dikkat çekildiği haberler ve yorumlarda dış yardım önerilerinin reddedilmesi de eleştirildi.
+
+İngiliz Times gazetesi, "Zayıf Mantık" başlıklı haberinde "korkunç deprem sonrası, Türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, Türk hükümetinin dış yardımları reddetme kararını "acımasızlık ve duygusuzluk" olarak yorumladı. BBCTürkçe tarafından yansıtılan haberde, "Kuşkusuz Türkiye, on yıl öncesine kıyasla daha modern, daha güvenli ve daha refah bir yer ama hiçbir ülke, bir depremle tek başına rahatlıkla baş edecek kadar modern ve kalkınmış değil" denilirken, Erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi. "Türk gururu, başka türlü durumda yaşayacak olanların kanı ve kırık kemikleri üzerine inşa edilmemeli" görüşüne yer verilen haberde, "Bölgesel istikrar, arkadaşlık üzerine şekillenir ve Türkiye kendisine bunu teklif eden ülkelerle çevrili. Bu nedenle bu yardımları kabul etmeli" ifadeleri kullanıldı.
+
+Kurtarma ekiplerinin yoğun çabalarına vurgu yapan İngiliz The Guardian gazetesi, "Dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan on birlerce insan konusundaki kaygılar artıyor" yorumunu da yaptı. Binaların kolayca çökmesinin yarattığı endişelere de değinen gazete, bazı yardım çabalarının sosyal medya  tarafından örgütlendiğine, binlerce twitter mesajının alındığına dikkat çektikten sonra, "Ancak daha karanlık bir tarafı da var; Bir Türk TV sunucusu, bazen polisle çatışan Kürtlerin neden güvenlik personelinden yardım bekledikleri sorusuyla protestolara yol açtı" diye yazdı.
+
+
+
+
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿dünya medyasından deprem manzaraları
+
+van depremi yabancı medyada yoğun biçimde değerlendiriliyor. deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere vurgu yapıyor. new york times gazetesi, deprem bölgesinde "kahramanlık inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 çadır 25 battaniye gıda gönderildiğini belirtikten sonra, "ancak yardım çabaları, yerlerde kaotik idi yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" yazdı. israil dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini kaydeden gazete, hükümetin israil'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+
+abd'nin satan gazetesi wall street journal da, "depremin vurduğu bölge, sismik aktif hazırlıklı değil" başlıklı haberinde abd'deki north eastern üniversitesi mühendislik bölümü öğretim üyelerinden deprem uzmanı profesör mishac yegian’ın "bölgede az sayıda bina, 7 büyüklüğündeki depreme dayanmak hazır" değerlendirmesini aktardı. binaların kolay çökmesine dikkat çekildiği haberler yorumlarda dış yardım önerilerinin reddedilmesi eleştirildi.
+
+ingiliz times gazetesi, "zayıf mantık" başlıklı haberinde "korkunç deprem sonrası, türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, türk hükümetinin dış yardımları reddetme kararını "acımasızlık duygusuzluk" yorumladı. bbctürkçe yansıtılan haberde, "kuşkusuz türkiye, yıl öncesine kıyasla modern, güvenli refah yer ülke, depremle tek başına rahatlıkla baş modern kalkınmış değil" denilirken, erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi. "türk gururu, başka türlü durumda yaşayacak olanların kanı kırık kemikleri üzerine inşa edilmemeli" görüşüne yer verilen haberde, "bölgesel istikrar, arkadaşlık üzerine şekillenir türkiye teklif ülkelerle çevrili. yardımları kabul etmeli" ifadeleri kullanıldı.
+
+kurtarma ekiplerinin yoğun çabalarına vurgu yapan ingiliz the guardian gazetesi, "dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan birlerce insan konusundaki kaygılar artıyor" yorumunu yaptı. binaların kolayca çökmesinin yarattığı endişelere değinen gazete, yardım çabalarının sosyal medya  örgütlendiğine, binlerce twitter mesajının alındığına dikkat çektikten sonra, "ancak karanlık tarafı var; türk tv sunucusu, bazen polisle çatışan kürtlerin güvenlik personelinden yardım bekledikleri sorusuyla protestolara yol açtı" yazdı.
+
+
+
+
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿dünya medyasından deprem manzaraları
+
+PARAGRAPH: van depremi yabancı medyada yoğun biçimde değerlendiriliyor. deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere vurgu yapıyor. new york times gazetesi, deprem bölgesinde "kahramanlık inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 çadır 25 battaniye gıda gönderildiğini belirtikten sonra, "ancak yardım çabaları, yerlerde kaotik idi yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" yazdı. israil dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini kaydeden gazete, hükümetin israil'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+
+PARAGRAPH: abd'nin satan gazetesi wall street journal da, "depremin vurduğu bölge, sismik aktif hazırlıklı değil" başlıklı haberinde abd'deki north eastern üniversitesi mühendislik bölümü öğretim üyelerinden deprem uzmanı profesör mishac yegian’ın "bölgede az sayıda bina, 7 büyüklüğündeki depreme dayanmak hazır" değerlendirmesini aktardı. binaların kolay çökmesine dikkat çekildiği haberler yorumlarda dış yardım önerilerinin reddedilmesi eleştirildi.
+
+PARAGRAPH: ingiliz times gazetesi, "zayıf mantık" başlıklı haberinde "korkunç deprem sonrası, türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, türk hükümetinin dış yardımları reddetme kararını "acımasızlık duygusuzluk" yorumladı. bbctürkçe yansıtılan haberde, "kuşkusuz türkiye, yıl öncesine kıyasla modern, güvenli refah yer ülke, depremle tek başına rahatlıkla baş modern kalkınmış değil" denilirken, erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi. "türk gururu, başka türlü durumda yaşayacak olanların kanı kırık kemikleri üzerine inşa edilmemeli" görüşüne yer verilen haberde, "bölgesel istikrar, arkadaşlık üzerine şekillenir türkiye teklif ülkelerle çevrili. yardımları kabul etmeli" ifadeleri kullanıldı.
+
+PARAGRAPH: kurtarma ekiplerinin yoğun çabalarına vurgu yapan ingiliz the guardian gazetesi, "dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan birlerce insan konusundaki kaygılar artıyor" yorumunu yaptı. binaların kolayca çökmesinin yarattığı endişelere değinen gazete, yardım çabalarının sosyal medya  örgütlendiğine, binlerce twitter mesajının alındığına dikkat çektikten sonra, "ancak karanlık tarafı var; türk tv sunucusu, bazen polisle çatışan kürtlerin güvenlik personelinden yardım bekledikleri sorusuyla protestolara yol açtı" yazdı.
+
+
+
+######Cümleler:######
+
+﻿dünya medyasından deprem manzaraları
+
+van depremi yabancı medyada yoğun biçimde değerlendiriliyor.
+deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere vurgu yapıyor.
+new york times gazetesi, deprem bölgesinde "kahramanlık inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 çadır 25 battaniye gıda gönderildiğini belirtikten sonra, "ancak yardım çabaları, yerlerde kaotik idi yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" yazdı.
+israil dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini kaydeden gazete, hükümetin israil'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+abd'nin satan gazetesi wall street journal da, "depremin vurduğu bölge, sismik aktif hazırlıklı değil" başlıklı haberinde abd'deki north eastern üniversitesi mühendislik bölümü öğretim üyelerinden deprem uzmanı profesör mishac yegian’ın "bölgede az sayıda bina, 7 büyüklüğündeki depreme dayanmak hazır" değerlendirmesini aktardı.
+binaların kolay çökmesine dikkat çekildiği haberler yorumlarda dış yardım önerilerinin reddedilmesi eleştirildi.
+ingiliz times gazetesi, "zayıf mantık" başlıklı haberinde "korkunç deprem sonrası, türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, türk hükümetinin dış yardımları reddetme kararını "acımasızlık duygusuzluk" yorumladı.
+bbctürkçe yansıtılan haberde, "kuşkusuz türkiye, yıl öncesine kıyasla modern, güvenli refah yer ülke, depremle tek başına rahatlıkla baş modern kalkınmış değil" denilirken, erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi.
+"türk gururu, başka türlü durumda yaşayacak olanların kanı kırık kemikleri üzerine inşa edilmemeli" görüşüne yer verilen haberde, "bölgesel istikrar, arkadaşlık üzerine şekillenir türkiye teklif ülkelerle çevrili.
+yardımları kabul etmeli" ifadeleri kullanıldı.
+kurtarma ekiplerinin yoğun çabalarına vurgu yapan ingiliz the guardian gazetesi, "dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan birlerce insan konusundaki kaygılar artıyor" yorumunu yaptı.
+binaların kolayca çökmesinin yarattığı endişelere değinen gazete, yardım çabalarının sosyal medya  örgütlendiğine, binlerce twitter mesajının alındığına dikkat çektikten sonra, "ancak karanlık tarafı var; türk tv sunucusu, bazen polisle çatışan kürtlerin güvenlik personelinden yardım bekledikleri sorusuyla protestolara yol açtı" yazdı.
+
+
+
+######Title######
+﻿dünya medyasından deprem manzaraları
+
+
+######Nouns of text:######
+[Dünya, medya, deprem, manzara, Van, deprem, yaban, medya, yoğ, biçim, deprem, bölge, ilişki, televizyon, görüntü, fotoğraf, biçim, yer, vere, yaban, medya, çaba, mucize, yan, sır, yardım, operasyon, eksik, vurgu, gazete, deprem, bölge, kahraman, hayat, öykü, örnek, haber, çadır, battaniye, gıda, belirtik, sonra, yardım, çaba, yer, yardım, merkez, kavga, ilişki, haber, İsrail, dâhil, aşk, ülke, yardım, öneri, gazete, hükümet, İsrail, teklif, iddia, dikkat, ABD, gazete, deprem, bölge, aktif, hazırlık, değil, başlık, haber, ABD, üniversite, mühendis, bölüm, öğreti, üye, deprem, uzman, profesör, bölge, Az, sayı, bina, büyük, deprem, bina, kolay, dikkat, haber, yorum, dış, yardım, öneri, İngiliz, gazete, zayıf, mantık, başlık, haber, deprem, sonra, Türkiye, komşu, yardım, görüş, Türk, hükümet, dış, yardım, karar, acımasız, duygu, haber, kuşku, Türki, yıl, önce, kıyas, güven, refah, yer, ülke, deprem, tek, baş, rahat, baş, değil, hükümet, dış, yardım, gerekçe, yeter, Türk, gurur, tür, durum, kan, kırık, kemik, üzeri, inşa, görüş, yer, haber, bölge, istikrar, arkadaş, üzeri, Türki, teklif, ülke, çevri, yardım, kabul, ifade, ekip, yoğ, çaba, vurgu, İngiliz, gazete, soğuk, gece, dışarı, zor, kala, birler, insan, konu, kaygı, yorum, bina, kolay, endişe, gazete, yardım, çaba, sosyal, medya, binler, mesaj, dikkat, sonra, karanlık, taraf, var, Türk, tv, sunucu, polis, Kürt, güven, personel, yardım, soru, protesto, yol]
+I|12:15:05.805|Parser ready: 1308ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:15:05.885|Cache ready: 1387ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[değerlendirmek, yemek, vermek, kurtarmak, yarmak, yapmak, inanmak, kalmak, olmak, örneklemek, vermek, anlatmak, göndermek, yarmak, yarmak, dağıtmak, yaşanmak, gelmek, yazmak, yarmak, gelmek, kaydetmek, reddetmek, yalanlamak, çekmek, satmak, vurmak, değmek, azmak, aktarmak, çekilmek, yarmak, eleştirmek, yarmak, gerekmek, savunmak, reddetmek, yorumlamak, yansımak, yılmak, kıyaslamak, yemek, kalkınmak, değmek, demek, reddetmek, bulunmak, kaybetmek, yaşamak, etmek, görüşmek, yemek, vermek, şekillenmek, etmek, kullanmak, kurtarmak, yapmak, donmak, kalmak, artmak, yapmak, yaratmak, değinmek, yarmak, örgütlemek, alınmak, varmak, çatışmak, yarmak, beklemek, yolmak, aç, yazmak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 539
+All chain size: 549
+Unique Chains: 150
+Chain Puan Eşik değeri:17
+Chain Strength Eşik değeri:0.88
+Chain criterion değeri:3.951763879814551
+Strong Chains: 9
+dikkat
+antonymy
+kişisel özellik
+dikkat
+antonymy
+kişisel özellik
+güven
+antonymy
+kişisel özellik
+gurur
+antonymy
+kişisel özellik
+gurur
+state_of
+kişisel özellik
+dikkat
+antonymy
+kişisel özellik
+güven
+antonymy
+kişisel özellik
+7
+42
+4.0
+
+
+bölge
+synonymy
+nahiye
+bölge
+synonymy
+nahiye
+bölge
+synonymy
+nahiye
+bölge
+synonymy
+nahiye
+bölge
+synonymy
+nahiye
+5
+50
+4.0
+
+
+haber
+synonymy
+salık
+haber
+synonymy
+salık
+haber
+synonymy
+salık
+haber
+synonymy
+salık
+haber
+synonymy
+salık
+haber
+synonymy
+salık
+haber
+synonymy
+salık
+7
+70
+6.0
+
+
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+8
+80
+7.0
+
+
+bölge
+synonymy
+toprak
+bölge
+synonymy
+toprak
+ülke
+synonymy
+toprak
+ülke
+hypernymy
+toprak
+bölge
+synonymy
+toprak
+bölge
+synonymy
+toprak
+ülke
+synonymy
+toprak
+ülke
+hypernymy
+toprak
+bölge
+synonymy
+toprak
+ülke
+synonymy
+toprak
+ülke
+hypernymy
+toprak
+11
+92
+9.0
+
+
+gazete
+synonymy
+hazırlandığı
+gazete
+synonymy
+hazırlandığı
+gazete
+synonymy
+hazırlandığı
+gazete
+synonymy
+hazırlandığı
+gazete
+synonymy
+hazırlandığı
+gazete
+synonymy
+hazırlandığı
+6
+60
+5.0
+
+
+öneri
+related_with
+siyaset
+hükümet
+related_with
+siyaset
+yorum
+related_with
+siyaset
+öneri
+related_with
+siyaset
+hükümet
+related_with
+siyaset
+hükümet
+related_with
+siyaset
+istikrar
+related_with
+siyaset
+yorum
+related_with
+siyaset
+sosyal
+related_with
+siyaset
+protesto
+related_with
+siyaset
+10
+40
+4.0
+
+
+yer
+synonymy
+durum
+yer
+synonymy
+durum
+merkez
+synonymy
+durum
+yer
+synonymy
+durum
+rahat
+antonymy
+durum
+rahat
+state_of
+durum
+yer
+synonymy
+durum
+7
+57
+4.0
+
+
+yaban
+hypernymy
+yer
+yaban
+hypernymy
+yer
+gazete
+hypernymy
+yer
+merkez
+hypernymy
+yer
+gazete
+hypernymy
+yer
+gazete
+hypernymy
+yer
+dış
+hypernymy
+yer
+gazete
+hypernymy
+yer
+dış
+hypernymy
+yer
+dış
+hypernymy
+yer
+gazete
+hypernymy
+yer
+dışarı
+hypernymy
+yer
+gazete
+hypernymy
+yer
+taraf
+synonymy
+yer
+14
+62
+8.0
+
+
+[0, 1, 2, 3, 4, 5, 6, 7, 10]
+#############Heuristic1 OUTPUT############
+0 : Van depremi yabancı medyada yoğun biçimde değerlendiriliyor.
+1 : Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor.
+2 : New York Times gazetesi, deprem bölgesinde "kahramanlık ve inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, "Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" diye yazdı.
+3 : İsrail dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+4 : ABD'nin çok satan gazetesi Wall Street Journal da, "Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil" başlıklı haberinde ABD'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın "Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır" değerlendirmesini aktardı.
+5 : Binaların kolay çökmesine de dikkat çekildiği haberler ve yorumlarda dış yardım önerilerinin reddedilmesi de eleştirildi.
+6 : İngiliz Times gazetesi, "Zayıf Mantık" başlıklı haberinde "korkunç deprem sonrası, Türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, Türk hükümetinin dış yardımları reddetme kararını "acımasızlık ve duygusuzluk" olarak yorumladı.
+7 : BBCTürkçe tarafından yansıtılan haberde, "Kuşkusuz Türkiye, on yıl öncesine kıyasla daha modern, daha güvenli ve daha refah bir yer ama hiçbir ülke, bir depremle tek başına rahatlıkla baş edecek kadar modern ve kalkınmış değil" denilirken, Erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi.
+10 : Kurtarma ekiplerinin yoğun çabalarına vurgu yapan İngiliz The Guardian gazetesi, "Dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan on birlerce insan konusundaki kaygılar artıyor" yorumunu da yaptı.
+representative
+[dikkat, bölge, ülke, gazete, haber, deprem, yer, hükümet, dış]
+#############Heuristic2 OUTPUT############
+Van depremi yabancı medyada yoğun biçimde değerlendiriliyor.
+Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor.
+New York Times gazetesi, deprem bölgesinde "kahramanlık ve inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, "Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" diye yazdı.
+İsrail dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+ABD'nin çok satan gazetesi Wall Street Journal da, "Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil" başlıklı haberinde ABD'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın "Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır" değerlendirmesini aktardı.
+#############Heuristic3 OUTPUT############
+1 : Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor.
+2 : New York Times gazetesi, deprem bölgesinde "kahramanlık ve inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, "Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" diye yazdı.
+3 : İsrail dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+4 : ABD'nin çok satan gazetesi Wall Street Journal da, "Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil" başlıklı haberinde ABD'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın "Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır" değerlendirmesini aktardı.
+5 : Binaların kolay çökmesine de dikkat çekildiği haberler ve yorumlarda dış yardım önerilerinin reddedilmesi de eleştirildi.
+6 : İngiliz Times gazetesi, "Zayıf Mantık" başlıklı haberinde "korkunç deprem sonrası, Türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, Türk hükümetinin dış yardımları reddetme kararını "acımasızlık ve duygusuzluk" olarak yorumladı.
+7 : BBCTürkçe tarafından yansıtılan haberde, "Kuşkusuz Türkiye, on yıl öncesine kıyasla daha modern, daha güvenli ve daha refah bir yer ama hiçbir ülke, bir depremle tek başına rahatlıkla baş edecek kadar modern ve kalkınmış değil" denilirken, Erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi.
+8 : "Türk gururu, başka türlü durumda yaşayacak olanların kanı ve kırık kemikleri üzerine inşa edilmemeli" görüşüne yer verilen haberde, "Bölgesel istikrar, arkadaşlık üzerine şekillenir ve Türkiye kendisine bunu teklif eden ülkelerle çevrili.
+10 : Kurtarma ekiplerinin yoğun çabalarına vurgu yapan İngiliz The Guardian gazetesi, "Dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan on birlerce insan konusundaki kaygılar artıyor" yorumunu da yaptı.
+####################CLASS OF ORIGINAL TEXT################
+﻿Dünya medyasından Deprem Manzaraları
+
+Van depremi yabancı medyada yoğun biçimde değerlendiriliyor. Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor. New York Times gazetesi, deprem bölgesinde "kahramanlık ve inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, "Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" diye yazdı. İsrail dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.
+
+ABD'nin çok satan gazetesi Wall Street Journal da, "Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil" başlıklı haberinde ABD'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın "Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır" değerlendirmesini aktardı. Binaların kolay çökmesine de dikkat çekildiği haberler ve yorumlarda dış yardım önerilerinin reddedilmesi de eleştirildi.
+
+İngiliz Times gazetesi, "Zayıf Mantık" başlıklı haberinde "korkunç deprem sonrası, Türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, Türk hükümetinin dış yardımları reddetme kararını "acımasızlık ve duygusuzluk" olarak yorumladı. BBCTürkçe tarafından yansıtılan haberde, "Kuşkusuz Türkiye, on yıl öncesine kıyasla daha modern, daha güvenli ve daha refah bir yer ama hiçbir ülke, bir depremle tek başına rahatlıkla baş edecek kadar modern ve kalkınmış değil" denilirken, Erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi. "Türk gururu, başka türlü durumda yaşayacak olanların kanı ve kırık kemikleri üzerine inşa edilmemeli" görüşüne yer verilen haberde, "Bölgesel istikrar, arkadaşlık üzerine şekillenir ve Türkiye kendisine bunu teklif eden ülkelerle çevrili. Bu nedenle bu yardımları kabul etmeli" ifadeleri kullanıldı.
+
+Kurtarma ekiplerinin yoğun çabalarına vurgu yapan İngiliz The Guardian gazetesi, "Dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan on birlerce insan konusundaki kaygılar artıyor" yorumunu da yaptı. Binaların kolayca çökmesinin yarattığı endişelere de değinen gazete, bazı yardım çabalarının sosyal medya  tarafından örgütlendiğine, binlerce twitter mesajının alındığına dikkat çektikten sonra, "Ancak daha karanlık bir tarafı da var; Bir Türk TV sunucusu, bazen polisle çatışan Kürtlerin neden güvenlik personelinden yardım bekledikleri sorusuyla protestolara yol açtı" diye yazdı.
+
+
+
+
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Dünya medyasından Deprem Manzaraları\n\nVan depremi yabancı medyada yoğun biçimde değerlendiriliyor. Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor. New York Times gazetesi, deprem bölgesinde \"kahramanlık ve inanılmaz hayatta kalma öyküleri\"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, \"Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi\" diye yazdı. İsrail dahil 50\'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail\'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti.\n\nABD\'nin çok satan gazetesi Wall Street Journal da, \"Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil\" başlıklı haberinde ABD\'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın \"Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır\" değerlendirmesini aktardı. Binaların kolay çökmesine de dikkat çekildiği haberler ve yorumlarda dış yardım önerilerinin reddedilmesi de eleştirildi.\n\nİngiliz Times gazetesi, \"Zayıf Mantık\" başlıklı haberinde \"korkunç deprem sonrası, Türkiye\'nin komşularından yardım alması gerekir\" görüşünü savunarak, Türk hükümetinin dış yardımları reddetme kararını \"acımasızlık ve duygusuzluk\" olarak yorumladı. BBCTürkçe tarafından yansıtılan haberde, \"Kuşkusuz Türkiye, on yıl öncesine kıyasla daha modern, daha güvenli ve daha refah bir yer ama hiçbir ülke, bir depremle tek başına rahatlıkla baş edecek kadar modern ve kalkınmış değil\" denilirken, Erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi. \"Türk gururu, başka türlü durumda yaşayacak olanların kanı ve kırık kemikleri üzerine inşa edilmemeli\" görüşüne yer verilen haberde, \"Bölgesel istikrar, arkadaşlık üzerine şekillenir ve Türkiye kendisine bunu teklif eden ülkelerle çevrili. Bu nedenle bu yardımları kabul etmeli\" ifadeleri kullanıldı.\n\nKurtarma ekiplerinin yoğun çabalarına vurgu yapan İngiliz The Guardian gazetesi, \"Dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan on birlerce insan konusundaki kaygılar artıyor\" yorumunu da yaptı. Binaların kolayca çökmesinin yarattığı endişelere de değinen gazete, bazı yardım çabalarının sosyal medya  tarafından örgütlendiğine, binlerce twitter mesajının alındığına dikkat çektikten sonra, \"Ancak daha karanlık bir tarafı da var; Bir Türk TV sunucusu, bazen polisle çatışan Kürtlerin neden güvenlik personelinden yardım bekledikleri sorusuyla protestolara yol açtı\" diye yazdı.\n\n\n\n\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi
+###################CLASS OF SUMMARY#######################
+[1 : Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor., 2 : New York Times gazetesi, deprem bölgesinde "kahramanlık ve inanılmaz hayatta kalma öyküleri"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, "Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi" diye yazdı., 3 : İsrail dahil 50'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti., 4 : ABD'nin çok satan gazetesi Wall Street Journal da, "Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil" başlıklı haberinde ABD'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın "Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır" değerlendirmesini aktardı., 5 : Binaların kolay çökmesine de dikkat çekildiği haberler ve yorumlarda dış yardım önerilerinin reddedilmesi de eleştirildi., 6 : İngiliz Times gazetesi, "Zayıf Mantık" başlıklı haberinde "korkunç deprem sonrası, Türkiye'nin komşularından yardım alması gerekir" görüşünü savunarak, Türk hükümetinin dış yardımları reddetme kararını "acımasızlık ve duygusuzluk" olarak yorumladı., 7 : BBCTürkçe tarafından yansıtılan haberde, "Kuşkusuz Türkiye, on yıl öncesine kıyasla daha modern, daha güvenli ve daha refah bir yer ama hiçbir ülke, bir depremle tek başına rahatlıkla baş edecek kadar modern ve kalkınmış değil" denilirken, Erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi., 8 : "Türk gururu, başka türlü durumda yaşayacak olanların kanı ve kırık kemikleri üzerine inşa edilmemeli" görüşüne yer verilen haberde, "Bölgesel istikrar, arkadaşlık üzerine şekillenir ve Türkiye kendisine bunu teklif eden ülkelerle çevrili., 10 : Kurtarma ekiplerinin yoğun çabalarına vurgu yapan İngiliz The Guardian gazetesi, "Dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan on birlerce insan konusundaki kaygılar artıyor" yorumunu da yaptı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[1 : Deprem bölgesine ilişkin televizyon görüntüleri, fotoğraflara geniş biçimde yer veren yabancı medya, kurtarma çabaları ve mucize kurtarmalarının yanı sıra yardım operasyonlarındaki eksikliklere de vurgu yapıyor., 2 : New York Times gazetesi, deprem bölgesinde \"kahramanlık ve inanılmaz hayatta kalma öyküleri\"nin olduğunu, örnekler vererek anlattığı haberinde 9 bin çadır ve 25 bin battaniye ile gıda gönderildiğini belirtikten sonra, \"Ancak yardım çabaları, bazı yerlerde çok kaotik idi ve bazı yardım dağıtma merkezlerinde kavgaların yaşandığına ilişkin haberler geldi\" diye yazdı., 3 : İsrail dahil 50\'yi aşkın ülkeden yardım önerilerinin geldiğini de kaydeden gazete, hükümetin İsrail\'in teklifini reddettiği iddialarını yalanlandığına dikkat çekti., 4 : ABD\'nin çok satan gazetesi Wall Street Journal da, \"Depremin vurduğu bölge, sismik olarak aktif ancak pek hazırlıklı değil\" başlıklı haberinde ABD\'deki North Eastern Üniversitesi Mühendislik Bölümü öğretim üyelerinden deprem uzmanı Profesör Mishac Yegian’ın \"Bölgede az sayıda bina, 7 büyüklüğündeki bir depreme dayanmak için hazır\" değerlendirmesini aktardı., 5 : Binaların kolay çökmesine de dikkat çekildiği haberler ve yorumlarda dış yardım önerilerinin reddedilmesi de eleştirildi., 6 : İngiliz Times gazetesi, \"Zayıf Mantık\" başlıklı haberinde \"korkunç deprem sonrası, Türkiye\'nin komşularından yardım alması gerekir\" görüşünü savunarak, Türk hükümetinin dış yardımları reddetme kararını \"acımasızlık ve duygusuzluk\" olarak yorumladı., 7 : BBCTürkçe tarafından yansıtılan haberde, \"Kuşkusuz Türkiye, on yıl öncesine kıyasla daha modern, daha güvenli ve daha refah bir yer ama hiçbir ülke, bir depremle tek başına rahatlıkla baş edecek kadar modern ve kalkınmış değil\" denilirken, Erdoğan hükümetinin dış yardımları reddetme gerekçelerinin yeterli bulunmadığı kaybedildi., 8 : \"Türk gururu, başka türlü durumda yaşayacak olanların kanı ve kırık kemikleri üzerine inşa edilmemeli\" görüşüne yer verilen haberde, \"Bölgesel istikrar, arkadaşlık üzerine şekillenir ve Türkiye kendisine bunu teklif eden ülkelerle çevrili., 10 : Kurtarma ekiplerinin yoğun çabalarına vurgu yapan İngiliz The Guardian gazetesi, \"Dondurucu soğukta geceyi dışarıda geçirmek zorunda kalan on birlerce insan konusundaki kaygılar artıyor\" yorumunu da yaptı.]'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi

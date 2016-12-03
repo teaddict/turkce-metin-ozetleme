@@ -1,0 +1,11 @@
+Akıllı telefonlardaki büyük tehlike
+Akıllı telefonları dondurarak içindeki bilgilerin kolayca başkalarının eline geçebileceğini biliyor muydunuz?
+Artık bilgisayarlardan bir farkı kalmayan akıllı telefonlarda kişisel bilgilerimiz arttıkça cihazların güvenliği de ayrı bir önem kazanıyor. Bu anlamda 3 Alman güvenlik uzmanı, önce Android telefonları dondurdu, ardından içindeki bilgileri herhangi bir şifreye tabi olmadan tek tek aldı.
+
+Tilo Muller, Michael Spreitzenbarth ve Felix Freiling isimli üç Alman araştırmacının keşfettiği dondurma yönteminde önce Android işletim sistemiyle çalışan telefon -10 derece ısıda yaklaşık 1 saat süresince tutuluyor. 
+
+Bu esnada telefonun bataryasının hızlıca telefona takılıp çıkarılması ise Android telefonun güvenlik ayarlarını devredışı bırakıyor ve zayıf bir moda sokuyor. Bu esnada Android işletim sistemini bypas eden uzmanlar, kendilerinin geliştirdiği yazılımı kullanarak telefonda bulunan rehber, SMS, fotoğraf gibi bilgileri almayı başarıyor.
+
+Samsung Galaxy Nexus'un kullanıldığı dondurma testinde ilk olarak Android'in disk şifreleme sistemi hedef alınırken, uzmanlar Android dışında diğer telefonların da benzer bir zaafiyete sahip olduğuna dikkat çekiyor.
+
+Aslında dondurma yöntemi ilk kez uygulanmıyor. 2009 yılında masaüstü ve laptoplara uygulanan yöntemi hatırlatan uzmanlar, mobil telefonlarda ise ilk kez bu yöntemin kullanıldığını belirtiyor.

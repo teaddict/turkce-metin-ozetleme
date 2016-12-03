@@ -1,0 +1,18 @@
+‘Sosyal Ağ Araması’ hizmeti
+Facebook, kullanıcılar için yeni aracını sundu.
+ ‘Graph Search’ yani Grafik Araması olarak adlandırılan yeni hizmet, Facebook’un 1 milyar kullanıcısına arkadaşları ve mekanlar hakkında çok pratik arama yapma imkanı bulacak. Kullanıcılar, 1 trilyon bağlantıda gezinecek, 200 milyarı aşkın fotoğrafa erişim sağlayacak.
+ Facebook CEO’su Mark Zuckerberg, dünyanın en büyük sosyal ağının kullanıcıları için hazırladığı en son aracı tanıttı. Beta sürümü hayata geçen Graph Search, insanlara, fotoğraflara, mekanlara ve ilgi alanlarına odaklanıyor. Zuckerberg, yaptığı sunumda Graph Search aracının zamanla gelişeceğini ve henüz ilk basamağında olduğunu ifade etti.
+ Graph Search aracının internet tarayıcılarında yapılan aramalardan farklı olduğunu ifade eden Zuckerberg, arama motorları Google ve Bing ile aralarındaki fark bulunduğunu belirtti.
+ Beta sürümü hayata geçen yeni hizmete erişim sağlamak için facebook.com/graphsearch bağlantısı kullanılabilir.
+ Bu linki URL çubuğuna girdiğiniz anda, karşınıza ‘Sosyal Ağ Araması’ adında bir ekran açılıyor. Sayfanın aşağılarına inince ‘Arama yapmayı deneyin’ seçeneğine tıkladığınızda, arkadaş listenizdeki isimlerin maddeler halinde sıralanmış önemli bilgilerini görüyorsunuz. Eğer beta sürümünü denemek istiyorsanız, en aşağıdaki yeşil kutuya tıklamanız ve bekleme sırasına girmeniz lazım.
+ Facebook’un Sosyal Grafik veri tabanına dayanan Grafik Araması, insanların arkadaşları tarafından beğenilen bir restoranı, ziyaret ettiği mekanları veya sosyal ağda paylaştıkları fotoğrafları bulmanıza yardım ediyor.
+ GAME OF THRONES ÖRNEĞİ 
+ Zuckerberg, sunumda kendisinden bir örnek vererek, ‘Palo Alto, California’da yaşayan ve Games of Thrones’u izleyen arkadaşlar’ araması yaptı. Çıkan sıralamada, insanlar size olan yakınlıkları ve ortak arkadaşlarınızın çokluğu gibi faktörlerle sıralanıyor.
+ Diğer örnek aramalarına örnek olarak da, “Palo Alto, California’daki Meksika restoranlarını seven arkadaşlarım”, “arkadaşlarımın konuştuğu yabancı diller” veya “Londra’da yaşayan arkadaşlarımın fotoğrafları” gibi aramalar verildi. Zuckerberg, pratik arama sayesinde Facebook’un 1 milyar kullanıcısının 1 trilyon bağlantı kurduğunu ve 240 milyar fotoğraf ile daha fazla bilgiye erişim sağlayabileceğini belirtti.
+ Zuckerberg, ‘Sosyal Grafik bir veri tabanı. Her veri tabanı gibi orada arama yapabilmelisiniz” dedi. 28 yaşındaki CEO, Sosyal Grafik’i Haber Akışı ve Zaman Tüneli’nin ardından Facebook’un üçüncü sütunu olarak tanımladı.
+ GİZLİLİK SORUN OLACAK MI? 
+ Sunumda akıllara gelen bir konu, Facebook’un çokça maruz kaldığı gizlilik konusuydu. Zuckerberg, yeni hizmette böyle bir durum yaşanmayacağına dair kullanıcılara güvence verdi.
+ Zuckerberg, “1 trilyon bağlantıyı düzeltmek gerçekten zor bir teknik sorun… Bunu, herkesin gizliliğini korumaya çalışarak yapıyorsunuz. Ama Facebook her içeriğin gizliliğini koruduğuna emin” dedi.
+ Zuckerberg, Grafik Araması’nın aynı zamanda mobil platform için de gelişeceğini, yeni güvenlik içerikleri ve araçları kullanılacağını, kullanıcıların yeni araçları profil sayfalarında deneyebileceğini söyledi.
+ Facebook’un üçüncü sütunu, dünyanın en büyük sosyal ağı için ne kadar sağlam bir dayanak olacak, zaman gösterecek. 
+  

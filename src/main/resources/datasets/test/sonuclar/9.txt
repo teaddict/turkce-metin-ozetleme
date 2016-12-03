@@ -1,0 +1,268 @@
+I|12:13:55.311|Parser ready: 2927ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:13:55.719|Cache ready: 3354ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Fenerbahçe'nin hesapları inceleniyor
+
+Mali Suçları Araştırma Kurulu, Fenerbahçe kulübünün hesaplarını inceliyor.Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+
+(MASAK) şike soruşturması dosyasının telefon kayıtlarında geçen paraların izini arıyor. Hesap uzmanları, Fenerbahçe'nin hesaplarından şike ödemesi yapıldığı dönemde herhangi bir para giriş-çıkışı olup olmadığını incelemek için bir süredir kulüpte incelemelerini sürdürüyor. Şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden çok sayıda belge istedikleri belirtildi.
+
+MASAK'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten Savcı Mehmet Berk'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor. Soruşturmada Fenerbahçe- Sivasspor maçı için rakibe 300 bin, İstanbul BŞB Fenerbahçe maçı için İbrahim Akın'a 100 bin, Ankaragücü'ne 600 bin ve Eskişehirspor'a 250 bin dolar gönderildiği iddia edilmişti.
+
+Savcı Berk, Futbol Federasyonu'na geçen sezon kulüplere ödenen para miktarını da sormuştu. Kulüplerin TFF gelirlerini inceleyen Savcı, şimdi bu paraların nerelere harcandığını tespit etmek üzere çalışma başlattı. Öte yandan savcı Mehmet Berk'in iddianamesini Kurban Bayramı sonrasında tamamlaması bekleniyor.
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿fenerbahçe'nin hesapları inceleniyor
+
+mali suçları araştırma kurulu, fenerbahçe kulübünün hesaplarını inceliyor.hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+
+(masak) şike soruşturması dosyasının telefon kayıtlarında geçen paraların izini arıyor. hesap uzmanları, fenerbahçe'nin hesaplarından şike ödemesi yapıldığı dönemde para giriş-çıkışı olmadığını incelemek süredir kulüpte incelemelerini sürdürüyor. şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden sayıda belge istedikleri belirtildi.
+
+masak'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten savcı mehmet berk'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor. soruşturmada fenerbahçe- sivasspor maçı rakibe 300 bin, istanbul bşb fenerbahçe maçı ibrahim akın'a 100 bin, ankaragücü'ne 600 eskişehirspor'a 250 dolar gönderildiği iddia edilmişti.
+
+savcı berk, futbol federasyonu'na geçen sezon kulüplere ödenen para miktarını sormuştu. kulüplerin tff gelirlerini inceleyen savcı, şimdi paraların nerelere harcandığını tespit etmek çalışma başlattı. öte yandan savcı mehmet berk'in iddianamesini kurban bayramı sonrasında tamamlaması bekleniyor.
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿fenerbahçe'nin hesapları inceleniyor
+
+PARAGRAPH: mali suçları araştırma kurulu, fenerbahçe kulübünün hesaplarını inceliyor.hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+
+PARAGRAPH: (masak) şike soruşturması dosyasının telefon kayıtlarında geçen paraların izini arıyor. hesap uzmanları, fenerbahçe'nin hesaplarından şike ödemesi yapıldığı dönemde para giriş-çıkışı olmadığını incelemek süredir kulüpte incelemelerini sürdürüyor. şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden sayıda belge istedikleri belirtildi.
+
+PARAGRAPH: masak'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten savcı mehmet berk'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor. soruşturmada fenerbahçe- sivasspor maçı rakibe 300 bin, istanbul bşb fenerbahçe maçı ibrahim akın'a 100 bin, ankaragücü'ne 600 eskişehirspor'a 250 dolar gönderildiği iddia edilmişti.
+
+PARAGRAPH: savcı berk, futbol federasyonu'na geçen sezon kulüplere ödenen para miktarını sormuştu. kulüplerin tff gelirlerini inceleyen savcı, şimdi paraların nerelere harcandığını tespit etmek çalışma başlattı. öte yandan savcı mehmet berk'in iddianamesini kurban bayramı sonrasında tamamlaması bekleniyor.
+
+
+
+######Cümleler:######
+
+﻿fenerbahçe'nin hesapları inceleniyor
+
+mali suçları araştırma kurulu, fenerbahçe kulübünün hesaplarını inceliyor.
+hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+(masak) şike soruşturması dosyasının telefon kayıtlarında geçen paraların izini arıyor.
+hesap uzmanları, fenerbahçe'nin hesaplarından şike ödemesi yapıldığı dönemde para giriş-çıkışı olmadığını incelemek süredir kulüpte incelemelerini sürdürüyor.
+şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden sayıda belge istedikleri belirtildi.
+masak'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten savcı mehmet berk'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor.
+soruşturmada fenerbahçe- sivasspor maçı rakibe 300 bin, istanbul bşb fenerbahçe maçı ibrahim akın'a 100 bin, ankaragücü'ne 600 eskişehirspor'a 250 dolar gönderildiği iddia edilmişti.
+savcı berk, futbol federasyonu'na geçen sezon kulüplere ödenen para miktarını sormuştu.
+kulüplerin tff gelirlerini inceleyen savcı, şimdi paraların nerelere harcandığını tespit etmek çalışma başlattı.
+öte yandan savcı mehmet berk'in iddianamesini kurban bayramı sonrasında tamamlaması bekleniyor.
+
+
+
+######Title######
+﻿fenerbahçe'nin hesapları inceleniyor
+
+
+######Nouns of text:######
+[hesap, suç, araştırma, kurul, kulüp, hesap, uzman, şike, para, şike, dosya, telefon, kayıt, para, iz, hesap, uzman, hesap, şike, dönem, par, olmadık, kulüp, şike, iddia, maç, dönem, hesap, uzman, kulüp, iş, görev, sayı, belge, sonuç, şike, sav, berk, rapor, seyir, açı, büyük, önem, maç, rakip, İstanbul, maç, akın, do, iddia, sav, futbol, federasyon, sezon, kulüp, par, miktar, kulüp, gelir, sav, şimdi, para, nere, tespit, öte, yan, sav, berk, iddianame, kurban, bayram, sonra]
+I|12:13:57.051|Parser ready: 1230ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:13:57.128|Cache ready: 1308ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[incelemek, araştırmak, geçmek, ödenmek, ödenmek, araştırmak, geçmek, aramak, yapmak, olmak, sürmek, sürdürmek, yapmak, etmek, oynanmak, dönmek, yoğun, işlemek, istemek, belirtmek, hazırlamak, yürütmek, göndermek, taşımak, binmek, akmak, binmek, dolmak, göndermek, etmek, geçmek, ödenmek, sormak, incelemek, harcanmak, çalışmak, başlamak, ötmek, berkinmek, beklemek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 504
+All chain size: 182
+Unique Chains: 48
+Chain Puan Eşik değeri:14
+Chain Strength Eşik değeri:0.7708333333333334
+Chain criterion değeri:3.6355492393565143
+Strong Chains: 5
+hesap
+related_with
+ekonomi
+hesap
+related_with
+ekonomi
+para
+related_with
+ekonomi
+para
+related_with
+ekonomi
+hesap
+related_with
+ekonomi
+hesap
+related_with
+ekonomi
+hesap
+related_with
+ekonomi
+para
+related_with
+ekonomi
+8
+32
+6.0
+
+
+şike
+synonymy
+aldatma
+şike
+synonymy
+aldatma
+şike
+synonymy
+aldatma
+şike
+synonymy
+aldatma
+şike
+synonymy
+aldatma
+5
+50
+4.0
+
+
+kulüp
+synonymy
+pakt
+kulüp
+synonymy
+pakt
+kulüp
+synonymy
+pakt
+kulüp
+synonymy
+pakt
+kulüp
+synonymy
+pakt
+5
+50
+4.0
+
+
+şike
+related_with
+spor
+şike
+related_with
+spor
+şike
+related_with
+spor
+şike
+related_with
+spor
+sayı
+related_with
+spor
+şike
+related_with
+spor
+futbol
+related_with
+spor
+7
+28
+4.0
+
+
+hesap
+synonymy
+adisyon
+hesap
+synonymy
+adisyon
+hesap
+synonymy
+adisyon
+hesap
+synonymy
+adisyon
+hesap
+synonymy
+adisyon
+5
+50
+4.0
+
+
+[0, 1, 2, 3, 4]
+#############Heuristic1 OUTPUT############
+0 : Mali Suçları Araştırma Kurulu, Fenerbahçe kulübünün hesaplarını inceliyor.
+1 : Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+2 : (MASAK) şike soruşturması dosyasının telefon kayıtlarında geçen paraların izini arıyor.
+3 : Hesap uzmanları, Fenerbahçe'nin hesaplarından şike ödemesi yapıldığı dönemde herhangi bir para giriş-çıkışı olup olmadığını incelemek için bir süredir kulüpte incelemelerini sürdürüyor.
+4 : Şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden çok sayıda belge istedikleri belirtildi.
+representative
+[hesap, şike, kulüp]
+#############Heuristic2 OUTPUT############
+Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+Hesap uzmanları, Fenerbahçe'nin hesaplarından şike ödemesi yapıldığı dönemde herhangi bir para giriş-çıkışı olup olmadığını incelemek için bir süredir kulüpte incelemelerini sürdürüyor.
+Savcı Berk, Futbol Federasyonu'na geçen sezon kulüplere ödenen para miktarını da sormuştu.
+#############Heuristic3 OUTPUT############
+0 : Mali Suçları Araştırma Kurulu, Fenerbahçe kulübünün hesaplarını inceliyor.
+1 : Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+4 : Şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden çok sayıda belge istedikleri belirtildi.
+5 : MASAK'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten Savcı Mehmet Berk'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor.
+7 : Savcı Berk, Futbol Federasyonu'na geçen sezon kulüplere ödenen para miktarını da sormuştu.
+####################CLASS OF ORIGINAL TEXT################
+﻿Fenerbahçe'nin hesapları inceleniyor
+
+Mali Suçları Araştırma Kurulu, Fenerbahçe kulübünün hesaplarını inceliyor.Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.
+
+(MASAK) şike soruşturması dosyasının telefon kayıtlarında geçen paraların izini arıyor. Hesap uzmanları, Fenerbahçe'nin hesaplarından şike ödemesi yapıldığı dönemde herhangi bir para giriş-çıkışı olup olmadığını incelemek için bir süredir kulüpte incelemelerini sürdürüyor. Şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden çok sayıda belge istedikleri belirtildi.
+
+MASAK'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten Savcı Mehmet Berk'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor. Soruşturmada Fenerbahçe- Sivasspor maçı için rakibe 300 bin, İstanbul BŞB Fenerbahçe maçı için İbrahim Akın'a 100 bin, Ankaragücü'ne 600 bin ve Eskişehirspor'a 250 bin dolar gönderildiği iddia edilmişti.
+
+Savcı Berk, Futbol Federasyonu'na geçen sezon kulüplere ödenen para miktarını da sormuştu. Kulüplerin TFF gelirlerini inceleyen Savcı, şimdi bu paraların nerelere harcandığını tespit etmek üzere çalışma başlattı. Öte yandan savcı Mehmet Berk'in iddianamesini Kurban Bayramı sonrasında tamamlaması bekleniyor.
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Fenerbahçe\'nin hesapları inceleniyor\n\nMali Suçları Araştırma Kurulu, Fenerbahçe kulübünün hesaplarını inceliyor.Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor.\n\n(MASAK) şike soruşturması dosyasının telefon kayıtlarında geçen paraların izini arıyor. Hesap uzmanları, Fenerbahçe\'nin hesaplarından şike ödemesi yapıldığı dönemde herhangi bir para giriş-çıkışı olup olmadığını incelemek için bir süredir kulüpte incelemelerini sürdürüyor. Şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden çok sayıda belge istedikleri belirtildi.\n\nMASAK\'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten Savcı Mehmet Berk\'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor. Soruşturmada Fenerbahçe- Sivasspor maçı için rakibe 300 bin, İstanbul BŞB Fenerbahçe maçı için İbrahim Akın\'a 100 bin, Ankaragücü\'ne 600 bin ve Eskişehirspor\'a 250 bin dolar gönderildiği iddia edilmişti.\n\nSavcı Berk, Futbol Federasyonu\'na geçen sezon kulüplere ödenen para miktarını da sormuştu. Kulüplerin TFF gelirlerini inceleyen Savcı, şimdi bu paraların nerelere harcandığını tespit etmek üzere çalışma başlattı. Öte yandan savcı Mehmet Berk\'in iddianamesini Kurban Bayramı sonrasında tamamlaması bekleniyor.\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi
+###################CLASS OF SUMMARY#######################
+[0 : Mali Suçları Araştırma Kurulu, Fenerbahçe kulübünün hesaplarını inceliyor., 1 : Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor., 4 : Şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden çok sayıda belge istedikleri belirtildi., 5 : MASAK'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten Savcı Mehmet Berk'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor., 7 : Savcı Berk, Futbol Federasyonu'na geçen sezon kulüplere ödenen para miktarını da sormuştu.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : Mali Suçları Araştırma Kurulu, Fenerbahçe kulübünün hesaplarını inceliyor., 1 : Hesap uzmanları, dinlemelerde geçen şike paralarının ödenip ödenmediğini araştırıyor., 4 : Şike yapıldığı iddia edilen 19 maçın oynandığı döneme yoğunlaşan hesap uzmanlarının, kulübün mali işler görevlilerinden çok sayıda belge istedikleri belirtildi., 5 : MASAK\'ın incelemesi sonucunda hazırlanıp şike soruşturmasını yürüten Savcı Mehmet Berk\'e gönderilecek rapor, soruşturmanın seyri açısından büyük önem taşıyor., 7 : Savcı Berk, Futbol Federasyonu\'na geçen sezon kulüplere ödenen para miktarını da sormuştu.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

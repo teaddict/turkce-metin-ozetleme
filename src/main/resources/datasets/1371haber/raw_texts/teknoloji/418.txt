@@ -1,0 +1,11 @@
+Mozilla, ilk akıllı telefonlarını tanıttı
+İnternet tarayıcısı Mozilla, bugün Keon ve Peak isimli ilk 2 akıllı telefonunu tanıttı.
+İspanyol GeeksPhone firması tarafından üretilen Keon ve Peak'in, HTML, CSS ve JavaScript gibi internet uygulamalarının çalışmasına olanak veren Firefox işletim sistemi kullandığı duyuruldu.
+
+Keon'un, 3,5 inçlik HVGA dokunmatik ekran, 3 megapiksel kamera, Wİ-Fİ, 512 MB RAM ve 4 GB dahili hafıza özelliklerinin yanı sıra microSD kart girişi olduğu da ifade edildi.
+
+Teknik özellikleri açısından güçlü olduğu belirtilen Peak'in, 4,3 inç qHD dokunmatik ekrana, 1,2 GHz hıza sahip çift çekirdek işlemciye ve 8 megapiksellik arka kameraya sahip olduğu kaydedildi.
+
+2 modelin de fiyatı konusunda açıklama yapılmazken, telefonların şubatta piyasaya çıkacağı tahmin ediliyor.
+
+Mozilla'nın kenti işletim sistemi Firefox'u kullanan ilk telefonlar Keon ve Peak'in, orta kaliteli akıllı telefon sınıfına girdiği de belirtildi.

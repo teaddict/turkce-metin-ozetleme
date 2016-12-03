@@ -1,0 +1,24 @@
+İki boyutlu harita hazır
+TÜBİTAK'ın gözlem uydusu RASAT'ın uzaydan çektiği yüzlerce görüntü kullanılarak Türkiye'nin ilk iki boyutlu haritası hazırlandı.TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü Müdür Vekili Tamer Beşer,yaptığı açıklamada, yerli kaynaklarla Türkiye'de tasarlanıp üretilen ilk yer gözlem uydusu RASAT'ın 7,5 metre siyah beyaz, 15 metre çok bantlı görüntüleme yeteneğine sahip olduğunu anlattı.
+
+RASAT'ın, 678 kilometre yükseklikteki yörüngeden çektiği bir kare görüntünün 900 kilometrekare alanı kapsadığını belirten Beşer, bir kare görüntünün dosya boyutunun da 28,9 MB olduğunu kaydetti.
+
+Bir kare görüntünün S band ile 160 saniyede, x band ile 4 saniyede indirilebildiği bilgisini veren Beşer, Ankara'da bulunan yer istasyonundan günde 4 defa 10'ar dakika süreyle haberleşme sağlanabildiğini aktardı.
+
+Beşer, RASAT uydu görüntüleriyle Türkiye'nin tümünün iki boyutlu görüntülerini kullanarak mozaik haritasını tamamladıklarını bildirdi.
+
+Harita için Türkiye'nin bin 200 civarındaki RASAT uydu görüntüsünün kullanıldığını vurgulayan Beşer, bu görüntülerin Türkiye Coğrafi Bilgi Sistemi'nin temel altlık verisi niteliğiyle kamu kurum ve kuruluşlarının kullanımına sunulacağını açıkladı.
+
+Kamu kuruluşlarının web tabanlı arayüzle kullanıcıların çekilen görüntüleri anında görebileceğini ifade eden Beşer, güncel görüntü siparişlerini verip görüntüleri ücretsiz indirebileceklerini söyledi.
+
+Afet anında görüntüler uzaydan alınacak
+
+RASAT görüntülerinin şehir, bölge planlama, ormancılık, tarım, afet yönetimi ve benzeri amaçlarla kullanılmasının hedeflendiğini dile getiren Beşer, şöyle konuştu:
+Türkiye, Türkiye'nin iki boyutlu haritası ile bundan sonra örneğin herhangi bir doğal afet durumunda direkt uydu görüntülerini alabilecek ve buna göre planlama yapabilecek.
+
+Orman yangını oldu diyelim, bu durumda ormanın hemen uydu görüntüsünü alıyoruz ve önceki görüntülerle karşılaştırıyoruz. Ne kadar bir alanın yandığını ne kadar zararın olduğunu hemen anlıyoruz.
+
+Böylece Türkiye'nin herhangi bir noktasından sürekli görüntü alıp, olağanüstü bir durumda bu görüntüleri AFAD gibi kurumlara sağlayabilecek durumdayız.
+RASAT'tan önce dünyanın ve Türkiye'nin herhangi bir noktasına ilişkin görüntülerin alınması için dışa bağımlılığın bulunduğunu ifade eden Beşer, RASAT'la birlikte dünyanın da istenilen bir bölgesinin fotoğrafını alabiliyoruz. Bundan sonra Türkiye'nin üreteceği diğer nitelikli uydularımızla daha da hassas görüntüler alabileceğiz şeklinde konuştu.
+
+Tamer Beşer, Türkiye'nin iki boyutlu yeni mozaik haritasının en geç yıl sonuna kadar kamu kurumlarına açılacağını sözlerine ekledi.

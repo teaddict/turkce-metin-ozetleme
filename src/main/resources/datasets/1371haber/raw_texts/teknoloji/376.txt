@@ -1,0 +1,29 @@
+İnternetteki casus yakayı ele verdi
+Rusya'daki bir kuruluş, eşine az rastlanır büyüklükte bir internet casusluğunu ortaya çıkardıklarını açıkladı.
+İstihbarat örgütlerinin bir dönem kullandığı formları da barındıran ve Kızıl Ekim olarak anılan casus programın resmi ve özel gizli belgelerin izlenip çalınması için kullanıldığı söyleniyor.
+
+Çeşitli "bölmeleri" bulunduğu anlaşılan program, uzaktan, örneğin elektronik posta aracılığıyla devreye sokulabiliyor.
+
+Rus Kaspersky Labs adlı kuruluş, casus Kızıl Ekim'in, devlet dairelerindeki bilgisayarları, nükleer tesisleri, petrol ve gaz ile bağlantılı kurum ve kuruluşları 2007'den beri izlediğini belirlediklerini açıkladı.
+
+Kızıl Ekim'in şifreli dosyalara öncelik verdiği, ayrıca silinen dosyaları geri çektiği tahmin ediliyor.
+
+"Büyük saldırı"
+
+İngiltere'deki Surray Üniversitesi'nden Profesör Alan Woodward, bunun büyük bir saldırı olduğunu ve "ne varsa, kaydettiğini " söylüyor.
+
+Woodward, Kızıl Ekim'in özellikle iki uzantıya sahip özel şifreli dosyalara odaklandığını anlatıyor.
+
+Karpersky Labs'ten yapılan açıklamada da, doğu Avrupa'daki ülkelerin yanısıra, eski Sovyet cumhuriyetlerinin hedef alındığı, öte yandan, Batı Avrupa ve ABD'deki dosyaların da hedeflendiğinin belirlendiği söyleniyor.
+
+Kaspersky Labs adlı kuruluştan Vitaly Kamluk, casus programı ekim ayında yakaladıklarını söylüyor.
+
+Hollywood filmi
+
+Kızıl Ekim, Hollywood'un bir denizaltıyla bağlantılı olan çektiği filmin adı.
+
+USB hafıza çubukları bilgisayara çakıldığında program izlemeye geçiyor ya da fark edildiğini belirlediğinde saklanıyor; elektronik posta ile yeniden devreye giriyor.
+
+Kaspersky Labs, casus programın 250 IP adresi üzerinden 55 bin hedefe yöneldiğini söylüyor.
+
+Bu izleme sıklığı; örneğin, devlet dairelerindeki bilgisayarların toplu halde izlenmiş olabileceğine işaret ediyor.

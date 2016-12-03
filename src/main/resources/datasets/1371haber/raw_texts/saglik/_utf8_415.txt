@@ -1,0 +1,11 @@
+Ağızda peynir, reçel ve bisküvi tadı veren bir simülatör geliştirildi 
+
+Japon bilim adamları, ağızda peynir, reçel ve bisküvi tadı veren bir simülatör geliştirdiler. 
+
+Proje başkanı Hiroo Iwate, geliştirilen cihazla geleneksel Japon yemeklerinin bile taklit edilebildiğini söyledi. 
+Simülasyon (benzetim) için önce deneklerin ağzına çeşitli sensörler yerleştiriliyor. Bu sensörler, ısırma şiddeti ve yiyeceklerin tat kimyasını ölçüyor. Sensörler arasında, yeme işlemi sırasında çıkarılan sesleri kaydeden bir mikrofon da bulunuyor. 
+
+Elde edilen veriler, ağıza sokulacak simülatöre kaydediliyor. Simülatör ağıza alındıktan sonra, içindeki motorlar dişlere yiyeceğin çeşidine göre baskı yaparken, özel tüpler tatlı, ekşi, tuzlu ve acı maddeler salgılıyor. Simülatöre yerleştirilen bir hoparlör de yemek yerken çıkarılan sesleri veriyor. 
+
+Yiyecek simülatörün bu alanda bir ilk olduğunu belirten Iwate, bu icatla, görme, duyma, dokunma ve koklama duyularından sonra sanal gerçeklik sınırının aşıldığını söyledi. 
+

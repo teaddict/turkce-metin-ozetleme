@@ -1,0 +1,7 @@
+Yeni bir Yandex.Browser deneyimi
+Yandex.Browser'ın sunduğu benzersiz internet deneyimini, Proje-Y ile tüm kullanıcılara benzersiz bir şekilde sunuyor! 
+Yandex.Browser kullanıcılarını, Proje-Y ile 2038 yılından günümüze uzanan alternatif gelecek kurgusuyla bulmacalarla dolu bir serüvene davet ediyor. 
+Bir çok farklı internet sitesine yerleştirilmiş ipuçlarını ve bulmacaları çözen kullanıcılar oyun için hazırlanmış kurguyu tamamlarken, internetin geleceği için çok önemli olan bir olayı engellemeye çalışıyor. 
+Yandex labaratuvarlarında hazırlanan Upsilon isimli bir süper bilgisayarın çağrısıyla başlayan internetin geleceğini kurtarma serüveni, Türkiye’deki oyun - bulmaca seven kullanıcılar arasında kahramanını arıyor. 
+Bu serüvene katılan yarışmacılar tablet, cep telefonu ve TV gibi hediyeler dışında, Yandex.Disk için 10 GB ekstra bellek kazanmak için de yarışacak. 
+Proje-Y bugün itibari ile http://www.proje-y.com/ sitesinden erişilebilir olacak.

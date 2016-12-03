@@ -1,0 +1,24 @@
+BlackBerry Messenger'da ücretsiz sesli konuşma
+Research In Motion, popüler mobil sosyal ağ platformu BlackBerry Messenger’ın (BBM) yeni versiyonu BBM7’yi duyurdu. 
+BBM7’nin en önemli özelliklerinden biri, kullanıcıların dünyanın her yerinden BBM kontakları ile Wi-Fi® üzerinden ücretsiz olarak konuşabilmelerini sağlayan BBM Voice*. Bu özellik kullanıcıların aile ve arkadaşları ile hızlı, kolay ve hesaplı bir şekilde iletişim kurmalarını sağlıyor.
+ 
+BBM Voice özelliğini içeren yeni BBM7’nin beta sürümü 14 Kasım 2012 tarihinde BlackBerry Beta Zone üzerinden kullanıcılarla buluştu. 
+ 
+RIM’in, Beta sürümünü deneyimleyen kullanıcılara yönelik gerçekleştirdiği ankete göre:
+- Kullanıcıların %80’inden fazlası BBM 7’yi tavsiye ediyor.
+- Kullanıcıların %90’ı özellikle seyahat ederken BBM Voice’u tercih ediyor.
+- Kullanıcıların neredeyse yarısının dünya çapında kontakları bulunuyor ve ücretsiz Wi-Fi bağlantısından faydalanıyor.
+ 
+RIM Sosyal Ağlar ve BBM’den Sorumlu Başkan Yardımcısı T. A. McCann, “İş dünyasına yönelik elverişli ve etkili bir haberleşme kanalı olarak ortaya çıkan BBM, kullanıcıların günlük hayatlarında da sık sık kullandıkları önemli bir iletişim aracı haline geldi. BBM 7 ile kullanıcılar artık, dünyanın heryerinden kontakları ile ücretsiz olarak mesajlaşabilir ve konuşabilirler. Sunduğumuz bu yeni bütünleşik deneyim ile gerçek zamanlı etkileşime sesli konuşmayı da dahil ederek BBM deneyimini yeni bir seviyeye taşıyoruz” şeklinde konuştu.
+ 
+BBM Voice ile gelen yenilikler:
+
+• Split-Screen – İkiye bölünmüş ekran, kullanıcılara aynı anda hem yazma hem konuşma imkanı sağlıyor. Örneğin, konuşurken aynı zamanda resim gönderebilir, diğer mesaj ya da maillerinizi kontrol edebilir ya da farklı uygulamalar arasında gezinebilirsiniz.
+• Görsel Uyarı – Sesli konuşma yapmak için uygun olan kontaklarınız çevrimiçi olduğunda haberdar olabilirsiniz.
+• Aksesuar Uyumluluğu – BBM Voice’u, Bluetooth® ya da kablolu kulaklık gibi, BlackBerry akıllı telefonlarına yönelik tüm aksesuarlar ile kullanabilir, telefonunuzun hoparlörü üzerinden BBM Voice özelliğini deneyimleyebilirsiniz.
+• 16 Yeni İfade İkonu – Yeni ifade ikonları ile mesaj yazarken kendizi daha eğlenceli bir biçimde ifade edebilirsiniz.
+• BBM Güncelleme Uyarısı –Yeni bir güncelleme çıktığında anında haberdar olun ve uygulamadan çıkmadan güncellemeyi direkt olarak indirin.
+• BlackBerry ID Senkronizasyonu – BlackBerry ID Senkronizasyonu ile, BBM profiliniz, Grup ve Kontak bilgileriniz gibi BBMID’ye kayıtlı kişisel verilerinizi kolayca kurtarın ve yedekleyin. BlackBerry 10 işletim sistemine geçtiğinizde ise, kayıtlı bu datayı zahmetsizce aktarın.
+ 
+BBM Voice özelliği BlackBerry 6 OS ve üzeri işletim sistemlerini kullanan tüm BlackBerry akıllı telefonları ile uyumludur. Özelliğin, 2013 yılının ilk yarısında, BlackBerry 5 OS işletim sistemini de desteklemesi planlanmaktadır. BBM 7 yazılım güncellemesini indirmek için: http://appworld.blackberry.com/webstore/content/3729/
+ 

@@ -1,0 +1,34 @@
+Radara alternatif
+Süleyman Demirel Üniversitesi (SDÜ) Mühendislik Fakültesi Elektronik ve Haberleşme Mühendisliği Bölümü öğrencisinin Elektronik kimlikli trafik denetleme sistemi projesi kapsamında icat ettiği cihazın çevresel şartlardan etkilenerek hata yapabilen radara göre çok daha az maliyetle üretildiği ve daha doğru hız tespiti yaptığı bildirildi.
+Elektronik ve Haberleşme Mühendisliği Bölümü son sınıf öğrencisi Mustafa Geçin, AA muhabirine yaptığı açıklamada, günümüzde kullanılmakta olan Mobil Elektronik Sistem Entegrasyonu (MOBESE), Elektronik Denetleme Sistemleri (EDS), plaka tanıma sistemleri ve radar araçlarının araç kimliklerini, araçları kamera görüntülerine işleyerek yaptığını söyledi. 
+
+Plakaların okunmasını engelleyen herhangi bir durum söz konusu olduğunda denetim cihazlarının aracın bilgilerini öğrenmekte zorluk çektiğini ifade eden Geçin, plaka karakterleri üzerinde yapılan değişiklikler, plakanın okunmasını engelleyecek düzeyde kirlenmesi, başka bir aracın plakayı perdelemesi veya plakanın kasti olarak kapatılması nedeniyle veri alınamaması durumu olabildiğini anlattı. 
+
+Bu sorunu ortadan kaldırmak için yaklaşık 5 bin liralık bütçe ile 36 ay süren bir çalışma yaptığını belirten Geçin, çalışmalar neticesinde araçların içine yerleştirilen elektronik kimlikler sayesinde araç bilgilerinin plaka ile değil, bu elektronik kimlikler üzerinden gönderilen seri numaralar üzerinden belirlediğini anlattı.
+Mevcut sistemlerde bir aracın muayenesinin, çalıntı ve aranmasının olup olmadığının denetim noktasında kontrol edilmediği sürece bilenemeyeceğini vurgulayan Geçin, şunları kaydetti: 
+  
+İçine elektronik kimlik yerleştirilen araç, bu kimlikten gelen verileri okuyan antenli cihazın bulunduğu noktadan geçtiği taktirde okuyucu, aracın özellikleri hakkında bilgi veriyor. Bunun için bir direk dikmek, bir elektrik hattı çekmek gerekmiyor. Taşınabilir olması büyük avantajlarından biri. Bunu isteğin yere yerleştirip, burada denetimlerimizi sürdürebiliyorsunuz. Araca yerleştirilen kimliklerde oynama, tahrip etme gibi bir şey mümkün değil. Buradan aldığımız veriler, 'Pol-net' denilen polis bilgi veri tabanı ile eşleştirildiğinde araçlar durdurulmadan muayenesi, sigortası, yakalaması var mı yok mu gibi veriler sorgulanabiliyor. Eğer aracın durdurulmasını gerektirecek bir durum varsa bilgisayar üzerinden yaptığımız yazılımlar sayesinde belli oluyor, sesli bir şekilde uyarıyor. Yapılan çevirmeler, daha bilinçli hale geliyor.
+
+ 
+"RADARIN AKSİNE YAĞMURDAN, KARANLIKTAN ETKİLENMİYOR"   
+
+
+Ürettiği cihaz ile araçların hızının tespit edilebileceğine dikkati çeken Geçin, Aracın hızını ölçmek için iki okuyucuya ihtiyaç duyuyoruz. Okuyucuları belirli aralıkla yerleştiriyoruz. Araç ikinci okuyucundan geçtikten sonra yazılım, iki okuyucu arasındaki mesafeyi hesaplayarak size aracın ortalama hızını veriyor. Sürücüler genellikle radar aracını gördüklerinde yavaşlarlar, geçtikten sonra da normal hızına dönerler. Ancak bu okuyucularımız gizlenebiliyor, istenilen noktalara yerleştirilebiliyor. Sürücüler de bunu görmüyor. İster istemez sürücü, aracının hızını her zaman kontrol etmek zorunda kalabiliyor şeklinde konuştu.
+Radarın devlete maliyetinin 50 bin lira olduğuna işaret eden Geçin, şunları söyledi: 
+
+Oluşturduğumuz cihazın maliyeti ise 400 liradır. Radar araçları havanın yağmurlu, karanlık olması gibi nedenlerle gelen araçların verilerini doğru ölçemeyebiliyor. Bugüne kadar 12 farklı uygulama alanında 118 farklı deneme yaptık. Cihazın prototip uygulamasında ortalama hızda yüzde 88, sorgulamada ise yüzde 100'lük bir başarı sağladık. Yazılım üzerinden denetim butonuna bastıktan sonra başka hiçbir şey yapmıyorsunuz, sadece bekliyorsunuz. Özel bir eğitim de gerektirmiyor.
+
+ 
+"PROJENİN EN ÖNEMLİ YANI MALİYETİ DÜŞÜRMÜŞ OLMASI"  
+
+
+Proje Danışmanı SDÜ Mühendislik ve Mimarlık Fakültesi Elektronik ve Haberleşme Mühendisliği Öğretim Üyesi Doç. Dr. Selçuk Çömlekçi ise plakadan bağımsız elektronik kimlikli denetim sisteminin geliştirilmesi yönünde uzun zamandır düşünce olduğunu kaydetti. 
+
+Ancak bugüne kadar böyle bir çalışmanın hayata geçirilemediğini dile getiren Çömlekçi, şöyle dedi:
+"Öğrencimiz düşünülen bu çalışmayı araca konulacak bir etiket ve bunu okuyacak bir okuyucu sistemi ile gerçekleştirdi. MOBESE, EDS gibi sistemler çok pahalıya mal oluyor. Bu sistem ise tamamen kendi imkanlarımızla ve çok düşük maliyetlerle yapabiliyor. Isparta Emniyet Müdürlüğü desteği ile onların istedikleri özelliklere sahip bir cihaz yaptık. Proje, üniversitenin sağladığı katkı ve çok küçük bütçelerle neler yapılabileceğini göstermesi açısından önemli. Projenin en önemli yanı maliyeti düşürmüş olması, güvenlik bir şekilde denetim yapabilmesidir. Cihazın patenti için Türk Patent Enstitüsü'ne başvurumuzu yaptık." 
+
+Çömlekçi, cihazın tüm araçlara yerleştirilmesi için yasal bir düzenlenme gerektiğini sözlerine ekledi.
+
+ 
+  
+ 

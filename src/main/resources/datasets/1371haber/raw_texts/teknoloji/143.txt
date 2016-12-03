@@ -1,0 +1,10 @@
+Microsoft akıllı gözlüğü üzerinde çalışıyor
+İnternet devi Google'ın akıllı gözlüğünün ardından Microsoft da kendi gözlüğünü geliştiriyor.
+İnternet devi Google'ın ardından Microsoft da Google Glass benzeri bir teknoloji üzerinde çalışıyor. Ancak Microsoft'un gözlüğü 'artırılmış gerçeklik' teknolojisini de içeren Google Glass'ın gelişmiş bir formu olacak.
+
+Microsoft'un aldığı son patent, kullanıcıların gözlükleriyle gerçek zamanlı olarak bilgileri görüntüleyebildiğini gösteriyor. Örneğin futbol maçına giden kullanıcı, futbol maçlarıyla ilgili en son bilgileri hızlıca görebiliyor. 
+
+Patent başvurusunda herhangi bir cihaz ismi belirtilmediyse de, Google'ın gözlüğünde olduğu gibi kafaya takılan bir ekranın gerçek zamanlı etkinlikleri, ilgili verileriyle birlikte, nasıl göstereceğini gözler önüne seriyor. 
+
+Sistem bunu gerçekleştirmek için nerede olduğunuzu ve görüş açınızda nelerin olduğunu tanıyor ve sonrasında nelerin olduğu veya nereye baktığınıza bağlı olarak sürekli yeni bilgi geçişinde bulunuyor.  
+ 

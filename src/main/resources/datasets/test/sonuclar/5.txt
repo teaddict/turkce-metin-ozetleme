@@ -1,0 +1,185 @@
+I|12:15:22.800|Parser ready: 2469ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:15:23.745|Cache ready: 3442ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿İspanyol basını eleştirdiği takımda en çok Arda'yı beğendi
+
+La Liga ve UEFA Avrupa Ligi'nde oynadığı son 6 maçta galip gelemeyen ve özellikle gol yollarında etkisiz kalmakla eleştirilen Atletico Madrid'de milli futbolcu Arda Turan beğeniliyor. İspanyol basını, sahasında oynadığı maçta Real Mallorca ile 1-1 berabere kalan Atletico Madrid'de sahanın en iyi futbolcusunun Arda olduğunu yazdı.
+
+El Mundo Deportivo, "Atletico Madrid'de genel olarak hüküm süren gevşekliğin içinde en iyi futbolcu olarak Arda gözüktü. Asistleriyle, Salvio ve Adrian'a fırsatlar yarattı, ofansif futbolu net olarak görebilen tek futbolcu oldu ve çok çalıştı" diye yazdı. AS gazetesi de Arda için, "Büyük bir maç çıkarmadı ama Adrian tarafından harcanan fırsatı yaratan pası, gri bir futbolun tek pırıltısı oldu" ifadelerini kullandı. Marca gazetesi ise, Atletico Madrid'in genel olarak kötü oynadığını ve "maç kazanmaktan yoksun olduğunu" belirterek, Arda'nın sakatlıktan çıkmakta zorlandığını ileri sürdü.
+
+Atletico Madrid teknik direktörü Gregorio Manzano da, taraftarın kızmakta haklılığı olabileceğini söyleyip, "Beraberliği düşünmüyorduk, o yüzden pozitif bir duyguda değiliz. Maçta, kötü yaptıklarımız iyi yaptıklarımızdan daha fazlaydı" dedi. Ligde 10 puanla 9. sırada bulunan Atletico krizden çıkmak için, gelecek Perşembe günü deplasmanda Athletic Bilbao'ya, Pazar günü ise sahasında Real Zaragoza'ya karşı oynayacağı maçları kazanmak istiyor.
+
+
+
+
+######Clean text file:######
+﻿ispanyol basını eleştirdiği takımda arda'yı beğendi
+
+la liga uefa avrupa ligi'nde oynadığı son 6 maçta galip gelemeyen özellikle gol yollarında etkisiz kalmakla eleştirilen atletico madrid'de milli futbolcu arda turan beğeniliyor. ispanyol basını, sahasında oynadığı maçta real mallorca 1-1 berabere kalan atletico madrid'de sahanın iyi futbolcusunun arda yazdı.
+
+el mundo deportivo, "atletico madrid'de genel hüküm süren gevşekliğin içinde iyi futbolcu arda gözüktü. asistleriyle, salvio adrian'a fırsatlar yarattı, ofansif futbolu net görebilen tek futbolcu çalıştı" yazdı. as gazetesi arda için, "büyük maç çıkarmadı adrian harcanan fırsatı yaratan pası, gri futbolun tek pırıltısı oldu" ifadelerini kullandı. marca gazetesi ise, atletico madrid'in genel kötü oynadığını "maç kazanmaktan yoksun olduğunu" belirterek, arda'nın sakatlıktan çıkmakta zorlandığını ileri sürdü.
+
+atletico madrid teknik direktörü gregorio manzano da, taraftarın kızmakta haklılığı olabileceğini söyleyip, "beraberliği düşünmüyorduk, yüzden pozitif duyguda değiliz. maçta, kötü yaptıklarımız iyi yaptıklarımızdan fazlaydı" dedi. ligde 10 puanla 9. sırada bulunan atletico krizden çıkmak için, gelecek perşembe günü deplasmanda athletic bilbao'ya, pazar günü sahasında real zaragoza'ya karşı oynayacağı maçları kazanmak istiyor.
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿ispanyol basını eleştirdiği takımda arda'yı beğendi
+
+PARAGRAPH: la liga uefa avrupa ligi'nde oynadığı son 6 maçta galip gelemeyen özellikle gol yollarında etkisiz kalmakla eleştirilen atletico madrid'de milli futbolcu arda turan beğeniliyor. ispanyol basını, sahasında oynadığı maçta real mallorca 1-1 berabere kalan atletico madrid'de sahanın iyi futbolcusunun arda yazdı.
+
+PARAGRAPH: el mundo deportivo, "atletico madrid'de genel hüküm süren gevşekliğin içinde iyi futbolcu arda gözüktü. asistleriyle, salvio adrian'a fırsatlar yarattı, ofansif futbolu net görebilen tek futbolcu çalıştı" yazdı. as gazetesi arda için, "büyük maç çıkarmadı adrian harcanan fırsatı yaratan pası, gri futbolun tek pırıltısı oldu" ifadelerini kullandı. marca gazetesi ise, atletico madrid'in genel kötü oynadığını "maç kazanmaktan yoksun olduğunu" belirterek, arda'nın sakatlıktan çıkmakta zorlandığını ileri sürdü.
+
+PARAGRAPH: atletico madrid teknik direktörü gregorio manzano da, taraftarın kızmakta haklılığı olabileceğini söyleyip, "beraberliği düşünmüyorduk, yüzden pozitif duyguda değiliz. maçta, kötü yaptıklarımız iyi yaptıklarımızdan fazlaydı" dedi. ligde 10 puanla 9. sırada bulunan atletico krizden çıkmak için, gelecek perşembe günü deplasmanda athletic bilbao'ya, pazar günü sahasında real zaragoza'ya karşı oynayacağı maçları kazanmak istiyor.
+
+
+
+######Cümleler:######
+
+﻿ispanyol basını eleştirdiği takımda arda'yı beğendi
+
+la liga uefa avrupa ligi'nde oynadığı son 6 maçta galip gelemeyen özellikle gol yollarında etkisiz kalmakla eleştirilen atletico madrid'de milli futbolcu arda turan beğeniliyor.
+ispanyol basını, sahasında oynadığı maçta real mallorca 1-1 berabere kalan atletico madrid'de sahanın iyi futbolcusunun arda yazdı.
+el mundo deportivo, "atletico madrid'de genel hüküm süren gevşekliğin içinde iyi futbolcu arda gözüktü.
+asistleriyle, salvio adrian'a fırsatlar yarattı, ofansif futbolu net görebilen tek futbolcu çalıştı" yazdı.
+as gazetesi arda için, "büyük maç çıkarmadı adrian harcanan fırsatı yaratan pası, gri futbolun tek pırıltısı oldu" ifadelerini kullandı.
+marca gazetesi ise, atletico madrid'in genel kötü oynadığını "maç kazanmaktan yoksun olduğunu" belirterek, arda'nın sakatlıktan çıkmakta zorlandığını ileri sürdü.
+atletico madrid teknik direktörü gregorio manzano da, taraftarın kızmakta haklılığı olabileceğini söyleyip, "beraberliği düşünmüyorduk, yüzden pozitif duyguda değiliz.
+maçta, kötü yaptıklarımız iyi yaptıklarımızdan fazlaydı" dedi.
+ligde 10 puanla 9. sırada bulunan atletico krizden çıkmak için, gelecek perşembe günü deplasmanda athletic bilbao'ya, pazar günü sahasında real zaragoza'ya karşı oynayacağı maçları kazanmak istiyor.
+
+
+
+######Title######
+﻿ispanyol basını eleştirdiği takımda arda'yı beğendi
+
+
+######Nouns of text:######
+[İspanyol, basın, takım, arda, la, liga, Avrupa, lig, son, maç, özellik, gol, yol, etki, mil, futbol, art, tura, İspanyol, basın, Saha, maç, beraber, kala, sahan, iyi, futbol, art, el, hüküm, süre, gevşek, için, iyi, futbol, art, asist, fırsat, futbol, net, tek, futbol, as, gazete, art, iç, büyük, maç, fırsat, pas, gri, futbol, tek, pırıltı, ifade, gazete, is, maç, yok, arda, sakat, ileri, teknik, direktör, taraftar, hak, beraber, yüzde, duygu, maç, iyi, lig, puan, sıra, kriz, iç, gelecek, perşembe, gün, deplasman, pazar, gün, Saha, karşı, maç]
+I|12:15:25.952|Parser ready: 2024ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:15:26.039|Cache ready: 2111ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[eleştirmek, beğenmek, oynamak, gelmek, eleştirmek, beğenmek, oynamak, kalmak, yazmak, genelmek, sürmek, gözükmek, yaratmak, görmek, çalışmak, yazmak, asmak, içmek, çıkarmak, harcanmak, yaratmak, olmak, kullanmak, genelmek, oynamak, yoksunmak, olmak, belirtmek, çıkmak, zorlamak, sürmek, kızmak, söylemek, düşünmek, fazla, demek, puanlamak, bulunmak, içmek, gelmek, istemek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 565
+All chain size: 222
+Unique Chains: 50
+Chain Puan Eşik değeri:14
+Chain Strength Eşik değeri:0.48
+Chain criterion değeri:2.751211130652543
+Strong Chains: 2
+futbol
+synonymy
+ayaktopu
+futbol
+synonymy
+ayaktopu
+futbol
+synonymy
+ayaktopu
+futbol
+synonymy
+ayaktopu
+futbol
+synonymy
+ayaktopu
+futbol
+synonymy
+ayaktopu
+6
+60
+5.0
+
+
+lig
+related_with
+spor
+gol
+related_with
+spor
+futbol
+related_with
+spor
+futbol
+related_with
+spor
+futbol
+related_with
+spor
+futbol
+related_with
+spor
+futbol
+related_with
+spor
+futbol
+related_with
+spor
+taraftar
+related_with
+spor
+lig
+related_with
+spor
+deplasman
+related_with
+spor
+11
+44
+6.0
+
+
+[0, 1]
+#############Heuristic1 OUTPUT############
+0 : La Liga ve UEFA Avrupa Ligi'nde oynadığı son 6 maçta galip gelemeyen ve özellikle gol yollarında etkisiz kalmakla eleştirilen Atletico Madrid'de milli futbolcu Arda Turan beğeniliyor.
+1 : İspanyol basını, sahasında oynadığı maçta Real Mallorca ile 1-1 berabere kalan Atletico Madrid'de sahanın en iyi futbolcusunun Arda olduğunu yazdı.
+representative
+[futbol]
+#############Heuristic2 OUTPUT############
+La Liga ve UEFA Avrupa Ligi'nde oynadığı son 6 maçta galip gelemeyen ve özellikle gol yollarında etkisiz kalmakla eleştirilen Atletico Madrid'de milli futbolcu Arda Turan beğeniliyor.
+#############Heuristic3 OUTPUT############
+1 : İspanyol basını, sahasında oynadığı maçta Real Mallorca ile 1-1 berabere kalan Atletico Madrid'de sahanın en iyi futbolcusunun Arda olduğunu yazdı.
+3 : Asistleriyle, Salvio ve Adrian'a fırsatlar yarattı, ofansif futbolu net olarak görebilen tek futbolcu oldu ve çok çalıştı" diye yazdı.
+####################CLASS OF ORIGINAL TEXT################
+﻿İspanyol basını eleştirdiği takımda en çok Arda'yı beğendi
+
+La Liga ve UEFA Avrupa Ligi'nde oynadığı son 6 maçta galip gelemeyen ve özellikle gol yollarında etkisiz kalmakla eleştirilen Atletico Madrid'de milli futbolcu Arda Turan beğeniliyor. İspanyol basını, sahasında oynadığı maçta Real Mallorca ile 1-1 berabere kalan Atletico Madrid'de sahanın en iyi futbolcusunun Arda olduğunu yazdı.
+
+El Mundo Deportivo, "Atletico Madrid'de genel olarak hüküm süren gevşekliğin içinde en iyi futbolcu olarak Arda gözüktü. Asistleriyle, Salvio ve Adrian'a fırsatlar yarattı, ofansif futbolu net olarak görebilen tek futbolcu oldu ve çok çalıştı" diye yazdı. AS gazetesi de Arda için, "Büyük bir maç çıkarmadı ama Adrian tarafından harcanan fırsatı yaratan pası, gri bir futbolun tek pırıltısı oldu" ifadelerini kullandı. Marca gazetesi ise, Atletico Madrid'in genel olarak kötü oynadığını ve "maç kazanmaktan yoksun olduğunu" belirterek, Arda'nın sakatlıktan çıkmakta zorlandığını ileri sürdü.
+
+Atletico Madrid teknik direktörü Gregorio Manzano da, taraftarın kızmakta haklılığı olabileceğini söyleyip, "Beraberliği düşünmüyorduk, o yüzden pozitif bir duyguda değiliz. Maçta, kötü yaptıklarımız iyi yaptıklarımızdan daha fazlaydı" dedi. Ligde 10 puanla 9. sırada bulunan Atletico krizden çıkmak için, gelecek Perşembe günü deplasmanda Athletic Bilbao'ya, Pazar günü ise sahasında Real Zaragoza'ya karşı oynayacağı maçları kazanmak istiyor.
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿İspanyol basını eleştirdiği takımda en çok Arda\'yı beğendi\n\nLa Liga ve UEFA Avrupa Ligi\'nde oynadığı son 6 maçta galip gelemeyen ve özellikle gol yollarında etkisiz kalmakla eleştirilen Atletico Madrid\'de milli futbolcu Arda Turan beğeniliyor. İspanyol basını, sahasında oynadığı maçta Real Mallorca ile 1-1 berabere kalan Atletico Madrid\'de sahanın en iyi futbolcusunun Arda olduğunu yazdı.\n\nEl Mundo Deportivo, \"Atletico Madrid\'de genel olarak hüküm süren gevşekliğin içinde en iyi futbolcu olarak Arda gözüktü. Asistleriyle, Salvio ve Adrian\'a fırsatlar yarattı, ofansif futbolu net olarak görebilen tek futbolcu oldu ve çok çalıştı\" diye yazdı. AS gazetesi de Arda için, \"Büyük bir maç çıkarmadı ama Adrian tarafından harcanan fırsatı yaratan pası, gri bir futbolun tek pırıltısı oldu\" ifadelerini kullandı. Marca gazetesi ise, Atletico Madrid\'in genel olarak kötü oynadığını ve \"maç kazanmaktan yoksun olduğunu\" belirterek, Arda\'nın sakatlıktan çıkmakta zorlandığını ileri sürdü.\n\nAtletico Madrid teknik direktörü Gregorio Manzano da, taraftarın kızmakta haklılığı olabileceğini söyleyip, \"Beraberliği düşünmüyorduk, o yüzden pozitif bir duyguda değiliz. Maçta, kötü yaptıklarımız iyi yaptıklarımızdan daha fazlaydı\" dedi. Ligde 10 puanla 9. sırada bulunan Atletico krizden çıkmak için, gelecek Perşembe günü deplasmanda Athletic Bilbao\'ya, Pazar günü ise sahasında Real Zaragoza\'ya karşı oynayacağı maçları kazanmak istiyor.\n\n'
+===== Classified instance =====
+Class predicted: spor
+spor
+###################CLASS OF SUMMARY#######################
+[1 : İspanyol basını, sahasında oynadığı maçta Real Mallorca ile 1-1 berabere kalan Atletico Madrid'de sahanın en iyi futbolcusunun Arda olduğunu yazdı., 3 : Asistleriyle, Salvio ve Adrian'a fırsatlar yarattı, ofansif futbolu net olarak görebilen tek futbolcu oldu ve çok çalıştı" diye yazdı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[1 : İspanyol basını, sahasında oynadığı maçta Real Mallorca ile 1-1 berabere kalan Atletico Madrid\'de sahanın en iyi futbolcusunun Arda olduğunu yazdı., 3 : Asistleriyle, Salvio ve Adrian\'a fırsatlar yarattı, ofansif futbolu net olarak görebilen tek futbolcu oldu ve çok çalıştı\" diye yazdı.]'
+===== Classified instance =====
+Class predicted: spor
+spor

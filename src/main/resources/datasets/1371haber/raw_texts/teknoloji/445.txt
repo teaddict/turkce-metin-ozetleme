@@ -1,0 +1,10 @@
+Apple iOS 6.1 sürümünü yayınladı
+Apple, iPhone, iPad ve iPod Touch sahipleri için iOS 6.1'in final sürümünü yayınladı. Güncelleme ile birlikte iTunes Match ve LTE bağlantısı özellikleri geliştirildi. 
+İOS 6.1’i indiren kullanıcılar iTunes Match kullanıcıları iCloud’dan kendi müziklerini indirebilecekler. Amerika’da yaşayan kullanıcılar Siri ile birlikte Fandango uygulaması üzerinden sinema bileti alabilecekler. 
+Ayrıca Reklam Tanıtıcısı’nı sıfırlamak için ilgili bölüme özel bir düğme eklenecek.
+
+Bununla birlikte güncelleme daha fazla şebeke için LTE desteği veriyor ancak Türkiye’de henüz LTE bağlantısı için gerekli altyapı bulunmuyor. 
+
+Apple daha önce İOS 6.1’in beş farklı beta sürümünü yayınlamış, beşinci betanın final sürüm olabileceği konuşulmuştu. Ancak Apple, beşinci betayı kaldırarak İOS 6.1 final sürümünü yayınladı. 
+
+iOS 6.1'i indirmek isteyen kullanıcılar, cihazlarının Ayarlar > Genel > Yazılım Güncelleme bölümünden gerekli işlemi yapabilirler.

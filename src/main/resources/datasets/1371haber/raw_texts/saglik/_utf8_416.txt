@@ -1,0 +1,15 @@
+Tekerlekli sandalyeye düşünce gücüyle kumanda edilebilecek 
+
+Tekerlekli sandalyeye mahkum olan felçliler, gelecekte sandalyelerini düşünce güçleriyle kumanda edebilecekler. 
+
+New Scientist dergisinde yayımlanan habere göre, İspanyol ve İsviçreli bilim adamlarından oluşan bir ekip, düşünce gücüyle hareket eden bir robot geliştirdiler. 
+Geliştirilen sistem, ileride tekerlekli sandalyelere uyarlanacak. Yeni sistemde, beyin implantlarına gerek olmadığını belirten bilim adamları, felçli kişinin beyin akımlarının, elektrotlar içeren bir başlık vasıtasıyla, kafatasının üzerinden okunacağını kaydettiler. Haberde, kolları ve bacakları felçli kişilerin, mevcut tekerlekli sandalyeleri, çeneleriyle joystick kullanarak hareket ettirebildikleri, fakat bu yöntemin çok yorucu olduğu belirtildi. 
+
+Şimdiye kadar gelinen aşamada, sistemin ileri, sağ ve sol olmak üzere üç komutu anladığını söyleyen bilim adamları, robotu kontrol edebilmek için 2 günlük bir eğitimin yeterli olduğunu kaydettiler. 
+
+Tekerlekli sandalyenin duvar gibi engellere çarpmaması için robota ''suni zeka'' yerleştirildiğini ifade eden bilim adamları, robotun aldığı komutları çevresine uygun olduğu takdirde yerine getirdiğini belirttiler. 
+
+Bu durumda, ''sol'' komutunu alan robot, ilk fırsatta sola dönüyor. 
+
+
+

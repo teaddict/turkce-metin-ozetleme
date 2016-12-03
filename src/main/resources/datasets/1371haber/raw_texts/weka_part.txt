@@ -1,0 +1,22 @@
+===== Loaded dataset: src/test/res/datasets//1150haber/raw_texts/trainbinary.arff =====
+===== Evaluating on filtered (training) dataset =====
+
+Correctly Classified Instances        1011               73.7418 %
+Incorrectly Classified Instances       360               26.2582 %
+Kappa statistic                          0.5715
+Mean absolute error                      0.1111
+Root mean squared error                  0.3146
+Relative absolute error                 43.6145 %
+Root relative squared error             88.2197 %
+Total Number of Instances             1371     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.868     0.287      0.795     0.868     0.83       0.796    teknoloji
+                 0.5       0.041      0.6       0.5       0.545      0.784    saglik
+                 0.447     0.049      0.528     0.447     0.484      0.752    ekonomi
+                 0.62      0.025      0.75      0.62      0.679      0.81     spor
+                 0.713     0.038      0.695     0.713     0.704      0.847    siyasi
+Weighted Avg.    0.737     0.178      0.729     0.737     0.731      0.797
+

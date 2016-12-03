@@ -1,0 +1,7 @@
+Facebook'taki 'açık' kapatıldı
+Facebook, bazı hesaplara şifre olmaksızın girilmesinin yoluna açan bir "açığı" hızla kapattığını açıkladı.
+1 milyon 320 bin Facebook kullanıcısının hesaplarının bir süre açığa düştüğü anlaşılıyor. 
+Google'da bir kelime ya da işaret dizisiyle arama yapılıyor ve bazı kullanıcıların hesaplarının gizliliğinin ortadan kalktığı linkler beliriyor. 
+
+Söz konusu virüs nitelikli uygulamanın varlığı internet üzerindeki korsanlık faaliyetleri üzerinde yoğunlaşan Hacker News haber sitesine gönderilen mesaj ile ortaya çıktı. 
+Arama sonucu olarak beliren linklerin üzerine tıklanmasıyla bazı Facebook hesaplarına şifre olmadan girilebildi. 

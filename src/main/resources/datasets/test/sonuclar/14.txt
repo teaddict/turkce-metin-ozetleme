@@ -1,0 +1,316 @@
+I|12:12:05.724|Parser ready: 2799ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:12:06.086|Cache ready: 3179ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Çukurca'da 24 asker şehit 
+
+Terör örgütü PKK, Hakkari'nin Çukurca İlçesi Kekliktepe bölgesinde bulunan askeri birliğe saldırdı.  PKK'lı teröristlerle güvenlik güçleri arasında çatışma çıktı. Çıkan çatışmada 24 asker şehit oldu, 18 asker de yaralandı. Saldırıların 200 kişilik bir PKK'lı grup tarafından gerçekleştirildiği öğrenildi.
+
+01.00 sıralarında Çukurca'da güvenlik güçlerinin bulunduğu binaları uzun namlulu silahlarla yoğun ateş altına tuttu.  Teröristlere polis ve askerler de anında karşılık verdi. Ağır silahların kullanıldığı ilçe merkezindeki çatışma 30 dakikayı aşkın süredir aralıksız devam etti. DHA'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker de yaralandı.
+
+İlçenin her kesiminden duyulan yoğun silah sesleri halk arasında büyük endişeye neden oldu. Bu arada, Hakkari'deki polis telsizlerinden tüm polislerin çelik yelek giymeleri ve tam tecizatlı olmaları talimatı verilirke  Çukurca'daki çatışmaya destek için de hazır durumda beklenmeleri istendi. 
+
+Saldırının ardından Genelkurmay Başkanı Orgeneral Necdet Özel ve kuvvet komutanları bölgeye hareket etti. Saldırının ardından Başbakan Erdoğan başkanlığında bir terör toplantısı yapıldı. Başbakanlık Merkez Bina'daki toplantıya Başbakan Yardımcısı Beşir Atalay, İçişleri Bakanı İdris Naim Şahin, Milli Savunma Bakanı İsmet Yılmaz da katıldı.
+
+
+
+
+
+
+######Clean text file:######
+﻿çukurca'da 24 asker şehit 
+
+terör örgütü pkk, hakkari'nin çukurca ilçesi kekliktepe bölgesinde bulunan askeri birliğe saldırdı.  pkk'lı teröristlerle güvenlik güçleri arasında çatışma çıktı. çıkan çatışmada 24 asker şehit oldu, 18 asker yaralandı. saldırıların 200 kişilik pkk'lı grup gerçekleştirildiği öğrenildi.
+
+01.00 sıralarında çukurca'da güvenlik güçlerinin bulunduğu binaları uzun namlulu silahlarla yoğun ateş altına tuttu.  teröristlere polis askerler anında karşılık verdi. ağır silahların kullanıldığı ilçe merkezindeki çatışma 30 dakikayı aşkın süredir aralıksız devam etti. dha'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker yaralandı.
+
+ilçenin kesiminden duyulan yoğun silah sesleri halk arasında büyük endişeye oldu. arada, hakkari'deki polis telsizlerinden polislerin çelik yelek giymeleri tam tecizatlı olmaları talimatı verilirke  çukurca'daki çatışmaya destek hazır durumda beklenmeleri istendi. 
+
+saldırının ardından genelkurmay başkanı orgeneral necdet özel kuvvet komutanları bölgeye hareket etti. saldırının ardından başbakan erdoğan başkanlığında terör toplantısı yapıldı. başbakanlık merkez bina'daki toplantıya başbakan yardımcısı beşir atalay, içişleri bakanı idris naim şahin, milli savunma bakanı ismet yılmaz katıldı.
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿çukurca'da 24 asker şehit 
+
+PARAGRAPH: terör örgütü pkk, hakkari'nin çukurca ilçesi kekliktepe bölgesinde bulunan askeri birliğe saldırdı.  pkk'lı teröristlerle güvenlik güçleri arasında çatışma çıktı. çıkan çatışmada 24 asker şehit oldu, 18 asker yaralandı. saldırıların 200 kişilik pkk'lı grup gerçekleştirildiği öğrenildi.
+
+PARAGRAPH: 01.00 sıralarında çukurca'da güvenlik güçlerinin bulunduğu binaları uzun namlulu silahlarla yoğun ateş altına tuttu.  teröristlere polis askerler anında karşılık verdi. ağır silahların kullanıldığı ilçe merkezindeki çatışma 30 dakikayı aşkın süredir aralıksız devam etti. dha'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker yaralandı.
+
+PARAGRAPH: ilçenin kesiminden duyulan yoğun silah sesleri halk arasında büyük endişeye oldu. arada, hakkari'deki polis telsizlerinden polislerin çelik yelek giymeleri tam tecizatlı olmaları talimatı verilirke  çukurca'daki çatışmaya destek hazır durumda beklenmeleri istendi. 
+
+PARAGRAPH: saldırının ardından genelkurmay başkanı orgeneral necdet özel kuvvet komutanları bölgeye hareket etti. saldırının ardından başbakan erdoğan başkanlığında terör toplantısı yapıldı. başbakanlık merkez bina'daki toplantıya başbakan yardımcısı beşir atalay, içişleri bakanı idris naim şahin, milli savunma bakanı ismet yılmaz katıldı.
+
+
+
+######Cümleler:######
+
+﻿çukurca'da 24 asker şehit 
+
+terör örgütü pkk, hakkari'nin çukurca ilçesi kekliktepe bölgesinde bulunan askeri birliğe saldırdı.
+pkk'lı teröristlerle güvenlik güçleri arasında çatışma çıktı.
+çıkan çatışmada 24 asker şehit oldu, 18 asker yaralandı.
+saldırıların 200 kişilik pkk'lı grup gerçekleştirildiği öğrenildi.
+01.00 sıralarında çukurca'da güvenlik güçlerinin bulunduğu binaları uzun namlulu silahlarla yoğun ateş altına tuttu.
+teröristlere polis askerler anında karşılık verdi.
+ağır silahların kullanıldığı ilçe merkezindeki çatışma 30 dakikayı aşkın süredir aralıksız devam etti.
+dha'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker yaralandı.
+ilçenin kesiminden duyulan yoğun silah sesleri halk arasında büyük endişeye oldu.
+arada, hakkari'deki polis telsizlerinden polislerin çelik yelek giymeleri tam tecizatlı olmaları talimatı verilirke  çukurca'daki çatışmaya destek hazır durumda beklenmeleri istendi.
+saldırının ardından genelkurmay başkanı orgeneral necdet özel kuvvet komutanları bölgeye hareket etti.
+saldırının ardından başbakan erdoğan başkanlığında terör toplantısı yapıldı.
+başbakanlık merkez bina'daki toplantıya başbakan yardımcısı beşir atalay, içişleri bakanı idris naim şahin, milli savunma bakanı ismet yılmaz katıldı.
+
+
+
+######Title######
+﻿çukurca'da 24 asker şehit 
+
+
+######Nouns of text:######
+[Çukurca, asker, şehit, terör, örgüt, Hakkâri, çukur, ilçe, bölge, asker, birlik, terörist, güven, güç, ara, çıktı, çıkan, asker, şehit, asker, saldırı, kişi, grup, sıra, Çukurca, güven, güç, bina, uz, namlu, silâh, yoğ, ateş, altın, terörist, polis, asker, anı, karşı, verdi, ağır, silâh, ilçe, merkez, dakika, aşk, Aralık, deva, ge, saat, saldırı, asker, şehit, asker, ilçe, kesim, yoğ, silâh, ses, halk, ara, büyük, endişe, ara, Hakkâri, polis, telsiz, polis, çelik, yelek, Ta, talimat, Çukurca, destek, durum, saldırı, art, genelkurmay, başkan, orgeneral, kuvvet, komutan, bölge, hareket, saldırı, art, başbakan, başkan, terör, toplantı, başbakan, merkez, bina, toplantı, başbakan, yardım, bakan, şahin, mil, savunma, bakan, ismet]
+I|12:12:07.367|Parser ready: 1180ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:12:07.446|Cache ready: 1259ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[bulunmak, saldırmak, çatışmak, çıkmak, çıkmak, olmak, yaralamak, gerçek, öğrenmek, bulunmak, tutmak, vermek, kullanmak, çatışmak, sürmek, etmek, görmek, başlamak, olmak, yaralamak, duymak, olmak, çatışmak, istemek, saldırmak, etmek, saldırmak, yapmak, savunmak, yılmak, katılmak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 526
+All chain size: 330
+Unique Chains: 76
+Chain Puan Eşik değeri:17
+Chain Strength Eşik değeri:1.2763157894736843
+Chain criterion değeri:7.1754565316364705
+Strong Chains: 3
+asker
+antonymy
+ordu
+asker
+holo_member
+ordu
+asker
+hypernymy
+ordu
+asker
+antonymy
+ordu
+asker
+holo_member
+ordu
+asker
+hypernymy
+ordu
+asker
+antonymy
+ordu
+asker
+holo_member
+ordu
+asker
+hypernymy
+ordu
+asker
+antonymy
+ordu
+asker
+holo_member
+ordu
+asker
+hypernymy
+ordu
+asker
+antonymy
+ordu
+asker
+holo_member
+ordu
+asker
+hypernymy
+ordu
+asker
+antonymy
+ordu
+asker
+holo_member
+ordu
+asker
+hypernymy
+ordu
+savunma
+related_with
+ordu
+19
+94
+17.0
+
+
+terör
+related_with
+siyaset
+örgüt
+related_with
+siyaset
+güç
+related_with
+siyaset
+saldırı
+related_with
+siyaset
+güç
+related_with
+siyaset
+saldırı
+related_with
+siyaset
+saldırı
+related_with
+siyaset
+genelkurmay
+related_with
+siyaset
+saldırı
+related_with
+siyaset
+başbakan
+related_with
+siyaset
+terör
+related_with
+siyaset
+başbakan
+related_with
+siyaset
+başbakan
+related_with
+siyaset
+bakan
+related_with
+siyaset
+bakan
+related_with
+siyaset
+15
+60
+8.0
+
+
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+18
+90
+17.0
+
+
+[0, 1, 2]
+#############Heuristic1 OUTPUT############
+0 : Terör örgütü PKK, Hakkari'nin Çukurca İlçesi Kekliktepe bölgesinde bulunan askeri birliğe saldırdı.
+1 : PKK'lı teröristlerle güvenlik güçleri arasında çatışma çıktı.
+2 : Çıkan çatışmada 24 asker şehit oldu, 18 asker de yaralandı.
+representative
+[asker, saldırı]
+#############Heuristic2 OUTPUT############
+Terör örgütü PKK, Hakkari'nin Çukurca İlçesi Kekliktepe bölgesinde bulunan askeri birliğe saldırdı.
+DHA'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker de yaralandı.
+#############Heuristic3 OUTPUT############
+3 : Saldırıların 200 kişilik bir PKK'lı grup tarafından gerçekleştirildiği öğrenildi.
+5 : Teröristlere polis ve askerler de anında karşılık verdi.
+7 : DHA'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker de yaralandı.
+####################CLASS OF ORIGINAL TEXT################
+﻿Çukurca'da 24 asker şehit 
+
+Terör örgütü PKK, Hakkari'nin Çukurca İlçesi Kekliktepe bölgesinde bulunan askeri birliğe saldırdı.  PKK'lı teröristlerle güvenlik güçleri arasında çatışma çıktı. Çıkan çatışmada 24 asker şehit oldu, 18 asker de yaralandı. Saldırıların 200 kişilik bir PKK'lı grup tarafından gerçekleştirildiği öğrenildi.
+
+01.00 sıralarında Çukurca'da güvenlik güçlerinin bulunduğu binaları uzun namlulu silahlarla yoğun ateş altına tuttu.  Teröristlere polis ve askerler de anında karşılık verdi. Ağır silahların kullanıldığı ilçe merkezindeki çatışma 30 dakikayı aşkın süredir aralıksız devam etti. DHA'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker de yaralandı.
+
+İlçenin her kesiminden duyulan yoğun silah sesleri halk arasında büyük endişeye neden oldu. Bu arada, Hakkari'deki polis telsizlerinden tüm polislerin çelik yelek giymeleri ve tam tecizatlı olmaları talimatı verilirke  Çukurca'daki çatışmaya destek için de hazır durumda beklenmeleri istendi. 
+
+Saldırının ardından Genelkurmay Başkanı Orgeneral Necdet Özel ve kuvvet komutanları bölgeye hareket etti. Saldırının ardından Başbakan Erdoğan başkanlığında bir terör toplantısı yapıldı. Başbakanlık Merkez Bina'daki toplantıya Başbakan Yardımcısı Beşir Atalay, İçişleri Bakanı İdris Naim Şahin, Milli Savunma Bakanı İsmet Yılmaz da katıldı.
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Çukurca\'da 24 asker şehit \n\nTerör örgütü PKK, Hakkari\'nin Çukurca İlçesi Kekliktepe bölgesinde bulunan askeri birliğe saldırdı.  PKK\'lı teröristlerle güvenlik güçleri arasında çatışma çıktı. Çıkan çatışmada 24 asker şehit oldu, 18 asker de yaralandı. Saldırıların 200 kişilik bir PKK\'lı grup tarafından gerçekleştirildiği öğrenildi.\n\n01.00 sıralarında Çukurca\'da güvenlik güçlerinin bulunduğu binaları uzun namlulu silahlarla yoğun ateş altına tuttu.  Teröristlere polis ve askerler de anında karşılık verdi. Ağır silahların kullanıldığı ilçe merkezindeki çatışma 30 dakikayı aşkın süredir aralıksız devam etti. DHA\'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker de yaralandı.\n\nİlçenin her kesiminden duyulan yoğun silah sesleri halk arasında büyük endişeye neden oldu. Bu arada, Hakkari\'deki polis telsizlerinden tüm polislerin çelik yelek giymeleri ve tam tecizatlı olmaları talimatı verilirke  Çukurca\'daki çatışmaya destek için de hazır durumda beklenmeleri istendi. \n\nSaldırının ardından Genelkurmay Başkanı Orgeneral Necdet Özel ve kuvvet komutanları bölgeye hareket etti. Saldırının ardından Başbakan Erdoğan başkanlığında bir terör toplantısı yapıldı. Başbakanlık Merkez Bina\'daki toplantıya Başbakan Yardımcısı Beşir Atalay, İçişleri Bakanı İdris Naim Şahin, Milli Savunma Bakanı İsmet Yılmaz da katıldı.\n\n\n\n'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi
+###################CLASS OF SUMMARY#######################
+[3 : Saldırıların 200 kişilik bir PKK'lı grup tarafından gerçekleştirildiği öğrenildi., 5 : Teröristlere polis ve askerler de anında karşılık verdi., 7 : DHA'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker de yaralandı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[3 : Saldırıların 200 kişilik bir PKK\'lı grup tarafından gerçekleştirildiği öğrenildi., 5 : Teröristlere polis ve askerler de anında karşılık verdi., 7 : DHA\'ya göre, gece saatlerinde başlayan saldırılarda 24 asker şehit oldu, 18 asker de yaralandı.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

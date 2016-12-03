@@ -1,0 +1,71 @@
+(baş holo_part hayvan) P1-S1,:1:4:0.0
+(iyi antonymy kötü) P1-S1,(iyi antonymy kötü) P1-S2,(yaş synonymy kötü) P3-S5,:3:24:1.0
+(başkent hypernymy şehir) P1-S1,(başkent hypernymy şehir) P2-S4,(kent synonymy şehir) P3-S6,:3:18:1.0
+(üst synonymy sorumluluk) P1-S1,(boyun synonymy sorumluluk) P2-S4,:2:20:0.0
+(bayrak synonymy simge) P2-S4,:1:10:0.0
+(dünya hypernymy gezegen) P0-S0,(dünya hypernymy gezegen) P1-S1,(dünya hypernymy gezegen) P3-S5,:3:12:2.0
+(dünya synonymy grup) P0-S0,(dünya synonymy grup) P1-S1,(takım synonymy grup) P1-S1,(takım synonymy grup) P1-S2,(takım synonymy grup) P1-S2,(takım synonymy grup) P2-S4,(dünya synonymy grup) P3-S5,:7:70:5.0
+(yıldız hypernymy kişi) P0-S0,(yıldız hypernymy kişi) P0-S0,(şampiyon synonymy kişi) P0-S0,(yıldız hypernymy kişi) P1-S1,(baş hypernymy kişi) P1-S1,(üst hypernymy kişi) P1-S1,(yıldız hypernymy kişi) P1-S2,(başkan hypernymy kişi) P2-S3,(seyirci hypernymy kişi) P2-S4,(el hypernymy kişi) P2-S4,(yıldız hypernymy kişi) P3-S5,(şampiyon synonymy kişi) P3-S6,:12:60:5.0
+(önem synonymy ehemmiyet) P1-S2,:1:10:0.0
+(kent synonymy site) P3-S6,:1:10:0.0
+(son synonymy etene) P1-S1,:1:10:0.0
+(yıl holo_part onyıl) P3-S6,:1:4:0.0
+(seyirci synonymy izlemek) P2-S4,:1:10:0.0
+(voleybol related_with spor) P0-S0,(final related_with spor) P0-S0,(final related_with spor) P1-S1,(takım related_with spor) P1-S1,(oyun related_with spor) P1-S2,(takım related_with spor) P1-S2,(takım related_with spor) P1-S2,(smaçör related_with spor) P1-S2,(oyun related_with spor) P1-S2,(voleybol related_with spor) P2-S3,(takım related_with spor) P2-S4,(voleybol related_with spor) P3-S5,:12:48:6.999999999999999
+(baş holo_part görünen vücut parçası) P1-S1,(boyun holo_part görünen vücut parçası) P2-S4,:2:8:0.0
+(birlik synonymy bağlılık) P2-S3,:1:10:0.0
+(takı hypernymy şey) P0-S0,(takı hypernymy şey) P1-S1,(takım hypernymy şey) P1-S1,(takım hypernymy şey) P1-S2,(takım hypernymy şey) P1-S2,(takım hypernymy şey) P2-S4,:6:24:4.0
+(tribün holo_part stadyum) P2-S3,:1:4:0.0
+(baş synonymy başlangıç) P1-S1,(son antonymy başlangıç) P1-S1,:2:17:0.0
+(dünya related_with astronomi) P0-S0,(yıldız hypernymy astronomi) P0-S0,(yıldız holo_member astronomi) P0-S0,(yıldız hypernymy astronomi) P0-S0,(yıldız holo_member astronomi) P0-S0,(yıldız hypernymy astronomi) P1-S1,(yıldız holo_member astronomi) P1-S1,(dünya related_with astronomi) P1-S1,(yıldız hypernymy astronomi) P1-S2,(yıldız holo_member astronomi) P1-S2,(yıldız hypernymy astronomi) P3-S5,(yıldız holo_member astronomi) P3-S5,(dünya related_with astronomi) P3-S5,(yıl related_with astronomi) P3-S6,:14:56:11.0
+(kılıç holo_part kılıç balığı) P2-S3,(kılıç synonymy kılıç balığı) P2-S3,:2:14:1.0
+(kız antonymy oğul) P0-S0,(kız antonymy oğul) P1-S2,(kız antonymy oğul) P3-S5,:3:21:2.0
+(göz synonymy hane) P1-S1,(göz synonymy hane) P1-S2,:2:20:1.0
+(genç antonymy ihtiyar) P2-S3,:1:7:0.0
+(el synonymy defa) P2-S4,:1:10:0.0
+(şekil synonymy biçim) P2-S4,:1:10:0.0
+(protokol synonymy diplomatlıkta) P2-S3,:1:10:0.0
+(dünya synonymy yer) P0-S0,(başkent hypernymy yer) P1-S1,(salon hypernymy yer) P1-S1,(dünya synonymy yer) P1-S1,(göz hypernymy yer) P1-S1,(göz hypernymy yer) P1-S2,(başkent hypernymy yer) P2-S4,(salon hypernymy yer) P2-S4,(boyun hypernymy yer) P2-S4,(dünya synonymy yer) P3-S5,:10:58:5.0
+(bakan related_with siyaset) P2-S3,:1:4:0.0
+(final synonymy bitiş) P0-S0,(final synonymy bitiş) P1-S1,:2:20:1.0
+(kılıç holo_part deniz balığı) P2-S3,:1:4:0.0
+(baş hypernymy organ) P1-S1,(göz hypernymy organ) P1-S1,(göz hypernymy organ) P1-S2,(el hypernymy organ) P2-S4,(boyun hypernymy organ) P2-S4,:5:20:0.9999999999999998
+(kız antonymy kız çocuk) P0-S0,(kız synonymy kız çocuk) P0-S0,(kız antonymy kız çocuk) P1-S2,(kız synonymy kız çocuk) P1-S2,(kız antonymy kız çocuk) P3-S5,(kız synonymy kız çocuk) P3-S5,:6:51:5.0
+(spor hypernymy hareket) P2-S3,:1:4:0.0
+(coşku synonymy heyecan) P2-S4,:1:10:0.0
+(performans synonymy sunulması) P1-S1,(performans synonymy sunulması) P1-S2,:2:20:1.0
+(şampiyon synonymy takım) P0-S0,(şampiyon synonymy takım) P3-S6,:2:20:1.0
+(birlik synonymy bağlantı) P2-S3,(el synonymy bağlantı) P2-S4,:2:20:0.0
+(yıldız hypernymy belde) P0-S0,(yıldız hypernymy belde) P0-S0,(yıldız hypernymy belde) P1-S1,(yıldız hypernymy belde) P1-S2,(kılıç hypernymy belde) P2-S3,(yıldız hypernymy belde) P3-S5,:6:24:4.0
+(takım synonymy "gibi) P1-S1,(takım synonymy "gibi) P1-S2,(takım synonymy "gibi) P1-S2,(takım synonymy "gibi) P2-S4,:4:40:3.0
+(başkent hypernymy başkent) P1-S1,(başkent hypernymy başkent) P2-S4,:2:8:1.0
+(takım related_with biyoloji) P1-S1,(takım holo_member biyoloji) P1-S1,(takım related_with biyoloji) P1-S2,(takım holo_member biyoloji) P1-S2,(takım related_with biyoloji) P1-S2,(takım holo_member biyoloji) P1-S2,(takım related_with biyoloji) P2-S4,(takım holo_member biyoloji) P2-S4,:8:32:7.0
+(altın holo_portion soy metal) P3-S5,:1:0:0.0
+(smaçör synonymy oyuncu) P1-S2,:1:10:0.0
+(yaş holo_part ömür) P3-S5,(yaş synonymy ömür) P3-S5,:2:14:1.0
+(salon synonymy kutlamaların) P1-S1,(salon synonymy kutlamaların) P2-S4,:2:20:1.0
+(takip synonymy gütme) P2-S3,:1:10:0.0
+(yıldız hypernymy köy) P0-S0,(yıldız hypernymy köy) P0-S0,(yıldız hypernymy köy) P1-S1,(başkent hypernymy köy) P1-S1,(solak hypernymy köy) P1-S2,(yıldız hypernymy köy) P1-S2,(kılıç hypernymy köy) P2-S3,(birlik hypernymy köy) P2-S3,(başkent hypernymy köy) P2-S4,(bayrak hypernymy köy) P2-S4,(yıldız hypernymy köy) P3-S5,:11:44:5.0
+(yaş state_of olgunlaşmamış) P3-S5,:1:0:0.0
+(federasyon synonymy üstbirlik) P2-S3,:1:10:0.0
+(önem state_of önemsizlik) P1-S2,(önem antonymy önemsizlik) P1-S2,:2:7:1.0
+(yıldız synonymy takımyıldız) P0-S0,(yıldız holo_member takımyıldız) P0-S0,(yıldız synonymy takımyıldız) P0-S0,(yıldız holo_member takımyıldız) P0-S0,(yıldız synonymy takımyıldız) P1-S1,(yıldız holo_member takımyıldız) P1-S1,(yıldız synonymy takımyıldız) P1-S2,(yıldız holo_member takımyıldız) P1-S2,(yıldız synonymy takımyıldız) P3-S5,(yıldız holo_member takımyıldız) P3-S5,:10:70:9.0
+(oyun related_with teknoloji) P1-S2,(oyun related_with teknoloji) P1-S2,:2:8:1.0
+(tamam synonymy eksiksiz) P2-S4,:1:10:0.0
+(üst synonymy fevk) P1-S1,:1:10:0.0
+(salon holo_part oda) P1-S1,(yer holo_part oda) P1-S1,(salon holo_part oda) P2-S4,:3:12:1.0
+(yıldız synonymy baht) P0-S0,(yıldız synonymy baht) P0-S0,(yıldız synonymy baht) P1-S1,(yıldız synonymy baht) P1-S2,(yıldız synonymy baht) P3-S5,:5:50:4.0
+(voleybol synonymy uçantop) P0-S0,(voleybol synonymy uçantop) P2-S3,(voleybol synonymy uçantop) P3-S5,:3:30:2.0
+(son antonymy bölüm) P1-S1,(göz synonymy bölüm) P1-S1,(göz synonymy bölüm) P1-S2,:3:27:1.0
+(iyi synonymy istenilen) P1-S1,(iyi synonymy istenilen) P1-S2,:2:20:1.0
+(yer holo_part hol) P1-S1,:1:4:0.0
+(baş antonymy alt) P1-S1,(üst antonymy alt) P1-S1,:2:14:0.0
+(başkan synonymy ceo) P2-S3,:1:10:0.0
+(şampiyona synonymy bökelik) P0-S0,(şampiyona synonymy bökelik) P3-S5,:2:20:1.0
+(yer synonymy durum) P1-S1,(birlik antonymy durum) P2-S3,(şekil synonymy durum) P2-S4,:3:27:0.0
+(genç antonymy insan) P2-S3,(el holo_part insan) P2-S4,:2:11:0.0
+(baş holo_part vücut) P1-S1,(üst synonymy vücut) P1-S1,(boyun holo_part vücut) P2-S4,:3:18:0.0
+(boyun synonymy şişe) P2-S4,:1:10:0.0
+(takı synonymy yüzük) P0-S0,(takı synonymy yüzük) P1-S1,:2:20:1.0
+(mil related_with matematik) P0-S0,(mil related_with matematik) P1-S1,(mil related_with matematik) P1-S2,(mil related_with matematik) P1-S2,(mil related_with matematik) P2-S4,(şekil related_with matematik) P2-S4,:6:24:4.0
+(üst antonymy lider) P1-S1,(başkan synonymy lider) P2-S3,:2:17:0.0

@@ -1,0 +1,25 @@
+Google'dan dokunmatik ekranlı notebook
+Google, Chrome işletim sistemini kullanan ilk dokunmatik ekranlı dizüstü bilgisayarı Chromebook Pixel'i ortaya çıkardı.
+Arama motoru olması dışında donanım alanında da önemli işlere imza atan ve son olarak Google Glass ile bilgisayarları 'göze' getiren Google, bu kez de uzun zamandır dedikodulara neden olan yeni dizüstü bilgisayarı Chromebook Pixel'i duyurdu. 
+  
+Google'ın geliştirdiği ve tasarladığı cihazın en önemli özelliği ise dokunmatik ekrana sahip olması. Böylece kullanıcılar Windows 8 dışında da fare kullanmaksızın ekrana dokunarak bilgisayarlarını kontrol edebilecek.  
+  
+Intel'in Sandy Bridge işlemcisinden güç alan ve 4G ağ teknolojisini destekleyen Chromebook Pixel'in ekran çözünürlüğü ise Apple'ın Retina ekranının kalitesiyle hemen hemen aynı. Standart bilgisayarlarda olan Word, Excel ve diğer masaüstü uygulamalarının aksine Chrome tabanlı yazılımlarla çalışan Chromebook Pixel, verileri depolamak için de yoğun olarak Bulut teknolojisinden yararlanıyor. 
+  
+DONANIMSAL ÖZELLİKLERİ 
+  
+Google'ın "dizüstü bilgisayar pazarında piksel yoğunluğu en yüksek cihaz" olarak tanıttığı Chromebook Pixel'in diğer donanımsal özelliklerine gelince... 12.85 inç'lik bir ekrana sahip olan cihaz, bu sayede 2560x1700 piksel ekran çözünürlüğüne ulaşabiliyor. Ekranı Gorilla Glass teknolojisiyle korunan ve bu sayede çizilmelere karşı daha dayanıklı olan Chromebook Pixel, 1.8 GHz hızında çift çekirdek Intel Core i5 işlemci kullanıyor.  
+  
+Entegre HD 4000 ekran yongası dışında 4 GB DDR3 bellek kullanan cihazda 2 adet USB 2.0 portu, bir adet kulaklık ve mikrofon yuvası, SD kart girişi ve TV çıkışı bulunuyor. Tam kullanımda cihazın batarya ömrü 5 saati buluyor. 
+  
+CHROMEBOOK'UN İLK SÜRÜMÜ HALEN SATIŞTA 
+  
+Chromebook Pixel, aslında halen satışta olan ve Samsung'un üretimini üstlendiği Chromebook'un ilk sürümünün devamı olma özelliğini taşıyor ve 2011 yılında satışa sunulan cihaz 550 dolardan alıcı buluyor. 
+  
+FİYATI NE OLACAK 
+  
+Yeni Chromebook'ların fiyatları ise modeline göre değişiklik gösteriyor. Sadece WiFi modelini almak isteyen kullanıcılara 1,299 dolara gelen Chromebook Pixel'in bu modelinde 32 GB SSD hafıza bulunuyor. Ancak toplam hafızanın küçük göründüğüne takılmamak gerekiyor; zira Chromebook'un geliştirilme prensibi Bulut teknolojisine dayanıyor ve bu teknolojiyle entegre bir şekilde çalıştığından Google, internet üzerinden 1 TB'lık depolama alanıno kullanıcılara 3 yıl süresince ücretsiz olarak sunuyor. Cihazın 4G modelinin fiyatı ise 1,499 dolar olarak belirlendi.  
+  
+NE ZAMAN SATIŞA ÇIKIYOR 
+  
+Chromebook Pixel'in WiFi modeli an itibariyle Google Play mağazasında satışa sunulmuş durumda. Cihazın 4G/LTE desteğe sahip modelini almak isteyen kullanıcılar ise Nisan ayına kadar beklemek durumunda. Google Play dışında Bestbuy gibi bazı online mağazalar da bu cihazların satışını yapacak.

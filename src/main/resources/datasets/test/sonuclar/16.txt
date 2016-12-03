@@ -1,0 +1,406 @@
+I|12:11:20.834|Parser ready: 3017ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:11:21.218|Cache ready: 3420ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Yıldız Kızlarımız Dünya Şampiyonu
+
+Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu. Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.
+
+Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı. Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu. Türkiye, 2007 yılında Meksika'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.
+
+Bu arada karşılaşmayı Gençlik ve Spor Bakanı Suat Kılıç, Türkiye Voleybol Federasyonu Başkanı Erol Ünal Karabıyık ile birlikte protokol tribününden takip etti. TVF Başkent Salonu'nun tamamını dolduran seyirciler, ellerindeki Türk bayraklarıyla maç boyunca Türk Milli Takımı'nı coşkulu bir şekilde desteklediler.Voleybolseverler, TVF Bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını bir an bile yalnız bırakmadılar.
+
+Yıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.  İlk şampiyona 1989 yılında Brezilya'nın Curitiba kentinde yapılmıştır. Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿yıldız kızlarımız dünya şampiyonu
+
+dünya yıldız kızlar voleybol şampiyonası'nda yıldız milli takım, final maçında çin'i 3-0 yenerek şampiyon oldu. türkiye, voleybol tarihinin ilk dünya şampiyonluğunu elde etti.
+
+yıldız milli takım, tvf başkent salonu'nda final maçında baştan sona üstün performans sergileyerek, dünyanın iyi takımları arasında yer alan çin'e adeta göz açtırmadı. oyuncuların iyi oynadığı türk milli takımı'nda kübra akman performansıyla göz doldururken, çin milli takımı'nın solak smaçörü peiyi liu, yıldız kızları zorlayan önemli oyuncu oldu. türkiye, 2007 yılında meksika'da dünya yıldız kızlar şampiyonası finalinde çin'e karşı 3-1 kaybederek dünya ikincisi maçın rövanşını set kayıpsız aldı.
+
+bu karşılaşmayı gençlik spor bakanı suat kılıç, türkiye voleybol federasyonu başkanı erol ünal karabıyık birlikte protokol tribününden takip etti. tvf başkent salonu'nun tamamını dolduran seyirciler, ellerindeki türk bayraklarıyla maç boyunca türk milli takımı'nı coşkulu şekilde desteklediler.voleybolseverler, tvf bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını an yalnız bırakmadılar.
+
+yıldız kızlar dünya şampiyonası fıvb'nin düzenlediği 18 yaşının altındaki voleybolcuların katılabildiği şampiyonadır.  ilk şampiyona 1989 yılında brezilya'nın curitiba kentinde yapılmıştır. yılda düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿yıldız kızlarımız dünya şampiyonu
+
+PARAGRAPH: dünya yıldız kızlar voleybol şampiyonası'nda yıldız milli takım, final maçında çin'i 3-0 yenerek şampiyon oldu. türkiye, voleybol tarihinin ilk dünya şampiyonluğunu elde etti.
+
+PARAGRAPH: yıldız milli takım, tvf başkent salonu'nda final maçında baştan sona üstün performans sergileyerek, dünyanın iyi takımları arasında yer alan çin'e adeta göz açtırmadı. oyuncuların iyi oynadığı türk milli takımı'nda kübra akman performansıyla göz doldururken, çin milli takımı'nın solak smaçörü peiyi liu, yıldız kızları zorlayan önemli oyuncu oldu. türkiye, 2007 yılında meksika'da dünya yıldız kızlar şampiyonası finalinde çin'e karşı 3-1 kaybederek dünya ikincisi maçın rövanşını set kayıpsız aldı.
+
+PARAGRAPH: bu karşılaşmayı gençlik spor bakanı suat kılıç, türkiye voleybol federasyonu başkanı erol ünal karabıyık birlikte protokol tribününden takip etti. tvf başkent salonu'nun tamamını dolduran seyirciler, ellerindeki türk bayraklarıyla maç boyunca türk milli takımı'nı coşkulu şekilde desteklediler.voleybolseverler, tvf bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını an yalnız bırakmadılar.
+
+PARAGRAPH: yıldız kızlar dünya şampiyonası fıvb'nin düzenlediği 18 yaşının altındaki voleybolcuların katılabildiği şampiyonadır.  ilk şampiyona 1989 yılında brezilya'nın curitiba kentinde yapılmıştır. yılda düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.
+
+
+
+######Cümleler:######
+
+﻿yıldız kızlarımız dünya şampiyonu
+
+dünya yıldız kızlar voleybol şampiyonası'nda yıldız milli takım, final maçında çin'i 3-0 yenerek şampiyon oldu.
+türkiye, voleybol tarihinin ilk dünya şampiyonluğunu elde etti.
+yıldız milli takım, tvf başkent salonu'nda final maçında baştan sona üstün performans sergileyerek, dünyanın iyi takımları arasında yer alan çin'e adeta göz açtırmadı.
+oyuncuların iyi oynadığı türk milli takımı'nda kübra akman performansıyla göz doldururken, çin milli takımı'nın solak smaçörü peiyi liu, yıldız kızları zorlayan önemli oyuncu oldu.
+türkiye, 2007 yılında meksika'da dünya yıldız kızlar şampiyonası finalinde çin'e karşı 3-1 kaybederek dünya ikincisi maçın rövanşını set kayıpsız aldı.
+bu karşılaşmayı gençlik spor bakanı suat kılıç, türkiye voleybol federasyonu başkanı erol ünal karabıyık birlikte protokol tribününden takip etti.
+tvf başkent salonu'nun tamamını dolduran seyirciler, ellerindeki türk bayraklarıyla maç boyunca türk milli takımı'nı coşkulu şekilde desteklediler.
+voleybolseverler, tvf bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını an yalnız bırakmadılar.
+yıldız kızlar dünya şampiyonası fıvb'nin düzenlediği 18 yaşının altındaki voleybolcuların katılabildiği şampiyonadır.
+ilk şampiyona 1989 yılında brezilya'nın curitiba kentinde yapılmıştır.
+yılda düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.
+
+
+
+######Title######
+﻿yıldız kızlarımız dünya şampiyonu
+
+
+######Nouns of text:######
+[yıldız, kız, Dünya, şampiyon, Dünya, yıldız, kız, voleybol, şampiyona, yıldız, mil, takı, final, maç, Çin, şampiyon, Türki, voleybol, tarihî, ilk, Dünya, şampiyon, el, yıldız, mil, takı, başkent, salon, final, maç, baş, son, üst, performans, Dünya, iyi, takım, ara, yer, ala, Çin, göz, oyun, iyi, Türk, mil, takım, performans, göz, Çin, mil, takım, solak, smaçör, yıldız, kız, önem, oyun, Türki, yıl, Meksika, Dünya, yıldız, kız, şampiyona, final, Çin, karşı, Dünya, ikinci, maç, rövanş, set, kayıp, Genç, spor, bakan, kılıç, Türki, voleybol, federasyon, başkan, birlik, protokol, tribün, takip, başkent, salon, tamam, seyirci, el, Türk, bayrak, maç, boyun, Türk, mil, takım, coşku, şekil, bando, hareket, parça, eş, takım, an, yalnız, yıldız, kız, Dünya, şampiyona, yaş, altın, voleybol, ilk, şampiyon, yıl, Brezilya, kent, yıl, şampiyona, kıt, ülke, takım]
+I|12:11:22.484|Parser ready: 1159ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:11:22.561|Cache ready: 1235ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[yenmek, olmak, etmek, sergilemek, yemek, almak, açmak, oynamak, doldurmak, zorlamak, olmak, kaybetmek, al, etmek, doldurmak, çalmak, etmek, anmak, bırakmak, düzenlemek, katılmak, yapmak, düzenlemek, geçmek, katılmak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 540
+All chain size: 348
+Unique Chains: 87
+Chain Puan Eşik değeri:21
+Chain Strength Eşik değeri:1.5977011494252873
+Chain criterion değeri:7.2093456119503125
+Strong Chains: 5
+takım
+holo_member
+takson
+takım
+related_with
+takson
+takım
+holo_member
+takson
+takım
+related_with
+takson
+takım
+holo_member
+takson
+takım
+related_with
+takson
+takım
+holo_member
+takson
+takım
+related_with
+takson
+takım
+holo_member
+takson
+takım
+related_with
+takson
+takım
+holo_member
+takson
+takım
+related_with
+takson
+12
+48
+11.0
+
+
+yıldız
+holo_member
+astronomi
+yıldız
+hypernymy
+astronomi
+yıldız
+holo_member
+astronomi
+yıldız
+hypernymy
+astronomi
+yıldız
+holo_member
+astronomi
+yıldız
+hypernymy
+astronomi
+yıldız
+holo_member
+astronomi
+yıldız
+hypernymy
+astronomi
+yıl
+related_with
+astronomi
+yıldız
+holo_member
+astronomi
+yıldız
+hypernymy
+astronomi
+yıldız
+holo_member
+astronomi
+yıldız
+hypernymy
+astronomi
+yıl
+related_with
+astronomi
+yıl
+related_with
+astronomi
+15
+60
+13.0
+
+
+yıldız
+synonymy
+takımyıldız
+yıldız
+holo_member
+takımyıldız
+yıldız
+synonymy
+takımyıldız
+yıldız
+holo_member
+takımyıldız
+yıldız
+synonymy
+takımyıldız
+yıldız
+holo_member
+takımyıldız
+yıldız
+synonymy
+takımyıldız
+yıldız
+holo_member
+takımyıldız
+yıldız
+synonymy
+takımyıldız
+yıldız
+holo_member
+takımyıldız
+yıldız
+synonymy
+takımyıldız
+yıldız
+holo_member
+takımyıldız
+12
+84
+11.0
+
+
+voleybol
+related_with
+spor
+final
+related_with
+spor
+voleybol
+related_with
+spor
+final
+related_with
+spor
+takım
+related_with
+spor
+oyun
+related_with
+spor
+takım
+related_with
+spor
+takım
+related_with
+spor
+smaçör
+related_with
+spor
+oyun
+related_with
+spor
+final
+related_with
+spor
+set
+related_with
+spor
+voleybol
+related_with
+spor
+takım
+related_with
+spor
+takım
+related_with
+spor
+voleybol
+related_with
+spor
+takım
+related_with
+spor
+17
+68
+10.999999999999998
+
+
+yıldız
+hypernymy
+kişi
+yıldız
+hypernymy
+kişi
+şampiyon
+synonymy
+kişi
+şampiyon
+synonymy
+kişi
+el
+hypernymy
+kişi
+yıldız
+hypernymy
+kişi
+baş
+hypernymy
+kişi
+üst
+hypernymy
+kişi
+yıldız
+hypernymy
+kişi
+yıldız
+hypernymy
+kişi
+başkan
+hypernymy
+kişi
+seyirci
+hypernymy
+kişi
+el
+hypernymy
+kişi
+yıldız
+hypernymy
+kişi
+şampiyon
+synonymy
+kişi
+15
+78
+8.0
+
+
+[0, 1, 2, 3, 4]
+#############Heuristic1 OUTPUT############
+0 : Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu.
+1 : Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.
+2 : Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı.
+3 : Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu.
+4 : Türkiye, 2007 yılında Meksika'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.
+representative
+[yıldız, takım, voleybol]
+#############Heuristic2 OUTPUT############
+Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu.
+Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı.
+#############Heuristic3 OUTPUT############
+0 : Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu.
+1 : Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.
+3 : Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu.
+8 : Yıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.
+10 : Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.
+####################CLASS OF ORIGINAL TEXT################
+﻿Yıldız Kızlarımız Dünya Şampiyonu
+
+Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu. Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.
+
+Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı. Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu. Türkiye, 2007 yılında Meksika'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.
+
+Bu arada karşılaşmayı Gençlik ve Spor Bakanı Suat Kılıç, Türkiye Voleybol Federasyonu Başkanı Erol Ünal Karabıyık ile birlikte protokol tribününden takip etti. TVF Başkent Salonu'nun tamamını dolduran seyirciler, ellerindeki Türk bayraklarıyla maç boyunca Türk Milli Takımı'nı coşkulu bir şekilde desteklediler.Voleybolseverler, TVF Bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını bir an bile yalnız bırakmadılar.
+
+Yıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.  İlk şampiyona 1989 yılında Brezilya'nın Curitiba kentinde yapılmıştır. Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.
+
+
+
+
+
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Yıldız Kızlarımız Dünya Şampiyonu\n\nDünya Yıldız Kızlar Voleybol Şampiyonası\'nda Yıldız Milli Takım, final maçında Çin\'i 3-0 yenerek şampiyon oldu. Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.\n\nYıldız Milli Takım, TVF Başkent Salonu\'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin\'e adeta göz açtırmadı. Tüm oyuncuların iyi oynadığı Türk Milli Takımı\'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı\'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu. Türkiye, 2007 yılında Meksika\'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin\'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.\n\nBu arada karşılaşmayı Gençlik ve Spor Bakanı Suat Kılıç, Türkiye Voleybol Federasyonu Başkanı Erol Ünal Karabıyık ile birlikte protokol tribününden takip etti. TVF Başkent Salonu\'nun tamamını dolduran seyirciler, ellerindeki Türk bayraklarıyla maç boyunca Türk Milli Takımı\'nı coşkulu bir şekilde desteklediler.Voleybolseverler, TVF Bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını bir an bile yalnız bırakmadılar.\n\nYıldız Kızlar Dünya Şampiyonası FIVB\'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.  İlk şampiyona 1989 yılında Brezilya\'nın Curitiba kentinde yapılmıştır. Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.\n\n\n\n\n\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: spor
+spor
+###################CLASS OF SUMMARY#######################
+[0 : Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu., 1 : Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti., 3 : Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu., 8 : Yıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır., 10 : Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : Dünya Yıldız Kızlar Voleybol Şampiyonası\'nda Yıldız Milli Takım, final maçında Çin\'i 3-0 yenerek şampiyon oldu., 1 : Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti., 3 : Tüm oyuncuların iyi oynadığı Türk Milli Takımı\'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı\'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu., 8 : Yıldız Kızlar Dünya Şampiyonası FIVB\'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır., 10 : Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.]'
+===== Classified instance =====
+Class predicted: spor
+spor

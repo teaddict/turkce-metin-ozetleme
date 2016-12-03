@@ -1,0 +1,535 @@
+I|12:10:03.641|Parser ready: 2738ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:10:04.004|Cache ready: 3120ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿SU İÇENİN KAN ŞEKERİ OLMUYOR
+
+Fransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu.
+
+Kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek olmayan kişiler tıpta, diyabet geçirme tehlikesi yüksek olan kişileri tanımlamak için kullanılan diyabet öncesi grup olarak adlandırılıyor. Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+
+Araştırmacılar buna karşın araştırmanın su tüketimi ile diyabet arasında güçlü bir istatistiki bağ olduğunu ortaya koymadığına dikkati çekti. Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi.
+
+Biyoloji bilimine dayalı olarak, su tüketimiyle kan şekerinin yükselmesi arasında bir bağ bulunmasının akla yakın olduğunu belirten Bankir, vücutta su tutulmasını düzenleyen, hipofiz arka bezinin salgıladığı bir hormon olan antidiüretik adı da verilen vazopresin hormonunun az su tüketimiyle kandaki şeker oranlarının yükselmesi arasındaki bağı açıklayabileceğini kaydetti. Susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan Bankir, yaptıkları araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını da artırdığını gösterdiğine dikkati çekti. Bunun vücutta glukoz (şeker) üretiminden sorumlu karaciğerde vazopresin reseptörlerinin bulunmasıyla açıklanabileceğini anlatan Bankir, bir araştırmada vücutlarına vazopresin hormonu şırınga edilen sağlıklı kişilerin kan şekerlerinde geçici ani artışlar meydana geldiğinin gözlemlendiğini belirtti. Bankir, Araştırmadaki bulgularımızla bağlantılı neden-sonuç ilişkisine açıklık getirebilecek iyi tezler var ancak bu bir kanıt değil dedi.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿su içenin kan şekeri olmuyor
+
+fransız ulusal araştırma kurumu ınsermden lise bankir başkanlığındaki grup fransız bilimadamının araştırma, günde yaklaşık bardak az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının yüksek ortaya koydu.
+
+kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek kişiler tıpta, diyabet geçirme tehlikesi yüksek kişileri tanımlamak kullanılan diyabet öncesi grup adlandırılıyor. bilimadamları, yaşları 30 65 arasında değişen 3615 erişkin fransız üzerinde 9 yıllık devreyi kapsayan araştırmanın, su tüketimi düşük kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+
+araştırmacılar araştırmanın su tüketimi diyabet arasında güçlü istatistiki bağ ortaya koymadığına dikkati çekti. araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri sağlık faktörlerini dikkate almalarına az su tüketimi yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda değişiklik gözlenmediği bildirildi.
+
+biyoloji bilimine dayalı olarak, su tüketimiyle kan şekerinin yükselmesi arasında bağ bulunmasının akla yakın belirten bankir, vücutta su tutulmasını düzenleyen, hipofiz arka bezinin salgıladığı hormon antidiüretik adı verilen vazopresin hormonunun az su tüketimiyle kandaki şeker oranlarının yükselmesi arasındaki bağı açıklayabileceğini kaydetti. susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan bankir, araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını artırdığını gösterdiğine dikkati çekti. vücutta glukoz (şeker) üretiminden sorumlu karaciğerde vazopresin reseptörlerinin bulunmasıyla açıklanabileceğini anlatan bankir, araştırmada vücutlarına vazopresin hormonu şırınga edilen sağlıklı kişilerin kan şekerlerinde geçici ani artışlar meydana geldiğinin gözlemlendiğini belirtti. bankir, araştırmadaki bulgularımızla bağlantılı neden-sonuç ilişkisine açıklık getirebilecek iyi tezler kanıt dedi.
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿su içenin kan şekeri olmuyor
+
+PARAGRAPH: fransız ulusal araştırma kurumu ınsermden lise bankir başkanlığındaki grup fransız bilimadamının araştırma, günde yaklaşık bardak az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının yüksek ortaya koydu.
+
+PARAGRAPH: kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek kişiler tıpta, diyabet geçirme tehlikesi yüksek kişileri tanımlamak kullanılan diyabet öncesi grup adlandırılıyor. bilimadamları, yaşları 30 65 arasında değişen 3615 erişkin fransız üzerinde 9 yıllık devreyi kapsayan araştırmanın, su tüketimi düşük kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+
+PARAGRAPH: araştırmacılar araştırmanın su tüketimi diyabet arasında güçlü istatistiki bağ ortaya koymadığına dikkati çekti. araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri sağlık faktörlerini dikkate almalarına az su tüketimi yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda değişiklik gözlenmediği bildirildi.
+
+PARAGRAPH: biyoloji bilimine dayalı olarak, su tüketimiyle kan şekerinin yükselmesi arasında bağ bulunmasının akla yakın belirten bankir, vücutta su tutulmasını düzenleyen, hipofiz arka bezinin salgıladığı hormon antidiüretik adı verilen vazopresin hormonunun az su tüketimiyle kandaki şeker oranlarının yükselmesi arasındaki bağı açıklayabileceğini kaydetti. susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan bankir, araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını artırdığını gösterdiğine dikkati çekti. vücutta glukoz (şeker) üretiminden sorumlu karaciğerde vazopresin reseptörlerinin bulunmasıyla açıklanabileceğini anlatan bankir, araştırmada vücutlarına vazopresin hormonu şırınga edilen sağlıklı kişilerin kan şekerlerinde geçici ani artışlar meydana geldiğinin gözlemlendiğini belirtti. bankir, araştırmadaki bulgularımızla bağlantılı neden-sonuç ilişkisine açıklık getirebilecek iyi tezler kanıt dedi.
+
+
+
+######Cümleler:######
+
+﻿su içenin kan şekeri olmuyor
+
+fransız ulusal araştırma kurumu ınsermden lise bankir başkanlığındaki grup fransız bilimadamının araştırma, günde yaklaşık bardak az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının yüksek ortaya koydu.
+kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek kişiler tıpta, diyabet geçirme tehlikesi yüksek kişileri tanımlamak kullanılan diyabet öncesi grup adlandırılıyor.
+bilimadamları, yaşları 30 65 arasında değişen 3615 erişkin fransız üzerinde 9 yıllık devreyi kapsayan araştırmanın, su tüketimi düşük kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+araştırmacılar araştırmanın su tüketimi diyabet arasında güçlü istatistiki bağ ortaya koymadığına dikkati çekti.
+araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri sağlık faktörlerini dikkate almalarına az su tüketimi yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda değişiklik gözlenmediği bildirildi.
+biyoloji bilimine dayalı olarak, su tüketimiyle kan şekerinin yükselmesi arasında bağ bulunmasının akla yakın belirten bankir, vücutta su tutulmasını düzenleyen, hipofiz arka bezinin salgıladığı hormon antidiüretik adı verilen vazopresin hormonunun az su tüketimiyle kandaki şeker oranlarının yükselmesi arasındaki bağı açıklayabileceğini kaydetti.
+susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan bankir, araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını artırdığını gösterdiğine dikkati çekti.
+vücutta glukoz (şeker) üretiminden sorumlu karaciğerde vazopresin reseptörlerinin bulunmasıyla açıklanabileceğini anlatan bankir, araştırmada vücutlarına vazopresin hormonu şırınga edilen sağlıklı kişilerin kan şekerlerinde geçici ani artışlar meydana geldiğinin gözlemlendiğini belirtti.
+bankir, araştırmadaki bulgularımızla bağlantılı neden-sonuç ilişkisine açıklık getirebilecek iyi tezler kanıt dedi.
+
+
+
+######Title######
+﻿su içenin kan şekeri olmuyor
+
+
+######Nouns of text:######
+[su, kan, şeker, Fransız, ulusal, araştırma, kurum, lise, başkan, grup, Fransız, bilimadamı, araştırma, gün, bardak, Az, miktar, su, erişkin, yüksek, kan, şeker, sorun, oran, yüksek, ortay, kan, şeker, seviye, diyabet, tanım, oran, yüksek, kişi, tıp, diyabet, tehlike, yüksek, kişi, diyabet, önce, grup, bilimadam, yaş, ara, Fransız, üzeri, yıl, devre, araştırman, su, tüketim, düşük, kişi, kan, şeker, sorun, faz, su, yüksek, kan, şeker, risk, konu, açık, işaret, araştırma, araştırman, su, tüketim, diyabet, ara, güç, bağ, ortay, dikkat, araştırma, yüksek, kan, seviye, kişi, su, yer, kilo, kan, şeker, seviye, yol, açacak, şeker, içecek, araştırma, kişi, şeker, içecek, alkol, tüketim, yan, sır, kişi, araştırman, baş, vücut, ağırlık, beyan, egzersiz, seviye, sağ, faktör, dikkat, Az, su, tüketim, yüksek, kan, şeker, seviye, ara, bağlantı, değişik, biyoloji, bilim, su, tüketim, kan, şeker, ara, bağ, ak, yakı, belirten, vücut, su, hipofiz, ark, bez, hormon, ad, hormon, Az, su, tüketim, kan, şeker, oran, ara, bağ, Susuz, durum, seviye, böbrek, vücut, su, yol, araştırman, hormon, seviye, ayn, zaman, kan, şeker, oran, dikkat, vücut, şeker, üretim, sorum, karaciğer, reseptör, araştırma, vücut, hormon, şırınga, sağlık, kişi, kan, şeker, geçici, meydan, araştırma, bulgu, bağlantı, ilişki, açık, iyi, tez, kanıt]
+I|12:10:05.511|Parser ready: 1377ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:10:05.598|Cache ready: 1464ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[kanmak, olmak, araştırmak, araştırmak, azmak, tüketmek, kanmak, görmek, koymak, girmek, geçirmek, kullanmak, adlanmak, değişmek, kapsamak, kanmak, rastlamak, kanmak, azaltmak, azaltmak, getirmek, etmek, koymak, çekmek, kanmak, yerinmek, almak, kanmak, yolmak, açmak, düşünmek, etmek, azmak, kanmak, belirlemek, gözlemek, bildirmek, olmak, kanmak, aklamak, yakmak, belirtmek, düzenlemek, bezmek, salgılamak, vermek, azmak, kaydetmek, yolmak, açmak, anlatmak, kanmak, artırmak, göstermek, çekmek, anlatmak, etmek, kanmak, geçmek, gelmek, gözlemlemek, belirtmek, getirmek, tezlemek, demek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 556
+All chain size: 446
+Unique Chains: 120
+Chain Puan Eşik değeri:24
+Chain Strength Eşik değeri:2.2083333333333335
+Chain criterion değeri:10.166121272760272
+Strong Chains: 6
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+içecek
+hypernymy
+sıvı
+içecek
+hypernymy
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+su
+hypernymy
+sıvı
+su
+holo_portion
+sıvı
+22
+48
+20.0
+
+
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+şeker
+synonymy
+sevimli
+13
+130
+12.0
+
+
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+diyabet
+related_with
+tıp
+diyabet
+related_with
+tıp
+diyabet
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+diyabet
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+şeker
+related_with
+tıp
+şırınga
+related_with
+tıp
+şeker
+related_with
+tıp
+bulgu
+related_with
+tıp
+19
+76
+15.0
+
+
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+yaş
+synonymy
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+su
+hypernymy
+gözyaşı
+su
+holo_portion
+gözyaşı
+21
+50
+19.0
+
+
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+su
+hypernymy
+buz
+su
+holo_portion
+buz
+20
+40
+19.0
+
+
+kişi
+synonymy
+insan
+kişi
+synonymy
+insan
+kişi
+synonymy
+insan
+kişi
+synonymy
+insan
+kişi
+synonymy
+insan
+kişi
+synonymy
+insan
+vücut
+related_with
+insan
+vücut
+holo_part
+insan
+vücut
+related_with
+insan
+vücut
+holo_part
+insan
+vücut
+related_with
+insan
+vücut
+holo_part
+insan
+vücut
+related_with
+insan
+vücut
+holo_part
+insan
+vücut
+related_with
+insan
+vücut
+holo_part
+insan
+kişi
+synonymy
+insan
+17
+110
+15.0
+
+
+[0, 1, 2, 3, 4, 5]
+#############Heuristic1 OUTPUT############
+0 : Fransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu.
+1 : Kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek olmayan kişiler tıpta, diyabet geçirme tehlikesi yüksek olan kişileri tanımlamak için kullanılan diyabet öncesi grup olarak adlandırılıyor.
+2 : Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+3 : Araştırmacılar buna karşın araştırmanın su tüketimi ile diyabet arasında güçlü bir istatistiki bağ olduğunu ortaya koymadığına dikkati çekti.
+4 : Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi.
+5 : Biyoloji bilimine dayalı olarak, su tüketimiyle kan şekerinin yükselmesi arasında bir bağ bulunmasının akla yakın olduğunu belirten Bankir, vücutta su tutulmasını düzenleyen, hipofiz arka bezinin salgıladığı bir hormon olan antidiüretik adı da verilen vazopresin hormonunun az su tüketimiyle kandaki şeker oranlarının yükselmesi arasındaki bağı açıklayabileceğini kaydetti.
+representative
+[su, şeker, kişi, vücut]
+#############Heuristic2 OUTPUT############
+Fransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu.
+Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi.
+#############Heuristic3 OUTPUT############
+0 : Fransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu.
+1 : Kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek olmayan kişiler tıpta, diyabet geçirme tehlikesi yüksek olan kişileri tanımlamak için kullanılan diyabet öncesi grup olarak adlandırılıyor.
+2 : Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+3 : Araştırmacılar buna karşın araştırmanın su tüketimi ile diyabet arasında güçlü bir istatistiki bağ olduğunu ortaya koymadığına dikkati çekti.
+4 : Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi.
+6 : Susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan Bankir, yaptıkları araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını da artırdığını gösterdiğine dikkati çekti.
+####################CLASS OF ORIGINAL TEXT################
+﻿SU İÇENİN KAN ŞEKERİ OLMUYOR
+
+Fransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu.
+
+Kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek olmayan kişiler tıpta, diyabet geçirme tehlikesi yüksek olan kişileri tanımlamak için kullanılan diyabet öncesi grup olarak adlandırılıyor. Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.
+
+Araştırmacılar buna karşın araştırmanın su tüketimi ile diyabet arasında güçlü bir istatistiki bağ olduğunu ortaya koymadığına dikkati çekti. Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi.
+
+Biyoloji bilimine dayalı olarak, su tüketimiyle kan şekerinin yükselmesi arasında bir bağ bulunmasının akla yakın olduğunu belirten Bankir, vücutta su tutulmasını düzenleyen, hipofiz arka bezinin salgıladığı bir hormon olan antidiüretik adı da verilen vazopresin hormonunun az su tüketimiyle kandaki şeker oranlarının yükselmesi arasındaki bağı açıklayabileceğini kaydetti. Susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan Bankir, yaptıkları araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını da artırdığını gösterdiğine dikkati çekti. Bunun vücutta glukoz (şeker) üretiminden sorumlu karaciğerde vazopresin reseptörlerinin bulunmasıyla açıklanabileceğini anlatan Bankir, bir araştırmada vücutlarına vazopresin hormonu şırınga edilen sağlıklı kişilerin kan şekerlerinde geçici ani artışlar meydana geldiğinin gözlemlendiğini belirtti. Bankir, Araştırmadaki bulgularımızla bağlantılı neden-sonuç ilişkisine açıklık getirebilecek iyi tezler var ancak bu bir kanıt değil dedi.
+
+ 
+
+
+
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿SU İÇENİN KAN ŞEKERİ OLMUYOR\n\nFransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu.\n\nKandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek olmayan kişiler tıpta, diyabet geçirme tehlikesi yüksek olan kişileri tanımlamak için kullanılan diyabet öncesi grup olarak adlandırılıyor. Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti.\n\nAraştırmacılar buna karşın araştırmanın su tüketimi ile diyabet arasında güçlü bir istatistiki bağ olduğunu ortaya koymadığına dikkati çekti. Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi.\n\nBiyoloji bilimine dayalı olarak, su tüketimiyle kan şekerinin yükselmesi arasında bir bağ bulunmasının akla yakın olduğunu belirten Bankir, vücutta su tutulmasını düzenleyen, hipofiz arka bezinin salgıladığı bir hormon olan antidiüretik adı da verilen vazopresin hormonunun az su tüketimiyle kandaki şeker oranlarının yükselmesi arasındaki bağı açıklayabileceğini kaydetti. Susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan Bankir, yaptıkları araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını da artırdığını gösterdiğine dikkati çekti. Bunun vücutta glukoz (şeker) üretiminden sorumlu karaciğerde vazopresin reseptörlerinin bulunmasıyla açıklanabileceğini anlatan Bankir, bir araştırmada vücutlarına vazopresin hormonu şırınga edilen sağlıklı kişilerin kan şekerlerinde geçici ani artışlar meydana geldiğinin gözlemlendiğini belirtti. Bankir, Araştırmadaki bulgularımızla bağlantılı neden-sonuç ilişkisine açıklık getirebilecek iyi tezler var ancak bu bir kanıt değil dedi.\n\n \n\n\n\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: saglik
+saglik
+###################CLASS OF SUMMARY#######################
+[0 : Fransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu., 1 : Kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek olmayan kişiler tıpta, diyabet geçirme tehlikesi yüksek olan kişileri tanımlamak için kullanılan diyabet öncesi grup olarak adlandırılıyor., 2 : Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti., 3 : Araştırmacılar buna karşın araştırmanın su tüketimi ile diyabet arasında güçlü bir istatistiki bağ olduğunu ortaya koymadığına dikkati çekti., 4 : Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi., 6 : Susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan Bankir, yaptıkları araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını da artırdığını gösterdiğine dikkati çekti.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : Fransız ulusal araştırma kurumu INSERMden Lise Bankir başkanlığındaki bir grup Fransız bilimadamının yaptığı araştırma, günde yaklaşık iki bardak veya daha az miktarda su tüketen erişkinlerde yüksek kan şekeri sorununun görülme oranının daha yüksek olduğunu ortaya koydu., 1 : Kandaki şeker seviyeleri diyabet tanımına girecek oranda yüksek olmayan kişiler tıpta, diyabet geçirme tehlikesi yüksek olan kişileri tanımlamak için kullanılan diyabet öncesi grup olarak adlandırılıyor., 2 : Bilimadamları, yaşları 30 ile 65 arasında değişen 3615 erişkin Fransız üzerinde 9 yıllık bir devreyi kapsayan araştırmanın, su tüketimi düşük olan kişilerde kan şekeri sorununa rastlandığını göstermekle beraber, daha fazla su tüketmenin yüksek kan şekeri riskini azaltıp azaltmadığı konusuna açıklık getirmediğine işaret etti., 3 : Araştırmacılar buna karşın araştırmanın su tüketimi ile diyabet arasında güçlü bir istatistiki bağ olduğunu ortaya koymadığına dikkati çekti., 4 : Araştırmada, yüksek kan seviyelerinin kişilerin su yerine, kilo almaya ve kan şekeri seviyelerinin yükselmesine yol açacak şekerli içecekleri tüketmesiyle açıklanabileceğini düşünen araştırmacıların, kişilerdeki şekerli içeceklerle alkol tüketiminin yanı sıra bu kişilerin araştırmanın başındaki vücut ağırlıkları, beyan ettikleri egzersiz seviyeleri ve diğer sağlık faktörlerini de dikkate almalarına rağmen az su tüketimi ile yüksek kan şekeri seviyeleri arasında belirlenen bağlantıda bir değişiklik gözlenmediği bildirildi., 6 : Susuz kalınması durumunda vazopresin seviyelerinin artmasının böbreklerin vücuttaki suyu tutmasına yol açtığını anlatan Bankir, yaptıkları araştırmanın vazopresin hormonunun seviyesinin yükselmesinin aynı zamanda kan şekeri oranlarını da artırdığını gösterdiğine dikkati çekti.]'
+===== Classified instance =====
+Class predicted: saglik
+saglik

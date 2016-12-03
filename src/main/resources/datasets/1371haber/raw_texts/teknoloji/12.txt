@@ -1,0 +1,7 @@
+iOS 6 güncelleniyor!
+iOS 6, iPhone, iPad ve iPod touch için yayınlanalı bir aydan fazla bir süre oldu. Son raporlar ise Apple’ın bazı yönleriyle çok tartışılan mobil işletim sistemi için iki güncelleme hazırladığı yönünde.
+ BGR’nin haberine göre Apple, ABD’deki mobil sağlayıcı partnerlerine sunmaya hazırladığı iOS 6.0.1 ile bazı hataları düzeltmeyi amaçlıyor. Rapor, sadece ABD için yapılacak güncellemeden bahsediyor ve uluslararası güncellemelerden söz etmiyor.
+ Güncellemenin onaracağı hatalar arasında klavye veya bir uygulama klasörü açık olduğunda ekranda beliren yatay çizgiler var. Klavye ile ilgili sorunun sadece iPhone 5′de yaşandığı, kullanıcı Apple ID parolasını girerken meydana geldiği söyleniyor. Onarıldığı söylenen diğer bir sorun ise fotoğraf çekerken bazen flaşın patlamaması.
+ 6.0.1′in Wi-Fi desteğinde geliştirmeler sağlayacağı söyleniyor. Passbook kilit ekranındaki hata ve Exchange‘deki toplantıların silinme sorununun da bu güncellemeyle giderilmesi muhtemel.
+ iOS 6.0.1 bir yana, Apple’ın iOS 6.1′i de test etmeye başladığı söyleniyor. iPad Mini ile gelmesi beklenen bu güncellemenin neler getireceği konusunda ise henüz bir bilgi yok.
+  

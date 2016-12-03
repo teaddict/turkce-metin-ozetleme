@@ -1,0 +1,7 @@
+Windows 7 için ilk alarm
+Windows 7'yi çıktığı gibi kullananlardansanız, bu haberimizdeki tarih sizi yakından ilgilendiriyor.
+Windows 8 yayınlanalı birkaç ay olsa da Windows 7'yi kullananların sayısı hala oldukça fazla. Eğer Windows 7'yi halen çıktığı haliyle, herhangi bir Service Pack yüklemeden kullanıyorsanız, size sunulan destek bitmek üzere.
+
+Windows 7 için Service Pack 1'i henüz yüklemediyseniz, bunu hemen yapmanızda fayda var. Microsoft'un resmi Window blog'unda yaptığı açıklamaya göre Windows 7 RTM'nin resmi desteği 9 Nisan 2013'te sona erecek.
+
+Windows 7'nizde Service Pack 1 yüklüyse endişe etmenizi gerektirecek bir durum yok. SP1'li Windows 7'nin resmi desteği, 13 Ocak 2015'e dek devam edecek. Sadece güvenlik yamalarının sunulacağı, yeni işlevlerin eklenmeyeceği "uzatılmış destek" ise 14 Ocak 2020'de tamamlanacak.

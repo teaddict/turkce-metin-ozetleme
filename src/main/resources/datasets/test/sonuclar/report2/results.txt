@@ -1,0 +1,70 @@
+############HEURISTIC 1 RESULTS###############
+
+METİN 1,heuristic:24.0,user: 34.666666666666664
+METİN 2,heuristic:28.0,user: 42.44444444444444
+METİN 3,heuristic:32.0,user: 31.38888888888889
+METİN 4,heuristic:30.0,user: 40.0
+METİN 5,heuristic:29.0,user: 31.5
+METİN 6,heuristic:62.0,user: 32.111111111111114
+METİN 7,heuristic:50.0,user: 39.77777777777778
+METİN 8,heuristic:41.0,user: 43.22222222222222
+METİN 9,heuristic:43.0,user: 37.55555555555556
+METİN 10,heuristic:52.0,user: 40.111111111111114
+METİN 11,heuristic:71.0,user: 35.611111111111114
+METİN 12,heuristic:26.0,user: 35.666666666666664
+METİN 13,heuristic:37.0,user: 39.333333333333336
+METİN 14,heuristic:30.0,user: 50.55555555555556
+METİN 15,heuristic:15.0,user: 27.666666666666668
+METİN 16,heuristic:51.0,user: 40.111111111111114
+METİN 17,heuristic:21.0,user: 37.05555555555556
+METİN 18,heuristic:50.0,user: 33.44444444444444
+METİN 19,heuristic:23.0,user: 37.44444444444444
+METİN 20,heuristic:19.0,user: 33.111111111111114
+
+
+############HEURISTIC 2 RESULTS###############
+
+METİN 1,heuristic:10.0,user: 34.666666666666664
+METİN 2,heuristic:25.0,user: 42.44444444444444
+METİN 3,heuristic:27.0,user: 31.38888888888889
+METİN 4,heuristic:22.0,user: 40.0
+METİN 5,heuristic:16.0,user: 31.5
+METİN 6,heuristic:43.0,user: 32.111111111111114
+METİN 7,heuristic:28.0,user: 39.77777777777778
+METİN 8,heuristic:41.0,user: 43.22222222222222
+METİN 9,heuristic:18.0,user: 37.55555555555556
+METİN 10,heuristic:32.0,user: 40.111111111111114
+METİN 11,heuristic:46.0,user: 35.611111111111114
+METİN 12,heuristic:35.0,user: 35.666666666666664
+METİN 13,heuristic:22.0,user: 39.333333333333336
+METİN 14,heuristic:25.0,user: 50.55555555555556
+METİN 15,heuristic:17.0,user: 27.666666666666668
+METİN 16,heuristic:25.0,user: 40.111111111111114
+METİN 17,heuristic:28.0,user: 37.05555555555556
+METİN 18,heuristic:38.0,user: 33.44444444444444
+METİN 19,heuristic:19.0,user: 37.44444444444444
+METİN 20,heuristic:18.0,user: 33.111111111111114
+
+
+############HEURISTIC 3 RESULTS###############
+
+METİN 1,heuristic:24.0,user: 34.666666666666664
+METİN 2,heuristic:31.0,user: 42.44444444444444
+METİN 3,heuristic:27.0,user: 31.38888888888889
+METİN 4,heuristic:26.0,user: 40.0
+METİN 5,heuristic:21.0,user: 31.5
+METİN 6,heuristic:55.0,user: 32.111111111111114
+METİN 7,heuristic:35.0,user: 39.77777777777778
+METİN 8,heuristic:41.0,user: 43.22222222222222
+METİN 9,heuristic:28.0,user: 37.55555555555556
+METİN 10,heuristic:45.0,user: 40.111111111111114
+METİN 11,heuristic:71.0,user: 35.611111111111114
+METİN 12,heuristic:25.0,user: 35.666666666666664
+METİN 13,heuristic:24.0,user: 39.333333333333336
+METİN 14,heuristic:25.0,user: 50.55555555555556
+METİN 15,heuristic:12.0,user: 27.666666666666668
+METİN 16,heuristic:48.0,user: 40.111111111111114
+METİN 17,heuristic:28.0,user: 37.05555555555556
+METİN 18,heuristic:46.0,user: 33.44444444444444
+METİN 19,heuristic:8.0,user: 37.44444444444444
+METİN 20,heuristic:13.0,user: 33.111111111111114

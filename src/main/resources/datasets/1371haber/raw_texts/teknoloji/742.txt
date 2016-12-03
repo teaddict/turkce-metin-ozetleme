@@ -1,0 +1,5 @@
+Cep telefonunuz kendini tamir edecek!
+Bilim adamları bozulduğu anda kendini tamamen yenileyen çipler geliştirdi. Yeni keşif kendi kendini tamir eden teknolojik cihazlara bir adım daha yaklaştırdı.
+Bozulan akıllı telefonunuzun veya bilgisayarınızın, ortaya çıkan problemi bir anda kendi başına gidermesi artık bilim kurgu senaryosu olmaktan çıktı. ABD'li bilimadamları, arızalanmaları halinde kendi kendilerini milisaniyeler içinde iyileştirme yeteneğine sahip çipler geliştirmeyi başardı. 
+
+California Institute of Technology (Caltech) yüksekokulunda görevli ekibin başındaki Profesör Ali Hajimiri "Geliştirdiğimiz güç yükseltecinin yarısını havaya uçurduk, transistörlerde olduğu gibi pek çok birleşen parçasını buharlaştırdık ve çip kendi kendini, neredeyse ideal performansına erişecek ölçüde iyileştirdi" dedi. Son sistem çipler araştırmacıları, insan müdahalesine gerek olmadan kendi kendini düzelten devrelerin geliştirilmesi amacına hizmet edecek.

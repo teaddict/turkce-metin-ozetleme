@@ -1,0 +1,437 @@
+I|12:14:22.201|Parser ready: 2355ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:14:22.574|Cache ready: 2745ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Sigortacılıkta Türkiye için en büyük risk doğal afetler
+
+Denetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi'nin 140 ülkede gerçekleştirdiği "Sigortacılıkta Öngörülen Riskler" araştırmasına göre, dünya genelinde sigorta sektörü için "yasal düzenlemelere uyum" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor.
+
+Türkiye'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti.
+
+"Doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti. Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi. Yaşanan küresel kriz sonucunda 2009 çalışmasında dünya genelinde ilk sıraya yerleşen "yatırım performansı" riski dördüncü sıraya gerilerken, Türkiye üçüncü sırada yerini aldı.
+
+Diğer alanlarda Türkiye'deki sıralama dünya genelinden bazı farklılıklar gösteriyor. "Aktüeryal" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor. "Doğal afetler", "iklim değişiklikleri" ve "terörizm" gibi iş kabul riskleriyle ilişkilendirilebilecek endişeler Türkiye’de diğer ülkelerin tamamından yüksek kaydedildi. Bu durum araştırmada, sektörün Yeni Zelanda ve Japonya’da gerçekleşen olayların Türkiye’de risk algısını artırdığı şeklinde analiz edildi.
+
+Motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabet- Türkiye’de "itibar", "reasürans" ve "risk yönetimi" alanları ile ilgili riskler de yine dünya geneline göre daha yukarılarda yer alırken, "yetenek" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma ve işte tutma konuları diğer ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı. Araştırmada, Türkiye’de motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabetin olumsuz etkisi konusunda bazı katılımcıların uyarıda bulunması dikkati çekici bir diğer husus olarak değerlendirildi. Araştırmanın, sektörün mali krizin etkilerini üzerinden attığı, fakat beklenmeyen bazı doğal afetler nedeniyle daha kötü şekilde etkilendiği bir dönemi yansıttığı ifade edildi.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿sigortacılıkta türkiye büyük risk doğal afetler
+
+denetim, vergi danışmanlık şirketi pwc finansal yenilik etüt merkezi'nin 140 ülkede gerçekleştirdiği "sigortacılıkta öngörülen riskler" araştırmasına göre, dünya genelinde sigorta sektörü "yasal düzenlemelere uyum" büyük risk gösterilirken, türkiye büyük riski doğal afetler oluşturuyor.
+
+türkiye'nin ilk yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları faiz oranları takip etti.
+
+"doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, yıl 5. sıraya, türkiye’de ilk sıraya yerleşti. söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri ölçülemeyen fakat büyük kayda değer bilinen avustralya, yeni zelanda japonya felaketlerinden sonra beklenen değişiklik belirtildi. yaşanan küresel kriz sonucunda 2009 çalışmasında dünya genelinde ilk sıraya yerleşen "yatırım performansı" riski dördüncü sıraya gerilerken, türkiye üçüncü sırada yerini aldı.
+
+diğer alanlarda türkiye'deki sıralama dünya genelinden farklılıklar gösteriyor. "aktüeryal" risklerin türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor. "doğal afetler", "iklim değişiklikleri" "terörizm" iş kabul riskleriyle ilişkilendirilebilecek endişeler türkiye’de ülkelerin tamamından yüksek kaydedildi. durum araştırmada, sektörün yeni zelanda japonya’da gerçekleşen olayların türkiye’de risk algısını artırdığı şeklinde analiz edildi.
+
+motorlu araç sigortası kilit ürünlerdeki aşırı rekabet- türkiye’de "itibar", "reasürans" "risk yönetimi" alanları riskler dünya geneline yukarılarda yer alırken, "yetenek" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma tutma konuları ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı. araştırmada, türkiye’de motorlu araç sigortası kilit ürünlerdeki aşırı rekabetin olumsuz etkisi konusunda katılımcıların uyarıda bulunması dikkati çekici husus değerlendirildi. araştırmanın, sektörün mali krizin etkilerini üzerinden attığı, fakat beklenmeyen doğal afetler nedeniyle kötü şekilde etkilendiği dönemi yansıttığı ifade edildi.
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿sigortacılıkta türkiye büyük risk doğal afetler
+
+PARAGRAPH: denetim, vergi danışmanlık şirketi pwc finansal yenilik etüt merkezi'nin 140 ülkede gerçekleştirdiği "sigortacılıkta öngörülen riskler" araştırmasına göre, dünya genelinde sigorta sektörü "yasal düzenlemelere uyum" büyük risk gösterilirken, türkiye büyük riski doğal afetler oluşturuyor.
+
+PARAGRAPH: türkiye'nin ilk yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları faiz oranları takip etti.
+
+PARAGRAPH: "doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, yıl 5. sıraya, türkiye’de ilk sıraya yerleşti. söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri ölçülemeyen fakat büyük kayda değer bilinen avustralya, yeni zelanda japonya felaketlerinden sonra beklenen değişiklik belirtildi. yaşanan küresel kriz sonucunda 2009 çalışmasında dünya genelinde ilk sıraya yerleşen "yatırım performansı" riski dördüncü sıraya gerilerken, türkiye üçüncü sırada yerini aldı.
+
+PARAGRAPH: diğer alanlarda türkiye'deki sıralama dünya genelinden farklılıklar gösteriyor. "aktüeryal" risklerin türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor. "doğal afetler", "iklim değişiklikleri" "terörizm" iş kabul riskleriyle ilişkilendirilebilecek endişeler türkiye’de ülkelerin tamamından yüksek kaydedildi. durum araştırmada, sektörün yeni zelanda japonya’da gerçekleşen olayların türkiye’de risk algısını artırdığı şeklinde analiz edildi.
+
+PARAGRAPH: motorlu araç sigortası kilit ürünlerdeki aşırı rekabet- türkiye’de "itibar", "reasürans" "risk yönetimi" alanları riskler dünya geneline yukarılarda yer alırken, "yetenek" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma tutma konuları ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı. araştırmada, türkiye’de motorlu araç sigortası kilit ürünlerdeki aşırı rekabetin olumsuz etkisi konusunda katılımcıların uyarıda bulunması dikkati çekici husus değerlendirildi. araştırmanın, sektörün mali krizin etkilerini üzerinden attığı, fakat beklenmeyen doğal afetler nedeniyle kötü şekilde etkilendiği dönemi yansıttığı ifade edildi.
+
+
+
+######Cümleler:######
+
+﻿sigortacılıkta türkiye büyük risk doğal afetler
+
+denetim, vergi danışmanlık şirketi pwc finansal yenilik etüt merkezi'nin 140 ülkede gerçekleştirdiği "sigortacılıkta öngörülen riskler" araştırmasına göre, dünya genelinde sigorta sektörü "yasal düzenlemelere uyum" büyük risk gösterilirken, türkiye büyük riski doğal afetler oluşturuyor.
+türkiye'nin ilk yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları faiz oranları takip etti.
+"doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, yıl 5. sıraya, türkiye’de ilk sıraya yerleşti.
+söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri ölçülemeyen fakat büyük kayda değer bilinen avustralya, yeni zelanda japonya felaketlerinden sonra beklenen değişiklik belirtildi.
+yaşanan küresel kriz sonucunda 2009 çalışmasında dünya genelinde ilk sıraya yerleşen "yatırım performansı" riski dördüncü sıraya gerilerken, türkiye üçüncü sırada yerini aldı.
+diğer alanlarda türkiye'deki sıralama dünya genelinden farklılıklar gösteriyor.
+"aktüeryal" risklerin türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor.
+"doğal afetler", "iklim değişiklikleri" "terörizm" iş kabul riskleriyle ilişkilendirilebilecek endişeler türkiye’de ülkelerin tamamından yüksek kaydedildi.
+durum araştırmada, sektörün yeni zelanda japonya’da gerçekleşen olayların türkiye’de risk algısını artırdığı şeklinde analiz edildi.
+motorlu araç sigortası kilit ürünlerdeki aşırı rekabet- türkiye’de "itibar", "reasürans" "risk yönetimi" alanları riskler dünya geneline yukarılarda yer alırken, "yetenek" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma tutma konuları ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı.
+araştırmada, türkiye’de motorlu araç sigortası kilit ürünlerdeki aşırı rekabetin olumsuz etkisi konusunda katılımcıların uyarıda bulunması dikkati çekici husus değerlendirildi.
+araştırmanın, sektörün mali krizin etkilerini üzerinden attığı, fakat beklenmeyen doğal afetler nedeniyle kötü şekilde etkilendiği dönemi yansıttığı ifade edildi.
+
+
+
+######Title######
+﻿sigortacılıkta türkiye büyük risk doğal afetler
+
+
+######Nouns of text:######
+[sigortacı, Türki, büyük, risk, afet, denet, vergi, danışman, şirket, yenilik, etüt, merkezî, ülke, sigortacı, risk, araştırma, dünya, genel, sigorta, sektör, uyum, büyük, risk, Türki, büyük, risk, afet, Türkiye, ilk, yer, araştırma, dünya, genel, sigortacı, risk, ilk, sıra, sıra, sermaye, trend, yatır, performans, afet, yetenek, çalışan, kalite, uz, vade, yüküm, kurum, yönetim, dağıtım, kanal, faiz, oran, takip, afet, risk, yıl, dünya, genel, sıra, yıl, sıra, Türkiye, ilk, sıra, söz, konu, risk, dünya, genel, sıra, sektör, üzeri, etki, büyük, kay, değer, Avustralya, yen, Japonya, felâket, sonra, değişik, küre, kriz, sonuç, dünya, genel, ilk, sıra, yatır, performans, risk, dördün, sıra, Türki, sıra, yer, alan, Türkiye, dünya, genel, fark, risk, Türk, sigortacı, sektör, üst, sıra, yer, sigorta, şirket, karşı, gerekli, yönetim, ilişki, endişe, afet, iklim, değişik, terörizm, iş, kabul, risk, endişe, Türkiye, ülke, tamam, yüksek, duru, araştırma, sektör, yen, Japonya, olay, Türkiye, risk, algı, şekil, analiz, motor, araç, sigorta, kilit, ürün, rekabet, Türkiye, itibar, reasürans, risk, yönetim, alan, risk, dünya, genel, yukarı, yer, yetenek, risk, altın, yer, yönetim, kalite, yetenek, personel, konu, ülke, kıyas, üst, sıra, endişe, ara, yer, araştırma, Türkiye, motor, araç, sigorta, kilit, ürün, rekabet, etki, konu, katılım, uyarı, dikkat, çekiç, husus, araştırman, sektör, kriz, etki, üzeri, afet, neden, şekil, dönem, ifade]
+I|12:14:24.246|Parser ready: 1543ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:14:24.335|Cache ready: 1633ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[gerçek, öngörmek, görmek, göstermek, oluşmak, yemek, almak, araştırmak, görmek, öngörmek, almak, çalışmak, etmek, kaynaklanmak, değerlendirmek, yılmak, yerleşmek, ölçmek, değmek, bilinmek, beklemek, belirtmek, yaşanmak, yerleşmek, gerilemek, almak, sıralamak, göstermek, yemek, gelişmek, tutmak, yansımak, kaydetmek, gerçek, artırmak, etmek, genelmek, yemek, almak, yemek, vermek, bulmak, tutmak, kıyaslamak, yemek, almak, çekmek, değerlendirmek, atmak, beklemek, etkilemek, yansımak, etmek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 626
+All chain size: 443
+Unique Chains: 122
+Chain Puan Eşik değeri:22
+Chain Strength Eşik değeri:1.6147540983606556
+Chain criterion değeri:6.85299132726947
+Strong Chains: 6
+dünya
+synonymy
+yer
+dünya
+synonymy
+yer
+sıra
+hypernymy
+yer
+sıra
+hypernymy
+yer
+dünya
+synonymy
+yer
+sıra
+hypernymy
+yer
+sıra
+hypernymy
+yer
+sıra
+hypernymy
+yer
+dünya
+synonymy
+yer
+sıra
+hypernymy
+yer
+dünya
+synonymy
+yer
+sıra
+hypernymy
+yer
+sıra
+hypernymy
+yer
+sıra
+hypernymy
+yer
+dünya
+synonymy
+yer
+sıra
+hypernymy
+yer
+yüksek
+hypernymy
+yer
+dünya
+synonymy
+yer
+sıra
+hypernymy
+yer
+19
+118
+16.0
+
+
+sektör
+holo_part
+organ
+yönetim
+holo_part
+organ
+sektör
+holo_part
+organ
+sektör
+holo_part
+organ
+yönetim
+holo_part
+organ
+sektör
+holo_part
+organ
+yönetim
+holo_part
+organ
+yönetim
+holo_part
+organ
+sektör
+holo_part
+organ
+9
+36
+7.0
+
+
+dünya
+related_with
+astronomi
+dünya
+related_with
+astronomi
+yıl
+related_with
+astronomi
+dünya
+related_with
+astronomi
+yıl
+related_with
+astronomi
+dünya
+related_with
+astronomi
+dünya
+related_with
+astronomi
+dördün
+related_with
+astronomi
+dünya
+related_with
+astronomi
+dünya
+related_with
+astronomi
+10
+40
+7.0
+
+
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+sıra
+synonymy
+düzen
+11
+110
+10.0
+
+
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+risk
+synonymy
+tehlike
+13
+130
+12.0
+
+
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+üst
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+üst
+hypernymy
+kimse
+sıra
+hypernymy
+kimse
+13
+52
+11.0
+
+
+[0, 1, 2, 3, 4, 6]
+#############Heuristic1 OUTPUT############
+0 : Denetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi'nin 140 ülkede gerçekleştirdiği "Sigortacılıkta Öngörülen Riskler" araştırmasına göre, dünya genelinde sigorta sektörü için "yasal düzenlemelere uyum" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor.
+1 : Türkiye'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti.
+2 : "Doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti.
+3 : Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi.
+4 : Yaşanan küresel kriz sonucunda 2009 çalışmasında dünya genelinde ilk sıraya yerleşen "yatırım performansı" riski dördüncü sıraya gerilerken, Türkiye üçüncü sırada yerini aldı.
+6 : "Aktüeryal" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor.
+representative
+[dünya, sıra, sektör]
+#############Heuristic2 OUTPUT############
+Denetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi'nin 140 ülkede gerçekleştirdiği "Sigortacılıkta Öngörülen Riskler" araştırmasına göre, dünya genelinde sigorta sektörü için "yasal düzenlemelere uyum" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor.
+Türkiye'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti.
+"Doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti.
+Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi.
+"Aktüeryal" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor.
+#############Heuristic3 OUTPUT############
+0 : Denetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi'nin 140 ülkede gerçekleştirdiği "Sigortacılıkta Öngörülen Riskler" araştırmasına göre, dünya genelinde sigorta sektörü için "yasal düzenlemelere uyum" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor.
+1 : Türkiye'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti.
+2 : "Doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti.
+3 : Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi.
+6 : "Aktüeryal" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor.
+9 : Motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabet- Türkiye’de "itibar", "reasürans" ve "risk yönetimi" alanları ile ilgili riskler de yine dünya geneline göre daha yukarılarda yer alırken, "yetenek" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma ve işte tutma konuları diğer ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı.
+####################CLASS OF ORIGINAL TEXT################
+﻿Sigortacılıkta Türkiye için en büyük risk doğal afetler
+
+Denetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi'nin 140 ülkede gerçekleştirdiği "Sigortacılıkta Öngörülen Riskler" araştırmasına göre, dünya genelinde sigorta sektörü için "yasal düzenlemelere uyum" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor.
+
+Türkiye'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti.
+
+"Doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti. Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi. Yaşanan küresel kriz sonucunda 2009 çalışmasında dünya genelinde ilk sıraya yerleşen "yatırım performansı" riski dördüncü sıraya gerilerken, Türkiye üçüncü sırada yerini aldı.
+
+Diğer alanlarda Türkiye'deki sıralama dünya genelinden bazı farklılıklar gösteriyor. "Aktüeryal" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor. "Doğal afetler", "iklim değişiklikleri" ve "terörizm" gibi iş kabul riskleriyle ilişkilendirilebilecek endişeler Türkiye’de diğer ülkelerin tamamından yüksek kaydedildi. Bu durum araştırmada, sektörün Yeni Zelanda ve Japonya’da gerçekleşen olayların Türkiye’de risk algısını artırdığı şeklinde analiz edildi.
+
+Motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabet- Türkiye’de "itibar", "reasürans" ve "risk yönetimi" alanları ile ilgili riskler de yine dünya geneline göre daha yukarılarda yer alırken, "yetenek" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma ve işte tutma konuları diğer ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı. Araştırmada, Türkiye’de motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabetin olumsuz etkisi konusunda bazı katılımcıların uyarıda bulunması dikkati çekici bir diğer husus olarak değerlendirildi. Araştırmanın, sektörün mali krizin etkilerini üzerinden attığı, fakat beklenmeyen bazı doğal afetler nedeniyle daha kötü şekilde etkilendiği bir dönemi yansıttığı ifade edildi.
+
+
+
+
+ 
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Sigortacılıkta Türkiye için en büyük risk doğal afetler\n\nDenetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi\'nin 140 ülkede gerçekleştirdiği \"Sigortacılıkta Öngörülen Riskler\" araştırmasına göre, dünya genelinde sigorta sektörü için \"yasal düzenlemelere uyum\" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor.\n\nTürkiye\'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti.\n\n\"Doğal afetlerden kaynaklanabilecek riskler\" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti. Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi. Yaşanan küresel kriz sonucunda 2009 çalışmasında dünya genelinde ilk sıraya yerleşen \"yatırım performansı\" riski dördüncü sıraya gerilerken, Türkiye üçüncü sırada yerini aldı.\n\nDiğer alanlarda Türkiye\'deki sıralama dünya genelinden bazı farklılıklar gösteriyor. \"Aktüeryal\" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor. \"Doğal afetler\", \"iklim değişiklikleri\" ve \"terörizm\" gibi iş kabul riskleriyle ilişkilendirilebilecek endişeler Türkiye’de diğer ülkelerin tamamından yüksek kaydedildi. Bu durum araştırmada, sektörün Yeni Zelanda ve Japonya’da gerçekleşen olayların Türkiye’de risk algısını artırdığı şeklinde analiz edildi.\n\nMotorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabet- Türkiye’de \"itibar\", \"reasürans\" ve \"risk yönetimi\" alanları ile ilgili riskler de yine dünya geneline göre daha yukarılarda yer alırken, \"yetenek\" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma ve işte tutma konuları diğer ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı. Araştırmada, Türkiye’de motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabetin olumsuz etkisi konusunda bazı katılımcıların uyarıda bulunması dikkati çekici bir diğer husus olarak değerlendirildi. Araştırmanın, sektörün mali krizin etkilerini üzerinden attığı, fakat beklenmeyen bazı doğal afetler nedeniyle daha kötü şekilde etkilendiği bir dönemi yansıttığı ifade edildi.\n\n\n\n\n \n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi
+###################CLASS OF SUMMARY#######################
+[0 : Denetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi'nin 140 ülkede gerçekleştirdiği "Sigortacılıkta Öngörülen Riskler" araştırmasına göre, dünya genelinde sigorta sektörü için "yasal düzenlemelere uyum" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor., 1 : Türkiye'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti., 2 : "Doğal afetlerden kaynaklanabilecek riskler" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti., 3 : Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi., 6 : "Aktüeryal" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor., 9 : Motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabet- Türkiye’de "itibar", "reasürans" ve "risk yönetimi" alanları ile ilgili riskler de yine dünya geneline göre daha yukarılarda yer alırken, "yetenek" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma ve işte tutma konuları diğer ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : Denetim, vergi ve danışmanlık şirketi PwC ile Finansal Yenilik Etüt Merkezi\'nin 140 ülkede gerçekleştirdiği \"Sigortacılıkta Öngörülen Riskler\" araştırmasına göre, dünya genelinde sigorta sektörü için \"yasal düzenlemelere uyum\" en büyük risk olarak gösterilirken, Türkiye için en büyük riski doğal afetler oluşturuyor., 1 : Türkiye\'nin ilk defa yer aldığı araştırmaya göre, dünya genelinde sigortacılıkta öngörülen risklerde ilk sırayı yasal düzenlemeler alırken, bunu sırasıyla sermaye, makroekonomik trendler, yatırım performansı, doğal afetler, yetenek (çalışan kalitesi), uzun vadeli yükümlülükler, kurumsal yönetim, dağıtım kanalları ve faiz oranları takip etti., 2 : \"Doğal afetlerden kaynaklanabilecek riskler\" 2009 yılı çalışmasında dünya genelinde 22. sırada değerlendirilirken, bu yıl 5. sıraya, Türkiye’de ise ilk sıraya yerleşti., 3 : Söz konusu riskin dünya genelinde 5. sıraya yükselmesinin, sektör üzerindeki etkileri henüz ölçülemeyen fakat büyük veya kayda değer olduğu bilinen Avustralya, Yeni Zelanda ve Japonya felaketlerinden sonra beklenen bir değişiklik olduğu belirtildi., 6 : \"Aktüeryal\" risklerin Türk sigortacılık sektöründe üst sıralarda yer alması, sigorta şirketlerinin gelişen karşılık tutma gerekliliğinin yönetimine ilişkin endişelerini yansıtıyor., 9 : Motorlu araç sigortası gibi bazı kilit ürünlerdeki aşırı rekabet- Türkiye’de \"itibar\", \"reasürans\" ve \"risk yönetimi\" alanları ile ilgili riskler de yine dünya geneline göre daha yukarılarda yer alırken, \"yetenek\" riski altında yer verilen yönetim kalitesi, yetenekli personel bulma ve işte tutma konuları diğer ülkelere kıyasla üst sıralardaki endişeler arasında yer almadı.]'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi

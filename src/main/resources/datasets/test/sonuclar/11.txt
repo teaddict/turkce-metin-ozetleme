@@ -1,0 +1,418 @@
+I|12:13:06.824|Parser ready: 2454ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:13:07.761|Cache ready: 3410ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Kaddafi'nin cenazesi toprağa verildi
+
+Kaddafi ile oğlu ve yardımcısının cenazeleri, birkaç gündür Misrata'daki bir soğuk hava deposunda tutuluyordu. Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi. Misrata Askeri Konseyi, Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti.
+
+Konsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi. Beytalmal, olası saldırıların önlenmesi amacıyla mezarların yerinin gizli tutulacağını kaydetti.
+
+Libya'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş. Kaddafi'nin son günlerine kadar en yakınında bulunan isimlerden birinin verdiği bilgiye göre; Kaddafi, oğlu Mutassım ve beraberindeki 20'den fazla sadık asker ile birlikte dolaşıyordu ancak bu kaçak hayatı sırasında televizyon, telefon ve hatta elektriği bile bulunmayan evlerde dünya ile bağlantıları kesik olarak yaşıyordu. Sirte'de çatışmaların başlamasının ardından kent halkının terk ettiği evlerde kalan Kaddafi ve yakınındakiler, muhaliflerin ilerlemesi ve NATO hava saldırıları nedeniyle her 4 günde bir yer değiştiriyordu.
+
+Kaddafi ile birlikte yakalanan ve şu anda UGK güçlerinin elinde bulunan Libya Devrim Muhafızları'nın başındaki isim olan Mansur Dav, Kaddafi'nin bu süre zarfında daha çok okuyarak ve yazarak vakit geçirdiğini, hatta kömür sobası üzerinde her gün kendi çayını demlediğini söyledi. Kaddafi, perşembe günü doğum yeri olan Sirte'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.
+
+
+
+
+
+
+######Clean text file:######
+﻿kaddafi'nin cenazesi toprağa verildi
+
+kaddafi oğlu yardımcısının cenazeleri, gündür misrata'daki soğuk hava deposunda tutuluyordu. libya'nın öldürülen devrik lideri muammer kaddafi'nin cenazesi neresi açıklanmayan yere defnedildi. misrata askeri konseyi, libya'nın öldürülen devrik lideri muammer kaddafi'nin yanı sıra oğlu mutassım önde gelen yardımcılarından birinin cenazelerinin açıklanmayan yere defnedildiğini belirtti.
+
+konsey yetkilisi ibrahim beytalmal, cenazelerin yalnızca akraba yetkilinin katıldığı törenle islami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi. beytalmal, olası saldırıların önlenmesi amacıyla mezarların yerinin gizli tutulacağını kaydetti.
+
+libya'yı 42 yıl boyunca yöneten geçen hafta hazin sonla tarihteki yerini alan muammer kaddafi, hayatının son günlerini memleketi sirte'de yerden yere gizlenerek öfke melankoli arasında gidip gelerek geçirmiş. kaddafi'nin son günlerine yakınında bulunan isimlerden birinin verdiği bilgiye göre; kaddafi, oğlu mutassım beraberindeki 20'den fazla sadık asker birlikte dolaşıyordu kaçak hayatı sırasında televizyon, telefon elektriği bulunmayan evlerde dünya bağlantıları kesik yaşıyordu. sirte'de çatışmaların başlamasının ardından kent halkının terk evlerde kalan kaddafi yakınındakiler, muhaliflerin ilerlemesi nato hava saldırıları nedeniyle 4 günde yer değiştiriyordu.
+
+kaddafi birlikte yakalanan anda ugk güçlerinin elinde bulunan libya devrim muhafızları'nın başındaki isim mansur dav, kaddafi'nin süre zarfında okuyarak yazarak vakit geçirdiğini, kömür sobası üzerinde gün çayını demlediğini söyledi. kaddafi, perşembe günü doğum yeri sirte'den kaçarken yakalanmış, sonra öldürülmüştü.
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿kaddafi'nin cenazesi toprağa verildi
+
+PARAGRAPH: kaddafi oğlu yardımcısının cenazeleri, gündür misrata'daki soğuk hava deposunda tutuluyordu. libya'nın öldürülen devrik lideri muammer kaddafi'nin cenazesi neresi açıklanmayan yere defnedildi. misrata askeri konseyi, libya'nın öldürülen devrik lideri muammer kaddafi'nin yanı sıra oğlu mutassım önde gelen yardımcılarından birinin cenazelerinin açıklanmayan yere defnedildiğini belirtti.
+
+PARAGRAPH: konsey yetkilisi ibrahim beytalmal, cenazelerin yalnızca akraba yetkilinin katıldığı törenle islami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi. beytalmal, olası saldırıların önlenmesi amacıyla mezarların yerinin gizli tutulacağını kaydetti.
+
+PARAGRAPH: libya'yı 42 yıl boyunca yöneten geçen hafta hazin sonla tarihteki yerini alan muammer kaddafi, hayatının son günlerini memleketi sirte'de yerden yere gizlenerek öfke melankoli arasında gidip gelerek geçirmiş. kaddafi'nin son günlerine yakınında bulunan isimlerden birinin verdiği bilgiye göre; kaddafi, oğlu mutassım beraberindeki 20'den fazla sadık asker birlikte dolaşıyordu kaçak hayatı sırasında televizyon, telefon elektriği bulunmayan evlerde dünya bağlantıları kesik yaşıyordu. sirte'de çatışmaların başlamasının ardından kent halkının terk evlerde kalan kaddafi yakınındakiler, muhaliflerin ilerlemesi nato hava saldırıları nedeniyle 4 günde yer değiştiriyordu.
+
+PARAGRAPH: kaddafi birlikte yakalanan anda ugk güçlerinin elinde bulunan libya devrim muhafızları'nın başındaki isim mansur dav, kaddafi'nin süre zarfında okuyarak yazarak vakit geçirdiğini, kömür sobası üzerinde gün çayını demlediğini söyledi. kaddafi, perşembe günü doğum yeri sirte'den kaçarken yakalanmış, sonra öldürülmüştü.
+
+
+
+######Cümleler:######
+
+﻿kaddafi'nin cenazesi toprağa verildi
+
+kaddafi oğlu yardımcısının cenazeleri, gündür misrata'daki soğuk hava deposunda tutuluyordu.
+libya'nın öldürülen devrik lideri muammer kaddafi'nin cenazesi neresi açıklanmayan yere defnedildi.
+misrata askeri konseyi, libya'nın öldürülen devrik lideri muammer kaddafi'nin yanı sıra oğlu mutassım önde gelen yardımcılarından birinin cenazelerinin açıklanmayan yere defnedildiğini belirtti.
+konsey yetkilisi ibrahim beytalmal, cenazelerin yalnızca akraba yetkilinin katıldığı törenle islami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi.
+beytalmal, olası saldırıların önlenmesi amacıyla mezarların yerinin gizli tutulacağını kaydetti.
+libya'yı 42 yıl boyunca yöneten geçen hafta hazin sonla tarihteki yerini alan muammer kaddafi, hayatının son günlerini memleketi sirte'de yerden yere gizlenerek öfke melankoli arasında gidip gelerek geçirmiş.
+kaddafi'nin son günlerine yakınında bulunan isimlerden birinin verdiği bilgiye göre; kaddafi, oğlu mutassım beraberindeki 20'den fazla sadık asker birlikte dolaşıyordu kaçak hayatı sırasında televizyon, telefon elektriği bulunmayan evlerde dünya bağlantıları kesik yaşıyordu.
+sirte'de çatışmaların başlamasının ardından kent halkının terk evlerde kalan kaddafi yakınındakiler, muhaliflerin ilerlemesi nato hava saldırıları nedeniyle 4 günde yer değiştiriyordu.
+kaddafi birlikte yakalanan anda ugk güçlerinin elinde bulunan libya devrim muhafızları'nın başındaki isim mansur dav, kaddafi'nin süre zarfında okuyarak yazarak vakit geçirdiğini, kömür sobası üzerinde gün çayını demlediğini söyledi.
+kaddafi, perşembe günü doğum yeri sirte'den kaçarken yakalanmış, sonra öldürülmüştü.
+
+
+
+######Title######
+﻿kaddafi'nin cenazesi toprağa verildi
+
+
+######Nouns of text:######
+[cenaze, toprak, oğul, yardım, cenaze, soğuk, hav, depo, Libya, lider, cenaze, nere, yer, asker, konsey, Libya, lider, yan, sır, oğul, ön, gele, yardım, bir, cenaze, yer, konsey, yetki, cenaze, yalnız, akraba, yetki, tören, İslâmî, usul, şekil, sabah, karşı, toprak, saldırı, amaç, mezar, yer, giz, Libya, yıl, boyun, haf, son, tarih, yer, ala, hayat, son, gün, memleket, yer, yer, öfke, melankoli, ara, son, gün, yakın, isim, bir, bilgi, oğul, beraber, de, faz, asker, birlik, kaçak, hayat, sıra, televizyon, telefon, elektrik, ev, Dünya, bağlantı, kesik, art, kent, halk, terk, ev, kala, yakın, muhalif, hav, saldırı, neden, gün, yer, birlik, ant, güç, el, Libya, devir, muhafız, baş, is, dav, süre, zarf, vakit, kömür, soba, üzeri, gün, Çay, perşembe, gün, Doğu, yer, sonra]
+I|12:13:09.699|Parser ready: 1786ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:13:09.783|Cache ready: 1870ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[vermek, tutulmak, öldürmek, açıklamak, yermek, defnetmek, öldürmek, gelmek, açıklamak, yermek, defnetmek, belirtmek, katılmak, vermek, bildirmek, olmak, yerinmek, kaydetmek, yılmak, yönetmek, geçmek, sonlamak, almak, yermek, gizlemek, gitmek, gelmek, geçirmek, bulunmak, vermek, görmek, denmek, dolaşmak, bulunmak, yaşamak, kalmak, yemek, değişmek, yakalamak, bulunmak, sürmek, okumak, yazmak, geçirmek, demlemek, söylemek, kaçar, yakalamak, öldürmek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 544
+All chain size: 392
+Unique Chains: 108
+Chain Puan Eşik değeri:19
+Chain Strength Eşik değeri:0.8888888888888888
+Chain criterion değeri:3.996029212024349
+Strong Chains: 10
+yer
+synonymy
+vaziyet
+yer
+synonymy
+vaziyet
+yer
+synonymy
+vaziyet
+yer
+synonymy
+vaziyet
+yer
+synonymy
+vaziyet
+yer
+synonymy
+vaziyet
+yer
+synonymy
+vaziyet
+yer
+synonymy
+vaziyet
+8
+80
+7.0
+
+
+gün
+synonymy
+çağ
+gün
+synonymy
+çağ
+gün
+synonymy
+çağ
+vakit
+synonymy
+çağ
+gün
+synonymy
+çağ
+gün
+synonymy
+çağ
+6
+60
+4.0
+
+
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+asker
+related_with
+vasıflı işçi
+asker
+antonymy
+vasıflı işçi
+asker
+holo_member
+vasıflı işçi
+6
+30
+5.0
+
+
+lider
+related_with
+siyaset
+konsey
+related_with
+siyaset
+lider
+related_with
+siyaset
+konsey
+related_with
+siyaset
+yetki
+related_with
+siyaset
+yetki
+related_with
+siyaset
+saldırı
+related_with
+siyaset
+saldırı
+related_with
+siyaset
+güç
+related_with
+siyaset
+9
+36
+4.0
+
+
+yer
+synonymy
+durum
+yer
+synonymy
+durum
+şekil
+synonymy
+durum
+yer
+synonymy
+durum
+yer
+synonymy
+durum
+yer
+synonymy
+durum
+yer
+synonymy
+durum
+birlik
+antonymy
+durum
+yer
+synonymy
+durum
+birlik
+antonymy
+durum
+yer
+synonymy
+durum
+11
+104
+8.0
+
+
+sabah
+holo_part
+gündüz
+gün
+synonymy
+gündüz
+gün
+synonymy
+gündüz
+gün
+synonymy
+gündüz
+gün
+synonymy
+gündüz
+gün
+synonymy
+gündüz
+6
+54
+4.0
+
+
+oğul
+antonymy
+erkek çocuk
+oğul
+synonymy
+erkek çocuk
+oğul
+antonymy
+erkek çocuk
+oğul
+synonymy
+erkek çocuk
+oğul
+antonymy
+erkek çocuk
+oğul
+synonymy
+erkek çocuk
+6
+51
+5.0
+
+
+gün
+synonymy
+sıra
+gün
+synonymy
+sıra
+gün
+synonymy
+sıra
+gün
+synonymy
+sıra
+gün
+synonymy
+sıra
+sonra
+synonymy
+sıra
+6
+60
+4.0
+
+
+gün
+synonymy
+tarih
+gün
+synonymy
+tarih
+gün
+synonymy
+tarih
+gün
+synonymy
+tarih
+gün
+synonymy
+tarih
+5
+50
+4.0
+
+
+gün
+synonymy
+zaman
+gün
+synonymy
+zaman
+gün
+synonymy
+zaman
+vakit
+synonymy
+zaman
+vakit
+hypernymy
+zaman
+gün
+synonymy
+zaman
+gün
+synonymy
+zaman
+7
+64
+5.0
+
+
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+#############Heuristic1 OUTPUT############
+0 : Kaddafi ile oğlu ve yardımcısının cenazeleri, birkaç gündür Misrata'daki bir soğuk hava deposunda tutuluyordu.
+1 : Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi.
+2 : Misrata Askeri Konseyi, Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti.
+3 : Konsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi.
+4 : Beytalmal, olası saldırıların önlenmesi amacıyla mezarların yerinin gizli tutulacağını kaydetti.
+5 : Libya'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş.
+6 : Kaddafi'nin son günlerine kadar en yakınında bulunan isimlerden birinin verdiği bilgiye göre; Kaddafi, oğlu Mutassım ve beraberindeki 20'den fazla sadık asker ile birlikte dolaşıyordu ancak bu kaçak hayatı sırasında televizyon, telefon ve hatta elektriği bile bulunmayan evlerde dünya ile bağlantıları kesik olarak yaşıyordu.
+7 : Sirte'de çatışmaların başlamasının ardından kent halkının terk ettiği evlerde kalan Kaddafi ve yakınındakiler, muhaliflerin ilerlemesi ve NATO hava saldırıları nedeniyle her 4 günde bir yer değiştiriyordu.
+8 : Kaddafi ile birlikte yakalanan ve şu anda UGK güçlerinin elinde bulunan Libya Devrim Muhafızları'nın başındaki isim olan Mansur Dav, Kaddafi'nin bu süre zarfında daha çok okuyarak ve yazarak vakit geçirdiğini, hatta kömür sobası üzerinde her gün kendi çayını demlediğini söyledi.
+9 : Kaddafi, perşembe günü doğum yeri olan Sirte'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.
+representative
+[gün, yer, asker]
+#############Heuristic2 OUTPUT############
+Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi.
+Misrata Askeri Konseyi, Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti.
+Konsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi.
+Libya'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş.
+Kaddafi, perşembe günü doğum yeri olan Sirte'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.
+#############Heuristic3 OUTPUT############
+0 : Kaddafi ile oğlu ve yardımcısının cenazeleri, birkaç gündür Misrata'daki bir soğuk hava deposunda tutuluyordu.
+1 : Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi.
+2 : Misrata Askeri Konseyi, Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti.
+3 : Konsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi.
+5 : Libya'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş.
+6 : Kaddafi'nin son günlerine kadar en yakınında bulunan isimlerden birinin verdiği bilgiye göre; Kaddafi, oğlu Mutassım ve beraberindeki 20'den fazla sadık asker ile birlikte dolaşıyordu ancak bu kaçak hayatı sırasında televizyon, telefon ve hatta elektriği bile bulunmayan evlerde dünya ile bağlantıları kesik olarak yaşıyordu.
+7 : Sirte'de çatışmaların başlamasının ardından kent halkının terk ettiği evlerde kalan Kaddafi ve yakınındakiler, muhaliflerin ilerlemesi ve NATO hava saldırıları nedeniyle her 4 günde bir yer değiştiriyordu.
+8 : Kaddafi ile birlikte yakalanan ve şu anda UGK güçlerinin elinde bulunan Libya Devrim Muhafızları'nın başındaki isim olan Mansur Dav, Kaddafi'nin bu süre zarfında daha çok okuyarak ve yazarak vakit geçirdiğini, hatta kömür sobası üzerinde her gün kendi çayını demlediğini söyledi.
+9 : Kaddafi, perşembe günü doğum yeri olan Sirte'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.
+####################CLASS OF ORIGINAL TEXT################
+﻿Kaddafi'nin cenazesi toprağa verildi
+
+Kaddafi ile oğlu ve yardımcısının cenazeleri, birkaç gündür Misrata'daki bir soğuk hava deposunda tutuluyordu. Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi. Misrata Askeri Konseyi, Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti.
+
+Konsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi. Beytalmal, olası saldırıların önlenmesi amacıyla mezarların yerinin gizli tutulacağını kaydetti.
+
+Libya'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş. Kaddafi'nin son günlerine kadar en yakınında bulunan isimlerden birinin verdiği bilgiye göre; Kaddafi, oğlu Mutassım ve beraberindeki 20'den fazla sadık asker ile birlikte dolaşıyordu ancak bu kaçak hayatı sırasında televizyon, telefon ve hatta elektriği bile bulunmayan evlerde dünya ile bağlantıları kesik olarak yaşıyordu. Sirte'de çatışmaların başlamasının ardından kent halkının terk ettiği evlerde kalan Kaddafi ve yakınındakiler, muhaliflerin ilerlemesi ve NATO hava saldırıları nedeniyle her 4 günde bir yer değiştiriyordu.
+
+Kaddafi ile birlikte yakalanan ve şu anda UGK güçlerinin elinde bulunan Libya Devrim Muhafızları'nın başındaki isim olan Mansur Dav, Kaddafi'nin bu süre zarfında daha çok okuyarak ve yazarak vakit geçirdiğini, hatta kömür sobası üzerinde her gün kendi çayını demlediğini söyledi. Kaddafi, perşembe günü doğum yeri olan Sirte'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Kaddafi\'nin cenazesi toprağa verildi\n\nKaddafi ile oğlu ve yardımcısının cenazeleri, birkaç gündür Misrata\'daki bir soğuk hava deposunda tutuluyordu. Libya\'nın öldürülen devrik lideri Muammer Kaddafi\'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi. Misrata Askeri Konseyi, Libya\'nın öldürülen devrik lideri Muammer Kaddafi\'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti.\n\nKonsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi. Beytalmal, olası saldırıların önlenmesi amacıyla mezarların yerinin gizli tutulacağını kaydetti.\n\nLibya\'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte\'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş. Kaddafi\'nin son günlerine kadar en yakınında bulunan isimlerden birinin verdiği bilgiye göre; Kaddafi, oğlu Mutassım ve beraberindeki 20\'den fazla sadık asker ile birlikte dolaşıyordu ancak bu kaçak hayatı sırasında televizyon, telefon ve hatta elektriği bile bulunmayan evlerde dünya ile bağlantıları kesik olarak yaşıyordu. Sirte\'de çatışmaların başlamasının ardından kent halkının terk ettiği evlerde kalan Kaddafi ve yakınındakiler, muhaliflerin ilerlemesi ve NATO hava saldırıları nedeniyle her 4 günde bir yer değiştiriyordu.\n\nKaddafi ile birlikte yakalanan ve şu anda UGK güçlerinin elinde bulunan Libya Devrim Muhafızları\'nın başındaki isim olan Mansur Dav, Kaddafi\'nin bu süre zarfında daha çok okuyarak ve yazarak vakit geçirdiğini, hatta kömür sobası üzerinde her gün kendi çayını demlediğini söyledi. Kaddafi, perşembe günü doğum yeri olan Sirte\'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.\n\n\n\n'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji
+###################CLASS OF SUMMARY#######################
+[0 : Kaddafi ile oğlu ve yardımcısının cenazeleri, birkaç gündür Misrata'daki bir soğuk hava deposunda tutuluyordu., 1 : Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi., 2 : Misrata Askeri Konseyi, Libya'nın öldürülen devrik lideri Muammer Kaddafi'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti., 3 : Konsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi., 5 : Libya'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş., 6 : Kaddafi'nin son günlerine kadar en yakınında bulunan isimlerden birinin verdiği bilgiye göre; Kaddafi, oğlu Mutassım ve beraberindeki 20'den fazla sadık asker ile birlikte dolaşıyordu ancak bu kaçak hayatı sırasında televizyon, telefon ve hatta elektriği bile bulunmayan evlerde dünya ile bağlantıları kesik olarak yaşıyordu., 7 : Sirte'de çatışmaların başlamasının ardından kent halkının terk ettiği evlerde kalan Kaddafi ve yakınındakiler, muhaliflerin ilerlemesi ve NATO hava saldırıları nedeniyle her 4 günde bir yer değiştiriyordu., 8 : Kaddafi ile birlikte yakalanan ve şu anda UGK güçlerinin elinde bulunan Libya Devrim Muhafızları'nın başındaki isim olan Mansur Dav, Kaddafi'nin bu süre zarfında daha çok okuyarak ve yazarak vakit geçirdiğini, hatta kömür sobası üzerinde her gün kendi çayını demlediğini söyledi., 9 : Kaddafi, perşembe günü doğum yeri olan Sirte'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : Kaddafi ile oğlu ve yardımcısının cenazeleri, birkaç gündür Misrata\'daki bir soğuk hava deposunda tutuluyordu., 1 : Libya\'nın öldürülen devrik lideri Muammer Kaddafi\'nin cenazesi neresi olduğu açıklanmayan bir yere defnedildi., 2 : Misrata Askeri Konseyi, Libya\'nın öldürülen devrik lideri Muammer Kaddafi\'nin yanı sıra oğlu Mutassım ve önde gelen yardımcılarından birinin cenazelerinin de açıklanmayan bir yere defnedildiğini belirtti., 3 : Konsey yetkilisi İbrahim Beytalmal, cenazelerin yalnızca birkaç akraba ve yetkilinin katıldığı bir törenle İslami usullere uygun şekilde sabaha karşı toprağa verildiğini bildirdi., 5 : Libya\'yı 42 yıl boyunca yöneten ancak geçen hafta hazin bir sonla tarihteki yerini alan Muammer Kaddafi, hayatının son günlerini memleketi Sirte\'de bir yerden bir yere gizlenerek ve öfke ile melankoli arasında gidip gelerek geçirmiş., 6 : Kaddafi\'nin son günlerine kadar en yakınında bulunan isimlerden birinin verdiği bilgiye göre; Kaddafi, oğlu Mutassım ve beraberindeki 20\'den fazla sadık asker ile birlikte dolaşıyordu ancak bu kaçak hayatı sırasında televizyon, telefon ve hatta elektriği bile bulunmayan evlerde dünya ile bağlantıları kesik olarak yaşıyordu., 7 : Sirte\'de çatışmaların başlamasının ardından kent halkının terk ettiği evlerde kalan Kaddafi ve yakınındakiler, muhaliflerin ilerlemesi ve NATO hava saldırıları nedeniyle her 4 günde bir yer değiştiriyordu., 8 : Kaddafi ile birlikte yakalanan ve şu anda UGK güçlerinin elinde bulunan Libya Devrim Muhafızları\'nın başındaki isim olan Mansur Dav, Kaddafi\'nin bu süre zarfında daha çok okuyarak ve yazarak vakit geçirdiğini, hatta kömür sobası üzerinde her gün kendi çayını demlediğini söyledi., 9 : Kaddafi, perşembe günü doğum yeri olan Sirte\'den kaçarken yakalanmış, ancak daha sonra öldürülmüştü.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

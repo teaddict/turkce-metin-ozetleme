@@ -1,0 +1,7 @@
+Microsoft'un kabusu geri döndü
+Microsoft'un yenilenen mobil işletim sistemi 16 yaşındaki küçük hacker Shantanu Gawde tarafından kırıldı.
+Bulunan açığın kullanıcı verilerini çalmaya ve fazlasına izin verdiği söyleniyor. 16 yaşındaki Shantanu Gawde, işletim sisteminde bulduğu açığı 24 Kasım'da Hindistan'da düzenlenecek MalCon'da göstermeye hazırlanıyor.   
+
+Hindistan hükümetinin desteğini alan National Security Database programının bir üyesi olan Shantanu Gawde, geçen sene de Microsoft'un Kinect'indeki bir açığı kullanan zararlı geliştirmişti. Bulunan açığın Windows Phone 8'deki bir açık mı olduğu, yoksa kullanıcının dikkatsizliğinden mi faydalanıldığı tam olarak bilinmiyor. MalCon web sitesinde yapılan açıklamaya göre yapılacak tanıtımda bir Windows Phone zararlı prototipi ile Windows Phone'a virüs bulaştırma tekniklerinin gösterilecek ve buna kişi listesini çalmak, fotoğraf yüklemek ve kişisel verileri, SMS'leri çalmak dahil olacak. 
+
+Gawde, Windows Phone 8 için geliştirdiği zararlı prototipini tanıtımdan sonra antivirüs üreticileriyle paylaşma sözü veriyor.

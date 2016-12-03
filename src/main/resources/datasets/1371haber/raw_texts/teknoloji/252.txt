@@ -1,0 +1,47 @@
+Türkiye'nin ilk minyatür kızılötesi kamerası
+Türk mühendisleri, TÜBİTAK'ın desteğiyle ilk soğutmasız minyatür kızılötesi kamera geliştirdi. Takıldığı araçları, yayaya çarpmamak için otomatik olarak durduracak, cep telefonlarına gece görüşü imkanı sağlayacak kameralar için yurt dışından sipariş alındı.ODTÜ'lü akademisyenler tarafından Türkiye'de ilk defa geliştirilen soğutmasız minyatür kızılötesi kamera, benzerlerinden 10 kat daha ucuza üretildi.
+Savunma sanayisi dışında kullanıma açılan kızılötesi kameraların, en yaygın kullanım alanının otomobiller ve cep telefonları olması bekleniyor.
+
+ODTÜ MikroElektroMekanik Sistemler (MEMS) Araştırma ve Uygulama Merkezi'nde, düşük maliyetli soğutmasız kızılötesi görüntüleme sensörlerini kullanan minyatür kızılötesi kamera modülü geliştirildi.
+
+BUNU ODTÜ'LÜLER YAPTI / FOTO GALERİ
+
+ODTÜ-MEMS Merkezi Başkanı Prof. Dr. Tayfun Akın, 1995 yılından beri MEMS teknolojisini geliştirdiklerini, Merkez'de geliştirilen teknolojilerin sanayiye aktarılması ve Türkiye ekonomisine, yüksek katma değerli ürün ihracatı yoluyla katkı sağlaması için Teknokent yasası kapsamında şirketler kurmaya başladıklarını anlattı.
+
+Soğutmasız kızılötesi dedektörler için Dr. Selim Eminoğlu ile Mikrosens isimli şirketi Türkiye Teknoloji Geliştirme Vakfı'nın (TTGV) girişim sermayesi fonu yöneticisi şirketten aldıkları yaklaşık 1 milyon dolarlık fon desteğiyle ODTÜ-Teknokent'te kurduklarını, ardından TÜBİTAK'tan iki ayrı projelerinin TÜBİTAK tarafından da desteklendiğini söyledi.
+
+Akın, TÜBİTAK desteğiyle soğutmasız, kızılötesi görüntüleme sensörü geliştirdiklerini ve yine TEYDEB'den aldıkları ikinci destekle soğutmasız kızılötesi görüntüleme sensörlerini kullanan minyatür kızılötesi kamera geliştirdiklerini bildirdi.
+
+Çok yüksek maliyetlerle üretilen kızılötesi kameraların savunma sanayisinde güvenlik amaçlı kullanıldığını dile getiren Akın, amaçlarının ise düşük maliyetle üretilen minyatür kızılötesi kameraları savunma dışında günlük kullanıma sunmak olduğunu ifade etti.
+
+Dünyanın ilk etkin küçültme tekniği Türkiye'den
+
+Prof. Dr. Akın, kızılötesi kameraların küçültülüp ucuzlatılması konusunda dünyada önemli bir rekabet bulunduğunu vurgulayarak, dedektörleri düşük maliyetle üretmek ve kameraları küçültmek için dünyadaki yöntemlerden farklı, mikroelektromekanik sistemler (MEMS) ve CMOS entegre devre teknolojisine bağlı değişik bir teknik uyguladıklarını belirtti.
+
+Kameranın ilk prototipinin ODTÜ MEMS'de geliştirilmesinin ardından kızılötesi kameranın makul bir yatırımla çok ucuza ve çok sayıda üretilebilmesi için fabrikasız üretim yöntemini seçtiklerini dile getiren Akın, Kızılötesi dedektör içeren kameralar, fiyat yüksekliği nedeniyle savunma sanayi ve bazı güvenlik uygulamaları dışında fazla kullanılamıyor. Ancak geliştirdiğimiz kızılötesi kameranın alanındaki kızılötesi kameralara göre neredeyse 10 kat daha ucuz olması bekleniyor dedi.
+
+Fiyatlardaki bu düşüşün, kızılötesi termal kameraların gelecekte hayatın içinde olmasını sağlayacağına işaret eden Akın, özellikle otomotiv, güvenlik, savunma, havacılık, tıp ve endüstriyel termografi gibi ileri teknolojiyle iç içe olan alanlarda kızılötesi kameraların kullanılmasının beklendiğini söyledi.
+
+Cepten ateş ölçülecek
+
+Prof. Dr. Akın, söz konusu minyatür kızılötesi kameraların özellikle otomobillerde ve cep telefonlarında yaygın bir kullanım alanı bulmasını beklediklerini bildirdi.
+Araçlara yerleştirilecek kızılötesi kamerayla araçların yayalara çarpmamak için otomatik olarak durabileceğini ve ölümcül kaza sayılarında da 
+büyük düşüş olacağını savundu. Akın, bu sistemin Avrupa Birliği mevzuatında da öngörüldüğünü ve ileride her arabada zorunlu hale geleceğini belirtti.
+
+Geliştirdikleri kameranın Android işletim sistemi tabanlı taşınabilir bilgisayarlar ve cep telefonları üzerinde çalışabilen ilk kızılötesi görüntüleme sistemi olmasını beklediklerini vurgulayan Akın, sistemin ilk aşaması olan cep telefonlarını Android sisteme bir kablo sayesinde bağlama işini başarıyla yapabildiklerini söyledi.
+Çalışmaların ileri aşamasında bu kameraları daha da küçültüp cep telefonunun içine girecek bir sisteme getirmeyi hedeflediklerini dile getiren Akın, böylece her akıllı telefonda kızılötesi kameranın kullanılabileceğini ifade etti.
+
+Akın, böylece kızılötesi kamerası bulunan cep telefonlarının karanlıkta cep telefonuna bakarak güvenli yürümekten, cep telefonuyla ateş ölçmeye kadar onlarca kullanım alanı bulabileceğine işaret etti. Akın, bu kameralarla duvar içindeki elektrik ve boru hatlarının yerlerinin, ayrıca evlerdeki ısı kaçak ve kayıplarının da rahatlıkla tespit edilebileceğini kaydetti.
+
+Türkiye büyük şans yakaladı
+
+Dünyada bu kadar küçük boyutta kızılötesi kameranın iki şirket tarafından üretilebildiğini dile getiren Akın, ancak bu şirketlerinin fiyatlarının kendi üretimlerinden çok daha yüksek olduğunu ifade etti.
+
+Geliştirilen ürünlerini ABD'de yapılan Savunma ve Güvenlik Fuarında ve Otomotiv Elektroniği Fuarında tanıttıklarını, yoğun ilgi gören ürünlerinin infrared görüntüleme ile ilgili bir uluslararası dergide haber olduğunu, bu ürünle ilgili iki ayrı kıtadan üç ayrı ülkeden şimdiden sipariş aldığını söyleyen Prof. Dr. Tayfun Akın, yatırımcılarıyla olan mevcut finansman görüşmelerinin sonuçlanmasından sonra seri üretime başlayacaklarını anlattı.
+Akın, kameralarıyla dünya pazarında yerlerini alacaklarını dile getirerek, ileriye dönük hedeflerinin kameraların cep telefonuna entegre şekilde çalışmasını sağlamak olduğunu aktardı.
+
+Prof. Dr. Akın, çalışmalarıyla Türkiye'nin düşük maliyetli kızılötesi kameralar konusunda dünyada lider ülke olabilme şansını yakaladığını sözlerine ekledi.
+
+Kamera nasıl çalışıyor?
+
+Isıyı esas alan kızılötesi kameralarda, objelerden gelen radyasyon kızılötesi dedektörün piksellerinde sıcaklık farkı yaratmakta, değişik piksellerdeki farklı sıcaklıklar, farklı renk kodu ile bir ekrana basılarak görüntüleme elde ediliyor. Ürünün fiyatının pahalı olması sebebiyle genelde savunma sanayisinde kullanılan kızılötesi kameralar TÜBİTAK destekli Minyatür Kızılötesi Kamera Modülü Geliştirilmesi projesi ile rahatlıkla her alanda kullanılabilecek.

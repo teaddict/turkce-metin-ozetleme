@@ -1,0 +1,5 @@
+Microsoft Service Pack 2 hazır   
+Microsoft, uzun zamandır beklenen Windows XP işletim sisteminin ikinci güvenlik paketi Service Pack 2nin hazırlıklarını tamamladı. 
+
+Yazılımdaki güvenlik boşluklarına karşı koruyucu özellikler de içereceği belirtilen Service Pack 2, geçtiğimiz haftadan itibaren bilgisayar üretici firmalarına sunulmaya başlanırken, bu hafta içinde de şirketin müşterileri olan büyük şirketlere gönderilecek. Kişisel bilgisayar kullanıcılar ise paketi internetten ücretsiz olarak indirebilecek. Şirketten yapılan açıklamada, paketin İngilizce dışında 25 dilde kullanıcılara hizmet vereceği bildirildi. Ayrıca Microsoftun Service Pack 2 ve diğer programlar için yaklaşık bir milyar dolarlık yatırım yaptığı, yeni işletim sistemi Longhornun bir bölümünün de Pack 2ye dahil edildiği kaydedildi. Windows XP piyasaya çıkmasının ardından geçen 3 yıl içinde birçok defa virüs saldırılarına uğramıştı. Microsoft Başkanı Bill Gates, Service Pack 2 ile tüketicileri gittikçe artan bu tür saldırılardan koruma yolunda önemli bir adım attıklarını söyledi.  
+ 

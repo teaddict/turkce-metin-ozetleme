@@ -1,0 +1,17 @@
+Bilim adamlarından müthiş keşif
+Dijital bilginin, DNA'nın içinde saklanabileceği bildirildi.
+İngiliz bilim adamları, milyonlarca CD'nin içerdiği bilgiyi, yüzyıllarca güvende tutmak için DNA'nın içinde saklayabileceklerini, bununla günümüz bilgi toplumunun gittikçe artan depolama ihtiyacının üstesinden gelinebileceğini söylediler.
+
+Bilim adamları, bunu doğrulamak için, bir test tüpü içinde zar zor görülen DNA parçasına, 154 Shakespeare sonesi, bir fotoğraf, bir bilimsel tez ve Amerikalı insan hakları lideri Martin Luther King'in ünlü 'Bir Hayalim Var' konuşmasından 26 saniyelik bir ses klibini sakladılar.
+
+Bu işlem için dijital enformasyonun 1 ve 0 rakamlarından oluşan ikili kodu, DNA kodunun 4 harfli alfabesine dönüştürüldü. Bu kod, sentetik DNA'nın dayanaklarını yaratmak için kullanıldı, sonra cihazlar, DNA moleküllerini 'okudu' ve şifrelenmiş bilgiyi topladı.
+
+Bu okuma süreci iki hafta sürerken, sonuçları Nature dergisinin internet sitesinde yayımlanan araştırmanın yazarı, İngiltere'de Avrupa Biyoenformatik Enstitüsü'nden Ewan Birney, teknolojik gelişmelerin bu süreyi aşağı çekebildiğini söyledi.
+
+Araştırmacılar, DNA'nın, uzun süre saklanması, ancak sık sık üzerinde düzeltme yapılmaması gereken çok miktarda bilgiyi saklamak için kullanışlı olabileceğini belirtirken, bilginin saklandığı DNA'nın da soğuk, kuru ve karanlık bir yerde muhafaza edilmesi gerektiği bildirildi.
+
+Araştırmanın bir diğer yazarı Nick Goldman da teknolojinin, yakın gelecekte, ulusal tarih kayıtları gibi yüzyıllarca saklanmak zorunda olan büyük arşivler için işe yarayabileceğini, on yıl içinde de tüketicilerin, torunlarına gösterecekleri düğün fotoğrafları veya videoları gibi, yaklaşık 50 yıllığına saklamak istedikleri bilgiyi depolamaları için elverişli olabileceğini söyledi.
+
+Araştırmacılar, stok yapılan DNA'yı yaşayan bir şeye dönüştürmeye niyetlerinin olmadığını ve kodlama nedeniyle kazara yaşayan bir şeyin genetik mekanizması olamayacağını belirttiler.
+
+Harvard Üniversitesi'nden DNA uzmanı George Church, teknolojinin, kişinin Wikipedia'daki tüm bilgiyi parmak ucu, şu anda disk sürücülerinde saklanan dünyanın tüm bilgisini de avuç içi büyüklüğünde bir yerde saklamasına olanak tanıyabileceğini söyledi.

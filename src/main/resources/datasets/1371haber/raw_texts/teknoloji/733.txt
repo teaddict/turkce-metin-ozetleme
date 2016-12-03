@@ -1,0 +1,56 @@
+Hayatımız şifreli
+Son yıllarda teknolojinin baş döndürücü hızla gelişimiyle elektronik cihazlar da insanların hayatlarına süratle dahil olmaya başladı. Bu cihazları kullanırken en çok dikkat edilmesi gereken konu ise güvenlik.İşte bu noktada karşımıza şifreler çıkıyor ve kullanıcıların bu cihazları sorunsuz kullanabilmeleri için yaklaşık 10-15 farklı şifrenin ezberlenmesi gerekiyor.
+Günlük hayatın vazgeçilmezleri olan bilgisayar, kredi kartı, banka kartı, internet bankacılığı, sosyal paylaşım siteleri, e-posta gibi bir çok aracı kullanabilmek için zorunlu olan şifreler, güvenlik için faydalı olsa da ezberleme zorluğu kullanıcılara zor anlar yaşatabiliyor.
+
+Günümüzde kullanımı hızla artan cep telefonu kullanımı da hayatımıza yeni bir çok şifre getirmiş durumda. Telefonun açılıp kapanması esnasında istenen PIN Kodu, telefon menüsüne ulaşabilmek için istenen Güvenlik Kodu bunlardan sadece birkaçı. Bilgi Teknolojileri ve İletişim Kurumu (BTK) verilerine göre, Türkiye'de 68 milyon civarında mobil abone bulunuyor ve bu rakam hızla yükseliyor.
+
+Bazı araçlarda yalnızca şifre ezberlemek yeterli olurken, bazılarında kullanıcı adı da belirlenmesi gerekiyor. Resmi kurumlar da dahil olmak üzere bir çok kuruluşun, muhataplarının işlemlerini yapmaları için web sitelerine yönlendirmeleri belirli ölçüde kolaylık sağlarken, şifre açısından da çeşitli zorluklar içeriyor.
+
+Sosyal paylaşım siteleri hayatımızdaki şifre sayısını artırıyor
+
+Hayatımızdaki şifre sayısını artıran bir başka unsur da sosyal paylaşım siteleri.
+
+Türkiye, Socialbakers verilerine göre, Facebook kullanıcı sayısı bakımından 32 milyon 438 bin 200 kişiyle dünyada 6'ncı sırada bulunurken, ülke, Twitter kullanıcı sayısı açısından da dünyada üst sıralarda yer alıyor.
+
+Sosyal paylaşım sitelerinin e-posta hesapları ile anlık mesajlaşma programlarında belirlenen şifrelerin unutulması veya başkasının eline geçmesi durumunda da kullanıcılar neredeyse tazmini mümkün olmayan zararlara uğrayabiliyor.
+
+Uzmanlar bu noktada kullanıcılara kırılması daha zor şifre kullanmalarını öneriyor ancak şifrelerin zorluk seviyesi arttıkça, akılda kalma oranı da o ölçüde azalıyor.
+
+İnternet bankacılığında en önemli husus güvenlik
+
+Türkiye'nin, yüksek genç nüfusunun etkisiyle internet kullanıcı sayısı da özellikle son yıllarda ciddi bir artış gösterdi. Ülkenin 2008 yılındaki genişbant abone sayısı 6 milyon seviyesindeyken, bu rakam son verilere göre 19 milyonun üzerine çıkmış durumda. Türkiye'deki çevirmeli internet dahil toplam internet abone sayısı da 20 milyon seviyesine ulaştı.
+
+Kullanımı gittikçe yaygınlaşan ve güvenlik önlemlerinin üst düzeyde tutulduğu internet bankacılığında ise şifre ve kullanıcı adı belirlemek de yetmiyor. Çoğu banka çeşitli isimler vererek sistemine ekstra bir güvenlik aşaması daha koyuyor. Bununla da yetinmeyen bir çok banka da tek kullanımlık şifre gibi uygulamalarla kullanıcının cep telefonuna SMS gönderiyor. İnternet bankacılığında ayrıca neredeyse her banka, şifrelerin her ay değiştirilmesini zorunlu kılıyor.
+
+Tüketicilerin en çok şikayet ettiği konuların başında ise söz konusu araçlarda kullanılan şifrelerde bir standart olmaması geliyor. Bazen sadece rakam, bazen harf ve rakam kullanılırken, kimi 4, kimi 5, kimi 6-8 haneli olması zorunlu tutulan şifreler, zihinleri bir hayli zorluyor.
+
+Şifreleri zorunlu kılan bir başka alan ise internetten alışveriş yapılan e-ticaret siteleri. Rakamlara bakıldığında Türkiye bu alanda da ciddi bir kullanıcı sayısına sahip. Bankalararası Kart Merkezi (BKM) verilerine göre 2012 yılı sonu itibariyle Türkiye'de 2012 yılında e-ticarette 213,5 milyon işlem adedi gerçekleşirken, bu işlemlerin toplam tutarı ise 42 milyar liranın üzerinde gerçekleşti.
+
+Devletin E olmasıyla şifreler de zorunlu oluyor
+
+Teknolojideki değişimi kayıtsız kalamayan birçok devlet kurumu da internet üzerinden işlemlerini artırıyor. Hayatımıza hızlı bir şekilde giren E-devlet de şifreyi zorunlu kılan bir unsur olarak günlük hayatta kullanıcıların karşısına çıkıyor.
+
+Türkiye'de insanların hayatlarının vazgeçilmezi olan sınavlar da şifreli işlemi zorunlu tutan bir başka unsur. Öğrenci Seçme ve Yerleştirme Merkezi'nin (ÖSYM) yaptığı sınavlar da bu açıdan olmazsa olmaz durumunda. Bu sınavlara kayıt yaptırabilmek için gereken şifrelerin ise güvenlik derecelerinin yüksek olması gerekiyor, aksi halde sistem şifreyi kabul etmiyor.
+
+Akıllı telefonlarda işlem yapmak da şifreli
+
+Kullanımı hızla yaygınlaşan akıllı telefonlar da günlük hayatta şifreyi zorunlu tutan diğer unsurlar olarak karşımıza çıkıyor. Bu noktada piyasanın iki önemli gücü olan Apple'ın App Store'u ve Android'in Google Play Store'u da şifre işlemleri ile bazen kullanıcıları zorluyor.
+
+App Store, birçok işlem esnasında şifreyi zorunlu tutarken, Google Play Store ise şifre konusunda biraz daha esnek bir tutum sergiliyor.
+
+Şifre programları da şifreyi zorunlu tutuyor
+
+Şifreli hayata tutarsız kalmayan yazılımcılar bu noktada tüketicilere bir nebze olsun kolaylık sunuyor. Programlar, günlük hayatta ortalama 10-15 şifreyi aklında tutması gereken tüketicilere, şifrelerini tek bir şifre altında tutma imkanı sunuyor ancak bu programlara erişim de ancak şifre ile gerçekleştiriliyor.
+Bu noktada piyasadaki programlar kullanıcıların şifrelerini şifreleyerek kendi sunucularında saklıyor.
+
+Şifreler hayatımızın güvenlik anahtarları
+
+Konuya ilişkin değerlendirmelerde bulunan Mobil İletişim Araçları ve Bilgi Teknolojileri İş Adamları Derneği (MOBİSAD) Yönetim Kurulu Başkanı Murat Dursun, teknoloji geliştikçe hayat konforunun da geliştiğini, bu konforun devamı ve güvenliği için de şifrelere olan ihtiyacın arttığını ama bu artışın beraberinde riski de getirdiğini söyledi.
+
+Şifrelerin günlük hayatta adeta vazgeçilmez hale geldiğini belirten Dursun, Çok farklı alanlarda kullanılan şifreler hayatın vazgeçilmez güvenlik anahtarları haline geldi dedi.
+
+Dursun, güvenlik açısından yalnızca biyolojik ya da şifre ile biyolojik özelliklerin birlikte kullanıldığı çözümlerin geliştirildiğini de belirterek, iris okuma, ses ve damar tanıma, parmak izi gibi teknolojilerin bu amaçla kullanılabildiğini ifade etti.
+
+Ufuk Üniversitesi Beyin ve Sinir Cerrahisi Anabilim Dalı Öğretim Üyesi Prof. Dr. Ersin Erdoğan da insanların gündelik hayatta kullandıkları şifrelerin sayısının artmasının insan beynine olumlu katkı yaptığını söyledi.
+
+İnsan beyninde 70 milyar beyin hücresi olduğunu ancak beyin hücresinin sayısından ziyade bu hücreler arasındaki ilişkinin önemli olduğunu vurgulayan Erdoğan, yeni bir dil öğrenmenin de hücreler arasındaki ilişkileri artırdığına dikkati çekti.

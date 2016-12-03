@@ -1,0 +1,9 @@
+iPhone'u yine kırdılar
+iOS sürümü geçtiğimiz günlerde yenilendi ve kullanıcıların bir kısmı yeni güncellemenin jailbreak sürümünün ne zaman yayınlanacağını merak ediyordu. Son gelen haber ise iOS 6.0.1 için de jailbreak'in yayınlandığını ortaya koydu.
+iPhone-Dev-Team tarafından geliştirilen yeni jailbreak sürümü kısa sürede çıktığı için bazı eksiklikleri de içinde barındırıyor. Örneğin cihazın kapatılıp tekrar açılması durumunda cihaz eski haline geliyor. Ancak ilerleyen günlerde yayınlanacak sürümle de bu sorunun aşılacağını öngörmek pek de zor değil.
+
+Yeni jailbreak ile ilgili bir diğer nokta ise her cihazın desteklenmemesi. A4 yongasının altında çalışan iPhone ve iPad'lerde yeni jailbreak sürümü kullanılamıyor. Yani iPhone 4, iPhone 3GS'ler bu jailbreak sürümünden faydalanamayacak.
+
+Jailbreak nedir
+
+Jailbreak, İngilizce kökenli bir kelime olup, "firar, hapisten kaçış, zincirleri kırma" anlamına gelmektedir. Genelde, Apple'ın iOS işletim sistemi yüklü cihazlarına dayattığı kısıtlamalardan kurtulmak için uygulanan yöntem anlamında kullanılır.

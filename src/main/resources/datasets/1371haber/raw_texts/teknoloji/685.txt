@@ -1,0 +1,71 @@
+Dünyanın yeni korkusu: Siber savaş
+Birkaç hafta önce Maryland'de küçük bir şehir olan Gaithersburg'da bir tren rayının yakınında duruyordum. O sırada bir yük treni, etrafını uyarmak için düdüğünü vargücüyle çalarak demiryolu geçidinden büyük bir hızla geçti.
+Amerika'da demiryolu yolcular tarafından pek tercih edilmiyor olabilir ancak yük trenleri ülke ekonomisi için oldukça önemli.
+
+Birçok modern altyapı gibi demiryolları da karmaşık dijital sistemler ile kontrol ediliyor.
+
+Bu tür bilgisayarların yada modern toplumun dayandığı diğer elektronik sistemlerin siber saldırıya uğrayabileceği endişesi artık giderek daha yüksek sesle dile getiriliyor.
+
+Geçen sene eski ABD Savunma Bakanı Leon Panetta, "dijital bir Pearl Harbor" yaşanabileceğini söylemiş ve ABD'nin ulaşım ve enerji altyapısına karşı siber saldırı yapılması ihtimalinden söz etmişti.
+
+Birkaç hafta önce Başkan Barack Obama da bu uyarıyı tekrarladı.
+
+"Hackerların insanların kişisel bilgilerini çaldığını, emaillerine girdiklerini biliyoruz... Başka ülkelerin ya da şirketlerin şirket sırlarını çaldığını biliyoruz."
+
+"Şimdi düşmanlarımız enerji ağlarımızı, finans kurumlarımızı ve hava trafiği kontrol sistemlerimizi sabote etmeye çalışıyor".
+
+Temel hizmetler
+
+Yüzlerce özel şirket dijital kıyamet günü ihtimaline karşı hazırlanıyor.
+
+Eski FBI genel müdür yardımcısı ve dünya genelinde siber soruşturmalardan sorumlu Shawn Henry bunun sonuçlarının ağır olacağını söylüyor.
+
+Henry şu anda özel şirketlerin hackerlara karşı kendilerini korumalarına yardım eden Crowdsrike adında bir şirketin başkanı.
+
+"Kitle imha silahları dışında, siber saldırı, karşı karşıya olduğumuz en büyük risklerden biri" diyor.
+
+Henry, gündelik yaptığımız herşeyin sanal alandaki iletişimlere dayandığını ve finans sektörünü, altyapı ve enerji ağını hedefleyen gruplar olduğunu söylüyor.
+
+2005 yılında yaşanan Katrina Kasırgası temel hizmetler çökünce gelişmiş bir toplumun nasıl bir anda durma noktasına gelebileceğini gösterdi.
+
+Kasırga sırasında ABD İç Güvenlik Bakanı Michael Chertoff bana siber saldırı ihtimalinin gerçek bir ihtimal olduğunu söylemişti.
+
+Chertoff, "Her gün kişisel bilgilerin ya da fikri mülkiyetin çalındığı milyonlarca saldırı oluyor... Birinin şimdi bunu yapmasına olanak tanıyan bir sistem daha yıkıcı birşey yapmasını da sağlayabilir. İnternet üzerinden bazı sistemlere zarar verilmesi uzak da olsa ihtimal dahilinde" diyor.
+
+Siber Şehir
+ 
+ABD'nin New Jersey eyaletinde Ed Skoudis bu tür bir felaket senaryosuna hazırlanıyor. Ofisinde fonograf, eski tür ampüller ve bir tren seti maketi var.
+
+Ancak bunlar oyuncak değil. Bu sistem, devlet kurumları ve özel şirketlerin, hackerların şehrin dijital altyapısını ele geçirmesi durumunda ne olacağını bilgisayarlar aracılığıyla görmelerini sağlıyor.
+
+Skoudis, 15,000 kişinin yaşadığı, hepsinin akrabalık ilişkileri, hastane kayıtları, banka hesaplarının olduğu "siber bir şehir" kurduklarını söylüyor.
+
+"Siber savaşçılar bu ilişkiler ağına bakıyor ve şehre saldıracakları zayıf bir nokta bulmaya çalışıyorlar" diyor.
+
+Bu, siber saldırıya karşı dijital eğitimin maketler üzerinden görselleştirilmiş hali.
+
+Ve çok rağbet görüyor.
+
+Gerçek bir tehdit mi?
+
+Siber savaşçıların kullandığı dil vahiy gibi geliyor kulağa.
+
+Ancak bazıları azalan savunma bütçeleri nedeniyle siber tehdit riskinin abartıldığını düşünüyor.
+
+Londra'da King's College'da Savaş Çalışmaları bölümünde öğretim görevlisi Thomas Rid, siber tehdit ile ilgili net konuşuyor. Yeni kitabının adı da "Siber Savaş Olmayacak".
+
+Rid "Siber Pearl Harbor ya da siber 11 Eylül senaryoları biraz abartı" diyor.
+
+"Pentagon yetkilileri ile konuştuğunuzda bu tür açıklamaların abartı olduğunu söyleyebilirler. Bunun daha çok siyasi yararları var. Özellikle de Kongre üzerinde siber güvenlik yasasını çıkarması için baskı uygulamak amacıyla".
+
+Ed Skoudis ise böyle bir riskin mevcut olduğunu söylüyor.
+
+Skoudis "enerji ağına yada kritik önemdeki altyapı sistemlerine başarılı saldırılar olduğunu görüyoruz. Biraz abartıldığı doğru ancak askeri sonuçları olabilecek siber faaliyetlere izin veren bir temel var ortada".
+
+Siber saldırı tehdidi ABD'yi savunmasını güçlendirmeye itiyor. Pentagon 4000 yeni 'siber savaşçı' işe alıyor.
+
+ABD'nin altyapı sistemini hackerlardan korumak için yeni bir başkanlık önergesi imzalandı.
+
+Dijital saldırı riskine karşı korunma giderek büyüyen bir sektöre dönüştü.
+
+Askeri ve özel şirketler de kendilerine düşen payı almak için şimdiden rekabete girişmiş durumda.

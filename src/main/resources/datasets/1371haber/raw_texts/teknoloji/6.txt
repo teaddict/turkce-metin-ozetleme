@@ -1,0 +1,6 @@
+iPhone 5'teki enteresan sorun
+Sayıları pek de az olmayan iPhone 5 kullanıcısı, Apple destek sayfalarını iPhone’daki bir sorun nedeniyle bombardımana tutuyorlar. Kullanıcılara göre Verizon Wireless‘ın sağladığı iPhone 5′lerin tarihi, bazen bir gün, bazen ise bir iki hafta kayıyor.
+ Bir kullanıcı, tarihin yavaşça 3-5 dakika geri gitmeye başladığını ve 16 Ekim 10:40pm’de 28 Eylül 4:35pm olarak değiştiğini söylüyor. Bir başka kullanıcı ise telefonu şarjdan çıkartmasının ardından tarih ve saatin 15 gün, 6 saat ve 12 dakika geri gittiğini söylüyor. Aynı kullanıcı eşinin bir gün içinde saati 4 kez düzeltmek zorunda kaldığını söylüyor.
+ Bazı kullanıcılar, sorunun genellikle evde, özellikle Wi-Fi ve LTE sinyali çok iyi olmadığında yaşandığını söylüyorlar. Önerilen onarımlar arasında tarih ve saati otomatikten manuel’e almak, telefonu sıfırlamak, LTE’yi kaptmak ve uçak mounu açıp kapatmak var. Bu çözümlerden bazıları bazı kullanıcıların işine yararken, bazılarının yaramıyor.
+ Apple ve Verizon’un sorundan haberdar olduğu ve şu an onu inceledikleri söyleniyor.
+  

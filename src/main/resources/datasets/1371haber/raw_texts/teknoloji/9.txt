@@ -1,0 +1,12 @@
+Skype solucanı hızla yayılıyor!
+2001 yılında Microsoft tarafından satın alınan görüntülü sohbet platformu Skype, sıradan bir sohbet gibi gelen mesajla bilgisayarın bir botnet’e dönüşmesine sebep oluyor.
+ Dünyanın en fazla kullanılan anında mesajlaşma ve görüntülü sohbet platformlarından biri olan Skype, saldırganların zararlı yazılımı dağıtmasına araç oldu. Bir kullanıcıya bulaşmasının ardından listedeki diğer kişilere de sıçrayan yazılım, şu ana kadar hem İngilizce hem de Almanca olarak rapor edildi. Zararlı yazılımın yayılım hızı göze alındığında Türkçe şikayetlerin de gelmesi olası görünüyor.
+ Kullanılan diller farklı olsa da mesajlarda gönderilen bağlantıların aynı olduğunu dile getiren Trend Micro Güvenlik Araştırmaları ve İletişim Direktörü Rik Ferguson, “Kullanıcıların birbirine göndermeye başladığı mesajlarda, kısaltılmış bir URL doğrudan hotfile.com adresine yönlendiriliyor. Bu adresten ‘Skype_todaysdate.zip’ klasörü indirilirken, klasörün içinde aynı isimli bir yürütme dosyası daha bulunuyor.” bilgilerini verdi.
+ Dorkbot solucanının bir çeşidi olan bu zararlı yazılım, bilgisayarı bir botnet’e dönüştürerek geniş ölçekli bir tıklama hırsızlığı (click-fraud) aktivitesine dahil ediyor. Saldırganlar kurbanlarına sıradan bir üslupla yaklaşarak kurbanlarının gelen mesajdan şüphelenmemelerini sağlıyorlar.
+ Bilgisayarı rehin alıyor!
+ Ferguson’ın verdiği bilgilere göre, bu tür Dorkbot’lar Facebook, Twitter, Google, PayPal, NetFlix ve diğerleri gibi sosyal ağların kullanıcı adı ve şifrelerini de çalabiliyor. Bunun yanında DNS’lere giriş yapabiliyor, web sayfalarına iFrame yerleştirebiliyor, üç farklı DDoS saldırısında bulunabiliyor, Proxy sunucusu gibi davranabiliyor ve farklı zararlı yazılımları bilgisayara indirip yükleyebiliyor.
+ Saldırganlar bazen de zararlı yazılım bulaşan bilgisayarlardan sadece bilgi çalmakla kalmıyor. Sızılan bilgisayarın kullanıcısına bir mesaj gönderen saldırganlar, şantajda bulunuyor. Sistemin tamamen kapatıldığı, bilgilerin şifrelendiği ve 48 saat içinde 200 dolar ödenmezse tüm verilerin silineceği tehdidi kullanıcılara iletiliyor. Virüsün yayılmaya başlamasının ardından geçen 24 saatlik sürede Trend Micro, 2800’den fazla dosyayı engelledi. Virüs üzerinde çalışmalar sürerken, Rik Ferguson kullanıcıların hangi platformda olursa olsun belirsiz bağlantılara tıklamaması gerektiğini vurguladı.
+ Konuyla ilgili açıklamada bulunan Skype da zararlı yazılımın farkında olduklarını, kullanıcıların en kısa sürede en yeni Skype sürümünü yüklemeleri gerektiğini şiddetle tavsiye etti.
+ 
+  
+  

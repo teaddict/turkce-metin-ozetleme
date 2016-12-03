@@ -1,0 +1,25 @@
+'USB hata ayıklama modu' ne işe yarar
+Android'li cep ve tabletlerdeki "USB hata ayıklama modu"nun ne olduğunu biliyor musunuz?
+Android'li bir cep veya tabletiniz varsa ve onunla bir miktar içli dışlı olduysanız "USB Debugging" veya "USB hata ayıklama" terimini duymuş olmalısınız. Bu seçenek sadece geliştiricilere özel gibi görünse de, aslında tüm kullanıcıların işine yarıyor.
+
+Bazı cihazlarda "Geliştirici modu" olarak da anılabilen "USB hata ayıklama modu" seçeneğinin asıl görevi, Android'li cihazınız ile Android yazılım geliştirme kiti (SDK) arasında bağlantı kurmak. Geliştiriciler, bilgisayarda geliştirdikleri uygulamaları telefonda denemek üzere USB hata ayıklama modundan faydalanırlar. Bu şekilde uygulamayı telefona aktarıp test ederler. Android SDK ile telefona direkt olarak erişip normalde yapamadığınız ekran görüntüsü alma, ADB ile terminal komutları çalıştırma gibi olanaklar da vardır.
+
+Bu modun normal kullanıcılara sunduğu ise cihaza daha yüksek bir seviyede müdahale etme şansı.
+
+USB hata ayıklama modu başka ne işe yarar?
+
+USB hata ayıklama modu ile örneğin "tuğla"ya dönüşmüş, yani açılmayan cihazınızı çeşitli komutlar yardımıyla tekrar hayata döndürmeniz mümkün olabilir. "Root" adı verilen işlev için de USB hata ayıklama modunu etkinleştirmeniz gerekmektedir. Herhangi bir root'lama uygulamasının sisteminizin derinliklerine ulaşması için bu modun etkin olması gerekir.
+
+Yani USB hata ayıklama modu geliştiricilere özel bir işlev olsa da, çalışabilmek için bu modun etkin olmasına ihtiyaç duyan bazı uygulamalarla karşılaşabilirsiniz.
+
+Diğer bilmeniz gerekenler
+
+USB hata ayıklama modundan sıkça faydalanmıyorsanız, onu sadece gerektiği zamanlarda etkinleştirmeniz daha iyi olacaktır. USB hata ayıklama moduna ihtiyaç duyabilen uygulamalar olsa da, bunların sayısı oldukça az.
+
+Bu arada söylememiz gereken bir şey daha var. Google, Android 4.2'den sonra USB hata ayıklama modu seçeneğini gizlemeyi tercih ediyor. Ancak onu görünür hale getirmeniz mümkün. Seçeneği tekrar görünür hale getirmek için aşağıdaki adımları izleyin:
+
+Ayarlar ekranını açın ve Hakkında'ya dokunun.
+
+Yapı numarası (Build number) alanını bulun ve üzerine 7 kez dokunun. Ekrana "Geliştirici olmanıza 4 adım kaldı" şeklinde bir mesaj gelecek. Aynı yere birkaç kez daha dokunun.
+
+USB hata ayıklama modu'nu görünür hale getirdiniz, artık tek yapmanız gereken onu etkinleştirmek.

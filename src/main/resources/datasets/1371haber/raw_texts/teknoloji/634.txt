@@ -1,0 +1,28 @@
+İnternette devrim gibi karar
+Bilgi Teknolojileri ve İletişim Kurumu (BTK) Başkanı Tayfun Acarer, elektrik hatları üzerinden elektronik haberleşme hizmeti sunulabilmesinin hukuki zeminini oluşturan bir düzenleme yaptıklarını bildirdi.
+Bu teknoloji sayesinde yüksek hızda internet, telefon, video erişim imkanları elektrik hatları üzerinden kullanıcılara sunulabiliyor.
+
+Acarer, yaptığı açıklamada, teknolojinin gelişmesi ile birlikte; fiber, bakır gibi altyapılar üzerinden sunulan elektronik haberleşme hizmetlerinin, elektrik hatları üzerinden de sunulabildiğini belirtti. Bu şekilde halen bina içindeki elektrik hatlarını kullanarak hizmet sunan bazı işletmecilerin olduğunu ifade eden Acarer, BTK'ya ulaşan talepleri dikkate alarak, elektrik hatları üzerinden elektronik haberleşme hizmetinin sunumuna yönelik bir düzenleme yaptıklarını kaydetti.
+
+BTK Kurul Kararı ile fiber, bakır gibi altyapılar üzerinden sunulmakta olan elektronik haberleşme hizmetlerinin, bu altyapılara ilaveten elektrik hatları üzerinden de sunulabileceği, bu durumda da söz konusu hizmeti sunacak olan şirketlerin Kurumumuzca yetkilendirilmesi gerektiğinin kararlaştırıldığını belirten Acarer, şunları söyledi:
+
+
+CİHAZLAR STANDARTLARA UYMALI
+
+Bu şekilde, Kurumumuzca yetkilendirilen işletmecilerin, alternatif bir altyapı olarak elektrik iletim/dağıtım hatlarını elektronik haberleşme hizmeti sunumunda kullanabilmelerinin hukuki zemini oluşturulmuştur. Ancak söz konusu hatlar üzerinden elektronik haberleşme hizmetinin kullanımında ihtiyaç duyulan cihazların Avrupa'da elektroteknik cihazların standartlarına, telekomünikasyon standartlarını belirleyen kuruluşların standartlarına veya TSE tarafından belirlenen standartlara uygun cihazlar olması gerekmektedir. Elektrik hatları üzerinden gerçekleştirilecek iletişim hizmetleri için bu standartlara uygun cihazlar kullanılması halinde cihazların kullandığı frekansların diğer cihazlar üzerinde girişim oluşturmaları engellenmiş olacağından, Kurumumuzca ayrıca bir frekans planlamasına ihtiyaç olmadığı değerlendirilmiştir.
+
+ "ALT YAPIYA DAYALI REKABETİ ARTIRACAK"
+
+Düzenleme ile ayrıca, elektronik haberleşme hizmetinin sunumunda kullanılan elektrik iletim/dağıtım hatlarını kuran veya işletenlerin bu hatları BTK tarafından yetkilendirilen işletmecilere kullandırmalarının yetkilendirmeye tabi olmadığı hususunun da açıklığa kavuşturulduğunu bildiren Acarer, Yapılan düzenleme ile elektronik haberleşme sektöründe alternatif platformların kullanılmasını sağlamak suretiyle altyapıya dayalı rekabetin geliştirilmesine ve böylece tüketici refahının artışına da katkı sağlanacağını düşünüyoruz dedi.
+
+ ELEKTRİK HATLARI ÜZERİNDEN İLETİŞİM
+
+Bu teknoloji sayesinde yüksek hızda internet, telefon, video erişim imkanları elektrik hatları üzerinden kullanıcılara sunuluyor. IP tabanlı her veri, elektrik kablosu üzerinde hızlı ve güvenilir bir şekilde taşınabiliniyor ve elektronik aletler birbirleri ile akıllı ağlar kurabiliyor. İnternet, telefon, IPTV, VoD, CCTV gibi birçok uygulama, bu sistemle ekstra kablolama gerektirmeden elektrik hatları üzerinden gerçekleştirilebiliyor.
+
+Elektrik hattı üzerinden iletişimde, internet, telefon, video erişimi, network kablolarına gerek olmadan, elektrik prizleri ve sayaçlara takılan özel cihazlar ile dağıtılıyor.
+
+ FİBER ÜZERİNDEN İLETİŞİME RAKİP OLMAKTAN ÇOK UZAK
+
+Uzmanlar, sistemin uygulanabilirliğinde mesafenin önemli olduğunu belirtiyor. Mesafe uzun olursa araya özel dağıtıcı cihazların konulması gerekiyor.
+
+Elektrik hatları üzerinden iletişimin, bugünkü haliyle fiber optik kablolarla sağlanan iletişime rakip olmaktan çok uzak gözüktüğünü ifade eden uzmanlar, elektrik hatları üzerinden iletişim hizmetlerinin, geniş fiber ağlarla donatılmış şehirlerden çok, hiç internet bağlantısı olmayan kırsal yerlerde düşük hızda internet hizmeti sağlamak için kullanılabileceğini belirtiyor.

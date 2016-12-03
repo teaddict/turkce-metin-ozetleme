@@ -1,0 +1,26 @@
+'Yandex ile olan rekabete olumlu bakıyoruz'
+Google Chrome’un baş mühendisi Wieland Holfelder, Türk gazetecilerle Google + üzerinden gerçekleştirilen Hangout (video konferansla) Chrome hakkında en merak edilen konuları aktardı. Holfinder, Yandex'in başlattıkları açık kaynaklı projeden doğduğunu ve kendilerinden faydalanmalarını memnuniyetle karşıladıklarını belirtti.
+ Teknoloji dünyasına sunulduğu dört yıl önce sunulan Google Chrome, bu kısa sürede internet tarayıcıları arasında kendisine güvenilir bir yer edinmeyi başardı. Güçlü güvenliği ile öne çıkan Chrome, adını sıkça bol para ödülü dağıttığı hacker yarışmalarıyla duyurdu.
+ Holfelder, rekabeti olumlu bir faktör olarak gördüklerini belirtirken, Türkiye piyasasında hızla büyüyen Yandex’in de kendi altyapılarını kullandığına dikkat çekti.
+ Holfelder, gazetecilerin sorularını almadan önce bir sunum yaparak Chrome’un özelliklerini ve amacını anlattı. Daha sonra gazetecilerin sorularını cevaplayan Holfinder, Chrome’un güvelik stratejisi hakkında ntvmsnbc’ye açıklama yaptı.
+ “ÇEKİRDEĞİMİZ EKİPLERDEN OLUŞUYOR”
+ Ben Chrome’un yazılım mühendisliği direktörü olarak görev yapıyorum. Bunun yanı sıra Avrupa ve Rusya’da önemli ekiplerimiz var. Münih’teki iletişim ekibi, gizlilik gibi konularla ilgileniyor. Moskova’da Chrome tabanlı işletim sistemleriyle, St. Petersburg’da ise geliştirici araçları üzerinde çalışan bir ekip var.
+ Chrome hayata geçeli sadece dört yıl oldu. Küresel olarak baktığınızda bu çok kısa bir süre. İnternetin geçirdiği evrimi gözden geçirdiğinizde, Chrome’un öncesindeki ve sonrasındaki dönem arasında önemli bir fark var.
+ “WINDOWS’A BAĞIMLIYDIK”
+ Chrome’un amacı, kullanıcılarımızın interneti daha hızlı, güvenli ve kaliteli bir şekilde tecrübe etmesi. İnternetin geçmişine bakarsanız, uygulamaların internetin hızına ve kendisine uyum çekmekte hep zorlandığını görürüz.
+ Dört yıl önce biz farklı bir tarayıcı sunmak ve tüm işlemlerin tek bir ekranda yapılabilmesini istedik. İnternet tarayıcısı, bilgisayarın birçok uygulamasından biriydi. E-mail atmak, bankacılık işlemleri gerçekleştirmek, alışveriş yapmak için başka uygulamalar kullanmak zorundaydınız.
+ CHROME NASIL BİR FARKLILIK GETİRDİ?
+ İnternetin ilk zamanlarında hepimiz Windows’un ilk versiyonu yüzünden zorluk çekiyorduk. Eğer bir uygulama çökerse, Windows’taki diğer uygulamalarda onunla beraber çöküyordu. Chrome, interneti daha kolay, daha hızlı, daha güvenli bir hale getirdi. İnternete nerede olursanız olun, her yerde bağlanma şansına eriştiniz.
+ Android, iOS, Linux, Windows gibi tüm işletim sistemlerinde çalışıyor. Tek bir Chrome sayfası üzerinde tüm işlemleri yapabiliyorsunuz. İnternette yer alan tüm uygulamaları çalıştırabiliyorsunuz.
+ CHROME’UN SUNDUĞU EN ÖNEMLİ FARK
+ En temel özellikler bizim için çok önemli. En önemli olan faktör hız. İnternet ilk hayata geçtiğinde bugüne kıyasla çok yavaştı.
+ İnternetin gelişmesi adına rekabetin iyi bir şey olduğunu düşünüyoruz. Sınırlarımızı zorlamaya çalışıyoruz. Java script motoru olsun, HTML5 içerikleri olsun, yazılım geliştiricilere yardımcı oluyoruz.
+ “REKABETİN ODAĞI HIZ”
+ Rakiplerimiz hız konusunda bize yetişmeye çalışıyor. V8 (JavaScript Engine) erişmek istediğiniz yere çok daha hızlı ulaşmanızı sağlıyor. Siz adresi yazdığınız esnada V8 sayfayla erişim kurmaya başlıyor. Siz adresin ismini yazarken Chrome adres ismini tamamlıyor.
+ Chrome’un sahip olduğu omnibox (adres çubuğu) yokken birçok çubukla uğraşmak zorunda kalıyordu. Arama çubuğu, URL çubuğu ayrı ayrı yer alıyordu. Şimdi omnibox’a adres girebilir veya arama yapabilirsiniz.
+ Hız gerçekten çok önemli. En hızlı tarayıcıya sahip olduğumuzdan emin olmak istiyoruz ve Münih’teki ekip bu öncelikten sorumlu.
+ CHROME ADIN NEREDEN GELİYOR?
+ Bu ad Chrome’un basitliğini ifade ediyor. Tarayıcımıza Chrome adı verdik çünkü o aslında Chrome’dan başka bir şey değil. Çok basit ve tasarımı basit... Chrome, her zaman rakiplerinden iyi olmaya ve daha basit olmaya çalışacak.
+ “EN BÜYÜK TEHDİT TARAYICILARDAKİ AÇIKLARDAN GELİYOR”
+ Holfelder, Chrome’un özelliklerini anlattığı kısa sunumda, belli başlıklar altında bilgi verirken, tarayıcı güvenliğinin önemini vurguladı:
+ ‘Güvenlik çok önemli bir husus. Bilgisayarlara yönelik en büyük tehdit tarayıcınızdan geliypor. Tarayıcı güvenliği hem sahip olduğunuz verilerin hem de internetin güvenliği için çok önemli. Güvenliğinizi delmek isteyen birçok hacker var. Chrome’un çok sayıdaki güvenlik içeriği bugüne kadar birçok şirket ve devlet kurumu tarafından kabul edildi.’

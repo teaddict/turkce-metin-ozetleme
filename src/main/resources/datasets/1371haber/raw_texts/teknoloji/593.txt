@@ -1,0 +1,5 @@
+Twitter karakter sayısı düştü!
+URL linki olan tweetlerde karakter sayısı düşürüldü. 
+Twitter hayatımıza ‘140 karakter’ olarak girmişti şimdi ise bu da düşüyor. Twitter t.co linkinde değişiklik yaparak URL’leri 20’den 22 karaktere, https URL’leri ise 21’den 23 karaktere yükseltti. 
+Artık 117 karakter! 
+Öte yandan URL paylaşılan tweetlerin karakter sayısı ise 117’ye düşürüldü. Bu değişikliğin kullanıcılardan ne tepki alacağı merak konusu.

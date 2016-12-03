@@ -1,0 +1,7 @@
+iPhone'da yüzbinlerce uygulama çöpe gidiyor
+Apple'ın mobil uygulama mağazası 2012'de daha da büyüdü; ancak uygulamaların yüzde 80'inden kimsenin haberi yok!
+İstatistik web sitesi Appsfire.com, yayınladığı kapsamlı infografikte Apple App Store'un 2012 yılıyla ilgili çarpıcı verileri gözler önüne serdi. Bilgiler arasında geliştirici sayısı, iPhone ve iPad uygulamalarının sayısı, yorum sayısı gibi veriler var. 
+
+Appsfire'a göre 2012'de yaklaşık 100 bin yeni geliştirici, 340 bin yeni uygulama yayınladılar. Siteye göre uygulamaların yüzde 66'sı ücretsiz; bu bizlere "freemium" modelinin App Store'da önem kazandığını gösteriyor. İstatistikler, App Store'a gönderilip onaylanan uygulamalarının yaklaşık çeyreğinin kısa bir süre sonra mağazadan kaldırıldığını gösteriyor.
+
+İnfografikteki en ilginç verilerden bir tanesi ise uygulamaların en büyük bölümünün, neredeyse hiç ilgi çekmeyen uygulamalardan oluşması. Appsfire'a göre kimselerin görmediği uygulamaların sayısı 600.000'den, tüm App Store'un yüzde 80'inden fazla. Bu durumun, App Store'daki bir soruna işaret ettiğini de düşünebiliriz. Zira kullanıcılar App Store'da genel olarak en çok indirilen 25 uygulamaya göz attığından binlerce uygulama gözden kaçıyor.

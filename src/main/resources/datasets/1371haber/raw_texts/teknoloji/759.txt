@@ -1,0 +1,24 @@
+Kendi kendini iyileştiren çipler geliştirildi
+Bozulan akıllı telefonunuzun veya bilgisayarınızın, ortaya çıkan problemi bir anda kendi başına gidermesi ve kendisini arızalara karşı koruması artık bilim kurgu senaryosu olmaktan çıktı.ABD'li bilimadamları, arızalanmaları halinde kendi kendilerini milisaniyeler içinde iyileştirme yeteneğine sahip çipler geliştirmeyi başardı.
+
+California Institute of Technology (Caltech) yüksekokulunun, Yüksek Hızlı Entegre Devreler Laboratuvarından araştırmacılar, kendi icatları olan, çok küçük boyutlardaki bir güç yükselteci üzerinde, yeni geliştirdikleri entegre devre çiplerin kendi kendilerini iyileştirme yeteneğini uygulamalı olarak gösterdi.
+
+Yaklaşık 5 kuruş büyüklüğünde olmasına karşın, içinde 76 adet çip ve kendi kendini iyileştirme yeteneği için gerekli olan her şeyi barındıran güç yükseltecini, yüksek güçlü lazerlerle birçok kez vuran araştırmacılar, çiplerin bir saniyeden daha kısa bir süre içinde otomatik olarak ince bir işçilik ortaya çıkardıklarını gözlemledi.
+
+Kendi kendini iyileştirme kapasitesine sahip çipi, 20 değişik çiple karşılaştıran araştırmacılar, ürettikleri çipin diğerlerinden daha az elektrik kullanmasına karşın, performansının bütünüyle diğerlerine göre çok daha güvenilir ve üretken olduğunu belirtti.
+
+Yapılan bilimsel çalışma, IEEE Transactions on Microwave Theory ve Tecniques aylık bilimsel derginin Mart sayısında yayımlandı.
+
+Araştırma ekibinin başı olan Elektrik Mühendisliği Profesörü Ali Hajimiri "Gerçekten de güç yükseltecinin yarısını havaya uçurduk, transistörlerde olduğu gibi pek çok birleşen parçasını buharlaştırdık ve çip kendi kendini, neredeyse ideal performansına erişecek ölçüde iyileştirdi" dedi.
+
+Hajimiri yaptığı açıklamada, "Bu çeşit elektronik bir bağışıklık sistemini entegre devre çiplere uyarlamak bir sürü olanaklara kapı açıyor. Bu, gerçekten de devrelere ve devrelerin bağımsız olarak çalışmasına bakışımızda köklü bir değişiklik getirecek. Bu sistemler şu an insan müdahalesine gerek olmadan kendi içindeki sorunu saptıyor ve kendi kendini düzelterek, bizi yok edilmesi mümkün olmaya devreler amacına bir adım daha yaklaştırıyor" ifadesini kullandı.
+
+Çipler nasıl çalışıyor
+
+Şimdiye kadar sadece bir tek hatanın bile tüm çipi tamamen kullanılmaz hale getirmesi sorununu çözmek için harekete geçen Caltech mühendisleri, insan bağışıklık sisteminin sahip olduğu, vücudun büyük bir bölümünü en üst seviyede çalışır tutabilmek için mümkün olan saldırıları belirleme ve çabucak müdahale etme yeteneğinden esinlendi.
+
+Sistem, genel hatlarıyla şöyle çalışıyor: İcat edilen güç yükseltecindeki çiplerden her birinin üzerinde bulunan, ısıyı, akımı, voltajı ve gücü izleyen çok sayıda dirençli algılayıcılardan elde edilen bilgi, yine aynı çip üzerindeki, sistemin beyni olarak çalışan ASIC adı verilen ana işlemciye aktarılıyor. ASIC adlı özel tasarım ürünü olan bu belirgin entegre devre birimi, gelen bilgiler ışığında güç yükseltecinin tüm verimini analiz ederek, sistemde, "işleticiler" olarak adlandırılan, çipin değiştirilebilir parçaları üzerinde ayarlama yapmaya gerek olup olmadığını belirliyor.
+
+Ancak ana işlemci görevindeki ASIC entegre devre birimi, oluşabilecek her senaryoya göre belirlenmiş algoritmalara göre çalışmıyor. ASIC bunun yerine, algılayıcılardan aldığı tüm bilgileri, kendisinden beklenen sonuçlara ilişkin kendisine yüklenen bilgilerle karşılaştırıyor ve sorunu nasıl çözeceğini kendi kendine belirliyor.
+
+Sistem, ortaya çıkması muhtemel 4 farklı gruptaki problemi çözebiliyor. Bu gruplar, "sistemin bileşen parçalarındaki farklılıklar sonucu ortaya çıkan, statik farklılık"; "sürekli kullanım sonucu sistemin iç özelliklerindeki meydana gelen değişikliklerden kaynaklanan, eskimeye bağlı olarak aşamalı ortaya çıkan problemler"; "şarj, ısı, sahip olduğu voltaj miktarındaki değişikliklere bağlı olarak ortaya çıkan, kısa dönemli farklılıklardan kaynaklanan problemler" ve son olarak "devre parçalarında kazayla veya kasten meydana gelen yıkıcı tahribata bağlı olarak çıkan problem" olarak sınıflandırılıyor.

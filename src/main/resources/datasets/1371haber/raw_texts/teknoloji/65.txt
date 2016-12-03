@@ -1,0 +1,14 @@
+Ona da Android 4.0.4 desteği geldi
+Samsung'un Galaxy Tab 7.7 model tabletine yeni Android sürümü geldi.
+Kullanıcılar Android 4.0.4 Ice Cream Sandwich sürümüne cihazlarını yükseltebiliyor. Peki bu sürümle birlikte ne değişecek?
+
+-Daha hızlı açılış
+-Arttırılmış tarayıcı performansı
+-Pil istatistiklerindeki yanılgıların düzeltilmesi
+-AutoRotate hızlandırıldı
+-Yeni kamera efektleri
+-Geliştirilmiş 3G / 4G geçişi
+-Yeni haberler ve hava durumu arayüzü
+-Multitouch geliştirmeleri 
+
+ 

@@ -1,0 +1,5 @@
+Apple'a patent şoku
+En önemli rakibi Samsung'a karşı birçok patent ihlali davası açan Apple, aynı sebepten dolayı suçlu bulundu. ABDde bir federal mahkeme, Appleı Virnet X yazılım firmasına 368 milyon dolar ödemeye mahkum etti.
+2010da Microsofta karşı açtığı patent davası sonucunda bu şirketle uzlaşarak 200 milyon dolar alan VirnetX, bu sefer de Applea açtığı davayı kazandı. Mahkeme, iPhone, iPad gibi ürünlerinde kullanılan FaceTime video-konuşma fonksiyonunun Virtual Private Network-Sanal Özel Ağ (VPN) teknolojisine ait patentleri ihlal ettiğini hükmetti.  
+VirnetX tarafından geliştirilen VPN teknolojisi sayesinde bir internet site sahibi müşterileriyle güvenli bir yoldan görüşebiliyor, ya da bir şirket çalışanı yaratılan özel bir ağ sayesinde güvenli şekilde evinden şirketin dosyalarına ulaşabiliyor.    
+Bu sene yaklaşık 36 bin dolar telif ücreti alan VirnetXin avukatı McKool Smith, Apple yıllarca patent hakkı ödemeyi reddetti diye konuştu. Appledan yapılan açıklamada ise şirketin patent ihlali yapmadığını ve kendi sistemlerini oluştururken başkalarının patentine ilgi duymadıklarını belirtti.

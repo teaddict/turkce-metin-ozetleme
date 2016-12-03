@@ -1,0 +1,287 @@
+I|12:12:47.151|Parser ready: 2806ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:12:47.569|Cache ready: 3245ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿NİLÜFER MEME KANSERİ 
+
+Pop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı. 25 Ekim'e ameliyat randevusu alan sanatçı, "Erken teşhisten dolayı kendimi şanslı hissediyorum" dedi.
+
+Çağımızın büyük hastalığı kanser, sanat dünyasının da korkulu rüyası oldu. Son dönemde kanser vakalarında büyük bir artış var. Akciğer kanseri olan ünlü yapımcılar Meral Okay ve Tomris Giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu Vahide Gördüm ve kolon kanseri nedeniyle önceki hafta ameliyat olan yönetmen Onur Ünlü'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu Nilüfer de göğüs kanseri olduğunu açıkladı.
+
+İki gün önce doktoru Meral Demirel'e yaptırdığı muayene sırasında kendisine kanal içi erken evre meme kanseri teşhisi konulduğunu belirten Nilüfer, KKTC'de vereceği konserini aniden iptal edince hastalığını açıklamak zorunda kaldı. Nilüfer, teşhisin ardından hemen doktoruyla ameliyat programı yaptı. Ailesinde meme kanseri vakası bulunmayan Nilüfer, 25 Ekim'e ameliyat randevusu aldı. Amerikan Hastanesi'ndeki ameliyatı sonrası tedavisine devam edecek olan Nilüfer, moralinin yerinde olduğunu belirtti.
+
+Sosyal paylaşım sitelerinden Nilüfer'e destek ve geçmiş olsun mesajları yağdı. Hastalığını kısa zamanda atlatacağına inanan ve güçlü duruşuyla sevenlerini mutlu eden Nilüfer'e sanat camiasından dostaları geçmiş olsun mesajları yayınladı.
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿nilüfer meme kanseri 
+
+pop müzik sanatçısı nilüfer göğüs kanseri açıkladı. 25 ekim'e ameliyat randevusu alan sanatçı, "erken teşhisten kendimi şanslı hissediyorum" dedi.
+
+çağımızın büyük hastalığı kanser, sanat dünyasının korkulu rüyası oldu. son dönemde kanser vakalarında büyük artış var. akciğer kanseri ünlü yapımcılar meral okay tomris giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu vahide gördüm kolon kanseri nedeniyle önceki hafta ameliyat yönetmen onur ünlü'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu nilüfer göğüs kanseri açıkladı.
+
+iki gün önce doktoru meral demirel'e yaptırdığı muayene sırasında kanal içi erken evre meme kanseri teşhisi konulduğunu belirten nilüfer, kktc'de vereceği konserini aniden iptal edince hastalığını açıklamak zorunda kaldı. nilüfer, teşhisin ardından hemen doktoruyla ameliyat programı yaptı. ailesinde meme kanseri vakası bulunmayan nilüfer, 25 ekim'e ameliyat randevusu aldı. amerikan hastanesi'ndeki ameliyatı sonrası tedavisine devam nilüfer, moralinin yerinde belirtti.
+
+sosyal paylaşım sitelerinden nilüfer'e destek geçmiş mesajları yağdı. hastalığını kısa zamanda atlatacağına inanan güçlü duruşuyla sevenlerini mutlu nilüfer'e sanat camiasından dostaları geçmiş mesajları yayınladı.
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿nilüfer meme kanseri 
+
+PARAGRAPH: pop müzik sanatçısı nilüfer göğüs kanseri açıkladı. 25 ekim'e ameliyat randevusu alan sanatçı, "erken teşhisten kendimi şanslı hissediyorum" dedi.
+
+PARAGRAPH: çağımızın büyük hastalığı kanser, sanat dünyasının korkulu rüyası oldu. son dönemde kanser vakalarında büyük artış var. akciğer kanseri ünlü yapımcılar meral okay tomris giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu vahide gördüm kolon kanseri nedeniyle önceki hafta ameliyat yönetmen onur ünlü'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu nilüfer göğüs kanseri açıkladı.
+
+PARAGRAPH: iki gün önce doktoru meral demirel'e yaptırdığı muayene sırasında kanal içi erken evre meme kanseri teşhisi konulduğunu belirten nilüfer, kktc'de vereceği konserini aniden iptal edince hastalığını açıklamak zorunda kaldı. nilüfer, teşhisin ardından hemen doktoruyla ameliyat programı yaptı. ailesinde meme kanseri vakası bulunmayan nilüfer, 25 ekim'e ameliyat randevusu aldı. amerikan hastanesi'ndeki ameliyatı sonrası tedavisine devam nilüfer, moralinin yerinde belirtti.
+
+PARAGRAPH: sosyal paylaşım sitelerinden nilüfer'e destek geçmiş mesajları yağdı. hastalığını kısa zamanda atlatacağına inanan güçlü duruşuyla sevenlerini mutlu nilüfer'e sanat camiasından dostaları geçmiş mesajları yayınladı.
+
+
+
+######Cümleler:######
+
+﻿nilüfer meme kanseri 
+
+pop müzik sanatçısı nilüfer göğüs kanseri açıkladı.
+25 ekim'e ameliyat randevusu alan sanatçı, "erken teşhisten kendimi şanslı hissediyorum" dedi.
+çağımızın büyük hastalığı kanser, sanat dünyasının korkulu rüyası oldu.
+son dönemde kanser vakalarında büyük artış var.
+akciğer kanseri ünlü yapımcılar meral okay tomris giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu vahide gördüm kolon kanseri nedeniyle önceki hafta ameliyat yönetmen onur ünlü'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu nilüfer göğüs kanseri açıkladı.
+iki gün önce doktoru meral demirel'e yaptırdığı muayene sırasında kanal içi erken evre meme kanseri teşhisi konulduğunu belirten nilüfer, kktc'de vereceği konserini aniden iptal edince hastalığını açıklamak zorunda kaldı.
+nilüfer, teşhisin ardından hemen doktoruyla ameliyat programı yaptı.
+ailesinde meme kanseri vakası bulunmayan nilüfer, 25 ekim'e ameliyat randevusu aldı.
+amerikan hastanesi'ndeki ameliyatı sonrası tedavisine devam nilüfer, moralinin yerinde belirtti.
+sosyal paylaşım sitelerinden nilüfer'e destek geçmiş mesajları yağdı.
+hastalığını kısa zamanda atlatacağına inanan güçlü duruşuyla sevenlerini mutlu nilüfer'e sanat camiasından dostaları geçmiş mesajları yayınladı.
+
+
+
+######Title######
+﻿nilüfer meme kanseri 
+
+
+######Nouns of text:######
+[Nilüfer, meme, kanser, müzik, sanat, Nilüfer, göğüs, kanser, ekim, ameliyat, randevu, ala, sanat, erke, teşhis, şans, çağ, büyük, hastalık, kanser, sanat, Dünya, korku, rüya, son, dönem, kanser, vaka, büyük, var, akciğer, kanser, ün, yapım, meral, göğüs, kanser, ün, oyun, vahit, kolon, kanser, neden, önce, haf, ameliyat, yönetmen, onur, ünlü, sonra, müzik, yaş, güç, yorum, Nilüfer, göğüs, kanser, gün, ön, doktor, meral, muayene, sıra, kanal, iç, erke, evre, meme, kanser, teşhis, belirten, Nilüfer, verecek, konser, anîde, iptal, edinç, hastalık, zor, Nilüfer, teşhis, art, doktor, ameliyat, program, aile, meme, kanser, vaka, Nilüfer, ekim, ameliyat, randevu, Amerika, hastane, ameliyat, sonra, tedavi, deva, Nilüfer, moral, yer, sosyal, paylaşım, site, Nilüfer, destek, geçmiş, mesaj, hastalık, kısa, zaman, güç, Mut, Nilüfer, sanat, camia, geçmiş, mesaj]
+I|12:12:48.895|Parser ready: 1229ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:12:48.975|Cache ready: 1309ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[açıklamak, almak, er, hissetmek, demek, olmak, varmak, yakalamak, görmek, açıklamak, yapmak, er, konmak, belirtmek, etmek, kalmak, yapmak, bulunmak, almak, belirtmek, geçmek, yağmak, kısmak, inanmak, geçmek, yayınlamak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 563
+All chain size: 367
+Unique Chains: 98
+Chain Puan Eşik değeri:17
+Chain Strength Eşik değeri:1.030612244897959
+Chain criterion değeri:4.705725255878963
+Strong Chains: 4
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+kanser
+synonymy
+incitmebeni
+9
+90
+8.0
+
+
+kanser
+related_with
+tıp
+ameliyat
+related_with
+tıp
+kanser
+related_with
+tıp
+kanser
+related_with
+tıp
+kanser
+related_with
+tıp
+kanser
+related_with
+tıp
+kanser
+related_with
+tıp
+ameliyat
+related_with
+tıp
+kanser
+related_with
+tıp
+muayene
+related_with
+tıp
+kanser
+related_with
+tıp
+ameliyat
+related_with
+tıp
+kanser
+related_with
+tıp
+ameliyat
+related_with
+tıp
+ameliyat
+related_with
+tıp
+15
+60
+12.0
+
+
+sanat
+yan_kavram
+zanaat
+sanat
+synonymy
+zanaat
+sanat
+yan_kavram
+zanaat
+sanat
+synonymy
+zanaat
+sanat
+yan_kavram
+zanaat
+sanat
+synonymy
+zanaat
+sanat
+yan_kavram
+zanaat
+sanat
+synonymy
+zanaat
+8
+56
+7.0
+
+
+güç
+state_of
+nitelik
+güç
+antonymy
+nitelik
+güç
+hypernymy
+nitelik
+güç
+state_of
+nitelik
+güç
+antonymy
+nitelik
+güç
+hypernymy
+nitelik
+6
+22
+5.0
+
+
+[0, 1, 2, 4]
+#############Heuristic1 OUTPUT############
+0 : Pop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı.
+1 : 25 Ekim'e ameliyat randevusu alan sanatçı, "Erken teşhisten dolayı kendimi şanslı hissediyorum" dedi.
+2 : Çağımızın büyük hastalığı kanser, sanat dünyasının da korkulu rüyası oldu.
+4 : Akciğer kanseri olan ünlü yapımcılar Meral Okay ve Tomris Giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu Vahide Gördüm ve kolon kanseri nedeniyle önceki hafta ameliyat olan yönetmen Onur Ünlü'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu Nilüfer de göğüs kanseri olduğunu açıkladı.
+representative
+[ameliyat, kanser]
+#############Heuristic2 OUTPUT############
+Pop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı.
+25 Ekim'e ameliyat randevusu alan sanatçı, "Erken teşhisten dolayı kendimi şanslı hissediyorum" dedi.
+Akciğer kanseri olan ünlü yapımcılar Meral Okay ve Tomris Giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu Vahide Gördüm ve kolon kanseri nedeniyle önceki hafta ameliyat olan yönetmen Onur Ünlü'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu Nilüfer de göğüs kanseri olduğunu açıkladı.
+Hastalığını kısa zamanda atlatacağına inanan ve güçlü duruşuyla sevenlerini mutlu eden Nilüfer'e sanat camiasından dostaları geçmiş olsun mesajları yayınladı.
+#############Heuristic3 OUTPUT############
+0 : Pop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı.
+1 : 25 Ekim'e ameliyat randevusu alan sanatçı, "Erken teşhisten dolayı kendimi şanslı hissediyorum" dedi.
+2 : Çağımızın büyük hastalığı kanser, sanat dünyasının da korkulu rüyası oldu.
+10 : Hastalığını kısa zamanda atlatacağına inanan ve güçlü duruşuyla sevenlerini mutlu eden Nilüfer'e sanat camiasından dostaları geçmiş olsun mesajları yayınladı.
+####################CLASS OF ORIGINAL TEXT################
+﻿NİLÜFER MEME KANSERİ 
+
+Pop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı. 25 Ekim'e ameliyat randevusu alan sanatçı, "Erken teşhisten dolayı kendimi şanslı hissediyorum" dedi.
+
+Çağımızın büyük hastalığı kanser, sanat dünyasının da korkulu rüyası oldu. Son dönemde kanser vakalarında büyük bir artış var. Akciğer kanseri olan ünlü yapımcılar Meral Okay ve Tomris Giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu Vahide Gördüm ve kolon kanseri nedeniyle önceki hafta ameliyat olan yönetmen Onur Ünlü'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu Nilüfer de göğüs kanseri olduğunu açıkladı.
+
+İki gün önce doktoru Meral Demirel'e yaptırdığı muayene sırasında kendisine kanal içi erken evre meme kanseri teşhisi konulduğunu belirten Nilüfer, KKTC'de vereceği konserini aniden iptal edince hastalığını açıklamak zorunda kaldı. Nilüfer, teşhisin ardından hemen doktoruyla ameliyat programı yaptı. Ailesinde meme kanseri vakası bulunmayan Nilüfer, 25 Ekim'e ameliyat randevusu aldı. Amerikan Hastanesi'ndeki ameliyatı sonrası tedavisine devam edecek olan Nilüfer, moralinin yerinde olduğunu belirtti.
+
+Sosyal paylaşım sitelerinden Nilüfer'e destek ve geçmiş olsun mesajları yağdı. Hastalığını kısa zamanda atlatacağına inanan ve güçlü duruşuyla sevenlerini mutlu eden Nilüfer'e sanat camiasından dostaları geçmiş olsun mesajları yayınladı.
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿NİLÜFER MEME KANSERİ \n\nPop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı. 25 Ekim\'e ameliyat randevusu alan sanatçı, \"Erken teşhisten dolayı kendimi şanslı hissediyorum\" dedi.\n\nÇağımızın büyük hastalığı kanser, sanat dünyasının da korkulu rüyası oldu. Son dönemde kanser vakalarında büyük bir artış var. Akciğer kanseri olan ünlü yapımcılar Meral Okay ve Tomris Giritlioğlu, göğüs kanserine yakalanan ünlü oyuncu Vahide Gördüm ve kolon kanseri nedeniyle önceki hafta ameliyat olan yönetmen Onur Ünlü\'den sonra, pop müziğin 56 yaşındaki güçlü yorumcusu Nilüfer de göğüs kanseri olduğunu açıkladı.\n\nİki gün önce doktoru Meral Demirel\'e yaptırdığı muayene sırasında kendisine kanal içi erken evre meme kanseri teşhisi konulduğunu belirten Nilüfer, KKTC\'de vereceği konserini aniden iptal edince hastalığını açıklamak zorunda kaldı. Nilüfer, teşhisin ardından hemen doktoruyla ameliyat programı yaptı. Ailesinde meme kanseri vakası bulunmayan Nilüfer, 25 Ekim\'e ameliyat randevusu aldı. Amerikan Hastanesi\'ndeki ameliyatı sonrası tedavisine devam edecek olan Nilüfer, moralinin yerinde olduğunu belirtti.\n\nSosyal paylaşım sitelerinden Nilüfer\'e destek ve geçmiş olsun mesajları yağdı. Hastalığını kısa zamanda atlatacağına inanan ve güçlü duruşuyla sevenlerini mutlu eden Nilüfer\'e sanat camiasından dostaları geçmiş olsun mesajları yayınladı.\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi
+###################CLASS OF SUMMARY#######################
+[0 : Pop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı., 1 : 25 Ekim'e ameliyat randevusu alan sanatçı, "Erken teşhisten dolayı kendimi şanslı hissediyorum" dedi., 2 : Çağımızın büyük hastalığı kanser, sanat dünyasının da korkulu rüyası oldu., 10 : Hastalığını kısa zamanda atlatacağına inanan ve güçlü duruşuyla sevenlerini mutlu eden Nilüfer'e sanat camiasından dostaları geçmiş olsun mesajları yayınladı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[0 : Pop müzik sanatçısı Nilüfer göğüs kanseri olduğunu açıkladı., 1 : 25 Ekim\'e ameliyat randevusu alan sanatçı, \"Erken teşhisten dolayı kendimi şanslı hissediyorum\" dedi., 2 : Çağımızın büyük hastalığı kanser, sanat dünyasının da korkulu rüyası oldu., 10 : Hastalığını kısa zamanda atlatacağına inanan ve güçlü duruşuyla sevenlerini mutlu eden Nilüfer\'e sanat camiasından dostaları geçmiş olsun mesajları yayınladı.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

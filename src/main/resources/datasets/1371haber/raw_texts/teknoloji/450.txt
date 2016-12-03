@@ -1,0 +1,6 @@
+Twitter'da 250 bin kullanıcının bilgisi çalındı
+Twitter, siber saldırıya uğradığını ve 250 bin kullanıcının bilgisinin "hacker"lar tarafından ele geçirilmiş olabileceğini bildirdi. Twitter yöneticileri, sitede hesabı bulunan 250 bin kişinin kullanıcı isimlerinin, şifrelerinin ve e-posta adreslerinin çalınmış olma ihtimali üzerine, şifreleri iptal edilen bu kullanıcıların durumdan haberdar edildiğini kaydetti.
+
+Sosyal paylaşım sitesinin enformasyon güvenliğinden sorumlu Bob Lord, saldırının "amatör işi" olmadığına işaret etti.
+
+Yakın zamanda New York Times ve Wall Street Journal gibi gazetelerin bilgisayar sistemleri de siber saldırıların hedefi olmuş, gazete yönetimleri saldırılardan Çin'deki "hacker"ları sorumlu tutmuştu.

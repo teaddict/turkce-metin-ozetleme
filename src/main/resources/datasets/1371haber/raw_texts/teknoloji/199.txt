@@ -1,0 +1,5 @@
+iPad için Yandex.Disk
+Yandex, iPad için özel olarak geliştirdiği Yandex.Disk uygulamasını kullanıma sundu. 
+Bundan böyle iPad sahipleri, bulut tabanlı bir servis olan Yandex.Disk’in sağladığı tüm olanaklardan istedikleri an, istedikleri yerden ve kullanışlı bir arayüzle yararlanabilecek. 
+Yeni uygulama sayesinde iPad kullanıcıları, Disk’e istedikleri dosyaları yükleyebilecek ve paylaşıma açabilecek. Örneğin iPad ile çektiği fotoğrafları anında Disk’e kaydedebilecek veya bir konserde çektiği bir videonun bağlantısını arkadaşlarına gönderebilecek. Uygulama aracılığıyla Disk’e yüklenen tüm dosya ve klasörler, tablet bilgisayara erişim olmadığında bile web arayüzü veya diğer Disk uygulamaları üzerinden erişilebilir olacak. 
+Haziran 2012’de Türkiye’deki kullanıcıların hizmetine sunulan Yandex.Disk’e bir web arayüzü üzerinden ve ayrıca Windows, OS X, iOS ve Android gibi farklı platformlar için geliştirilen uygulamalar aracılığıyla ulaşmak mümkün.

@@ -1,0 +1,344 @@
+I|12:12:26.888|Parser ready: 2449ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:12:27.449|Cache ready: 3029ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+Walter Isaacson'ın Steve Jobs biyografisi
+
+Ölümünün üzerinden henüz 3 hafta geçen Apple'ın kurucularından Steve Jobs'ın 630 sayfalık biyografisi yayınlandı. Walter Isaacson imzalı kitap Jobs'un bilinmeyen yönlerini anlatıyor. ABD'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı. Walter Isaacson tarafından kaleme alınan kitap daha yayımlanmadan çok sayıda sipariş almıştı.
+
+Yazar 630 sayfalık kitabında Jobs'un herkesin bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, ancak aynı zamanda mükemmelliyetçiliği yüzünden de zaman zaman meslektaşlarını ve dostlarını kırdığına" dikkat çekiyor. 
+
+Isaacson, kitabını hazırlarken Jobs ile yapılmış 40 söyleşinin yanı sıra aralarında Jobs'un aile yakınları, dostları ve çalışma arkadaşlarının bulunduğu 100 kadar kişiyle yaptığı görüşmelerden de yararlanmış. Isaacson kitabında, "Jobs bazen şeytanî tarafını gösterirdi. Karizmatik ve büyüleyici olabildiği gibi, yeri geldiğinde soğuk ve acımasız da olabiliyordu" diyor. Kitap, pazar günü Apple'ın online kitap mağazası iBooks'ta da satışa çıktı ve Amazon'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü. Kitap şu anda amazon.com'da en çok satanlar listesinde bir numaraya yükseldi ve  aynı zamanda e-kitap olarak da en çok satılanların başında geliyor.
+
+Sektör uzmanları, Jobs'un biyografisinin 2011'de en çok satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının da önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.
+
+Apple'ın kurucularından olan Steve Jobs, kansere yenilmiş ve 5 Ekim'de hayatını kaybetmişti. 56 yaşındaki Jobs, hastalığı nedeniyle, Ağustos ayında Apple'daki Yönetim Kurulu Başkanlığı görevinden ayrılmıştı. 
+
+
+  
+
+
+
+
+######Clean text file:######
+walter ısaacson'ın steve jobs biyografisi
+
+ölümünün üzerinden 3 hafta geçen apple'ın kurucularından steve jobs'ın 630 sayfalık biyografisi yayınlandı. walter ısaacson imzalı kitap jobs'un bilinmeyen yönlerini anlatıyor. abd'de pazartesi günü piyasaya çıkan kitap şimdiden satanlar listesinin zirvesine çıktı. walter ısaacson kaleme alınan kitap yayımlanmadan sayıda sipariş almıştı.
+
+yazar 630 sayfalık kitabında jobs'un bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, aynı zamanda mükemmelliyetçiliği yüzünden zaman zaman meslektaşlarını dostlarını kırdığına" dikkat çekiyor. 
+
+ısaacson, kitabını hazırlarken jobs yapılmış 40 söyleşinin yanı sıra aralarında jobs'un aile yakınları, dostları çalışma arkadaşlarının bulunduğu 100 kişiyle görüşmelerden yararlanmış. ısaacson kitabında, "jobs bazen şeytanî tarafını gösterirdi. karizmatik büyüleyici olabildiği gibi, yeri geldiğinde soğuk acımasız olabiliyordu" diyor. kitap, pazar günü apple'ın online kitap mağazası ibooks'ta satışa çıktı amazon'un e-kitap okuyucusu kindle dijital piyasaya sürüldü. kitap anda amazon.com'da satanlar listesinde numaraya yükseldi  aynı zamanda e-kitap satılanların başında geliyor.
+
+sektör uzmanları, jobs'un biyografisinin 2011'de satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.
+
+apple'ın kurucularından steve jobs, kansere yenilmiş 5 ekim'de hayatını kaybetmişti. 56 yaşındaki jobs, hastalığı nedeniyle, ağustos ayında apple'daki yönetim kurulu başkanlığı görevinden ayrılmıştı. 
+
+
+  
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: walter ısaacson'ın steve jobs biyografisi
+
+PARAGRAPH: ölümünün üzerinden 3 hafta geçen apple'ın kurucularından steve jobs'ın 630 sayfalık biyografisi yayınlandı. walter ısaacson imzalı kitap jobs'un bilinmeyen yönlerini anlatıyor. abd'de pazartesi günü piyasaya çıkan kitap şimdiden satanlar listesinin zirvesine çıktı. walter ısaacson kaleme alınan kitap yayımlanmadan sayıda sipariş almıştı.
+
+PARAGRAPH: yazar 630 sayfalık kitabında jobs'un bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, aynı zamanda mükemmelliyetçiliği yüzünden zaman zaman meslektaşlarını dostlarını kırdığına" dikkat çekiyor. 
+
+PARAGRAPH: ısaacson, kitabını hazırlarken jobs yapılmış 40 söyleşinin yanı sıra aralarında jobs'un aile yakınları, dostları çalışma arkadaşlarının bulunduğu 100 kişiyle görüşmelerden yararlanmış. ısaacson kitabında, "jobs bazen şeytanî tarafını gösterirdi. karizmatik büyüleyici olabildiği gibi, yeri geldiğinde soğuk acımasız olabiliyordu" diyor. kitap, pazar günü apple'ın online kitap mağazası ibooks'ta satışa çıktı amazon'un e-kitap okuyucusu kindle dijital piyasaya sürüldü. kitap anda amazon.com'da satanlar listesinde numaraya yükseldi  aynı zamanda e-kitap satılanların başında geliyor.
+
+PARAGRAPH: sektör uzmanları, jobs'un biyografisinin 2011'de satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.
+
+PARAGRAPH: apple'ın kurucularından steve jobs, kansere yenilmiş 5 ekim'de hayatını kaybetmişti. 56 yaşındaki jobs, hastalığı nedeniyle, ağustos ayında apple'daki yönetim kurulu başkanlığı görevinden ayrılmıştı. 
+
+PARAGRAPH:   
+
+
+
+######Cümleler:######
+
+walter ısaacson'ın steve jobs biyografisi
+
+ölümünün üzerinden 3 hafta geçen apple'ın kurucularından steve jobs'ın 630 sayfalık biyografisi yayınlandı.
+walter ısaacson imzalı kitap jobs'un bilinmeyen yönlerini anlatıyor.
+abd'de pazartesi günü piyasaya çıkan kitap şimdiden satanlar listesinin zirvesine çıktı.
+walter ısaacson kaleme alınan kitap yayımlanmadan sayıda sipariş almıştı.
+yazar 630 sayfalık kitabında jobs'un bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, aynı zamanda mükemmelliyetçiliği yüzünden zaman zaman meslektaşlarını dostlarını kırdığına" dikkat çekiyor.
+ısaacson, kitabını hazırlarken jobs yapılmış 40 söyleşinin yanı sıra aralarında jobs'un aile yakınları, dostları çalışma arkadaşlarının bulunduğu 100 kişiyle görüşmelerden yararlanmış.
+ısaacson kitabında, "jobs bazen şeytanî tarafını gösterirdi.
+karizmatik büyüleyici olabildiği gibi, yeri geldiğinde soğuk acımasız olabiliyordu" diyor.
+kitap, pazar günü apple'ın online kitap mağazası ibooks'ta satışa çıktı amazon'un e-kitap okuyucusu kindle dijital piyasaya sürüldü.
+kitap anda amazon.
+com'da satanlar listesinde numaraya yükseldi  aynı zamanda e-kitap satılanların başında geliyor.
+sektör uzmanları, jobs'un biyografisinin 2011'de satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.
+apple'ın kurucularından steve jobs, kansere yenilmiş 5 ekim'de hayatını kaybetmişti.
+56 yaşındaki jobs, hastalığı nedeniyle, ağustos ayında apple'daki yönetim kurulu başkanlığı görevinden ayrılmıştı.
+
+
+
+######Title######
+walter ısaacson'ın steve jobs biyografisi
+
+
+######Nouns of text:######
+[biyografi, ölüm, üzeri, haf, kuru, sayfa, biyografi, imza, kitap, yön, ABD, pazartesi, gün, piyasa, çıkan, kitap, şimdi, liste, zirve, çıktı, kalem, kitap, sayı, sipariş, yazar, sayfa, kitap, yön, öngörü, sahip, işadamı, hayat, fikir, dijital, çağ, yön, ayn, zaman, yüz, zaman, zaman, meslektaş, dost, dikkat, kitap, söyleşi, yan, sır, ara, aile, yakın, dost, arkadaş, kişi, görüşme, kitap, taraf, yer, soğuk, kitap, Pazar, gün, kitap, mağaza, satış, çıktı, amazon, dijital, piyasa, kitap, ant, liste, numara, ayn, zaman, baş, sektör, uzman, biyografi, de, kitap, kitap, dijital, versiyon, satış, ön, ay, için, kâğıt, Bask, satış, tahmin, kuru, kanser, ekim, hayat, yaş, hastalık, neden, ağustos, ayın, yönetim, kurul, başkan, görev]
+I|12:12:29.070|Parser ready: 1501ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:12:29.153|Cache ready: 1584ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[geçmek, yayınlamak, bilinmek, anlatmak, çıkmak, çıkmak, alınmak, yayımlamak, almak, yazmak, bilmek, anlatmak, geçirmek, çağmak, vermek, kırmak, çekmek, hazırlamak, yapmak, söyleşmek, çalışmak, bulunmak, yararlanmak, göstermek, büyülemek, olmak, gelmek, olmak, demek, çıkmak, sürülmek, yükselmek, gelmek, demek, satmak, beklemek, aymak, etmek, yemek, kaybetmek, ayrılmak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 530
+All chain size: 323
+Unique Chains: 93
+Chain Puan Eşik değeri:15
+Chain Strength Eşik değeri:0.5913978494623656
+Chain criterion değeri:2.82961063763573
+Strong Chains: 7
+yön
+hypernymy
+yer
+piyasa
+hypernymy
+yer
+kalem
+hypernymy
+yer
+yön
+hypernymy
+yer
+yön
+hypernymy
+yer
+taraf
+synonymy
+yer
+mağaza
+hypernymy
+yer
+piyasa
+hypernymy
+yer
+ön
+hypernymy
+yer
+ön
+antonymy
+yer
+10
+49
+4.0
+
+
+piyasa
+related_with
+ticaret
+satış
+related_with
+ticaret
+satış
+holo_part
+ticaret
+piyasa
+related_with
+ticaret
+satış
+related_with
+ticaret
+satış
+holo_part
+ticaret
+satış
+related_with
+ticaret
+satış
+holo_part
+ticaret
+8
+32
+6.0
+
+
+gün
+synonymy
+devir
+çağ
+synonymy
+devir
+zaman
+synonymy
+devir
+zaman
+synonymy
+devir
+zaman
+synonymy
+devir
+gün
+synonymy
+devir
+zaman
+synonymy
+devir
+7
+70
+4.0
+
+
+çağ
+synonymy
+dönem
+zaman
+synonymy
+dönem
+zaman
+synonymy
+dönem
+zaman
+synonymy
+dönem
+zaman
+synonymy
+dönem
+yaş
+holo_part
+dönem
+6
+54
+3.0
+
+
+zaman
+synonymy
+rüzgâr
+zaman
+synonymy
+rüzgâr
+zaman
+synonymy
+rüzgâr
+zaman
+synonymy
+rüzgâr
+4
+40
+3.0
+
+
+zaman
+related_with
+astronomi
+zaman
+related_with
+astronomi
+zaman
+related_with
+astronomi
+zaman
+related_with
+astronomi
+ay
+related_with
+astronomi
+5
+20
+3.0
+
+
+gün
+synonymy
+çağ
+zaman
+synonymy
+çağ
+zaman
+synonymy
+çağ
+zaman
+synonymy
+çağ
+gün
+synonymy
+çağ
+zaman
+synonymy
+çağ
+yaş
+synonymy
+çağ
+7
+70
+4.0
+
+
+[1, 2, 4, 9, 11, 12]
+#############Heuristic1 OUTPUT############
+1 : Walter Isaacson imzalı kitap Jobs'un bilinmeyen yönlerini anlatıyor.
+2 : ABD'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı.
+4 : Yazar 630 sayfalık kitabında Jobs'un herkesin bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, ancak aynı zamanda mükemmelliyetçiliği yüzünden de zaman zaman meslektaşlarını ve dostlarını kırdığına" dikkat çekiyor.
+9 : Kitap, pazar günü Apple'ın online kitap mağazası iBooks'ta da satışa çıktı ve Amazon'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü.
+11 : com'da en çok satanlar listesinde bir numaraya yükseldi ve  aynı zamanda e-kitap olarak da en çok satılanların başında geliyor.
+12 : Sektör uzmanları, Jobs'un biyografisinin 2011'de en çok satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının da önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.
+representative
+[piyasa, ön, yön, zaman, satış]
+#############Heuristic2 OUTPUT############
+Ölümünün üzerinden henüz 3 hafta geçen Apple'ın kurucularından Steve Jobs'ın 630 sayfalık biyografisi yayınlandı.
+ABD'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı.
+Kitap, pazar günü Apple'ın online kitap mağazası iBooks'ta da satışa çıktı ve Amazon'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü.
+56 yaşındaki Jobs, hastalığı nedeniyle, Ağustos ayında Apple'daki Yönetim Kurulu Başkanlığı görevinden ayrılmıştı.
+#############Heuristic3 OUTPUT############
+2 : ABD'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı.
+4 : Yazar 630 sayfalık kitabında Jobs'un herkesin bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, ancak aynı zamanda mükemmelliyetçiliği yüzünden de zaman zaman meslektaşlarını ve dostlarını kırdığına" dikkat çekiyor.
+7 : Isaacson kitabında, "Jobs bazen şeytanî tarafını gösterirdi.
+9 : Kitap, pazar günü Apple'ın online kitap mağazası iBooks'ta da satışa çıktı ve Amazon'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü.
+11 : com'da en çok satanlar listesinde bir numaraya yükseldi ve  aynı zamanda e-kitap olarak da en çok satılanların başında geliyor.
+12 : Sektör uzmanları, Jobs'un biyografisinin 2011'de en çok satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının da önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.
+14 : 56 yaşındaki Jobs, hastalığı nedeniyle, Ağustos ayında Apple'daki Yönetim Kurulu Başkanlığı görevinden ayrılmıştı.
+####################CLASS OF ORIGINAL TEXT################
+Walter Isaacson'ın Steve Jobs biyografisi
+
+Ölümünün üzerinden henüz 3 hafta geçen Apple'ın kurucularından Steve Jobs'ın 630 sayfalık biyografisi yayınlandı. Walter Isaacson imzalı kitap Jobs'un bilinmeyen yönlerini anlatıyor. ABD'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı. Walter Isaacson tarafından kaleme alınan kitap daha yayımlanmadan çok sayıda sipariş almıştı.
+
+Yazar 630 sayfalık kitabında Jobs'un herkesin bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, ancak aynı zamanda mükemmelliyetçiliği yüzünden de zaman zaman meslektaşlarını ve dostlarını kırdığına" dikkat çekiyor. 
+
+Isaacson, kitabını hazırlarken Jobs ile yapılmış 40 söyleşinin yanı sıra aralarında Jobs'un aile yakınları, dostları ve çalışma arkadaşlarının bulunduğu 100 kadar kişiyle yaptığı görüşmelerden de yararlanmış. Isaacson kitabında, "Jobs bazen şeytanî tarafını gösterirdi. Karizmatik ve büyüleyici olabildiği gibi, yeri geldiğinde soğuk ve acımasız da olabiliyordu" diyor. Kitap, pazar günü Apple'ın online kitap mağazası iBooks'ta da satışa çıktı ve Amazon'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü. Kitap şu anda amazon.com'da en çok satanlar listesinde bir numaraya yükseldi ve  aynı zamanda e-kitap olarak da en çok satılanların başında geliyor.
+
+Sektör uzmanları, Jobs'un biyografisinin 2011'de en çok satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının da önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.
+
+Apple'ın kurucularından olan Steve Jobs, kansere yenilmiş ve 5 Ekim'de hayatını kaybetmişti. 56 yaşındaki Jobs, hastalığı nedeniyle, Ağustos ayında Apple'daki Yönetim Kurulu Başkanlığı görevinden ayrılmıştı. 
+
+
+  
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'Walter Isaacson\'ın Steve Jobs biyografisi\n\nÖlümünün üzerinden henüz 3 hafta geçen Apple\'ın kurucularından Steve Jobs\'ın 630 sayfalık biyografisi yayınlandı. Walter Isaacson imzalı kitap Jobs\'un bilinmeyen yönlerini anlatıyor. ABD\'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı. Walter Isaacson tarafından kaleme alınan kitap daha yayımlanmadan çok sayıda sipariş almıştı.\n\nYazar 630 sayfalık kitabında Jobs\'un herkesin bilmediği yönlerini anlatırken \"öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, ancak aynı zamanda mükemmelliyetçiliği yüzünden de zaman zaman meslektaşlarını ve dostlarını kırdığına\" dikkat çekiyor. \n\nIsaacson, kitabını hazırlarken Jobs ile yapılmış 40 söyleşinin yanı sıra aralarında Jobs\'un aile yakınları, dostları ve çalışma arkadaşlarının bulunduğu 100 kadar kişiyle yaptığı görüşmelerden de yararlanmış. Isaacson kitabında, \"Jobs bazen şeytanî tarafını gösterirdi. Karizmatik ve büyüleyici olabildiği gibi, yeri geldiğinde soğuk ve acımasız da olabiliyordu\" diyor. Kitap, pazar günü Apple\'ın online kitap mağazası iBooks\'ta da satışa çıktı ve Amazon\'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü. Kitap şu anda amazon.com\'da en çok satanlar listesinde bir numaraya yükseldi ve  aynı zamanda e-kitap olarak da en çok satılanların başında geliyor.\n\nSektör uzmanları, Jobs\'un biyografisinin 2011\'de en çok satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının da önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor.\n\nApple\'ın kurucularından olan Steve Jobs, kansere yenilmiş ve 5 Ekim\'de hayatını kaybetmişti. 56 yaşındaki Jobs, hastalığı nedeniyle, Ağustos ayında Apple\'daki Yönetim Kurulu Başkanlığı görevinden ayrılmıştı. \n\n\n  \n\n'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji
+###################CLASS OF SUMMARY#######################
+[2 : ABD'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı., 4 : Yazar 630 sayfalık kitabında Jobs'un herkesin bilmediği yönlerini anlatırken "öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, ancak aynı zamanda mükemmelliyetçiliği yüzünden de zaman zaman meslektaşlarını ve dostlarını kırdığına" dikkat çekiyor., 7 : Isaacson kitabında, "Jobs bazen şeytanî tarafını gösterirdi., 9 : Kitap, pazar günü Apple'ın online kitap mağazası iBooks'ta da satışa çıktı ve Amazon'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü., 11 : com'da en çok satanlar listesinde bir numaraya yükseldi ve  aynı zamanda e-kitap olarak da en çok satılanların başında geliyor., 12 : Sektör uzmanları, Jobs'un biyografisinin 2011'de en çok satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının da önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor., 14 : 56 yaşındaki Jobs, hastalığı nedeniyle, Ağustos ayında Apple'daki Yönetim Kurulu Başkanlığı görevinden ayrılmıştı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[2 : ABD\'de pazartesi günü piyasaya çıkan kitap şimdiden en çok satanlar listesinin zirvesine çıktı., 4 : Yazar 630 sayfalık kitabında Jobs\'un herkesin bilmediği yönlerini anlatırken \"öngörü sahibi işadamının hayata geçirdiği fikirleriyle dijital çağa yön verdiğini, ancak aynı zamanda mükemmelliyetçiliği yüzünden de zaman zaman meslektaşlarını ve dostlarını kırdığına\" dikkat çekiyor., 7 : Isaacson kitabında, \"Jobs bazen şeytanî tarafını gösterirdi., 9 : Kitap, pazar günü Apple\'ın online kitap mağazası iBooks\'ta da satışa çıktı ve Amazon\'un e-kitap okuyucusu Kindle için de dijital olarak piyasaya sürüldü., 11 : com\'da en çok satanlar listesinde bir numaraya yükseldi ve  aynı zamanda e-kitap olarak da en çok satılanların başında geliyor., 12 : Sektör uzmanları, Jobs\'un biyografisinin 2011\'de en çok satan kitap olmasını beklediklerini, kitabın dijital versiyonunun satışlarının da önümüzdeki 6 ay içinde kağıt baskı satışlarını geçeceğini tahmin ediyor., 14 : 56 yaşındaki Jobs, hastalığı nedeniyle, Ağustos ayında Apple\'daki Yönetim Kurulu Başkanlığı görevinden ayrılmıştı.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

@@ -1,0 +1,9 @@
+Akciğer kanserini tespit eden yazılım geliştirildi 
+
+Mitsubishi Uzay Yazılım Şirketi, akciğer kanserini tespit edebilen bir yazılım geliştirdiklerini açıkladı. 
+
+800 akciğer hastasına ait bilgilerin bulunduğu bir veri tabanını kullanan yazılımın, Kyusu Üniversitesi ile Japon Çevre Sağlığı Üniversitesi tarafından ortaklaşa geliştirildiği öğrenildi. 
+Yazılım, 5 milimetre kadar küçük işaretleri röntgen üzerinden okuyabiliyor. Eğer röntgenlerde herhangi bir bulgu tespit ederse, doktorların daha yakından bakıp incelemesi ve kesin bir sonuca varması için bunu bir ok ile tam olarak işaret ediyor. 
+
+
+

@@ -1,0 +1,11 @@
+Artık Twitter'dan alışveriş yapılacak!
+Amerika'da bir kredi kartı twitter üzerinden alışveriş yapma imkanı sunuyor.
+Amerikan kredi kartı American Express (AmEx), sosyal paylaşım sitesi Twitter üzerinden alışveriş yapma olanağı sunan yeni bir uygulama başlattı.
+
+Yeni uygulamayla kredi kartı bilgilerini Twitter hesaplarına entegre eden AmEx kullanıcıları, satın almak istedikleri ürüne dair anahtar kelime içeren bir tweet atarak alışveriş yapabiliyor.
+
+Kullanıcıların AmEx kredi kartlarıyla Twitter üzerinden alışveriş yapabilmeleri için https://sync.americanexpress.com/ adresinden hesap bilgilerini Twitter hesaplarıyla eşleştirmesi gerekiyor.
+
+Hesap bilgilerinin eşleştirilmesinden sonra, kullanıcı satın almak istediği ürünle ilgili anahtar kelimeyi içeren bir tweet gönderiyor. Alışveriş, kullanıcının 15 dakika içinde onay tweeti atmasıyla tamamlanmış oluyor.
+
+Bu uygulamayla sosyal ağların sosyal ticarette de etkin kullanılabileceği ifade ediliyor.

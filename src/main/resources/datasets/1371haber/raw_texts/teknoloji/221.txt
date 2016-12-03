@@ -1,0 +1,10 @@
+İki günde rekor indirme
+Harita uygulaması Google Maps, 2 günde 10 milyon kez indirildi. Arama motoru Google'ın mühendislikten sorumlu başkan yardımcısı Jeff Huber, Google isimli sosyal paylaşım grubunda yayımladığı mesajda, Cuma günü
+piyasaya çıkan uygulamanın 48 saatte, 10 milyon kez indirildiğini bildirdi.
+
+Daha önce, İOS işletim sistemli cihazlara entegre olarak gelen Google Maps uygulaması, Apple tarafından işletim sisteminden çıkarılmış ve kendi harita
+uygulaması Apple Maps'i cihazlarına entegre etmişti.
+
+Bunun üzerine Google ise İOS kullanıcıları için Google Maps uygulaması geliştireceğini dile getirmiş, gelen tepkiler sonucu Apple, Google Maps'in yeniden İOS'da kullanılabileceğini duyurmuştu.
+
+Uygulama, İOS 5.1 üzeri cihazlarda kullanıma sunulmuş durumda.

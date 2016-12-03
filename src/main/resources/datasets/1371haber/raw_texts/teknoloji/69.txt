@@ -1,0 +1,8 @@
+Binlerce hesap resetlendi
+Twitter güvenlik nedeniyle gerçekleştirdiği şifre sıfırlama uygulamasında, gereğinden fazla kullanıcının şifresini resetledi.Twitter, hackerlar tarafından ele geçirildiği düşünülen bazı hesapların şifrelerinin değiştirilmesi gerektiği yönündeki uyarı mesajlarının ardından şifre resetleme işlemlerine başladı. Ancak yanlışlıkla gereğinden fazla şifreyi resetledi. 
+
+Bunun üzerine Twitterdan, "İstemeyerek, tehlike altında olduğunu düşündüğümüz hesaplardan daha fazlasının şifresini resetledik. Neden olduğumuz tüm sıkıntı ve karışıklık için özür dileriz şeklinde bir açıklama metni geldi.
+
+Ancak bazı durumlarda Twitter'ın şifre resetlemesi de hesapları kurtarmaya yetmiyor. Örneğin hacklenen Twitter hesabının şifresini değiştiren kişi aynı şekilde Twitter'a bağlı e-posta adresini değiştirdiğinde şifre resetlense bile bir işe yaramıyor. 
+
+Twitter özellikle takipçi sayısı fazla olan hesaplara öncelik vererek resetleme işlemi yaptı. Şifresi resetlenen Twitter hesaplarından biri de BBC'ye ait bir hesaptı.

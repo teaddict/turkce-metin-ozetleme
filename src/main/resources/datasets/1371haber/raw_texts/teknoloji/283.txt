@@ -1,0 +1,11 @@
+Masaüstü arka plan resmi bilgisayarı yavaşlatıyor
+Uzmanlar başta virüsler olmak üzere, gereksiz dosya ve sonradan eklenen masaüstü arka plan resimlerinin bilgisayar performansını düşüreceğine dikkat çekiyor.
+Bilgisayarının yavaş çalışması birçok kişinin yakındığı sıkıntıların başında gelir. Bunun da işlerini yavaşlattığı ve kendisini sıkıntıya soktuğundan yakınır. Bu duruma ise birçok neden sebep olabilir. Tüm bu sorunların nedenlerini araştıran uzmanlar aynı zamanda kullanıcılara bu durumun püf noktalarını sunmakta.
+
+Bilgisayarın zaman içinde yüklenen programlar ve arşivlenen dosyalar nedeniyle yavaş işlem yapabileceğini belirten uzmanlar, buna virüslerin de neden olabileceğini belirtiyor. Uzmanlar ayrıca bilgisayara eklenen casus programların da performansı oldukça düşüreceğini kaydediyor.
+
+Bilgisayar arızalarına yerinde çözümler üreten Pratik Servis Teknik Destek Uzmanı Mustafa Akbıyık, bu yönde sıkıntısı olanlara bilgisayarın performansını arttırmanın püf noktalarını anlattı.
+
+Bilgisayara gereksiz programlar kurulmaması uyarısında bulunan Akbıyık, şu uyarılarda bulundu: "Kullanmadığınız programları bilgisayarınızdan kaldırın. Çünkü bilgisayarda oluşturulan dosyalarda yapılan değişiklikler, sabit diskte asıl dosyanın konumundan farklı bir alanda depolanır. Bu işlemler diskte zamanla parçalanmalara neden olup, bilgisayarı yavaşlatır."
+
+Parçalanmış dosyaları birleştirmek için disk birleştiricisi kullanımını tavsiye eden Akbıyık, "İşletim sisteminin yer aldığı diskin boyutunu küçük tutun ve bu bölüme başka yüklemeler yapmamaya dikkat edin. Bilgisayarınızdaki programların ayarlarını yapmaya özen gösterin, bilgisayarınızı açarken programların otomatik çalışmasını önleyin. Masaüstü arka planında resimler kullanmayın, düz renkleri tercih edin. Geçici dosyaları, internet geçmişini ve çerezleri sık aralıklarla sisteminizden silin. Mutlaka anti-virüs programı kullanın." şeklinde uyarılarda bulundu.

@@ -1,0 +1,263 @@
+I|12:08:57.925|Parser ready: 2726ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:08:58.842|Cache ready: 3662ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Almanya'nın iade ettiği PKK'lı için ömür boyu hapis istendi
+
+BİNGÖL'ün kırsal kesiminde katıldığı bazı silahlı eylemlerden dolayı interpol tarafından kırmızı bültenle aranırken Almanya'da yakalanıp Türkiye'ye iade edilen PKK'lı Mehmet İltaş hakkında ömür boyu hapis cezası istendi.
+
+Almanya'da yakalandıktan sonra 19 Eylül 2007 tarihinde Türkiye'ye iade edilen PKK'lı Mehmet İltaş'ın yargılanmasına Diyarbakır 5'inci Ağır Ceza Mahkemesi'nde devam edildi. İltaş'ın getirilmediği duruşmada avukatı hazır bulundu. Savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, Mehmet İltaş'ın 1990 yılında Bingöl'ün Genç İlçesi'nde terör örgütü PKK'nın ilçe komitesini kurduğu ve bu komiteye başkanlık ederek örgüten aldığı talimatları yerine getirdiği, ardından kendisine bağlı komiteyi toplayıp eylem kararı aldığı belirtildi. Bu karar doğrultusunda 14 Ağustos 1991 tarihinde Genç İlçe Jandarma Komando Birliği, Kültür Müdürlüğü binası ve Adliye lojmanlarına silahlı saldırı eylemine katıldığı bildirildi.
+
+Savcı, Mehmet İltaş'ın başkanlık ettiği komitenin ilerleyen günlerde ilçede koruculuk yapan sanıklara yönelik eylem kararı aldıklarını, 16 Haziran 1992 tarihinde Genç İlçesi Ardıçdibi Köyü Kerkülük Mezrası yakınlarında içerisinde korucuların bulunduğu minibüsü durdurup beraberindeki grupla birlikte silahla taradığı, bu olayda aralarında korucuların da bulunduğu 8 kişinin öldüğü, 4 kişinin yaralandığı, sanık Mehmet İltaş'ın eylemde kullandığı silahı daha sonra eylem sorumlusu Yılmaz kod adlı PKK'lıya teslim ettiği vurgulandı.Sanık avukatı, savcının esas hakkındaki görüşüne karşı savunmalarını hazırlamaları için kendilerine süre verilmesini istedi. Mahkeme, sanık ve avukatına son savunmalarını yapmaları için süre verilmesine karar verip duruşmayı erteledi.
+
+
+
+######Clean text file:######
+﻿almanya'nın iade pkk'lı ömür boyu hapis istendi
+
+bingöl'ün kırsal kesiminde katıldığı silahlı eylemlerden interpol kırmızı bültenle aranırken almanya'da yakalanıp türkiye'ye iade edilen pkk'lı mehmet iltaş hakkında ömür boyu hapis cezası istendi.
+
+almanya'da yakalandıktan sonra 19 eylül 2007 tarihinde türkiye'ye iade edilen pkk'lı mehmet iltaş'ın yargılanmasına diyarbakır 5'inci ağır ceza mahkemesi'nde devam edildi. iltaş'ın getirilmediği duruşmada avukatı hazır bulundu. savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, mehmet iltaş'ın 1990 yılında bingöl'ün genç ilçesi'nde terör örgütü pkk'nın ilçe komitesini kurduğu komiteye başkanlık örgüten aldığı talimatları getirdiği, ardından bağlı komiteyi toplayıp eylem kararı aldığı belirtildi. karar doğrultusunda 14 ağustos 1991 tarihinde genç ilçe jandarma komando birliği, kültür müdürlüğü binası adliye lojmanlarına silahlı saldırı eylemine katıldığı bildirildi.
+
+savcı, mehmet iltaş'ın başkanlık komitenin ilerleyen günlerde ilçede koruculuk yapan sanıklara yönelik eylem kararı aldıklarını, 16 haziran 1992 tarihinde genç ilçesi ardıçdibi köyü kerkülük mezrası yakınlarında içerisinde korucuların bulunduğu minibüsü durdurup beraberindeki grupla birlikte silahla taradığı, olayda aralarında korucuların bulunduğu 8 kişinin öldüğü, 4 kişinin yaralandığı, sanık mehmet iltaş'ın eylemde kullandığı silahı sonra eylem sorumlusu yılmaz kod adlı pkk'lıya teslim vurgulandı.sanık avukatı, savcının esas hakkındaki görüşüne karşı savunmalarını hazırlamaları süre verilmesini istedi. mahkeme, sanık avukatına son savunmalarını yapmaları süre verilmesine karar verip duruşmayı erteledi.
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿almanya'nın iade pkk'lı ömür boyu hapis istendi
+
+PARAGRAPH: bingöl'ün kırsal kesiminde katıldığı silahlı eylemlerden interpol kırmızı bültenle aranırken almanya'da yakalanıp türkiye'ye iade edilen pkk'lı mehmet iltaş hakkında ömür boyu hapis cezası istendi.
+
+PARAGRAPH: almanya'da yakalandıktan sonra 19 eylül 2007 tarihinde türkiye'ye iade edilen pkk'lı mehmet iltaş'ın yargılanmasına diyarbakır 5'inci ağır ceza mahkemesi'nde devam edildi. iltaş'ın getirilmediği duruşmada avukatı hazır bulundu. savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, mehmet iltaş'ın 1990 yılında bingöl'ün genç ilçesi'nde terör örgütü pkk'nın ilçe komitesini kurduğu komiteye başkanlık örgüten aldığı talimatları getirdiği, ardından bağlı komiteyi toplayıp eylem kararı aldığı belirtildi. karar doğrultusunda 14 ağustos 1991 tarihinde genç ilçe jandarma komando birliği, kültür müdürlüğü binası adliye lojmanlarına silahlı saldırı eylemine katıldığı bildirildi.
+
+PARAGRAPH: savcı, mehmet iltaş'ın başkanlık komitenin ilerleyen günlerde ilçede koruculuk yapan sanıklara yönelik eylem kararı aldıklarını, 16 haziran 1992 tarihinde genç ilçesi ardıçdibi köyü kerkülük mezrası yakınlarında içerisinde korucuların bulunduğu minibüsü durdurup beraberindeki grupla birlikte silahla taradığı, olayda aralarında korucuların bulunduğu 8 kişinin öldüğü, 4 kişinin yaralandığı, sanık mehmet iltaş'ın eylemde kullandığı silahı sonra eylem sorumlusu yılmaz kod adlı pkk'lıya teslim vurgulandı.sanık avukatı, savcının esas hakkındaki görüşüne karşı savunmalarını hazırlamaları süre verilmesini istedi. mahkeme, sanık avukatına son savunmalarını yapmaları süre verilmesine karar verip duruşmayı erteledi.
+
+
+
+######Cümleler:######
+
+﻿almanya'nın iade pkk'lı ömür boyu hapis istendi
+
+bingöl'ün kırsal kesiminde katıldığı silahlı eylemlerden interpol kırmızı bültenle aranırken almanya'da yakalanıp türkiye'ye iade edilen pkk'lı mehmet iltaş hakkında ömür boyu hapis cezası istendi.
+almanya'da yakalandıktan sonra 19 eylül 2007 tarihinde türkiye'ye iade edilen pkk'lı mehmet iltaş'ın yargılanmasına diyarbakır 5'inci ağır ceza mahkemesi'nde devam edildi.
+iltaş'ın getirilmediği duruşmada avukatı hazır bulundu.
+savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, mehmet iltaş'ın 1990 yılında bingöl'ün genç ilçesi'nde terör örgütü pkk'nın ilçe komitesini kurduğu komiteye başkanlık örgüten aldığı talimatları getirdiği, ardından bağlı komiteyi toplayıp eylem kararı aldığı belirtildi.
+karar doğrultusunda 14 ağustos 1991 tarihinde genç ilçe jandarma komando birliği, kültür müdürlüğü binası adliye lojmanlarına silahlı saldırı eylemine katıldığı bildirildi.
+savcı, mehmet iltaş'ın başkanlık komitenin ilerleyen günlerde ilçede koruculuk yapan sanıklara yönelik eylem kararı aldıklarını, 16 haziran 1992 tarihinde genç ilçesi ardıçdibi köyü kerkülük mezrası yakınlarında içerisinde korucuların bulunduğu minibüsü durdurup beraberindeki grupla birlikte silahla taradığı, olayda aralarında korucuların bulunduğu 8 kişinin öldüğü, 4 kişinin yaralandığı, sanık mehmet iltaş'ın eylemde kullandığı silahı sonra eylem sorumlusu yılmaz kod adlı pkk'lıya teslim vurgulandı.
+sanık avukatı, savcının esas hakkındaki görüşüne karşı savunmalarını hazırlamaları süre verilmesini istedi.
+mahkeme, sanık avukatına son savunmalarını yapmaları süre verilmesine karar verip duruşmayı erteledi.
+
+
+
+######Title######
+﻿almanya'nın iade pkk'lı ömür boyu hapis istendi
+
+
+######Nouns of text:######
+[Almanya, iade, ömür, boy, hapis, Bingöl, kır, kesim, silâh, eylem, kırmız, bülten, Almanya, Türkiye, iade, hak, ömür, boy, hapis, ceza, Almanya, sonra, eylül, tarihî, Türkiye, iade, Diyarbakır, in, ağır, ceza, mahkeme, deva, duruşma, avukat, sav, dava, ilişki, esas, hak, görüş, yıl, Bingöl, genç, ilçe, terör, örgüt, ilçe, komite, komite, başkan, talimat, art, bağ, komite, eylem, karar, karar, doğrultu, ağustos, tarihî, genç, ilçe, jandarma, komando, birlik, kültür, müdür, bina, adli, lojman, silâh, saldırı, eylem, sav, başkan, komite, gün, ilçe, korucu, sanık, eylem, karar, haziran, tarihî, genç, ilçe, köy, mezra, yakın, içeri, korucu, minibüs, beraber, grup, birlik, silâh, olay, ara, korucu, kişi, kişi, sanık, eylem, silâh, sonra, eylem, sorumlu, kod, ad, teslim, avukat, savcı, esas, hak, görüş, karşı, savunma, süre, mahkeme, sanık, avukat, son, savunma, süre, karar, duruşma]
+I|12:09:01.202|Parser ready: 2191ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:09:01.286|Cache ready: 2276ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[istemek, katılmak, aranmak, yakalamak, etmek, istemek, etmek, etmek, getirmek, bulunmak, açıklamak, kurmak, almak, getirmek, toplamak, almak, belirtmek, karmak, katılmak, bildirmek, ilerlemek, yapmak, almak, bulunmak, durdurmak, gruplamak, silâhlamak, taramak, bulunmak, ölmek, yaralamak, kullanmak, yılmak, görüşmek, sürmek, istemek, sürmek, karmak, vermek, ertelemek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 667
+All chain size: 300
+Unique Chains: 86
+Chain Puan Eşik değeri:18
+Chain Strength Eşik değeri:1.2209302325581395
+Chain criterion değeri:6.515957849946185
+Strong Chains: 2
+ceza
+related_with
+hukuk
+ceza
+related_with
+hukuk
+mahkeme
+related_with
+hukuk
+mahkeme
+hypernymy
+hukuk
+duruşma
+hypernymy
+hukuk
+duruşma
+related_with
+hukuk
+avukat
+hypernymy
+hukuk
+avukat
+related_with
+hukuk
+avukat
+holo_member
+hukuk
+dava
+related_with
+hukuk
+karar
+related_with
+hukuk
+karar
+related_with
+hukuk
+adli
+related_with
+hukuk
+sanık
+related_with
+hukuk
+karar
+related_with
+hukuk
+sanık
+related_with
+hukuk
+sanık
+related_with
+hukuk
+avukat
+hypernymy
+hukuk
+avukat
+related_with
+hukuk
+avukat
+holo_member
+hukuk
+savcı
+related_with
+hukuk
+mahkeme
+related_with
+hukuk
+mahkeme
+hypernymy
+hukuk
+sanık
+related_with
+hukuk
+avukat
+hypernymy
+hukuk
+avukat
+related_with
+hukuk
+avukat
+holo_member
+hukuk
+karar
+related_with
+hukuk
+duruşma
+hypernymy
+hukuk
+duruşma
+related_with
+hukuk
+30
+120
+21.0
+
+
+hapis
+hypernymy
+kişi
+avukat
+hypernymy
+kişi
+başkan
+hypernymy
+kişi
+jandarma
+hypernymy
+kişi
+başkan
+hypernymy
+kişi
+sanık
+hypernymy
+kişi
+kişi
+hypernymy
+kişi
+kişi
+hypernymy
+kişi
+sanık
+hypernymy
+kişi
+sorumlu
+hypernymy
+kişi
+sanık
+hypernymy
+kişi
+avukat
+hypernymy
+kişi
+sanık
+hypernymy
+kişi
+avukat
+hypernymy
+kişi
+14
+56
+7.0
+
+
+[0, 2]
+#############Heuristic1 OUTPUT############
+0 : BİNGÖL'ün kırsal kesiminde katıldığı bazı silahlı eylemlerden dolayı interpol tarafından kırmızı bültenle aranırken Almanya'da yakalanıp Türkiye'ye iade edilen PKK'lı Mehmet İltaş hakkında ömür boyu hapis cezası istendi.
+2 : İltaş'ın getirilmediği duruşmada avukatı hazır bulundu.
+representative
+[sanık, mahkeme, karar, duruşma, avukat]
+#############Heuristic2 OUTPUT############
+Savcı, Mehmet İltaş'ın başkanlık ettiği komitenin ilerleyen günlerde ilçede koruculuk yapan sanıklara yönelik eylem kararı aldıklarını, 16 Haziran 1992 tarihinde Genç İlçesi Ardıçdibi Köyü Kerkülük Mezrası yakınlarında içerisinde korucuların bulunduğu minibüsü durdurup beraberindeki grupla birlikte silahla taradığı, bu olayda aralarında korucuların da bulunduğu 8 kişinin öldüğü, 4 kişinin yaralandığı, sanık Mehmet İltaş'ın eylemde kullandığı silahı daha sonra eylem sorumlusu Yılmaz kod adlı PKK'lıya teslim ettiği vurgulandı.
+Mahkeme, sanık ve avukatına son savunmalarını yapmaları için süre verilmesine karar verip duruşmayı erteledi.
+#############Heuristic3 OUTPUT############
+2 : İltaş'ın getirilmediği duruşmada avukatı hazır bulundu.
+3 : Savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, Mehmet İltaş'ın 1990 yılında Bingöl'ün Genç İlçesi'nde terör örgütü PKK'nın ilçe komitesini kurduğu ve bu komiteye başkanlık ederek örgüten aldığı talimatları yerine getirdiği, ardından kendisine bağlı komiteyi toplayıp eylem kararı aldığı belirtildi.
+####################CLASS OF ORIGINAL TEXT################
+﻿Almanya'nın iade ettiği PKK'lı için ömür boyu hapis istendi
+
+BİNGÖL'ün kırsal kesiminde katıldığı bazı silahlı eylemlerden dolayı interpol tarafından kırmızı bültenle aranırken Almanya'da yakalanıp Türkiye'ye iade edilen PKK'lı Mehmet İltaş hakkında ömür boyu hapis cezası istendi.
+
+Almanya'da yakalandıktan sonra 19 Eylül 2007 tarihinde Türkiye'ye iade edilen PKK'lı Mehmet İltaş'ın yargılanmasına Diyarbakır 5'inci Ağır Ceza Mahkemesi'nde devam edildi. İltaş'ın getirilmediği duruşmada avukatı hazır bulundu. Savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, Mehmet İltaş'ın 1990 yılında Bingöl'ün Genç İlçesi'nde terör örgütü PKK'nın ilçe komitesini kurduğu ve bu komiteye başkanlık ederek örgüten aldığı talimatları yerine getirdiği, ardından kendisine bağlı komiteyi toplayıp eylem kararı aldığı belirtildi. Bu karar doğrultusunda 14 Ağustos 1991 tarihinde Genç İlçe Jandarma Komando Birliği, Kültür Müdürlüğü binası ve Adliye lojmanlarına silahlı saldırı eylemine katıldığı bildirildi.
+
+Savcı, Mehmet İltaş'ın başkanlık ettiği komitenin ilerleyen günlerde ilçede koruculuk yapan sanıklara yönelik eylem kararı aldıklarını, 16 Haziran 1992 tarihinde Genç İlçesi Ardıçdibi Köyü Kerkülük Mezrası yakınlarında içerisinde korucuların bulunduğu minibüsü durdurup beraberindeki grupla birlikte silahla taradığı, bu olayda aralarında korucuların da bulunduğu 8 kişinin öldüğü, 4 kişinin yaralandığı, sanık Mehmet İltaş'ın eylemde kullandığı silahı daha sonra eylem sorumlusu Yılmaz kod adlı PKK'lıya teslim ettiği vurgulandı.Sanık avukatı, savcının esas hakkındaki görüşüne karşı savunmalarını hazırlamaları için kendilerine süre verilmesini istedi. Mahkeme, sanık ve avukatına son savunmalarını yapmaları için süre verilmesine karar verip duruşmayı erteledi.
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Almanya\'nın iade ettiği PKK\'lı için ömür boyu hapis istendi\n\nBİNGÖL\'ün kırsal kesiminde katıldığı bazı silahlı eylemlerden dolayı interpol tarafından kırmızı bültenle aranırken Almanya\'da yakalanıp Türkiye\'ye iade edilen PKK\'lı Mehmet İltaş hakkında ömür boyu hapis cezası istendi.\n\nAlmanya\'da yakalandıktan sonra 19 Eylül 2007 tarihinde Türkiye\'ye iade edilen PKK\'lı Mehmet İltaş\'ın yargılanmasına Diyarbakır 5\'inci Ağır Ceza Mahkemesi\'nde devam edildi. İltaş\'ın getirilmediği duruşmada avukatı hazır bulundu. Savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, Mehmet İltaş\'ın 1990 yılında Bingöl\'ün Genç İlçesi\'nde terör örgütü PKK\'nın ilçe komitesini kurduğu ve bu komiteye başkanlık ederek örgüten aldığı talimatları yerine getirdiği, ardından kendisine bağlı komiteyi toplayıp eylem kararı aldığı belirtildi. Bu karar doğrultusunda 14 Ağustos 1991 tarihinde Genç İlçe Jandarma Komando Birliği, Kültür Müdürlüğü binası ve Adliye lojmanlarına silahlı saldırı eylemine katıldığı bildirildi.\n\nSavcı, Mehmet İltaş\'ın başkanlık ettiği komitenin ilerleyen günlerde ilçede koruculuk yapan sanıklara yönelik eylem kararı aldıklarını, 16 Haziran 1992 tarihinde Genç İlçesi Ardıçdibi Köyü Kerkülük Mezrası yakınlarında içerisinde korucuların bulunduğu minibüsü durdurup beraberindeki grupla birlikte silahla taradığı, bu olayda aralarında korucuların da bulunduğu 8 kişinin öldüğü, 4 kişinin yaralandığı, sanık Mehmet İltaş\'ın eylemde kullandığı silahı daha sonra eylem sorumlusu Yılmaz kod adlı PKK\'lıya teslim ettiği vurgulandı.Sanık avukatı, savcının esas hakkındaki görüşüne karşı savunmalarını hazırlamaları için kendilerine süre verilmesini istedi. Mahkeme, sanık ve avukatına son savunmalarını yapmaları için süre verilmesine karar verip duruşmayı erteledi.\n'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi
+###################CLASS OF SUMMARY#######################
+[2 : İltaş'ın getirilmediği duruşmada avukatı hazır bulundu., 3 : Savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, Mehmet İltaş'ın 1990 yılında Bingöl'ün Genç İlçesi'nde terör örgütü PKK'nın ilçe komitesini kurduğu ve bu komiteye başkanlık ederek örgüten aldığı talimatları yerine getirdiği, ardından kendisine bağlı komiteyi toplayıp eylem kararı aldığı belirtildi.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[2 : İltaş\'ın getirilmediği duruşmada avukatı hazır bulundu., 3 : Savcı, davaya ilişkin esas hakkındaki görüşünü açıklarken, Mehmet İltaş\'ın 1990 yılında Bingöl\'ün Genç İlçesi\'nde terör örgütü PKK\'nın ilçe komitesini kurduğu ve bu komiteye başkanlık ederek örgüten aldığı talimatları yerine getirdiği, ardından kendisine bağlı komiteyi toplayıp eylem kararı aldığı belirtildi.]'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi

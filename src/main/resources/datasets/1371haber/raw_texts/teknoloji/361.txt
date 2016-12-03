@@ -1,0 +1,36 @@
+İstanbul'da dev operasyon
+İstanbul Bilişim Suçlarla Mücadele Şube Müdürlüğü 8 ay önce yapılan bir çalışmayla bilgisayarlara virüs gönderen şebekeye operasyon düzenleyerek 6 kişiyi gözaltına aldı. Çetenin köle bilgisayar oluşturmanın yanı sıra 128 bin 712 facebook hesap ve şifresini de ele geçirdikleri belirtildiBoot-Net (köle bilgisayar) adı verilen bir sistem üzerinden kendi yazdıkları virüsleri internet üzerinden bilgisayarlara gönderen şebeke 8 ay boyunca takip edildi. Yapılan teknik ve fiziki takip sürecinde şebekenin çalışma sistemi de detaylı olarak tespit edildi.
+
+KÖLE BİLGİSAYAR OLUŞTURUP KONTROLLERİNİ SATIYORLAR
+
+Buna göre şebeke önce bilgisayarlara virüs gönderiyor. Virüs yazılımı, porno siteleri, kumar siteleri ya da atılan e-mailler aracılığı ile kullanıcıların bilgisayarlarına gönderiliyor. Virüs bulaştığı bilgisayarda aktif edilmeden bekletiliyor. Kullanıcı bilgisayarında hiçbir farklılık hissetmiyor. Bu nedenle virüsün varlığından da haberdar olmuyor.
+
+Şebeke üyeleri istemeleri halinde bu bilgisayarlardaki virüslerin bir kısmını ya da tamamını aktif ediyor. Şebeke üyeleri tarafından virüs bulunan bilgisayar (köle bilgisayar)'a komut gönderilerek bir internet sayfasını açması isteniyor. Bunun üzerine virüs bulunan birçok bilgisayar da aynı anda şebekenin istediği sayfa açılıyor. 
+
+Fazla yüklenme nedeniyle şebekenin belirlediği internet sitesi çökertilmiş oluyor. Polisin yaptığı takipte şebekenin site çökertme işlemi para karşılığı yaptığı da belirlendi. Bazı kişilerin çeşitli nedenlerle internet sitelerinin çökertilmesi için şebeke üyelerine para verdiği iddia edildi.
+
+"BOOT"LARI PARAYLA SATIYORLARDI
+
+Şebekenin "köle" diye tanımlanan "boot"lardan grupları satarak ta para kazandıkları öğrenildi. Şebekenin 100 köle bilgisayarın kontrolünü 100 TL'ye sattığı öğrenildi. Ellerinde yaklaşık 300 bin "boot" bulunan şebeke sosyal iletişim ağlarındaki hesap ve şifreleri de ele geçirerek para kazanıyor. Bu "boot"ları alan şüphelilerin internette istedikleri sayfa ya da isimleri arattıkları belirtildi. Bu yöntemle de istenen isim ya da sitenin arama sitelerinde daha üst sıralarda yer alması sağlanıyor.
+
+FACEBOOK VE MSN LİVE HESAPLARINA DİKKAT
+
+Özellikle porno ve kumar siteleri üzerinden virüs gönderen şebeke üyelerinin, facebook ve Live Messenger hesaplarını da ele geçirdiği öğrenildi. Polisin şu ana kadar yaptığı takipte şebekenin 128 bin 712 facebook kullanıcısının ve 5 bin 708 Live Messenger kullanıcısının hesap ve şifrelerini ele geçirdikleri belirlendi.
+
+NASIL ENGELLENİR
+
+Polisin yaptığı incelemede şebeke üyelerinin virüsleri kendileri oluşturduğu belirlendi. Emniyet yetkilileri bu tarz virüs saldırılara karşı vatandaşların dikkat etmesi gerektiğini dile getirirken korunmak içinde bazı tedbirler önerildi. Buna göre bilgisayar kullanıcılarının,  porno sitelerinden uzak durması tavsiye edilirken, e-mail adreslerine gelen tanınmayan kişilerin bildirilerinin de açılmaması önerildi.
+
+Ayrıca intent kullanıcılarının bilgisayarlarına antivirüs programı yüklemeleri gerektiği de belirtildi. Ancak kullanılacak antivirüs programının güncel ve lisanslı olması gerektiği de dile getirildi.
+
+OPERASYON KAMERALARA DA YANSIDI
+
+İstanbul Bilişim Suçlarla Mücadele Şube Müdürlüğü tarafından yapılan operasyon kameralara da yansıdı. Görüntülere, şüphelilerin birinin evinde yapılan aramada yansıdı. Görüntülerde bir dizüstü bilgisayarda açık olan Live messenger sayfasında "Bootnet satın alacaklar buradan iletişim kursun" yazısı dikkat çekti.
+
+ŞÜPHELİLERDEN 5'İ İLKÖĞRETİM MUZUNU
+
+Gözaltına alınan şüphelilerden Timuçin D., Özkan G.,Rıdvan K., Levent M. ve C. Ö.'nün ilköğretim mezunun olmaları dikkat çekti. Şebeke üyelerinden sadece 1'inin lise mezunu olduğu öğrenildi. Şüphelilerden 1'i hariç 5 şüphelinin bilgisayar eğitimi almamış olmaları dikkat çekti.
+
+ŞÜPHELİLER ADLİYEYE SEVK EDİLDİ
+
+İstanbul Bilişim Suçlarla Mücadele Şube Müdürlüğü tarafından gözaltına alınan şüphelilerden 1'i yaşı 18'den küçük olması nedeniyle tutuksuz yargılanmak üzere serbest bırakıldı. 5 şüpheli ise İstanbul Emniyet Müdürlüğü'ndeki işlemlerinin ardından "Suç işlemek için örgüt kurmak", "bilişim sistemlerine yasa dışı girmek", "bilişim sistemlerinin işleyişini engellemek" Çağlayan'daki İstanbul Adalet Sarayı'na sevk edildi.

@@ -1,0 +1,178 @@
+I|12:16:14.928|Parser ready: 2662ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:16:15.597|Cache ready: 3349ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Aslanlı Köşk dizi seti oldu
+
+TMSF'nin Halis Toprak'ın ödenmemiş borçlarından dolayı el koyduğu Aslanlı Köşk, "Kuzey Güney" ekibinin yeni mekanı oldu. Halis Toprak'ın, 21 yıl yaşadıktan geçtiğimiz şubat ayında boşaltmak zorunda kaldığı Sarıyer'deki meşhur Aslanlı Köşk, artık bir dizi seti. Köşk, haftalardır Kanal D'nin sevilen dizisi "Kuzey Güney" dizisinin ekibini ağırlıyor. Dizinin zengin ve şımarık karakteri Banu Sinaner'in ailesiyle yaşadığı ev olarak işte bu köşk kullanılıyor.
+
+Aylardır boş duran köşk, bu dizi için yapım firması tarafından kiralanıp baştan aşağı restore edildi.  Köşkün yenilenme sürecinde kalabalık bir mimar ve işçi grubu çalıştı. Aslanlı Köşk'ün iç dekorasyonu ve bahçe peyzajı, tam iki ayda yenilendi. Ve yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk kez gösterildi.
+
+
+
+
+######Clean text file:######
+﻿aslanlı köşk dizi seti oldu
+
+tmsf'nin halis toprak'ın ödenmemiş borçlarından el koyduğu aslanlı köşk, "kuzey güney" ekibinin yeni mekanı oldu. halis toprak'ın, 21 yıl yaşadıktan geçtiğimiz şubat ayında boşaltmak zorunda kaldığı sarıyer'deki meşhur aslanlı köşk, artık dizi seti. köşk, haftalardır kanal d'nin sevilen dizisi "kuzey güney" dizisinin ekibini ağırlıyor. dizinin zengin şımarık karakteri banu sinaner'in ailesiyle yaşadığı ev köşk kullanılıyor.
+
+aylardır boş duran köşk, dizi yapım firması kiralanıp baştan aşağı restore edildi.  köşkün yenilenme sürecinde kalabalık mimar işçi grubu çalıştı. aslanlı köşk'ün iç dekorasyonu bahçe peyzajı, tam ayda yenilendi. yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk gösterildi.
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿aslanlı köşk dizi seti oldu
+
+PARAGRAPH: tmsf'nin halis toprak'ın ödenmemiş borçlarından el koyduğu aslanlı köşk, "kuzey güney" ekibinin yeni mekanı oldu. halis toprak'ın, 21 yıl yaşadıktan geçtiğimiz şubat ayında boşaltmak zorunda kaldığı sarıyer'deki meşhur aslanlı köşk, artık dizi seti. köşk, haftalardır kanal d'nin sevilen dizisi "kuzey güney" dizisinin ekibini ağırlıyor. dizinin zengin şımarık karakteri banu sinaner'in ailesiyle yaşadığı ev köşk kullanılıyor.
+
+PARAGRAPH: aylardır boş duran köşk, dizi yapım firması kiralanıp baştan aşağı restore edildi.  köşkün yenilenme sürecinde kalabalık mimar işçi grubu çalıştı. aslanlı köşk'ün iç dekorasyonu bahçe peyzajı, tam ayda yenilendi. yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk gösterildi.
+
+
+
+######Cümleler:######
+
+﻿aslanlı köşk dizi seti oldu
+
+tmsf'nin halis toprak'ın ödenmemiş borçlarından el koyduğu aslanlı köşk, "kuzey güney" ekibinin yeni mekanı oldu.
+halis toprak'ın, 21 yıl yaşadıktan geçtiğimiz şubat ayında boşaltmak zorunda kaldığı sarıyer'deki meşhur aslanlı köşk, artık dizi seti.
+köşk, haftalardır kanal d'nin sevilen dizisi "kuzey güney" dizisinin ekibini ağırlıyor.
+dizinin zengin şımarık karakteri banu sinaner'in ailesiyle yaşadığı ev köşk kullanılıyor.
+aylardır boş duran köşk, dizi yapım firması kiralanıp baştan aşağı restore edildi.
+köşkün yenilenme sürecinde kalabalık mimar işçi grubu çalıştı.
+aslanlı köşk'ün iç dekorasyonu bahçe peyzajı, tam ayda yenilendi.
+yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk gösterildi.
+
+
+
+######Title######
+﻿aslanlı köşk dizi seti oldu
+
+
+######Nouns of text:######
+[Aslan, Köşk, diz, set, borç, el, Aslan, Köşk, kuzey, Güney, ekip, yen, mekân, yıl, şubat, ayın, zor, Sarıyer, Aslan, Köşk, artık, diz, set, Köşk, kanal, dizi, kuzey, Güney, dizi, ekip, dizin, karakter, aile, ev, Köşk, Köşk, diz, yapı, firma, baş, aşağı, Köşk, süreç, Kalaba, mimar, iş, grup, Aslan, Köşk, iç, dekorasyon, bahçe, peyzaj, Ta, Ay, Köşk, dizin, çarşamba, günü, bölüm, ilk]
+I|12:16:17.513|Parser ready: 1794ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:16:17.768|Cache ready: 2049ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[olmak, ödenmek, koymak, olmak, yılmak, geçmek, kalmak, sevmek, ağırlamak, dizmek, yaşamak, kullanmak, aylamak, durmak, kiralamak, etmek, yenilemek, çalışmak, içmek, yenilemek, yenilemek, dizmek, yayınlamak, göstermek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 541
+All chain size: 231
+Unique Chains: 51
+Chain Puan Eşik değeri:11
+Chain Strength Eşik değeri:0.35294117647058826
+Chain criterion değeri:1.6559409981047966
+Strong Chains: 3
+kuzey
+state_of
+amerika birleşik devletleri
+kuzey
+holo_part
+amerika birleşik devletleri
+kuzey
+state_of
+amerika birleşik devletleri
+kuzey
+holo_part
+amerika birleşik devletleri
+4
+8
+3.0
+
+
+dizi
+related_with
+yazılım
+dizi
+related_with
+yazılım
+dizin
+related_with
+yazılım
+yapı
+related_with
+yazılım
+dizin
+related_with
+yazılım
+5
+20
+2.0
+
+
+kuzey
+hypernymy
+yer
+mekân
+hypernymy
+yer
+mekân
+synonymy
+yer
+kuzey
+hypernymy
+yer
+ev
+hypernymy
+yer
+bahçe
+hypernymy
+yer
+6
+30
+2.0
+
+
+[0, 2, 3]
+#############Heuristic1 OUTPUT############
+0 : TMSF'nin Halis Toprak'ın ödenmemiş borçlarından dolayı el koyduğu Aslanlı Köşk, "Kuzey Güney" ekibinin yeni mekanı oldu.
+2 : Köşk, haftalardır Kanal D'nin sevilen dizisi "Kuzey Güney" dizisinin ekibini ağırlıyor.
+3 : Dizinin zengin ve şımarık karakteri Banu Sinaner'in ailesiyle yaşadığı ev olarak işte bu köşk kullanılıyor.
+representative
+[kuzey, dizi, dizin, mekân]
+#############Heuristic2 OUTPUT############
+TMSF'nin Halis Toprak'ın ödenmemiş borçlarından dolayı el koyduğu Aslanlı Köşk, "Kuzey Güney" ekibinin yeni mekanı oldu.
+Köşk, haftalardır Kanal D'nin sevilen dizisi "Kuzey Güney" dizisinin ekibini ağırlıyor.
+#############Heuristic3 OUTPUT############
+2 : Köşk, haftalardır Kanal D'nin sevilen dizisi "Kuzey Güney" dizisinin ekibini ağırlıyor.
+6 : Aslanlı Köşk'ün iç dekorasyonu ve bahçe peyzajı, tam iki ayda yenilendi.
+7 : Ve yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk kez gösterildi.
+####################CLASS OF ORIGINAL TEXT################
+﻿Aslanlı Köşk dizi seti oldu
+
+TMSF'nin Halis Toprak'ın ödenmemiş borçlarından dolayı el koyduğu Aslanlı Köşk, "Kuzey Güney" ekibinin yeni mekanı oldu. Halis Toprak'ın, 21 yıl yaşadıktan geçtiğimiz şubat ayında boşaltmak zorunda kaldığı Sarıyer'deki meşhur Aslanlı Köşk, artık bir dizi seti. Köşk, haftalardır Kanal D'nin sevilen dizisi "Kuzey Güney" dizisinin ekibini ağırlıyor. Dizinin zengin ve şımarık karakteri Banu Sinaner'in ailesiyle yaşadığı ev olarak işte bu köşk kullanılıyor.
+
+Aylardır boş duran köşk, bu dizi için yapım firması tarafından kiralanıp baştan aşağı restore edildi.  Köşkün yenilenme sürecinde kalabalık bir mimar ve işçi grubu çalıştı. Aslanlı Köşk'ün iç dekorasyonu ve bahçe peyzajı, tam iki ayda yenilendi. Ve yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk kez gösterildi.
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Aslanlı Köşk dizi seti oldu\n\nTMSF\'nin Halis Toprak\'ın ödenmemiş borçlarından dolayı el koyduğu Aslanlı Köşk, \"Kuzey Güney\" ekibinin yeni mekanı oldu. Halis Toprak\'ın, 21 yıl yaşadıktan geçtiğimiz şubat ayında boşaltmak zorunda kaldığı Sarıyer\'deki meşhur Aslanlı Köşk, artık bir dizi seti. Köşk, haftalardır Kanal D\'nin sevilen dizisi \"Kuzey Güney\" dizisinin ekibini ağırlıyor. Dizinin zengin ve şımarık karakteri Banu Sinaner\'in ailesiyle yaşadığı ev olarak işte bu köşk kullanılıyor.\n\nAylardır boş duran köşk, bu dizi için yapım firması tarafından kiralanıp baştan aşağı restore edildi.  Köşkün yenilenme sürecinde kalabalık bir mimar ve işçi grubu çalıştı. Aslanlı Köşk\'ün iç dekorasyonu ve bahçe peyzajı, tam iki ayda yenilendi. Ve yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk kez gösterildi.\n\n'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji
+###################CLASS OF SUMMARY#######################
+[2 : Köşk, haftalardır Kanal D'nin sevilen dizisi "Kuzey Güney" dizisinin ekibini ağırlıyor., 6 : Aslanlı Köşk'ün iç dekorasyonu ve bahçe peyzajı, tam iki ayda yenilendi., 7 : Ve yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk kez gösterildi.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[2 : Köşk, haftalardır Kanal D\'nin sevilen dizisi \"Kuzey Güney\" dizisinin ekibini ağırlıyor., 6 : Aslanlı Köşk\'ün iç dekorasyonu ve bahçe peyzajı, tam iki ayda yenilendi., 7 : Ve yenilenen köşk,  dizinin çarşamba günün yayınlanan bölümde ilk kez gösterildi.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

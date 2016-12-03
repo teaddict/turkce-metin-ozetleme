@@ -1,0 +1,262 @@
+I|12:45:20.448|Parser ready: 2423ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:45:20.814|Cache ready: 2808ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+CHP'li Tanal, Adaleti mumla arıyorum
+
+Protesto için elinde fener ile "İnternet Andıcı" davasına katılan CHP'li Tanal, Deniz Feneri Davası'na gösterilen hassasiyetin Türkiye'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini istedi. Tanal, "Simgesel anlamda dikkat çekmek için deniz feneriyle geldim ve adaleti mumla arıyorum" dedi.
+
+CHP İstanbul Milletvekili Mahmut Tanal, Deniz Feneri soruşturması kapsamında 6 kişinin tahliyesi protesto etmek amacıyla, elinde fener ile İnternet Andıcı davasına katıldı. Duruşma salonuna elindeki fener ile giren ve avukat sıralarına oturan CHP'li Tanal mahkeme tarafından oturum başlanmadan uyarıldı.Feneri ile dışarı çıkan CHP'li Tanal Silivri Cezaevi önünde duruşmada yaşananları basın mensuplarına anlattı. CHP'li Tanal, Adalet Bakanlığı ve HSYK tarafından Deniz Feneri davasına toplumda bu güne kadar görülmeyen bir hassasiyeti gösterildiğini savundu. Deniz Feneri Davası'na gösterilen hassasiyetin Türkiye'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini isteyen Tanal, "Simgesel anlamda dikkat çekmek için deniz feneriyle davaya geldim" dedi.
+
+Duruşmada yaşadıklarını anlatan Tanal, fenerle duruşma salonuna girmesinin ardından mahkeme başkanı ve ve üyeler tarafından çağırıldığını söyledi. "Ceza Muhakemesi Kanunu'nda (CMK) bunun duruşma salonunda bulunmasının yasaklayan bir hüküm yok" diyen Tanal, "Ama hukukçu kimliğimle fazla oradaki duruşmayıda uzatmama adında feneri dışarı çıkardım." açıklamasında bulundu.
+
+
+
+
+
+
+######Clean text file:######
+chp'li tanal, adaleti mumla arıyorum
+
+protesto elinde fener "internet andıcı" davasına katılan chp'li tanal, deniz feneri davası'na gösterilen hassasiyetin türkiye'de devam davalarda soruşturmalarda gösterilmesini istedi. tanal, "simgesel anlamda dikkat çekmek deniz feneriyle geldim adaleti mumla arıyorum" dedi.
+
+chp istanbul milletvekili mahmut tanal, deniz feneri soruşturması kapsamında 6 kişinin tahliyesi protesto etmek amacıyla, elinde fener internet andıcı davasına katıldı. duruşma salonuna elindeki fener giren avukat sıralarına oturan chp'li tanal mahkeme oturum başlanmadan uyarıldı.feneri dışarı çıkan chp'li tanal silivri cezaevi önünde duruşmada yaşananları basın mensuplarına anlattı. chp'li tanal, adalet bakanlığı hsyk deniz feneri davasına toplumda güne görülmeyen hassasiyeti gösterildiğini savundu. deniz feneri davası'na gösterilen hassasiyetin türkiye'de devam davalarda soruşturmalarda gösterilmesini isteyen tanal, "simgesel anlamda dikkat çekmek deniz feneriyle davaya geldim" dedi.
+
+duruşmada yaşadıklarını anlatan tanal, fenerle duruşma salonuna girmesinin ardından mahkeme başkanı üyeler çağırıldığını söyledi. "ceza muhakemesi kanunu'nda (cmk) duruşma salonunda bulunmasının yasaklayan hüküm yok" diyen tanal, "ama hukukçu kimliğimle fazla oradaki duruşmayıda uzatmama adında feneri dışarı çıkardım." açıklamasında bulundu.
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: chp'li tanal, adaleti mumla arıyorum
+
+PARAGRAPH: protesto elinde fener "internet andıcı" davasına katılan chp'li tanal, deniz feneri davası'na gösterilen hassasiyetin türkiye'de devam davalarda soruşturmalarda gösterilmesini istedi. tanal, "simgesel anlamda dikkat çekmek deniz feneriyle geldim adaleti mumla arıyorum" dedi.
+
+PARAGRAPH: chp istanbul milletvekili mahmut tanal, deniz feneri soruşturması kapsamında 6 kişinin tahliyesi protesto etmek amacıyla, elinde fener internet andıcı davasına katıldı. duruşma salonuna elindeki fener giren avukat sıralarına oturan chp'li tanal mahkeme oturum başlanmadan uyarıldı.feneri dışarı çıkan chp'li tanal silivri cezaevi önünde duruşmada yaşananları basın mensuplarına anlattı. chp'li tanal, adalet bakanlığı hsyk deniz feneri davasına toplumda güne görülmeyen hassasiyeti gösterildiğini savundu. deniz feneri davası'na gösterilen hassasiyetin türkiye'de devam davalarda soruşturmalarda gösterilmesini isteyen tanal, "simgesel anlamda dikkat çekmek deniz feneriyle davaya geldim" dedi.
+
+PARAGRAPH: duruşmada yaşadıklarını anlatan tanal, fenerle duruşma salonuna girmesinin ardından mahkeme başkanı üyeler çağırıldığını söyledi. "ceza muhakemesi kanunu'nda (cmk) duruşma salonunda bulunmasının yasaklayan hüküm yok" diyen tanal, "ama hukukçu kimliğimle fazla oradaki duruşmayıda uzatmama adında feneri dışarı çıkardım." açıklamasında bulundu.
+
+
+
+######Cümleler:######
+
+chp'li tanal, adaleti mumla arıyorum
+
+protesto elinde fener "internet andıcı" davasına katılan chp'li tanal, deniz feneri davası'na gösterilen hassasiyetin türkiye'de devam davalarda soruşturmalarda gösterilmesini istedi.
+tanal, "simgesel anlamda dikkat çekmek deniz feneriyle geldim adaleti mumla arıyorum" dedi.
+chp istanbul milletvekili mahmut tanal, deniz feneri soruşturması kapsamında 6 kişinin tahliyesi protesto etmek amacıyla, elinde fener internet andıcı davasına katıldı.
+duruşma salonuna elindeki fener giren avukat sıralarına oturan chp'li tanal mahkeme oturum başlanmadan uyarıldı.
+feneri dışarı çıkan chp'li tanal silivri cezaevi önünde duruşmada yaşananları basın mensuplarına anlattı.
+chp'li tanal, adalet bakanlığı hsyk deniz feneri davasına toplumda güne görülmeyen hassasiyeti gösterildiğini savundu.
+deniz feneri davası'na gösterilen hassasiyetin türkiye'de devam davalarda soruşturmalarda gösterilmesini isteyen tanal, "simgesel anlamda dikkat çekmek deniz feneriyle davaya geldim" dedi.
+duruşmada yaşadıklarını anlatan tanal, fenerle duruşma salonuna girmesinin ardından mahkeme başkanı üyeler çağırıldığını söyledi.
+"ceza muhakemesi kanunu'nda (cmk) duruşma salonunda bulunmasının yasaklayan hüküm yok" diyen tanal, "ama hukukçu kimliğimle fazla oradaki duruşmayıda uzatmama adında feneri dışarı çıkardım.
+" açıklamasında bulundu.
+
+
+
+######Title######
+chp'li tanal, adaleti mumla arıyorum
+
+
+######Nouns of text:######
+[adalet, mum, protesto, el, fener, İnternet, andıç, Davas, de, fener, Davas, gösterilen, hassasiyet, Türkiye, deva, dava, simge, anlam, dikkat, de, fener, adalet, mum, İstanbul, milletvekil, de, fener, kapsam, kişi, tahliye, protesto, amaç, el, fener, İnternet, andıç, Davas, duruşma, salon, el, fener, giren, avukat, sıra, mahkeme, oturum, dışarı, çıkan, Silivri, cezaev, ön, duruşma, bası, mensup, adalet, bakanlık, de, fener, Davas, toplum, gün, hassasiyet, de, fener, Davas, gösterilen, hassasiyet, Türkiye, deva, dava, simge, anlam, dikkat, de, fener, dava, duruşma, fener, duruşma, salon, art, mahkeme, başkan, üye, ceza, muhakeme, kanun, duruşma, salon, hüküm, yok, diye, am, hukuk, kimlik, faz, ora, ad, fener, dışarı, açıklama]
+I|12:45:22.211|Parser ready: 1290ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:45:22.296|Cache ready: 1375ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[mumlamak, aramak, katılmak, göstermek, istemek, gelmek, mumlamak, aramak, demek, katılmak, girmek, oturmak, başlamak, çıkmak, basmak, anlatmak, görmek, göstermek, savunmak, göstermek, istemek, gelmek, demek, yaşamak, anlatmak, söylemek, yasaklamak, çıkarmak, bulunmak]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 565
+All chain size: 217
+Unique Chains: 53
+Chain Puan Eşik değeri:19
+Chain Strength Eşik değeri:1.3962264150943395
+Chain criterion değeri:7.4692365809173875
+Strong Chains: 2
+protesto
+related_with
+hukuk
+dava
+related_with
+hukuk
+protesto
+related_with
+hukuk
+duruşma
+hypernymy
+hukuk
+duruşma
+related_with
+hukuk
+avukat
+hypernymy
+hukuk
+avukat
+related_with
+hukuk
+avukat
+holo_member
+hukuk
+mahkeme
+related_with
+hukuk
+mahkeme
+hypernymy
+hukuk
+duruşma
+hypernymy
+hukuk
+duruşma
+related_with
+hukuk
+dava
+related_with
+hukuk
+dava
+related_with
+hukuk
+duruşma
+hypernymy
+hukuk
+duruşma
+related_with
+hukuk
+duruşma
+hypernymy
+hukuk
+duruşma
+related_with
+hukuk
+mahkeme
+related_with
+hukuk
+mahkeme
+hypernymy
+hukuk
+ceza
+related_with
+hukuk
+muhakeme
+related_with
+hukuk
+kanun
+related_with
+hukuk
+kanun
+holo_part
+hukuk
+kanun
+synonymy
+hukuk
+duruşma
+hypernymy
+hukuk
+duruşma
+related_with
+hukuk
+hukuk
+related_with
+hukuk
+28
+118
+19.0
+
+
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+fener
+synonymy
+askı
+12
+120
+11.0
+
+
+[0, 1]
+#############Heuristic1 OUTPUT############
+0 : Protesto için elinde fener ile "İnternet Andıcı" davasına katılan CHP'li Tanal, Deniz Feneri Davası'na gösterilen hassasiyetin Türkiye'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini istedi.
+1 : Tanal, "Simgesel anlamda dikkat çekmek için deniz feneriyle geldim ve adaleti mumla arıyorum" dedi.
+representative
+[mahkeme, duruşma]
+#############Heuristic2 OUTPUT############
+Protesto için elinde fener ile "İnternet Andıcı" davasına katılan CHP'li Tanal, Deniz Feneri Davası'na gösterilen hassasiyetin Türkiye'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini istedi.
+Duruşma salonuna elindeki fener ile giren ve avukat sıralarına oturan CHP'li Tanal mahkeme tarafından oturum başlanmadan uyarıldı.
+#############Heuristic3 OUTPUT############
+1 : Tanal, "Simgesel anlamda dikkat çekmek için deniz feneriyle geldim ve adaleti mumla arıyorum" dedi.
+3 : Duruşma salonuna elindeki fener ile giren ve avukat sıralarına oturan CHP'li Tanal mahkeme tarafından oturum başlanmadan uyarıldı.
+####################CLASS OF ORIGINAL TEXT################
+CHP'li Tanal, Adaleti mumla arıyorum
+
+Protesto için elinde fener ile "İnternet Andıcı" davasına katılan CHP'li Tanal, Deniz Feneri Davası'na gösterilen hassasiyetin Türkiye'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini istedi. Tanal, "Simgesel anlamda dikkat çekmek için deniz feneriyle geldim ve adaleti mumla arıyorum" dedi.
+
+CHP İstanbul Milletvekili Mahmut Tanal, Deniz Feneri soruşturması kapsamında 6 kişinin tahliyesi protesto etmek amacıyla, elinde fener ile İnternet Andıcı davasına katıldı. Duruşma salonuna elindeki fener ile giren ve avukat sıralarına oturan CHP'li Tanal mahkeme tarafından oturum başlanmadan uyarıldı.Feneri ile dışarı çıkan CHP'li Tanal Silivri Cezaevi önünde duruşmada yaşananları basın mensuplarına anlattı. CHP'li Tanal, Adalet Bakanlığı ve HSYK tarafından Deniz Feneri davasına toplumda bu güne kadar görülmeyen bir hassasiyeti gösterildiğini savundu. Deniz Feneri Davası'na gösterilen hassasiyetin Türkiye'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini isteyen Tanal, "Simgesel anlamda dikkat çekmek için deniz feneriyle davaya geldim" dedi.
+
+Duruşmada yaşadıklarını anlatan Tanal, fenerle duruşma salonuna girmesinin ardından mahkeme başkanı ve ve üyeler tarafından çağırıldığını söyledi. "Ceza Muhakemesi Kanunu'nda (CMK) bunun duruşma salonunda bulunmasının yasaklayan bir hüküm yok" diyen Tanal, "Ama hukukçu kimliğimle fazla oradaki duruşmayıda uzatmama adında feneri dışarı çıkardım." açıklamasında bulundu.
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'CHP\'li Tanal, Adaleti mumla arıyorum\n\nProtesto için elinde fener ile \"İnternet Andıcı\" davasına katılan CHP\'li Tanal, Deniz Feneri Davası\'na gösterilen hassasiyetin Türkiye\'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini istedi. Tanal, \"Simgesel anlamda dikkat çekmek için deniz feneriyle geldim ve adaleti mumla arıyorum\" dedi.\n\nCHP İstanbul Milletvekili Mahmut Tanal, Deniz Feneri soruşturması kapsamında 6 kişinin tahliyesi protesto etmek amacıyla, elinde fener ile İnternet Andıcı davasına katıldı. Duruşma salonuna elindeki fener ile giren ve avukat sıralarına oturan CHP\'li Tanal mahkeme tarafından oturum başlanmadan uyarıldı.Feneri ile dışarı çıkan CHP\'li Tanal Silivri Cezaevi önünde duruşmada yaşananları basın mensuplarına anlattı. CHP\'li Tanal, Adalet Bakanlığı ve HSYK tarafından Deniz Feneri davasına toplumda bu güne kadar görülmeyen bir hassasiyeti gösterildiğini savundu. Deniz Feneri Davası\'na gösterilen hassasiyetin Türkiye\'de devam eden tüm davalarda ve soruşturmalarda da gösterilmesini isteyen Tanal, \"Simgesel anlamda dikkat çekmek için deniz feneriyle davaya geldim\" dedi.\n\nDuruşmada yaşadıklarını anlatan Tanal, fenerle duruşma salonuna girmesinin ardından mahkeme başkanı ve ve üyeler tarafından çağırıldığını söyledi. \"Ceza Muhakemesi Kanunu\'nda (CMK) bunun duruşma salonunda bulunmasının yasaklayan bir hüküm yok\" diyen Tanal, \"Ama hukukçu kimliğimle fazla oradaki duruşmayıda uzatmama adında feneri dışarı çıkardım.\" açıklamasında bulundu.\n\n\n\n'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi
+###################CLASS OF SUMMARY#######################
+[1 : Tanal, "Simgesel anlamda dikkat çekmek için deniz feneriyle geldim ve adaleti mumla arıyorum" dedi., 3 : Duruşma salonuna elindeki fener ile giren ve avukat sıralarına oturan CHP'li Tanal mahkeme tarafından oturum başlanmadan uyarıldı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[1 : Tanal, \"Simgesel anlamda dikkat çekmek için deniz feneriyle geldim ve adaleti mumla arıyorum\" dedi., 3 : Duruşma salonuna elindeki fener ile giren ve avukat sıralarına oturan CHP\'li Tanal mahkeme tarafından oturum başlanmadan uyarıldı.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

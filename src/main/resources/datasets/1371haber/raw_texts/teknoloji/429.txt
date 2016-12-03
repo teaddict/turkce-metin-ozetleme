@@ -1,0 +1,23 @@
+10 dakikada şarj
+Toshiba, çok geniş bir kullanım alanına sahip, sadece 10 dakikada şarj olabilen pillerini gösterdi.
+Toshiba'nın süper şarj özellikleri uzun ömürlü, yüksek performanslı ve güvenliyeniden şark edilebilir  yüksekperformanslı pilleri, elektrikli bisikletten kesintisiz enerji kaynaklarınakadar çok geniş uygulama alanlarında kullanılabiliyor. Sadece 10 dakikada şarjolabilen bu piller uzun pil ömürleri ile pil değişimleri ve çevreye önemlikatkılar sağlıyor. Uygulama alanları arasında elektrikli araçlar, bisikletler& motosikletler, kesintisiz güç sistemleri, güneş ve rüzgar enerjisiüretimleri gösterilebilir. İlk kez CES 2013'te, Toshiba'nın SCiB pilleri,Honda marka otomobillerde sergilendi.
+
+SCİB'in özgün karakteristiğine ulaşabilmek için Toshiba tamamen yeni bir negatif elektrot malzemesi, yeniseparatörler, yeni bir elektrolit ve tamamen farklı bir imalat teknolojisinihayata geçirdi. Sonuçta ortaya çok dengeli performansa sahip, mükemmel emniyetsunan, uzun ömürlü ve hızlı şarj-deşarj olabilen yüksek güvenirlikte tekrardoldurulabilen bir pil çıktı. SCiB pili, on adet 4.2 Ah SCiB hücresinin seri bağlanmış şekilde standart SCiBmodülünde yer alması ile meydana geliyor. Bu sayede gerektiğinde hücrelerikorumayı sağlayan ve her bir hücredeki şarj durumunu denetleyen voltaj ve ısıkontrolü sağlayan pil yönetim sistemi fonksiyonu da mümkün kılınıyor.
+
+Bataryadan güç alan bisiklet, motosiklet, otomatik yönlendirilmiş araçlar,elektrikli forklift ve iş makineleri gibi zaten şarj edilebilir piller kullananaygıtların ötesinde SCiB bataryası, aynı zamanda acilgüç kaynakları, rüzgar değirmenlerinin ürettiği enerjinin saklanması veelektrikli güç kaynakları gibi aygıtlarda da kullanılabilecek.
+
+Uzun ömürlü
+
+3000 kez hızlı şarj ve deşarj işleminden sonra bile kapasite kaybı yüzde 10'un altında. SCiB'nin dayanım ömrü çok yüksek ve şarj-deşarj ömrü 5000 kerenin dahi üzerinde. Bunun anlamı SCiB, her gün bir kez şarj-deşarj olduğunda 10 yıldan daha uzun bir süre kullanılabiliyor.
+
+Hızlı şarj edilebiliyor
+
+SCiB hücresi ve SCiB Standart Modülü sadece 5 dakika içerisinde yüzde 90 oranında doldurulabiliyor.
+
+Yüksek güç (uygulanabilir kapasite)
+
+SCiB, çift katmanlı elektrik kapasitörüne eş bir giriş-çıkış performansına sahip. Bu özelliğiyle yüksek güce gereksinim duyan aygıtlar için son derece uygun.
+
+Isı
+
+SCiB, -30 derecenin dahi altındaki ısılarda dengeli boşalma özelliğiyle sıra dışı ısı ortamlarında dahi başarıyla çalışıyor. Oldukça soğuk iklimli ortamları da kapsayan geniş bir kullanım alanı sunuyor.

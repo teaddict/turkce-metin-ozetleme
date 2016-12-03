@@ -1,0 +1,9 @@
+"İsimsiz" Android sorunu!
+Android'i bedava dağıtan Google'ın canını çok sıkacak, yepyeni bir sorun doğuyor.
+Çin'de sayıları giderek artan "isimsiz" Android cepler, Google için yeni bir sorun anlamına gelebilir.
+
+Eylül 2012'de tamamlanan 9 aylık dönemde Çin'de önde gelen cep üreticilerinin cihazlarının kullanım oranının düştüğü, "Diğer" kategorisindeki ceplerin trafiğinin ise yüzde 20'den yüzde 39'a çıktığı görünüyor. Enders analisti Ben Evans'ın blog'unda ortaya çıkardığı bu durum, Çin'de MediaTek çipsetini taşıyan cepler üreten şirketlerin 1.000'i aştığını gösteriyor.
+
+Çin'de herhangi bir veri planı olmaksızın satılan bu cepler, seyyar satıcılar tarafından da satılabiliyor. Bu ceplerin bazıları sahte batı markalarına sahipken, bazıları ismini hiç duymadığımız küçük üreticilerin damgasını taşıyor. Dahası bu cepler, Evans'a göre Google ile herhangi bir iletişim kurmuyor. Dolayısıyla Google, ne konumunuzu, ne de cebinizin markasını bilmiyor.
+
+Evans, durumu 90'lardaki PC'lerin IBM veya Compaq yerine "Windows ve Intel" ismini almasına benzetiyor. Android'i alıp içinden Google Play'i çıkartan Amazon da Google'a sadece teşekkür etmekle yetinmişti. Evans'a göre ise Google, bu sorunun üstesinden gelmek için Android'i daha çok Google'ı andıran bir hale getirmeyi düşünüyor olabilir.

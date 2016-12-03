@@ -1,0 +1,241 @@
+I|12:17:22.226|Parser ready: 2714ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:17:22.842|Cache ready: 3349ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Kaddafi'nin müthiş mirası ne olacak?
+
+İşte son dönemde dünyanın merak ettiği en önemli soru: Muammer Kaddafi öldü, büyük mirası ne olacak? Devrik liderin toplam servetinin 168 milyar dolar olduğu açıklandı.Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor. Libya Ulusal Geçiş Konseyi, bir kısmı dondurulan nakit ile servetin tamamına almak için harekete geçti.
+
+Başta ABD ve İngiltere olmak üzere Kaddafi'nin hesaplarının olduğu ülkelerin bankalarıyla temasa geçen Ulusal Geçiş Konseyi, "Bu parayı size vermemiz mümkün değil" yanıtını aldı.Ancak BM kanunlarına göre, devrik liderlerin paralarının yeni yönetime devredilmesi gerekiyor.Kaddafi'nin Ağustos ayının sonunda Trablus'taki karargahından ayrılırken, 12 milyar dolar nakit para ile 5 milyon Dolarlık altını yani yaklaşık 17 milyar doları, 7 araçla tünellerden Nijer'e verdiği belirtiliyor.Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde.Libya halkı da, bu paranın kendilerine ait olduğunu iddia ediyor.
+
+Kaddafi'nin kızı Ayşe, Libya lideri ve oğlu Mutassım'ın cenazelerinin kendilerine teslim edilmesini istedi. Ayşe, "BM, İslam İşbirliği Teşkilatı'na sesleniyorum; şehit cenazeleri Sirte'deki aşiretimize teslim edilmeli, islami gelenek ve kurallar uyarınca defnedeceğiz" dedi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿kaddafi'nin müthiş mirası olacak?
+
+işte son dönemde dünyanın merak önemli soru: muammer kaddafi öldü, büyük mirası olacak? devrik liderin toplam servetinin 168 dolar açıklandı.servetin büyük bölümü nakit para mücevherden oluşurken, dolarlık gayrimenkuller dikkat çekiyor. libya ulusal geçiş konseyi, kısmı dondurulan nakit servetin tamamına almak harekete geçti.
+
+başta abd ingiltere kaddafi'nin hesaplarının ülkelerin bankalarıyla temasa geçen ulusal geçiş konseyi, "bu parayı size vermemiz mümkün değil" yanıtını aldı.ancak bm kanunlarına göre, devrik liderlerin paralarının yeni yönetime devredilmesi gerekiyor.kaddafi'nin ağustos ayının sonunda trablus'taki karargahından ayrılırken, 12 dolar nakit para 5 dolarlık altını yaklaşık 17 doları, 7 araçla tünellerden nijer'e verdiği belirtiliyor.bu para şimdi eşi safiye, kızı ayşe hayatta kalan oğullarının kontrolünde.libya halkı da, paranın ait iddia ediyor.
+
+kaddafi'nin kızı ayşe, libya lideri oğlu mutassım'ın cenazelerinin teslim edilmesini istedi. ayşe, "bm, islam işbirliği teşkilatı'na sesleniyorum; şehit cenazeleri sirte'deki aşiretimize teslim edilmeli, islami gelenek kurallar uyarınca defnedeceğiz" dedi.
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿kaddafi'nin müthiş mirası olacak?
+
+PARAGRAPH: işte son dönemde dünyanın merak önemli soru: muammer kaddafi öldü, büyük mirası olacak? devrik liderin toplam servetinin 168 dolar açıklandı.servetin büyük bölümü nakit para mücevherden oluşurken, dolarlık gayrimenkuller dikkat çekiyor. libya ulusal geçiş konseyi, kısmı dondurulan nakit servetin tamamına almak harekete geçti.
+
+PARAGRAPH: başta abd ingiltere kaddafi'nin hesaplarının ülkelerin bankalarıyla temasa geçen ulusal geçiş konseyi, "bu parayı size vermemiz mümkün değil" yanıtını aldı.ancak bm kanunlarına göre, devrik liderlerin paralarının yeni yönetime devredilmesi gerekiyor.kaddafi'nin ağustos ayının sonunda trablus'taki karargahından ayrılırken, 12 dolar nakit para 5 dolarlık altını yaklaşık 17 doları, 7 araçla tünellerden nijer'e verdiği belirtiliyor.bu para şimdi eşi safiye, kızı ayşe hayatta kalan oğullarının kontrolünde.libya halkı da, paranın ait iddia ediyor.
+
+PARAGRAPH: kaddafi'nin kızı ayşe, libya lideri oğlu mutassım'ın cenazelerinin teslim edilmesini istedi. ayşe, "bm, islam işbirliği teşkilatı'na sesleniyorum; şehit cenazeleri sirte'deki aşiretimize teslim edilmeli, islami gelenek kurallar uyarınca defnedeceğiz" dedi.
+
+
+
+######Cümleler:######
+
+﻿kaddafi'nin müthiş mirası olacak?
+işte son dönemde dünyanın merak önemli soru:
+muammer kaddafi öldü, büyük mirası olacak?
+devrik liderin toplam servetinin 168 dolar açıklandı.
+servetin büyük bölümü nakit para mücevherden oluşurken, dolarlık gayrimenkuller dikkat çekiyor.
+libya ulusal geçiş konseyi, kısmı dondurulan nakit servetin tamamına almak harekete geçti.
+başta abd ingiltere kaddafi'nin hesaplarının ülkelerin bankalarıyla temasa geçen ulusal geçiş konseyi, "bu parayı size vermemiz mümkün değil" yanıtını aldı.
+ancak bm kanunlarına göre, devrik liderlerin paralarının yeni yönetime devredilmesi gerekiyor.
+kaddafi'nin ağustos ayının sonunda trablus'taki karargahından ayrılırken, 12 dolar nakit para 5 dolarlık altını yaklaşık 17 doları, 7 araçla tünellerden nijer'e verdiği belirtiliyor.
+bu para şimdi eşi safiye, kızı ayşe hayatta kalan oğullarının kontrolünde.
+libya halkı da, paranın ait iddia ediyor.
+kaddafi'nin kızı ayşe, libya lideri oğlu mutassım'ın cenazelerinin teslim edilmesini istedi.
+ayşe, "bm, islam işbirliği teşkilatı'na sesleniyorum; şehit cenazeleri sirte'deki aşiretimize teslim edilmeli, islami gelenek kurallar uyarınca defnedeceğiz" dedi.
+
+
+
+######Title######
+﻿kaddafi'nin müthiş mirası olacak?
+
+
+######Nouns of text:######
+[miras, olacak, iş, son, dönem, Dünya, merak, önem, soru, büyük, miras, olacak, lider, toplam, servet, do, büyük, bölüm, nakit, par, mücevher, dolar, gayrimenkul, dikkat, Libya, ulusal, konsey, kısım, nakit, servet, tamam, hareket, baş, ABD, İngiltere, hesap, ülke, banka, temas, ulusal, konsey, para, değil, yanıt, kanun, lider, para, yen, yönetim, ağustos, ayın, son, karargâh, do, nakit, par, dolar, altın, dolar, Araç, tünel, par, şimdi, eş, safi, kız, hayat, kala, oğul, halk, para, iddia, kız, Libya, lider, oğul, cenaze, teslim, İslam, işbirlik, teşkilât, şehit, cenaze, aşiret, teslim, İslâmî, gelenek, kural, uyarı]
+I|12:17:24.478|Parser ready: 1524ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:17:24.566|Cache ready: 1612ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[olmak, sorumak, ölmek, olmak, dolmak, oluşmak, çekmek, geçişmek, donmak, geçmek, geçmek, geçişmek, değmek, görmek, aymak, ayrılmak, dolmak, vermek, kalmak, etmek, istemek, seslenmek, etmek, uyarmak, defnetmek, demek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 536
+All chain size: 270
+Unique Chains: 74
+Chain Puan Eşik değeri:13
+Chain Strength Eşik değeri:0.6216216216216216
+Chain criterion değeri:2.4729236529236434
+Strong Chains: 4
+kız
+antonymy
+kız çocuk
+kız
+synonymy
+kız çocuk
+kız
+antonymy
+kız çocuk
+kız
+synonymy
+kız çocuk
+4
+34
+3.0
+
+
+oğul
+antonymy
+erkek çocuk
+oğul
+synonymy
+erkek çocuk
+oğul
+antonymy
+erkek çocuk
+oğul
+synonymy
+erkek çocuk
+4
+34
+3.0
+
+
+nakit
+related_with
+ekonomi
+nakit
+related_with
+ekonomi
+hesap
+related_with
+ekonomi
+para
+related_with
+ekonomi
+para
+related_with
+ekonomi
+nakit
+related_with
+ekonomi
+para
+related_with
+ekonomi
+7
+28
+4.0
+
+
+lider
+related_with
+siyaset
+konsey
+related_with
+siyaset
+konsey
+related_with
+siyaset
+lider
+related_with
+siyaset
+yönetim
+related_with
+siyaset
+lider
+related_with
+siyaset
+6
+24
+3.0
+
+
+[2, 3, 8, 10]
+#############Heuristic1 OUTPUT############
+2 : Devrik liderin toplam servetinin 168 milyar dolar olduğu açıklandı.
+3 : Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor.
+8 : Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde.
+10 : Kaddafi'nin kızı Ayşe, Libya lideri ve oğlu Mutassım'ın cenazelerinin kendilerine teslim edilmesini istedi.
+representative
+[nakit, para, kız, oğul, lider]
+#############Heuristic2 OUTPUT############
+Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor.
+Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde.
+#############Heuristic3 OUTPUT############
+2 : Devrik liderin toplam servetinin 168 milyar dolar olduğu açıklandı.
+3 : Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor.
+8 : Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde.
+10 : Kaddafi'nin kızı Ayşe, Libya lideri ve oğlu Mutassım'ın cenazelerinin kendilerine teslim edilmesini istedi.
+####################CLASS OF ORIGINAL TEXT################
+﻿Kaddafi'nin müthiş mirası ne olacak?
+
+İşte son dönemde dünyanın merak ettiği en önemli soru: Muammer Kaddafi öldü, büyük mirası ne olacak? Devrik liderin toplam servetinin 168 milyar dolar olduğu açıklandı.Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor. Libya Ulusal Geçiş Konseyi, bir kısmı dondurulan nakit ile servetin tamamına almak için harekete geçti.
+
+Başta ABD ve İngiltere olmak üzere Kaddafi'nin hesaplarının olduğu ülkelerin bankalarıyla temasa geçen Ulusal Geçiş Konseyi, "Bu parayı size vermemiz mümkün değil" yanıtını aldı.Ancak BM kanunlarına göre, devrik liderlerin paralarının yeni yönetime devredilmesi gerekiyor.Kaddafi'nin Ağustos ayının sonunda Trablus'taki karargahından ayrılırken, 12 milyar dolar nakit para ile 5 milyon Dolarlık altını yani yaklaşık 17 milyar doları, 7 araçla tünellerden Nijer'e verdiği belirtiliyor.Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde.Libya halkı da, bu paranın kendilerine ait olduğunu iddia ediyor.
+
+Kaddafi'nin kızı Ayşe, Libya lideri ve oğlu Mutassım'ın cenazelerinin kendilerine teslim edilmesini istedi. Ayşe, "BM, İslam İşbirliği Teşkilatı'na sesleniyorum; şehit cenazeleri Sirte'deki aşiretimize teslim edilmeli, islami gelenek ve kurallar uyarınca defnedeceğiz" dedi.
+
+
+
+
+
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Kaddafi\'nin müthiş mirası ne olacak?\n\nİşte son dönemde dünyanın merak ettiği en önemli soru: Muammer Kaddafi öldü, büyük mirası ne olacak? Devrik liderin toplam servetinin 168 milyar dolar olduğu açıklandı.Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor. Libya Ulusal Geçiş Konseyi, bir kısmı dondurulan nakit ile servetin tamamına almak için harekete geçti.\n\nBaşta ABD ve İngiltere olmak üzere Kaddafi\'nin hesaplarının olduğu ülkelerin bankalarıyla temasa geçen Ulusal Geçiş Konseyi, \"Bu parayı size vermemiz mümkün değil\" yanıtını aldı.Ancak BM kanunlarına göre, devrik liderlerin paralarının yeni yönetime devredilmesi gerekiyor.Kaddafi\'nin Ağustos ayının sonunda Trablus\'taki karargahından ayrılırken, 12 milyar dolar nakit para ile 5 milyon Dolarlık altını yani yaklaşık 17 milyar doları, 7 araçla tünellerden Nijer\'e verdiği belirtiliyor.Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde.Libya halkı da, bu paranın kendilerine ait olduğunu iddia ediyor.\n\nKaddafi\'nin kızı Ayşe, Libya lideri ve oğlu Mutassım\'ın cenazelerinin kendilerine teslim edilmesini istedi. Ayşe, \"BM, İslam İşbirliği Teşkilatı\'na sesleniyorum; şehit cenazeleri Sirte\'deki aşiretimize teslim edilmeli, islami gelenek ve kurallar uyarınca defnedeceğiz\" dedi.\n\n\n\n\n\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi
+###################CLASS OF SUMMARY#######################
+[2 : Devrik liderin toplam servetinin 168 milyar dolar olduğu açıklandı., 3 : Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor., 8 : Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde., 10 : Kaddafi'nin kızı Ayşe, Libya lideri ve oğlu Mutassım'ın cenazelerinin kendilerine teslim edilmesini istedi.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[2 : Devrik liderin toplam servetinin 168 milyar dolar olduğu açıklandı., 3 : Servetin büyük bir bölümü nakit para ve mücevherden oluşurken, milyar dolarlık gayrimenkuller de dikkat çekiyor., 8 : Bu para şimdi eşi Safiye, kızı Ayşe ve hayatta kalan oğullarının kontrolünde., 10 : Kaddafi\'nin kızı Ayşe, Libya lideri ve oğlu Mutassım\'ın cenazelerinin kendilerine teslim edilmesini istedi.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

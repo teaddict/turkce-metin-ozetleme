@@ -1,0 +1,9 @@
+Java açığına güncelleme geldi
+Oracle'ın sahibi olduğu Java yazılımında keşfedilen son açık güncellemeyle giderildi.
+Birkaç gündür uzmanlar "Java yazılımını pasifize edin" şeklinde kullanıcılara uyarıda bulunuyordu; zira tespit edilen son açık nedeniyle üçüncü kişilerin bilgisayara sızmasının mümkün olduğu tespit edilmişti.
+
+Oracle bu kez erken davranarak güncellemeyi çok geçmeden yayınladı. Böylece kullanıcıların Java uygulamasını kapatmasına gerek kalmadı.
+
+JAVA NEDİR
+
+Bir programlama dili olan Java, yazılımcıların bir dizi kodu bilgisayar ve sanal makineler için geliştirmesine olanak veriyor. Daha çok internet sitelerinde kullanılan Java, en yaygın programlama dillerinden biri. Oracle, yaptığı açıklamada Java'nın bilgisayarların yüzde 97'sinde bulunduğunu vurgulamıştı.

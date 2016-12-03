@@ -1,0 +1,231 @@
+I|12:09:38.138|Parser ready: 2574ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:09:38.477|Cache ready: 2931ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+Genç Bakış'ta olaylı gece
+
+KANAL D'de yayınlanan yazarımız Abbas Güçlü'nün hazırlayıp sunduğu "Genç Bakış" programının dün akşam Ankara ODTÜ'den yaptığı canlı yayın sırasında dışarıda bekleyen sağ ve sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, bazı öğrenciler gözaltına alındı. Jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.
+
+Abbas Güçlü'nün sunduğu "Genç Bakış" programına dün akşam Ankara'da ODTÜ Kültür ve Kongre Merkezi'nde gerçekleşti. Programı Tunceli Bağımsız Milletvekili Kamer Genç, Kültür eski Bakanı Fikri Sağlar, MHP Milletvekili Tuğrul Türkeş, AKP Balıkesir eski Milletvekili Turan Çömez konuk olarak katıldı. Kanal D'den canlı yayınlanan programda konuklar, "Parti içi demokrasi" konusunu tartıştı. Konukların bulunduğu salona öğrenci alınmadı. Konuklar, sıra ile görüşlerini açıklarken, programı kampusta izleyen sol ve sol görüşlü öğrenciler merkez önünde toplandı. Konuklara tepki gösteren ve canlı yayını kesmek üzere link aracına yönelen bir grup öğrenciye karşıt görüşlü diğer öğrenci grubu müdahale etti. 
+
+İki öğrenci grubu arasında ve özel güvenlik görevlilerinin yanısıra jandarma ekiplerinin kısa sürede müdaha ettiği kavgada, yaralanan 1 öğrenci hastaneye kaldırıldı. Kavgaya karıştıkları belirlenen bazı öğrenciler ise gözaltına alındı. Bu arada konukların birer kez konuşmasının ardından programa reklam arası verildi. Çıkan olaylar nedeniyle aradan sonra program tekrar yayına gelmedi.
+
+
+
+######Clean text file:######
+genç bakış'ta olaylı gece
+
+kanal d'de yayınlanan yazarımız abbas güçlü'nün hazırlayıp sunduğu "genç bakış" programının dün akşam ankara odtü'den canlı yayın sırasında dışarıda bekleyen sağ sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, öğrenciler gözaltına alındı. jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.
+
+abbas güçlü'nün sunduğu "genç bakış" programına dün akşam ankara'da odtü kültür kongre merkezi'nde gerçekleşti. programı tunceli bağımsız milletvekili kamer genç, kültür eski bakanı fikri sağlar, mhp milletvekili tuğrul türkeş, akp balıkesir eski milletvekili turan çömez konuk katıldı. kanal d'den canlı yayınlanan programda konuklar, "parti içi demokrasi" konusunu tartıştı. konukların bulunduğu salona öğrenci alınmadı. konuklar, sıra görüşlerini açıklarken, programı kampusta izleyen sol sol görüşlü öğrenciler merkez önünde toplandı. konuklara tepki gösteren canlı yayını kesmek link aracına yönelen grup öğrenciye karşıt görüşlü öğrenci grubu müdahale etti. 
+
+iki öğrenci grubu arasında özel güvenlik görevlilerinin yanısıra jandarma ekiplerinin kısa sürede müdaha kavgada, yaralanan 1 öğrenci hastaneye kaldırıldı. kavgaya karıştıkları belirlenen öğrenciler gözaltına alındı. konukların birer konuşmasının ardından programa reklam arası verildi. çıkan olaylar nedeniyle aradan sonra program tekrar yayına gelmedi.
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: genç bakış'ta olaylı gece
+
+PARAGRAPH: kanal d'de yayınlanan yazarımız abbas güçlü'nün hazırlayıp sunduğu "genç bakış" programının dün akşam ankara odtü'den canlı yayın sırasında dışarıda bekleyen sağ sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, öğrenciler gözaltına alındı. jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.
+
+PARAGRAPH: abbas güçlü'nün sunduğu "genç bakış" programına dün akşam ankara'da odtü kültür kongre merkezi'nde gerçekleşti. programı tunceli bağımsız milletvekili kamer genç, kültür eski bakanı fikri sağlar, mhp milletvekili tuğrul türkeş, akp balıkesir eski milletvekili turan çömez konuk katıldı. kanal d'den canlı yayınlanan programda konuklar, "parti içi demokrasi" konusunu tartıştı. konukların bulunduğu salona öğrenci alınmadı. konuklar, sıra görüşlerini açıklarken, programı kampusta izleyen sol sol görüşlü öğrenciler merkez önünde toplandı. konuklara tepki gösteren canlı yayını kesmek link aracına yönelen grup öğrenciye karşıt görüşlü öğrenci grubu müdahale etti. 
+
+PARAGRAPH: iki öğrenci grubu arasında özel güvenlik görevlilerinin yanısıra jandarma ekiplerinin kısa sürede müdaha kavgada, yaralanan 1 öğrenci hastaneye kaldırıldı. kavgaya karıştıkları belirlenen öğrenciler gözaltına alındı. konukların birer konuşmasının ardından programa reklam arası verildi. çıkan olaylar nedeniyle aradan sonra program tekrar yayına gelmedi.
+
+
+
+######Cümleler:######
+
+genç bakış'ta olaylı gece
+
+kanal d'de yayınlanan yazarımız abbas güçlü'nün hazırlayıp sunduğu "genç bakış" programının dün akşam ankara odtü'den canlı yayın sırasında dışarıda bekleyen sağ sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, öğrenciler gözaltına alındı.
+jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.
+abbas güçlü'nün sunduğu "genç bakış" programına dün akşam ankara'da odtü kültür kongre merkezi'nde gerçekleşti.
+programı tunceli bağımsız milletvekili kamer genç, kültür eski bakanı fikri sağlar, mhp milletvekili tuğrul türkeş, akp balıkesir eski milletvekili turan çömez konuk katıldı.
+kanal d'den canlı yayınlanan programda konuklar, "parti içi demokrasi" konusunu tartıştı.
+konukların bulunduğu salona öğrenci alınmadı.
+konuklar, sıra görüşlerini açıklarken, programı kampusta izleyen sol sol görüşlü öğrenciler merkez önünde toplandı.
+konuklara tepki gösteren canlı yayını kesmek link aracına yönelen grup öğrenciye karşıt görüşlü öğrenci grubu müdahale etti.
+iki öğrenci grubu arasında özel güvenlik görevlilerinin yanısıra jandarma ekiplerinin kısa sürede müdaha kavgada, yaralanan 1 öğrenci hastaneye kaldırıldı.
+kavgaya karıştıkları belirlenen öğrenciler gözaltına alındı.
+konukların birer konuşmasının ardından programa reklam arası verildi.
+çıkan olaylar nedeniyle aradan sonra program tekrar yayına gelmedi.
+
+
+
+######Title######
+genç bakış'ta olaylı gece
+
+
+######Nouns of text:######
+[Genç, bakış, olay, Ge, kanal, yazar, güçlü, Genç, bakış, program, dü, akşam, Ankara, can, Yay, sıra, dışarı, sağ, sol, görüş, öğrenci, ara, çıkan, kavga, kişi, öğrenci, gözaltı, alındı, jandarma, müdahale, kavga, ara, sonra, deva, güçlü, Genç, bakış, program, dü, akşam, Ankara, kültür, kongre, merkezî, program, Tunceli, bağım, milletvekil, kamer, Genç, kültür, eski, bakan, fikir, sağ, milletvekil, Balıkesir, eski, milletvekil, tura, çömez, konuk, kanal, can, program, konuk, parti, iç, demokrasi, konu, konuk, salon, öğrenci, konuk, sır, görüş, program, kampus, sol, sol, görüş, öğrenci, merkez, ön, konuk, tepki, gösteren, can, yayın, link, aracı, grup, öğrenci, karşıt, görüş, öğrenci, grup, müdahale, öğrenci, grup, ara, güven, görev, jandarma, ekip, kısa, süre, kavga, öğrenci, hastane, kavga, öğrenci, gözaltı, alındı, konuk, art, program, reklâm, ara, çıkan, olay, neden, ara, sonra, program, tekrar, yayın]
+I|12:09:39.881|Parser ready: 1295ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:09:39.967|Cache ready: 1382ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[yayınlamak, hazırlamak, sunmak, bakışmak, yaymak, beklemek, sağmak, solmak, çıkmak, yaralamak, alınmak, büyümek, önlemek, vermek, etmek, sunmak, bakışmak, gerçek, eskimek, sağlamak, eskimek, katılmak, yayınlamak, konuklamak, tartışmak, bulunmak, alınmak, konuklamak, açıklamak, izlemek, solmak, solmak, toplamak, tepkimek, göstermek, yönelmek, etmek, kısmak, yaralamak, kaldırmak, karışmak, belirlemek, alınmak, vermek, çıkmak, yaymak, gelmek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 577
+All chain size: 217
+Unique Chains: 59
+Chain Puan Eşik değeri:19
+Chain Strength Eşik değeri:1.3220338983050848
+Chain criterion değeri:6.5741931374532765
+Strong Chains: 2
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+öğrenci
+synonymy
+şakirt
+9
+90
+8.0
+
+
+can
+synonymy
+kişi
+öğrenci
+hypernymy
+kişi
+kişi
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+jandarma
+hypernymy
+kişi
+çömez
+hypernymy
+kişi
+konuk
+hypernymy
+kişi
+can
+synonymy
+kişi
+konuk
+hypernymy
+kişi
+konuk
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+konuk
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+konuk
+hypernymy
+kişi
+can
+synonymy
+kişi
+aracı
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+jandarma
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+öğrenci
+hypernymy
+kişi
+konuk
+hypernymy
+kişi
+23
+110
+16.0
+
+
+[0, 1]
+#############Heuristic1 OUTPUT############
+0 : KANAL D'de yayınlanan yazarımız Abbas Güçlü'nün hazırlayıp sunduğu "Genç Bakış" programının dün akşam Ankara ODTÜ'den yaptığı canlı yayın sırasında dışarıda bekleyen sağ ve sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, bazı öğrenciler gözaltına alındı.
+1 : Jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.
+representative
+[konuk, öğrenci]
+#############Heuristic2 OUTPUT############
+KANAL D'de yayınlanan yazarımız Abbas Güçlü'nün hazırlayıp sunduğu "Genç Bakış" programının dün akşam Ankara ODTÜ'den yaptığı canlı yayın sırasında dışarıda bekleyen sağ ve sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, bazı öğrenciler gözaltına alındı.
+Konukların bulunduğu salona öğrenci alınmadı.
+#############Heuristic3 OUTPUT############
+1 : Jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.
+10 : Kavgaya karıştıkları belirlenen bazı öğrenciler ise gözaltına alındı.
+####################CLASS OF ORIGINAL TEXT################
+Genç Bakış'ta olaylı gece
+
+KANAL D'de yayınlanan yazarımız Abbas Güçlü'nün hazırlayıp sunduğu "Genç Bakış" programının dün akşam Ankara ODTÜ'den yaptığı canlı yayın sırasında dışarıda bekleyen sağ ve sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, bazı öğrenciler gözaltına alındı. Jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.
+
+Abbas Güçlü'nün sunduğu "Genç Bakış" programına dün akşam Ankara'da ODTÜ Kültür ve Kongre Merkezi'nde gerçekleşti. Programı Tunceli Bağımsız Milletvekili Kamer Genç, Kültür eski Bakanı Fikri Sağlar, MHP Milletvekili Tuğrul Türkeş, AKP Balıkesir eski Milletvekili Turan Çömez konuk olarak katıldı. Kanal D'den canlı yayınlanan programda konuklar, "Parti içi demokrasi" konusunu tartıştı. Konukların bulunduğu salona öğrenci alınmadı. Konuklar, sıra ile görüşlerini açıklarken, programı kampusta izleyen sol ve sol görüşlü öğrenciler merkez önünde toplandı. Konuklara tepki gösteren ve canlı yayını kesmek üzere link aracına yönelen bir grup öğrenciye karşıt görüşlü diğer öğrenci grubu müdahale etti. 
+
+İki öğrenci grubu arasında ve özel güvenlik görevlilerinin yanısıra jandarma ekiplerinin kısa sürede müdaha ettiği kavgada, yaralanan 1 öğrenci hastaneye kaldırıldı. Kavgaya karıştıkları belirlenen bazı öğrenciler ise gözaltına alındı. Bu arada konukların birer kez konuşmasının ardından programa reklam arası verildi. Çıkan olaylar nedeniyle aradan sonra program tekrar yayına gelmedi.
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'Genç Bakış\'ta olaylı gece\n\nKANAL D\'de yayınlanan yazarımız Abbas Güçlü\'nün hazırlayıp sunduğu \"Genç Bakış\" programının dün akşam Ankara ODTÜ\'den yaptığı canlı yayın sırasında dışarıda bekleyen sağ ve sol görüşlü öğrenciler arasında çıkan kavgada 1 kişi yaralandı, bazı öğrenciler gözaltına alındı. Jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi.\n\nAbbas Güçlü\'nün sunduğu \"Genç Bakış\" programına dün akşam Ankara\'da ODTÜ Kültür ve Kongre Merkezi\'nde gerçekleşti. Programı Tunceli Bağımsız Milletvekili Kamer Genç, Kültür eski Bakanı Fikri Sağlar, MHP Milletvekili Tuğrul Türkeş, AKP Balıkesir eski Milletvekili Turan Çömez konuk olarak katıldı. Kanal D\'den canlı yayınlanan programda konuklar, \"Parti içi demokrasi\" konusunu tartıştı. Konukların bulunduğu salona öğrenci alınmadı. Konuklar, sıra ile görüşlerini açıklarken, programı kampusta izleyen sol ve sol görüşlü öğrenciler merkez önünde toplandı. Konuklara tepki gösteren ve canlı yayını kesmek üzere link aracına yönelen bir grup öğrenciye karşıt görüşlü diğer öğrenci grubu müdahale etti. \n\nİki öğrenci grubu arasında ve özel güvenlik görevlilerinin yanısıra jandarma ekiplerinin kısa sürede müdaha ettiği kavgada, yaralanan 1 öğrenci hastaneye kaldırıldı. Kavgaya karıştıkları belirlenen bazı öğrenciler ise gözaltına alındı. Bu arada konukların birer kez konuşmasının ardından programa reklam arası verildi. Çıkan olaylar nedeniyle aradan sonra program tekrar yayına gelmedi.\n'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi
+###################CLASS OF SUMMARY#######################
+[1 : Jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi., 10 : Kavgaya karıştıkları belirlenen bazı öğrenciler ise gözaltına alındı.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[1 : Jandarmanın müdahalesiyle kavga büyümeden önlenirken, progrma verilen aradan sonra devam edilmedi., 10 : Kavgaya karıştıkları belirlenen bazı öğrenciler ise gözaltına alındı.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

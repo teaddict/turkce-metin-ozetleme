@@ -1,0 +1,382 @@
+I|12:13:26.913|Parser ready: 2524ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:13:27.261|Cache ready: 2890ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+Hükümet kolları sıvadı
+
+Van'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar da kolları sıvadı.
+
+VAN'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi. 23 Ekim'den itibaren verilmesi gereken tüm beyannamelerle bildirimlerin süreleri ileride belirlenecek bir tarihe kadar, mücbir sebep halinin başladığı 23 Ekim 2011'den önce tahakkuk etmiş olup, vadesi bu tarihten sonrasına rastlayan her türlü vergi, ceza ve gecikme faizinin ödeme süresi ileride belirlenecek bir tarihe kadar uzatıldı.
+
+ÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı. Açıklamada şöyle denildi: "İşyerleri hasara uğrayan işverenlerimiz ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarımızın geçmiş prim borçlarıyla deprem tarihinden itibaren 3 aylık sürede tahakkuk edecek prim borçları 1 yıl süreyle ertelendi." BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van'daki depremzedelere Ziraat Bankası ile Halk Bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.Hükümetin depremin yaralarını sarmak için her türlü gayreti gösterdiğini ifade eden Babacan, "Depremden zarar gören çiftçilerimiz Ziraat Bankaları şubelerine başvurmaları halinde borçları ertelenecek ve halk Bankasına borcu olan esnafımızın da başvuruları halinde borçlarının süresi uzatılacak" dedi.
+
+TÜRKİYE Bankalar Birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı.Akbank ve HSBC, Van ve Erciş'teki deprem mağduru müşterilerinin, talep etmeleri halinde bireysel ve ticari kredi taksit ve ödemelerini 3 ay erteleyecek.Akbank Genel Müdürü Ziya Akkurt, "Amacımız, küçük de olsa bir destek vererek deprem mağduru Vanlılar'ın rahat nefes almalarını sağlamak" dedi. Depremin sıkıntılarını hafifletebilmek için bu uygulamayı hayata geçirdiklerini belirten HSBC Bank Türkiye Genel Müdürü Martin Spurling, "Deprem mağdurlarının acil bankacılık ihtiyaçlarını karşılamak amacıyla hazırladığımız özel çözümleri en kısa zamanda hayata geçireceğiz" dedi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######Clean text file:######
+hükümet kolları sıvadı
+
+van'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar kolları sıvadı.
+
+van'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi. 23 ekim'den verilmesi gereken beyannamelerle bildirimlerin süreleri ileride belirlenecek tarihe kadar, mücbir sebep halinin başladığı 23 ekim 2011'den önce tahakkuk etmiş olup, vadesi tarihten sonrasına rastlayan türlü vergi, ceza gecikme faizinin ödeme süresi ileride belirlenecek tarihe uzatıldı.
+
+çalışma sosyal güvenlik bakanlığı, van'daki depremde işyerleri hasara uğrayan işverenler nam hesabına çalışan (bağ-kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı. açıklamada denildi: "işyerleri hasara uğrayan işverenlerimiz nam hesabına çalışan (bağ-kur) sigortalılarımızın geçmiş prim borçlarıyla deprem tarihinden 3 aylık sürede tahakkuk prim borçları 1 yıl süreyle ertelendi." başbakan başbakan yardımcısı ali babacan, van'daki depremzedelere ziraat bankası halk bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.hükümetin depremin yaralarını sarmak türlü gayreti gösterdiğini ifade babacan, "depremden zarar gören çiftçilerimiz ziraat bankaları şubelerine başvurmaları halinde borçları ertelenecek halk bankasına borcu esnafımızın başvuruları halinde borçlarının süresi uzatılacak" dedi.
+
+türkiye bankalar birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı.akbank hsbc, van erciş'teki deprem mağduru müşterilerinin, talep etmeleri halinde bireysel ticari kredi taksit ödemelerini 3 ay erteleyecek.akbank genel müdürü ziya akkurt, "amacımız, küçük destek vererek deprem mağduru vanlılar'ın rahat nefes almalarını sağlamak" dedi. depremin sıkıntılarını hafifletebilmek uygulamayı hayata geçirdiklerini belirten hsbc bank türkiye genel müdürü martin spurling, "deprem mağdurlarının acil bankacılık ihtiyaçlarını karşılamak amacıyla hazırladığımız özel çözümleri kısa zamanda hayata geçireceğiz" dedi.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: hükümet kolları sıvadı
+
+PARAGRAPH: van'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar kolları sıvadı.
+
+PARAGRAPH: van'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi. 23 ekim'den verilmesi gereken beyannamelerle bildirimlerin süreleri ileride belirlenecek tarihe kadar, mücbir sebep halinin başladığı 23 ekim 2011'den önce tahakkuk etmiş olup, vadesi tarihten sonrasına rastlayan türlü vergi, ceza gecikme faizinin ödeme süresi ileride belirlenecek tarihe uzatıldı.
+
+PARAGRAPH: çalışma sosyal güvenlik bakanlığı, van'daki depremde işyerleri hasara uğrayan işverenler nam hesabına çalışan (bağ-kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı. açıklamada denildi: "işyerleri hasara uğrayan işverenlerimiz nam hesabına çalışan (bağ-kur) sigortalılarımızın geçmiş prim borçlarıyla deprem tarihinden 3 aylık sürede tahakkuk prim borçları 1 yıl süreyle ertelendi." başbakan başbakan yardımcısı ali babacan, van'daki depremzedelere ziraat bankası halk bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.hükümetin depremin yaralarını sarmak türlü gayreti gösterdiğini ifade babacan, "depremden zarar gören çiftçilerimiz ziraat bankaları şubelerine başvurmaları halinde borçları ertelenecek halk bankasına borcu esnafımızın başvuruları halinde borçlarının süresi uzatılacak" dedi.
+
+PARAGRAPH: türkiye bankalar birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı.akbank hsbc, van erciş'teki deprem mağduru müşterilerinin, talep etmeleri halinde bireysel ticari kredi taksit ödemelerini 3 ay erteleyecek.akbank genel müdürü ziya akkurt, "amacımız, küçük destek vererek deprem mağduru vanlılar'ın rahat nefes almalarını sağlamak" dedi. depremin sıkıntılarını hafifletebilmek uygulamayı hayata geçirdiklerini belirten hsbc bank türkiye genel müdürü martin spurling, "deprem mağdurlarının acil bankacılık ihtiyaçlarını karşılamak amacıyla hazırladığımız özel çözümleri kısa zamanda hayata geçireceğiz" dedi.
+
+
+
+######Cümleler:######
+
+hükümet kolları sıvadı
+
+van'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar kolları sıvadı.
+van'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi.
+23 ekim'den verilmesi gereken beyannamelerle bildirimlerin süreleri ileride belirlenecek tarihe kadar, mücbir sebep halinin başladığı 23 ekim 2011'den önce tahakkuk etmiş olup, vadesi tarihten sonrasına rastlayan türlü vergi, ceza gecikme faizinin ödeme süresi ileride belirlenecek tarihe uzatıldı.
+çalışma sosyal güvenlik bakanlığı, van'daki depremde işyerleri hasara uğrayan işverenler nam hesabına çalışan (bağ-kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı.
+açıklamada denildi:
+"işyerleri hasara uğrayan işverenlerimiz nam hesabına çalışan (bağ-kur) sigortalılarımızın geçmiş prim borçlarıyla deprem tarihinden 3 aylık sürede tahakkuk prim borçları 1 yıl süreyle ertelendi.
+" başbakan başbakan yardımcısı ali babacan, van'daki depremzedelere ziraat bankası halk bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.
+hükümetin depremin yaralarını sarmak türlü gayreti gösterdiğini ifade babacan, "depremden zarar gören çiftçilerimiz ziraat bankaları şubelerine başvurmaları halinde borçları ertelenecek halk bankasına borcu esnafımızın başvuruları halinde borçlarının süresi uzatılacak" dedi.
+türkiye bankalar birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı.
+akbank hsbc, van erciş'teki deprem mağduru müşterilerinin, talep etmeleri halinde bireysel ticari kredi taksit ödemelerini 3 ay erteleyecek.
+akbank genel müdürü ziya akkurt, "amacımız, küçük destek vererek deprem mağduru vanlılar'ın rahat nefes almalarını sağlamak" dedi.
+depremin sıkıntılarını hafifletebilmek uygulamayı hayata geçirdiklerini belirten hsbc bank türkiye genel müdürü martin spurling, "deprem mağdurlarının acil bankacılık ihtiyaçlarını karşılamak amacıyla hazırladığımız özel çözümleri kısa zamanda hayata geçireceğiz" dedi.
+
+
+
+######Title######
+hükümet kolları sıvadı
+
+
+######Nouns of text:######
+[hükümet, kol, Van, meydan, gele, şiddet, deprem, hasar, yara, sarma, çaba, çerçeve, çeşit, bakanlık, kol, Van, meydan, gele, deprem, neden, il, tamam, vergi, bakım, sebep, hâl, ilân, ekim, beyanname, bildirim, süre, ileri, tarih, sebep, hâl, ek, de, ön, tahakkuk, vade, tarih, sonra, tür, vergi, ceza, faiz, ödem, süre, ileri, tarih, sosyal, güven, bakanlık, Van, deprem, işyer, hasar, işveren, Na, hesap, çalışan, bağkur, sigorta, geçmiş, prim, borç, deprem, tarih, ay, süre, prim, borç, yıl, süre, açıklama, işyer, hasar, işveren, Na, hesap, çalışan, bağkur, sigorta, geçmiş, prim, borç, deprem, tarih, ay, süre, tahakkuk, prim, borç, yıl, süre, başbakan, başbakan, yardım, Van, depremzede, ziraat, banka, halk, banka, borç, kişi, kolay, deprem, yara, tür, gayret, ifade, deprem, zarar, göre, çiftçi, ziraat, banka, şube, hâl, borç, halk, banka, borç, esnaf, başvuru, hâl, borç, süre, Türki, banka, birlik, deprem, neden, ödem, güç, müşteri, borç, kolay, konu, üye, duyuru, Van, Erciş, deprem, mağdur, müşteri, talep, hâl, birey, ticarî, kredi, taksit, ay, müdür, ziya, amaç, küçük, destek, deprem, mağdur, Van, rahat, nefes, deprem, sıkıntı, hayat, belirten, bank, Türki, müdür, martin, deprem, mağdur, banka, ihtiyaç, amaç, çözüm, kısa, zaman, hayat]
+I|12:13:28.739|Parser ready: 1359ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:13:28.823|Cache ready: 1443ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[sıvamak, gelmek, yaratmak, sarmak, sıvamak, gelmek, ilmek, etmek, gerekmek, belirlemek, başlamak, denmek, etmek, olmak, rastlamak, gecikmek, ödemek, sürmek, belirlemek, uzatmak, çalışmak, uğramak, çalışmak, geçmek, oluşmak, yılmak, ertelemek, açıklamak, demek, uğramak, çalışmak, geçmek, yılmak, ertelemek, göstermek, görmek, ertelemek, sürmek, uzatmak, demek, ödemek, etkilemek, aymak, genelmek, vermek, demek, geçirmek, belirtmek, genelmek, hazırlamak, kısmak, geçirmek, demek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 610
+All chain size: 409
+Unique Chains: 119
+Chain Puan Eşik değeri:19
+Chain Strength Eşik değeri:1.0336134453781514
+Chain criterion değeri:4.662931719296069
+Strong Chains: 6
+hâl
+synonymy
+durum
+hâl
+synonymy
+durum
+hâl
+synonymy
+durum
+hâl
+synonymy
+durum
+birlik
+antonymy
+durum
+hâl
+synonymy
+durum
+rahat
+antonymy
+durum
+rahat
+state_of
+durum
+8
+64
+5.0
+
+
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+banka
+synonymy
+iskonto
+6
+60
+5.0
+
+
+meydan
+hypernymy
+yer
+bakanlık
+hypernymy
+yer
+meydan
+hypernymy
+yer
+ileri
+hypernymy
+yer
+ön
+hypernymy
+yer
+ön
+antonymy
+yer
+ileri
+hypernymy
+yer
+bakanlık
+hypernymy
+yer
+banka
+hypernymy
+yer
+banka
+hypernymy
+yer
+banka
+hypernymy
+yer
+banka
+hypernymy
+yer
+banka
+hypernymy
+yer
+banka
+hypernymy
+yer
+14
+59
+9.0
+
+
+vergi
+related_with
+ekonomi
+vergi
+related_with
+ekonomi
+faiz
+related_with
+ekonomi
+hesap
+related_with
+ekonomi
+prim
+related_with
+ekonomi
+prim
+related_with
+ekonomi
+hesap
+related_with
+ekonomi
+prim
+related_with
+ekonomi
+prim
+related_with
+ekonomi
+kredi
+related_with
+ekonomi
+10
+40
+5.0
+
+
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+deprem
+synonymy
+yersarsıntısı
+12
+120
+11.0
+
+
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+borç
+synonymy
+vecibe
+9
+90
+8.0
+
+
+[0, 1, 2, 3, 5, 6]
+#############Heuristic1 OUTPUT############
+0 : Van'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar da kolları sıvadı.
+1 : VAN'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi.
+2 : 23 Ekim'den itibaren verilmesi gereken tüm beyannamelerle bildirimlerin süreleri ileride belirlenecek bir tarihe kadar, mücbir sebep halinin başladığı 23 Ekim 2011'den önce tahakkuk etmiş olup, vadesi bu tarihten sonrasına rastlayan her türlü vergi, ceza ve gecikme faizinin ödeme süresi ileride belirlenecek bir tarihe kadar uzatıldı.
+3 : ÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı.
+5 : "İşyerleri hasara uğrayan işverenlerimiz ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarımızın geçmiş prim borçlarıyla deprem tarihinden itibaren 3 aylık sürede tahakkuk edecek prim borçları 1 yıl süreyle ertelendi.
+6 : " BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van'daki depremzedelere Ziraat Bankası ile Halk Bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.
+representative
+[hâl, banka, prim]
+#############Heuristic2 OUTPUT############
+Van'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar da kolları sıvadı.
+ÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı.
+" BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van'daki depremzedelere Ziraat Bankası ile Halk Bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.
+#############Heuristic3 OUTPUT############
+1 : VAN'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi.
+2 : 23 Ekim'den itibaren verilmesi gereken tüm beyannamelerle bildirimlerin süreleri ileride belirlenecek bir tarihe kadar, mücbir sebep halinin başladığı 23 Ekim 2011'den önce tahakkuk etmiş olup, vadesi bu tarihten sonrasına rastlayan her türlü vergi, ceza ve gecikme faizinin ödeme süresi ileride belirlenecek bir tarihe kadar uzatıldı.
+3 : ÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı.
+6 : " BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van'daki depremzedelere Ziraat Bankası ile Halk Bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.
+8 : TÜRKİYE Bankalar Birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı.
+10 : Akbank Genel Müdürü Ziya Akkurt, "Amacımız, küçük de olsa bir destek vererek deprem mağduru Vanlılar'ın rahat nefes almalarını sağlamak" dedi.
+####################CLASS OF ORIGINAL TEXT################
+Hükümet kolları sıvadı
+
+Van'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar da kolları sıvadı.
+
+VAN'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi. 23 Ekim'den itibaren verilmesi gereken tüm beyannamelerle bildirimlerin süreleri ileride belirlenecek bir tarihe kadar, mücbir sebep halinin başladığı 23 Ekim 2011'den önce tahakkuk etmiş olup, vadesi bu tarihten sonrasına rastlayan her türlü vergi, ceza ve gecikme faizinin ödeme süresi ileride belirlenecek bir tarihe kadar uzatıldı.
+
+ÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı. Açıklamada şöyle denildi: "İşyerleri hasara uğrayan işverenlerimiz ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarımızın geçmiş prim borçlarıyla deprem tarihinden itibaren 3 aylık sürede tahakkuk edecek prim borçları 1 yıl süreyle ertelendi." BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van'daki depremzedelere Ziraat Bankası ile Halk Bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi.Hükümetin depremin yaralarını sarmak için her türlü gayreti gösterdiğini ifade eden Babacan, "Depremden zarar gören çiftçilerimiz Ziraat Bankaları şubelerine başvurmaları halinde borçları ertelenecek ve halk Bankasına borcu olan esnafımızın da başvuruları halinde borçlarının süresi uzatılacak" dedi.
+
+TÜRKİYE Bankalar Birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı.Akbank ve HSBC, Van ve Erciş'teki deprem mağduru müşterilerinin, talep etmeleri halinde bireysel ve ticari kredi taksit ve ödemelerini 3 ay erteleyecek.Akbank Genel Müdürü Ziya Akkurt, "Amacımız, küçük de olsa bir destek vererek deprem mağduru Vanlılar'ın rahat nefes almalarını sağlamak" dedi. Depremin sıkıntılarını hafifletebilmek için bu uygulamayı hayata geçirdiklerini belirten HSBC Bank Türkiye Genel Müdürü Martin Spurling, "Deprem mağdurlarının acil bankacılık ihtiyaçlarını karşılamak amacıyla hazırladığımız özel çözümleri en kısa zamanda hayata geçireceğiz" dedi.
+
+
+
+
+
+
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'Hükümet kolları sıvadı\n\nVan\'da meydan gelen 7.2 şiddetindeki depremin yarattığı ekonomik hasarın yaralarını sarma çabaları çerçevesinde, çeşitli bakanlıklar da kolları sıvadı.\n\nVAN\'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi. 23 Ekim\'den itibaren verilmesi gereken tüm beyannamelerle bildirimlerin süreleri ileride belirlenecek bir tarihe kadar, mücbir sebep halinin başladığı 23 Ekim 2011\'den önce tahakkuk etmiş olup, vadesi bu tarihten sonrasına rastlayan her türlü vergi, ceza ve gecikme faizinin ödeme süresi ileride belirlenecek bir tarihe kadar uzatıldı.\n\nÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van\'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı. Açıklamada şöyle denildi: \"İşyerleri hasara uğrayan işverenlerimiz ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarımızın geçmiş prim borçlarıyla deprem tarihinden itibaren 3 aylık sürede tahakkuk edecek prim borçları 1 yıl süreyle ertelendi.\" BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van\'daki depremzedelere Ziraat Bankası ile Halk Bankası\'na borçlu kişilere kolaylık sağlanacağını bildirdi.Hükümetin depremin yaralarını sarmak için her türlü gayreti gösterdiğini ifade eden Babacan, \"Depremden zarar gören çiftçilerimiz Ziraat Bankaları şubelerine başvurmaları halinde borçları ertelenecek ve halk Bankasına borcu olan esnafımızın da başvuruları halinde borçlarının süresi uzatılacak\" dedi.\n\nTÜRKİYE Bankalar Birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı.Akbank ve HSBC, Van ve Erciş\'teki deprem mağduru müşterilerinin, talep etmeleri halinde bireysel ve ticari kredi taksit ve ödemelerini 3 ay erteleyecek.Akbank Genel Müdürü Ziya Akkurt, \"Amacımız, küçük de olsa bir destek vererek deprem mağduru Vanlılar\'ın rahat nefes almalarını sağlamak\" dedi. Depremin sıkıntılarını hafifletebilmek için bu uygulamayı hayata geçirdiklerini belirten HSBC Bank Türkiye Genel Müdürü Martin Spurling, \"Deprem mağdurlarının acil bankacılık ihtiyaçlarını karşılamak amacıyla hazırladığımız özel çözümleri en kısa zamanda hayata geçireceğiz\" dedi.\n\n\n\n\n\n\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi
+###################CLASS OF SUMMARY#######################
+[1 : VAN'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi., 2 : 23 Ekim'den itibaren verilmesi gereken tüm beyannamelerle bildirimlerin süreleri ileride belirlenecek bir tarihe kadar, mücbir sebep halinin başladığı 23 Ekim 2011'den önce tahakkuk etmiş olup, vadesi bu tarihten sonrasına rastlayan her türlü vergi, ceza ve gecikme faizinin ödeme süresi ileride belirlenecek bir tarihe kadar uzatıldı., 3 : ÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı., 6 : " BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van'daki depremzedelere Ziraat Bankası ile Halk Bankası'na borçlu kişilere kolaylık sağlanacağını bildirdi., 8 : TÜRKİYE Bankalar Birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı., 10 : Akbank Genel Müdürü Ziya Akkurt, "Amacımız, küçük de olsa bir destek vererek deprem mağduru Vanlılar'ın rahat nefes almalarını sağlamak" dedi.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[1 : VAN\'da meydana gelen deprem nedeniyle ilin tamamında vergi uygulamaları bakımından mücbir sebep hali ilan edildi., 2 : 23 Ekim\'den itibaren verilmesi gereken tüm beyannamelerle bildirimlerin süreleri ileride belirlenecek bir tarihe kadar, mücbir sebep halinin başladığı 23 Ekim 2011\'den önce tahakkuk etmiş olup, vadesi bu tarihten sonrasına rastlayan her türlü vergi, ceza ve gecikme faizinin ödeme süresi ileride belirlenecek bir tarihe kadar uzatıldı., 3 : ÇALIŞMA ve Sosyal Güvenlik Bakanlığı, Van\'daki depremde işyerleri hasara uğrayan işverenler ile kendi nam ve hesabına çalışan (Bağ-Kur) sigortalılarının geçmiş prim borçlarıyla, deprem tarihinden itibaren 3 aylık sürede oluşacak prim borçlarının 1 yıl süreyle ertelendiğini açıkladı., 6 : \" BAŞBAKAN Başbakan Yardımcısı Ali Babacan, Van\'daki depremzedelere Ziraat Bankası ile Halk Bankası\'na borçlu kişilere kolaylık sağlanacağını bildirdi., 8 : TÜRKİYE Bankalar Birliği, deprem nedeniyle ödeme güçleri olumsuz etkilenen müşterilere borç ödemede kolaylık gösterilmesi konusunda üyelerine duyuru yaptı., 10 : Akbank Genel Müdürü Ziya Akkurt, \"Amacımız, küçük de olsa bir destek vererek deprem mağduru Vanlılar\'ın rahat nefes almalarını sağlamak\" dedi.]'
+===== Classified instance =====
+Class predicted: ekonomi
+ekonomi

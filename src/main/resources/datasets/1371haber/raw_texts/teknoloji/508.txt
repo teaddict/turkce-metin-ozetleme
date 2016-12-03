@@ -1,0 +1,5 @@
+Twitter eski tweetleri bulabilecek
+Bugüne kadar sadece son bir haftada yazılan tweetleri arayıp bulabilen sosyal paylaşım sitesi Twitterin çok yakın zamanda daha eski mesajları da bulabileceği açıklandı.
+Twitter, geçenlerde iOS, Android temelinde çalışan akıllı cep telefonları kullanıcıları için önemli bir güncellemesini hizmete sunmuştu. Güncelleme, hizmeti aracılığıyla bilgi edinme sürecini iyileştirmek amacıyla tasarlanmıştı.
+
+Twitter tasarımcıları, iç arama sonuçlarında ilgili kayıtların sadece küçük bir kısmının yer alacağını kaydetti. En iyi tweetleri seçebilmek için sosyal paylaşım sitesi, retweets, favorilere ekleme ve linklere tıklama miktarını dikkate alacak. Arama sonuçlarında yer alacak tweet oranının zamanla artacağı vaat edildi.

@@ -1,0 +1,7 @@
+Barkodun mucidi öldü
+Mağaza ve marketlerde tüm ürün bilgilerini otomatik kaydeden barkod sisteminin mucitlerinden N. Joseph Woodland, 91 yaşında hayatını kaybetti.Woodland'ın kızı Susan Woodland yaptığı açıklamada, babasının ilerlemiş yaşı ve Alzheimer hastalığının etkileri nedeniyle New Jersey'de yaşamını yitirdiğini söyledi.
+
+Ünlü mucitin barkod çalışaması, arkadaşı Bernard Silver ile öğrenim gördükleri Drexel Üniversitesi'ne gelen bir market zinciri sahibinin, kasada tüm ürün bilgilerini otomatik kaydedecek bir sistem geliştirilmesini istediğini öğrendikten sonra başlamıştı. Makine mühendisi olan Woodland, bildiği tek kod olan Morse kodu ilkesiyle çalışan ve tarayıcıya okutulabilecek bir etiket düşündü. Morse kodundan tek farkı, noktalar yerine inceli kalınlı çizgiler kullanılması olacaktı.
+
+1951'de IBM firmasında çalışmaya başlayan Woodland, 1970'lerde IBM ekibiyle birlikte, market sahiplerinin ödeme işlemini otomatikleştirme ve hızlandırma ihtiyacına cevap veren lazer tarayıcılı barkod okuma sistemini buldu. IBM daha sonra evrensel ürün kodu teknolojisi için standart bir barkod geliştirdi.
+26 Haziran 1974'te, ABD'nin Ohio eyaletindeki Troy şehrinde Marsh Süpermarket'in kasasında işlenen bir paket sakız, dünyada evrensel ürün barkoduyla satılan ilk ürün oldu.

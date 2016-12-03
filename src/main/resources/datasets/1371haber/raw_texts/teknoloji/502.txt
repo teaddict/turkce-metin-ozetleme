@@ -1,0 +1,12 @@
+En büyük asal sayı keşfedildi
+Mersenne.orgda yapılan açıklamada, 17 milyon 425 bin 170 haneli sayının Missouri Üniversitesi'nden matematikçi Curtis Cooper tarafından keşfedildiği belirtildi.2008 yılında keşfedilen 12 milyon 978 bin 189 basamaklı sayı, en uzun asal sayı kabul ediliyordu.
+
+Cooper, 2 üzeri 57.885.161 eksi 1 olarak tanımlanan sayıyı asal sayıları bulmaya adanmış devasa bir gönüllü bilgisayarlar ağının yardımıyla bulduğunu söyledi.
+
+Büyük İnternet Mersenne Asal Sayı Arama (GIMPS) ağı, saniyede 150 trilyon hesaplama yapan 360 bin işlemci kullanıyor.
+
+Mersenne Asalları olarak da bilinen asal sayıların özel bir sınıfının 48. örneği olan sayı, Cooper'ın şimdiye kadar keşfettiği üçüncü asal sayı oldu.
+
+Mp = 2n- 1 olarak formüle edilen Mersenne Asalları, 17. yüzyılda bu sayıları keşfeden Fransız matematikçi Marsin Mersenne'in ismini taşıyor. Şimdiye kadar bu sayılardan sadece 47 tane keşfedilmişti.
+
+Keşif, Cooper'a 3 bin dolarlık GIMPS ödülü kazandırdı.

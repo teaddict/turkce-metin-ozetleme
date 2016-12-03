@@ -1,0 +1,8 @@
+BDDK'dan banka müşterilerini hedef alan FATMAL yazılım uyarısı
+Bankacılık Düzenleme ve Denetleme Kurumu (BDDK), Türkiye'deki banka müşterilerini hedef alan, içeriğinde zararlı FATMAL yazılımı barındıran e-postalara karşı uyarıda bulundu.BDDK'nın internet sitesinde yer alan açıklamaya göre, 19 Aralık 2012 tarihinden itibaren özellikle Türkiye'deki banka müşterilerini hedef alan, içeriğinde zararlı FATMAL yazılımı barındıran ve oltalama (phishing) tabir edilen bir e-posta trafiğinin başladığı TÜBİTAK BİLGEM Siber Güvenlik Enstitüsü tarafından rapor edildi.
+
+Söz konusu e-postalar, bazı telekom operatörlerinden veya havayolu firmalarından gelen ve içinde fatura bildirimi yapıldığı izlenimi uyandıran bir dosya (.pdf.exe uzantılı) taşıyor.
+
+Açılması istenen bu dosyanın barındırdığı ikinci bir dosya (truva atı) ile de öncelikle bankacılık hizmetleri olmak üzere kullanıcı yetkilendirme ve parola bilgilerini çalmak amaçlanıyor.
+
+Açıklamada, bankacılık hizmetlerinden yararlanan tüm kullanıcıların bu tür sahte e-postalara itibar etmeden silmeleri gerektiği, kurumların da saldırı tespit sistemlerindeki önlemleri güncellemelerinin yararlı olacağı belirtildi.

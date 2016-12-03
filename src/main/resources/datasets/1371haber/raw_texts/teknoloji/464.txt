@@ -1,0 +1,15 @@
+iPhone 6'da bunlar da olacak
+iPhone 'la ilk tanıştığımızdan bu yana telefonda önemli geliştirmeler yapıldı.
+Ancak iPhone 6'da geliştirilmeye açık alanlar hala var. İşte iPhone 6'da görebileceğimiz 7 yenilik...
+
+1. Yeni kamera: Geçmişte Apple 'a kamera sensörleri sağladığı bilinen Sony, 2013'te çok küçük bir alana sığabilen 13 megapiksellik bir sensör ortaya çıkaracak. Bu sensörün yüksek bir düşük ışık performansı sunması bekleniyor.
+
+2. 4G'nin gelişimi: Gelecekteki iPhone'u sadece 1800MHz 4G bandını değil, çok daha fazla 4G ağını desteklemesi bekleniyor.
+
+3. Wi-Fi 802.11ac: iPhone 5'in Wi-Fi bağlantısı, önceki iPhone'lara göre daha iyi. Ancak yeni nesil bir Wi-Fi teknolojisi çıkmak üzere ve bu, telefonun kablosuz ağlarda 500Mbps hızlarına ulaşmasını sağlayabilir.
+
+4. NFC: Çok yakın mesafelerden veri aktarımına izin veren NFC, Apple'a göre iOS'taki Passbook'un aynısı. Ancak aslında değil, çünkü Passbook'un diğer cihazlarla iletişime geçmesi için bir QR kodunu okutmanız gerekiyor. NFC, ödeme dışında bluetooth cihazlarını eşleştirme, hızlı dosya transferi ve farklı birçok alanda kullanılabilir. Dolayısıyla NFC'nin bir sonraki iPhone'da yer alma ihtimali var.
+
+5. Siri'ye tahmin yeteneği: Siri'nin sesli komutları yerine getiren bir asistan olmasının yanı sıra, ihtiyaçlarınızı siz onları düşünmeden tahmin edebilmesi gerekiyor. Google'ın Google Now ile yaptığı gibi.
+
+6. Depolama geliştirmeleri: iPhone 5 tanıtımında 128GB'lık bir iPhone ile tanışmayı umanlar, hayal kırıklığına uğradılar. Ancak sayısız uygulama, HD video ve müzik kitaplığınızı sığdırabileceğiniz 128GB'lık bir seçeneğin Apple tarafından sunulması gerekiyor. İyi haber ise Intel ve Micron'un tırnak ucu büyüklüğündeki tek bir çipe 128GB'ı sığdıran yeni teknolojilerini duyurmuş olmaları.

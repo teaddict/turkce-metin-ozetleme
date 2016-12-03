@@ -1,0 +1,5 @@
+İşleri karıştıran Google mı
+Bazı Windows Phone kullanıcılarına göre, yaşadıkları bu son sorunun tek sorumlusu Google...
+Henüz geçen hafta bazı Windows Phone kullanıcılarının Google Maps'e erişimini engellediği suçlamalarıyla karşılaşan Google şimdi de Internet Explorer'ın mobil sürümünün YouTube'a erişimini engellemekle suçlanıyor. "m.youtube.com" adresindeki YouTube mobil sitesine ulaşmak isteyen Windows Phone kullanıcılarından bir uygulama indirmeleri isteniyor. Uygulamayı indirmek için Store üzerinde arama yapan kullanıcılar, "üzgünüz, aradığınız uygulama bulunamadı" şeklinde garip bir mesaj alıyorlar.
+
+Microsoft ve Google arasında uzun süredir bir anlaşmazlık olduğu biliniyor. Bir süre önce Microsoft, kendi YouTube uygulamasını yazmak istemiş ama Google firmanın YouTube API'sine erişimini engellemişti. Ardından Windows Phone telefonları üzerinden Google Maps'e bağlanan kullanıcılar sorunlar yaşamıştı. Bu son gelişmenin, iki firma arasında bir süredir devam eden "ilan edilmemiş" savaş halinin bir uzantısı olma ihtimali yüksek. Anlaşılan iki firma arasındaki rekabet bu sefer kullanıcıya olumlu şekilde yansımıyor.

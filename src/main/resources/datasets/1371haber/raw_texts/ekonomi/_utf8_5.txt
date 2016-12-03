@@ -1,0 +1,20 @@
+İSTANBUL - Hızla gelişen teknoloji, tüketicilerin hayatını kolaylaştıracak ürünlerin çeşitliliği de artıyor. Teknoloji yatırımlarının çoğunluğunu internet bankacılığı ve güvenliğe ayıran bankalar elektronik imza uygulamasının hayata geçmesini bekliyor. 
+İnternet Bankacılığında yapılan bazı başvurularda kullanıcıların şubeye giderek imza atması gerektiğine dikkat çeken Garanti Bankası Şubesiz Bankacılık Birim Müdürü Burak Ali Göçer "Elektronik imza hem müşterilerin hem de bizlerin heyecanla beklediği bir konu" dedi. Medyada sıkça gündeme gelen elektronik imza kanununun da bir güvenlik sertifikası olduğunu belirten HSBC Bank yetkilileri ise "Elektronik imza, daha güvenli bir bankacılık ortamı yaratacaktır" dedi. 
+İnternetten yapılan işlemlerin maliyetlerinin daha düşük olması da bu alana daha çok yatırım yapılmasına yol açıyor. İnternetten yapılan işlemlerin maliyeti 0.01-0.2 dolar arasında değişirken şubelerdeki işlem maliyetleri 2-4 dolar arasında değişiyor. 
+
+Birçok ülkeden daha iyi 
+Türkiye'de internet kullanımının düşük olmasının, internet bankacılığının kullanımının da düşük olmasına yol açtığını belirten bankacılar buna rağmen işlem hacmi ve hizmet çeşitliliği açısından Türkiye'nin, birçok gelişmiş ülkeyi arkasında bıraktığını belirtiyor. Akbank yetkilileri "Yurtdışında internet şubeleri sadece para transferi, ödeme ve bakiye görüntüleme fonksiyonları sunarken Türkiye'de neredeyse tüm yatırım işlemleri, döviz işlemleri ve okul ödemeleri gibi işlemler de yapılabiliyor" dedi. Dışbank Genel Müdür Yardımcısı Taner Ayhan ise, AB'de yüzde 46 olan internet kullanım oranının, Türkiye'de yüzde 7 olduğunu belirtti. Türkiye'de internet kullanıcılarının yüzde 30'unun bankacılıktan yararlandığını söyleyen Ayhan, Avrupa'da yüzde 42 oranında olduğunu belirtti. 
+Burak Ali Göçer de, "Kıyaslanabilir bankacılık işlemlerinin yüzde 43'ü internet bankacılığı aracılığıyla yapılıyor. Yatırım işlemlerinin de yüzde 80-90'ı internet üzerinden yapılıyor" dedi. 
+
+Yüzde 65 erkek 
+Edinilen verilere göre internet bankacılığını genellikle eğitim seviyesi yüksek kişiler kullanıyor. Serbest meslek sahiplerinin yanı sıra ofis çalışanları da internet bankacılığını sık kullanıyor. Kullanıcıların yüzde 65'i ise erkek. 
+
+Bakiye sorma ilk sırada 
+Bankalardan alınan bilgiye göre internet bankacılığında yapılan işlemlerin başında hesap takibi ve bakiye sorma geliyor. Bu işlemi ise para transferleri ve EFT takip ediyor. Yatırım işlemleri de en çok yapılan işlemler arasında. Taner Ayhan, geçen sene Dışbank'ın internet şubesinin 
+5 milyon kez tıklandığı, yapılan işlem hacminin 16 katrilyon liranın üzerine çıktığı bilgisini verdi. İş Bankası'nda ise günlük ortalama işlem tutarı 2.5 milyar TL. Yapı Kredi Bankası'nın ise 400 binden fazla kullanıcısı var. Akbank, 160 bin aktif kullanıcısının yanı sıra tüm Akkart sahiplerine hizmet verirken, HSBC ise aylık 1 milyonu aşkın işlemle en çok kullanılanlar arasında. 
+
+Şifrenizi kimseye söylemeyin 
+İnternet bankacılığında güvenlik iki aşamada sağlanıyor. Bankanın şifre üreterek güvenli bir şekilde müşteriye ulaştırırken, müşterinin de kendisine verilen şifreleri güvenli bir şekilde saklaması durumunda problem yaşanmayacağını belirten yetkililer, bugüne kadar internet şubelerinin güvenliği ile ilgili herhangi bir şikâyet almadıklarına da dikkat çekiyor. 
+İnternet bankacılığında standartlaşan 128 bit SSL güvenlik uygulamalarıyla kullanıcıyla banka arasındaki veriler maksimum güvenlikle şifrelenerek gönderiliyor. Ayrıca, girişte ve şifre işlemlerinde kullanılan sanal klavye ise , klavye hareketlerini okuyan programlara karşı ek önlem aracı olarak sunuluyor. 
+Bankalar internet bankacılığına önemli ölçüde yatırım yapıyor. İnternet bankacılığı alternatif kanallar arasında ATM'lerden sonra ikinci sırada yer alıyor. Banka yetkilileri, internet bankacılığına yapılan toplam yatırımın yüzde 80'inin güvenlik uygulamalarını geliştirme amacıyla kullanıldığını belirtti. 
+

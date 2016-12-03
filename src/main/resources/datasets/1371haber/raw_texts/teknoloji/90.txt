@@ -1,0 +1,10 @@
+Cep telefonlarında şarjım bitti dönemi kapanıyor
+ABD'de araştırmacılar, acil durumlarda, cep telefonunu sallayarak şarj etmeye yarayacak sistem üzerinde çalışıyor.ABD'deki Virginia Tech Üniversitesi'nden Shashank Priya ve ekibi, cep telefonlarında ses, basınç ve hareketi enerjiye dönüştürecek yeni bir sistem üzerinde çalışma sürdürüyor.
+
+Ekibin çalışması, telefonu tuşlarken ya da sallarken kullanılan enerjinin, cihazın içine yerleştirilen acil durum şarj aletine aktarılabileceğini gösteriyor.
+Deneyde kullanılan piezoelektrik maddenin ses ve basınç karşısında vereceği tepkinin, telefonu çalıştıracak enerjiye dönüştürülüp dönüştürülemeyeceğini test eden ekip, beklediği sonuca ulaştı.
+
+Yapılan deney, ses ve basınçla karşılaştığında titreşen ve elektrik akımı üreten bu maddenin telefona yerleştirilmesiyle kurulacak sistemin, cihazın kısa süreliğine şarj edilmesine yarayabileceğini de göstermiş oldu.
+
+Priya ve ekibi, bataryanın boşaldığı acil durumlarda telefonu birkaç dakika sallamanın, önemli bir görüşmeye yetecek enerjiyi depolamaya yeteceğini düşünüyor.
+Amerikalı ekibin araştırması, New Scientist dergisinde yayımlandı.

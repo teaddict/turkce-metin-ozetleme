@@ -1,0 +1,19 @@
+Akıllı telefonlar şimdi de idrar testi yapacak
+Akıllı telefonlara yüklenecek bir uygulama ile idrar tahlili yapılabilecek.Los Angeles'ta düzenlenen Teknoloji, Eğitim ve Tasarım (TED) Konferansı'nda tanıtılan "Uchek" adlı uygulama, telefon kamerası ve bir ölçüm çubuğunun yardımıyla idrarda glikoz, proteinler ve nitrat gibi 10 farklı unsuru test edebiliyor.
+
+Uygulamayı geliştiren Myshkin Ingawale, Uchek'in diyabet, idrar yolları enfeksiyonu, kanser, karaciğer hastalıkları gibi 25 farklı sorunun teşhisinde kullanılabildiğine işaret etti.
+
+Uygulamayı kullanacakların önce idrar örneklerini almaları ve standart bir ölçüm çubuğu kullanmaları gerekiyor.
+
+Kullanıcı, daha sonra ölçüm çubuğunu uygulama ile birlikte satılan bir matın üzerine yerleştirip fotoğrafını çekiyor.
+
+Uygulama, ölçüm çubuğunun üzerindeki renklerden kullanıcının herhangi bir rahatsızlığı olup olmadığını belirliyor.
+
+Apple, uygulamanın yanı sıra mat ile 5 ölçüm çubuğu içeren paketleri 20 dolar karşılığında Mart sonundan itibaren satışa sunacak.
+
+Uygulama, Hindistan'ın Mumbai kentindeki King Edward Memorial Hastanesi'nde de normalde idrar testi için kullanılan makinelerle karşılaştırılacak test edilecek.
+Başarılı olması durumunda uygulamanın, tıbbi testler alanında çığır açması bekleniyor.
+
+Uchek, şimdilik sadece iPhone'da kullanılabiliyor. Ingawale, uygulamanın gelecekte diğer akıllı telefonlarla da kullanılabileceğini söyledi.
+
+Mobil telefon endüstrisini temsil eden GSM Birliği (GSMA), mobil sağlık servislerinin gelecek 5 yıl içinde sadece Afrika'da 1 milyon insanın yaşamını kurtarabileceğini söyledi.

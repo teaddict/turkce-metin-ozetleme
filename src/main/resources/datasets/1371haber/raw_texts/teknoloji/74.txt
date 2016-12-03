@@ -1,0 +1,27 @@
+Dikkat polis virüsü!
+İnternet üzerinden bilgisayarlara gönderdikleri "polis virüsü" diye adlandırılan sahte yazılımla dolandırıcılık yapan bir şebekeye karşı polis, vatandaşları uyardı. 
+Özellikle porno ve yasak sitelere girilmesiyle bulaşan virüs, ekrana bir sayfa açıyor. Türk Polisi Siber Suç Mücadele birimi başlıklı sayfa kapatılamıyor. Virüs yolu ile açılan sayfada internet üzerinden 2 gün içerisinde 200 TL ödeme yapılması gerektiği, aksi halde otomatik olarak ceza davası açılacağı dile belirtiliyor. 
+
+Virüsle ilgili son günlerde şikayetler artarken, emniyet yetkilileri vatandaşları uyararak, polisin kişisel bilgisayarlara girip kilitlemeyeceğini dile getiriyor. Yetkililer, bu gibi durumlarda vatandaşlarınpara ödememelerini ve bilgisayarına virüs bulaşan kişilerin hemen internet bağlantısını kesmeleri gerektiğini belirtiyor. 
+İstanbul Bilişim Suçlarla Mücadele Şube Müdürlüğü'ne gelen telefonlarda vatandaşların "Siz mi bizden para istiyorsunuz?" sorusunun artması üzerine polis araştırma başlattı. Yapılan çalışmalarda, uluslararası bir şebekenin, bilgisayarlara virüs gönderip polis adına para talep ettiği tespit edildi. Çalışma yöntemi tespit edilen şebeke, bir virüs yolu ile özellikle porno ve yasaklı sitelere giren internet kullanıcılarının bilgisayarlarında bir sayfa açıyor. Sayfanın açılması ile kullanıcının bilgisayarı da kilitleniyor.
+
+Açılan sayfanın sol üst kısmında polis logosu yer alırken, yanında "Türk Polisi Siber Suç Mücadele Bölümü" yazıyor. Bu yazının altında IP adreslere yer alırken, adres kısmının altında mavi bir şerit üzerine "bilgisayarınız kilitlendi" yazıyor.
+
+"Bilgisayarınızın çalışması izinsiz siber faaliyet nedeniyle durdurulmuştur, aşağıdaki tarafımızdan olası ihlalleri listelenmektedir" yazısının bulunduğu sayfanın altında 6 madde halinde, sözde suçlar ve cezaları belirtiliyor.
+
+Bu suç maddeleri şöyle sıralanıyor:
+
+Madde 274 telif hakkı 4 yıla kadar hapis ve para cezası,
+Madde 183 pornografi 2 yıla kadar hapis ve para cezası,
+Madde 184 çocuk içeren pornografi 15 yıla kadar hapis,
+Madde 104 terörizm teşviki 25 yıla kadar hapis,
+Madde 297 Ciddi sonuçlar doğuran ihmali bilgisayar kullanımı 2 yıla kadar hapis veya para cezası,
+Madde 108 Kumar 2 yıla kadar hapis veya para cezası.
+
+Kapatılamayan sayfada maddelerin belirtilmesinin ardından hükümetin 22 Ağustos'ta bir karar aldığı, bu karara göre, suçların karşılığında para verilebileceği yazıyor. Cezanın 200 TL olduğu, ödenmemesi halinde, otomatik olarak ceza davası açılacağı ve ancak para cezası ödendikten sonra blokenin kaldırılacağı belirtiliyor.
+
+İnternet üzerinden 200 TL'yi ödeyen kullanıcıya bir şifre veriliyor. Şifrenin girilmesiyle ekran kapanıyor ve bilgisayar tekrar kullanılabiliyor.
+
+İstanbul polisi konuyla ilgili yaptığı çalışmada, şebekenin uluslararası dolandırıcılık yaptığını belirledi. Yalnız Türkiye'de değil bir çok ülkede aynı yöntemle dolandırıcılık yapan şebekenin farklı dillerde virüs yazılımları olduğu da tespit edildi.
+
+İstanbul Emniyet Müdürlüğü'nde görev yapan yetkililer, polisin bilgisayarlara uzaktan müdahale etmeyeceğini belirterek, bu tarz virüsler konusunda vatandaşları uyarıyor. Kesinlikle para aktarılmamasını belirten yetkililer, böyle bir virüsle karşılaşılması halinde, internet bağlantısının kesilmesini ve bir uzman tarafından bilgisayardaki virüslerin temizlenmesini tavsiye ediyor.

@@ -1,0 +1,13 @@
+Twitter'da çoklu mesaj göndermek artık imkansız değil
+Sosyal Medyanın gözde mecrası Twitterda çok sayıda kişiye DM (özel mesaj) göndermek istediğinizde bunu maalesef twitter üzerinden yapmanız imkansız.
+Sosyal Medyanın gözde mecrası Twitterda çok sayıda kişiye DM (özel mesaj) göndermek istediğinizde bunu maalesef twitter üzerinden yapmanız imkansız.
+
+İki genç girişimci bilgisayar mühendisi (Burak Özkan  Aybers Polat) bu işlem için yeni bir uygulama geliştirmiş. Uygulamanın adı TweetDM.
+
+TweetDM uygulaması ile sizi takip eden çok sayıda kişiye aynı anda DM gönderebiliyorsunuz. Yapmanız gereken tek şey mesajınızı yazmak ve göndermek istediğiniz kişileri seçerek gönder butonuna tıklamak.
+
+TweetDM uygulaması sayesinde twitterda biriken özel mesajlarınızı da teker teker silmekten kurtuluyorsunuz. Mesajlarınızı ister tek tek isterseniz topluca silebilirsiniz.
+
+Henüz Beta aşamasında olan bu uygulama sizin yerinize tweetler de atmamakta. Tek yapmanız gereken sisteme Twitter ile giriş yapmak.
+
+Uygulamayı kullanmak için www.tweetdm.com adresini ziyaret edebilirisiniz.

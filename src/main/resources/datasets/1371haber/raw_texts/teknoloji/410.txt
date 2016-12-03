@@ -1,0 +1,13 @@
+Mona Lisa, bu kez uzayda gülümsedi
+Rönesans döneminin efsanevi ismi Leonardo da Vinci'nin ünlü tablosu "Mona Lisa", ünlü gülümsemesi ile bu kez Ay'ı fethetti. NASA, da Vinci'nin ünlü tablosunu lazerle Ay'a gönderdi 
+Uzayda iletişim için radyo sinyalleri yerine optiği kullanmaya çalışan ABD Ulusal Havacılık ve Uzay Dairesi (NASA), 2009 yılından bu yana Ay'ın yörüngesinde bulunan Ay Keşif Uydusu'na (LRO) Mona Lisa'nın gri tonda optik sinyallerini gönderdi. 
+
+Mona Lisa'nın Maryland'deki tesisten 384 bin 400 kilometre uzaklıktaki LRO'ya gönderilmesi, gezegenler arası uzay araçları için lazer iletişiminde çok büyük bir ilerleme olarak kabul ediliyor. Ay Yörüngesi Lazer Altimetresi (LOLA) araştırmacılarından David Smith, "İlk kez uzayda tek yönlü lazer iletişimi kurmayı başardık. 
+
+Yakın gelecekte bu tür basit lazer iletişimi, uyduların kullandığı radyo iletişimini desteklemek için kullanılacak. Daha sonra ise lazer iletişimi, halihazırda kullanılan radyo bağlantılarının çok daha yüksek veri hızına ulaşmamızı sağlayacak" dedi. NASA, Mona Lisa'nın lazer sinyalini LRO'ya göndermek için Greenbelt'te yer alan Goddard Uzay Uçuş Merkezi'ndeki Gelecek Nesil Uydu Lazer Değişim İstasyonu'nu kullandı. 
+
+Da Vinci'nin ünlü tablosu önce 150-200 piksellik parçalara bölündü, daha sonra saniyede 300 bitlik veri transfer hızı ile LRO'ya aktardı. Sinyali alan LRO, 500 yıllık resmi yeniden yapılandırdı, Dünya'nın atmosferinden geçerken oluşan bozulmaları CD ve DVD'lerde de kullanılan bir teknikle düzeltti ve radyo dalgalarını kullanarak Yeryüzü'ne geri gönderdi. 
+
+NASA'nın LRO ekibinden Richard Vondrak "Bu çığır açan bir başarı, uzayda lazer iletişimi kullanabileceğimizi kanıtladı. Yüksek veri transfer hızına sahip lazer iletişimi, NASA'nın bir sonraki Ay misyonunun en temel önceliklerinden biri olacak" dedi.
+
+NASA, 2013 sonuna kadar Ay'ın atmosferini incelemek için Ay Atmosfer ve Toz Ortamı Gezgini adlı uydusunu Dünya'nın gizemli uydusuna göndermeyi planlıyor.

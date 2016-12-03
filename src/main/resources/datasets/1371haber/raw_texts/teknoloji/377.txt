@@ -1,0 +1,27 @@
+Yeni bir PC satın alırken bunlara dikkat
+Yeni bir bilgisayar alırken bunlara mutlaka dikkat edin; 1-2 sene sonra pişman olmayın.
+Bir veya birkaç sene önce parçalarını kendiniz seçerek topladığınız bilgisayarınızda yanlış tercihler yaptığınızı düşünüyor musunuz? Bilgisayar toplarken etraftan size söylenenler, doğru olabileceği gibi efsane de olabilir.
+
+Kafanızı karıştıran çok fazla soru olabilir. Ancak yeni bir bilgisayar toplayacaksanız, aşağıdaki şeyleri yapmamanız halinde onunla mutlu birkaç seneyi garantileyebilirsiniz.
+
+Sabit diskte sadece TB'lar önemli değildir
+
+Satın almayı düşündüğünüz sabit disk, 2TB'lık geniş bir depolama alanı sağlıyor olabilir. Ancak veri aktarım hızı da önemli, özellikle birincil sabit disk disk olarak kullanacaksanız.
+
+Sabit disklerin hızları, dönüş hızlarıyla doğru orantılıdır. 5400 RPM'lik bir disk, 7200 RPM'den daha yavaş okuyup yazacaktır. Sabit diskler sisteminizin toplam performansını etkileyen en yavaş bileşenlerinden biri olduğundan, bu kriteri göz ardı etmemelisiniz. Sizin için mümkün olan en hızlı sabit diski aldığınızda, buna pişman olmayacaksınız.
+
+Sahip olmayı düşündüğünüz diskin hızını ve ömrünü internette araştırmanızı tavsiye ediyoruz. Bütçeniz yetiyorsa, tabi ki bir SSD sisteminizin belirli alanlarda çok daha hızlı olmasını sağlayacaktır. SSD'nin boyutu sizin için yetersiz ise, yanında normal bir sabit diski depolama alanı olarak kullanabilirsiniz.
+
+İşlemci ve RAM alırken
+
+İşlemciniz, bilgisayarınızın "hızını" belirleyen en önemli bileşenlerinden bir tanesi. İşlemcinin hızını belirleyen faktör ise genellikle onun saat hızı (kaç GHz olduğu). Ancak sadece saat hızına, yani GHz'lere baktığımız günleri çoktan geride bıraktık.
+
+Bugün aynı saat hızında çalışan hatta aynı çekirdek sayısına sahip işlemciler, önemli performans farklarına sahip olabiliyorlar. Bunun nedeni, bazı işlemcilerin devir başına daha çok işlem yapacak bir teknolojiye sahip olması. Dolayısıyla sadece GHz sayısının yüksek olup olmadığına bakmayın, internette işlemciniz hakkında karşılaştırmaları ve hız testlerini araştırın.
+
+RAM'lerde de benzer bir durum var. 8GB veya 16GB'lık bir RAM'e sahip olmak tabi ki harika, ancak RAM çipinizin de dahili bir hızı vardır. Mümkünse en yüksek MHz'e sahip RAM'i satın almanız daha yerinde olacaktır.
+
+Monitör seçerken
+
+Monitör satın alırken ilk akla gelen sahip olduğu boyut. Ancak bunun dışında ekran türü, kontrast oranı, güç kullanımı, yenileme oranı gibi özellikler de var. Ancak resimler üzerinde çalışmıyorsanız veya ekran kalitesi sizin için kritik değilse, farklar gözünüze çarpmayabilir.
+
+Monitör seçerken ekran boyutu kadar görüş açısı, sahip olduğu portlar ve ömrüne de önem verin. Bu konuda da en iyi kaynak, internette yapacağınız araştırmalar olacaktır.

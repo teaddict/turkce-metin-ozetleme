@@ -1,0 +1,40 @@
+Eğitimde dijital devrim
+FATİH projesi özel okullarda da hayata geçiyor...
+Milli Eğitimde devrim niteliğindeki FATİH projesinin geçtiğimiz yıl hayata geçmesiyle birlikte Başbakan Erdoğanın da ifade ettiği gibi okullardaki eğitim ve öğretim metodu köklü bir şekilde değişmeye başladı.
+
+FATİH projesiyle birlikte süreç içerisinde kara tahta tarih olacak, ilköğretim ile ortaöğretim düzeyindeki tüm okullara (yaklaşık 570.000 derslik) LCD Panel etkileşimli tahta ve internet ağ altyapısı sağlanacak. Aynı zamanda her öğretmen ve öğrenciye tablet bilgisayar verilecek.
+
+
+
+Türkiye Özel Okullar Birliği tarafından her yıl eğitim alanındaki yeniliklerin ve sektörün ihtiyaçlarının kapsamlı şekilde değerlendirildiği sempozyumların 12.si bu yıl yeni eğitim sistemi & dijital eğitimde öğretmenin yeri ve önemi temasıyla Antalyada gerçekleştirildi. Sempozyuma katılan Milli Eğitim Bakanlığı ve özel okul temsilcileri başta FATİH projesi olmak üzere dijital çağın eğitim alanında getirdiği yenilikleri değerlendirdi.
+
+Sempozyumda Türkiyede birçok okulda FATİH projesiyle hayata geçirilmek istenen yeniliklerin tartışıldığı oturumlara ek olarak sektörde faaliyet gösteren firmalar da sunumlarıyla tabletli eğitim sistemlerini tanıttı. Sempozyum katılımcılarından olan Halas Teknoloji A.Ş., yaptığı sunumda yeni nesil teknolojileri eğitim alanında değerlendirmeye imkan tanıyan tam entegre teknolojik çözümlerini tanıttı. 
+
+FATİH projesinin hedeflerini kapsamlı şekilde özel okullarda hayata geçiren Halas Teknoloji, akıllı tahtalarla bağlantılı, marka ve model bağımlılığı olmayan tabletli eğitim çözümleriyle öğrencilerin tüm kitap ve ders materyallerine tabletlerinden ulaşabilmesinin yanı sıra öğretmenlerin verdiği ödevlerin tablet üzerinden yapılarak öğretmene geri gönderilmesi, işlenen derslerin kayıtlarına ders sonrasında tabletten ulaşılabilmesi, tablet üzerinden sınavlar yapılabilmesi gibi eğitime yönelik birçok fonksiyonun icrasına imkan tanıyor. 
+
+
+
+Eğitim çözümlerinin parçası olan cihaz yönetim modülüyle, öğrenci tabletlerinin okulda yalnız eğitim amaçlı kullanılmasına yönelik kısıtlamalar uygulanırken, okul dışında tabletlerin istenildiği şekilde kullanılabilmesini sağlayarak öğrencilerin tablet kullanımlarını daha zevkli ve verimli hale getiriyor.
+
+HEM YEREL, HEM BULUT ÜZERİNDE SENKRONİZE ÇALIŞAN HİBRİD SİSTEM
+
+Halas Teknolojinin sunduğu tamamen yerli üretim olan tam entegre tabletli eğitim platformunu yurtiçi ve yurtdışındaki benzerlerinden ayıran en önemli farklılıklarından biri de hem yerel, hem bulut üzerinde senkronize çalışan HİBRİD SİSTEM. Peki bu sistem nasıl çalışıyor?
+
+Öğrencilerin tabletlerine yüklenmesi gereken dosyalar tablet okul yerel ağına bağlı iken yerel sunuculardan otomatik bir şekilde yükleniyor. Okul ağının dışına çıktığında ise bulut sunucularından tablete yükleniyor. Örneğin öğretmenin gönderdiği bir ödev okul içerisinde tabletlere yerel sunuculardan otomatik olarak yüklenirken o gün okula gelmeyen öğrencinin de tabletine de internete bağlandığı an bulut sunucuları üzerinden yükleniyor.
+
+Kolay yönetim arayüzü, zengin içerik ve ödev sistemi de sistemin birçok okul tarafından tercih edilmesinin temel sebeplerinden
+
+
+Özellikle ödev sistemi öğretmen ve öğrenciler için birçok kolaylık barındırıyor. Öğretmenler kendi web arayüzlerinde ödevler kısımına girerek öğrenci tabletlerine ödev gönderebiliyor. Ödevler, bir açıklama metni şeklinde gönderilebileceği gibi öğrencilerin üzerinde çalışma yapıp düzenlenmiş halini öğretmene geri gönderebilecekleri pdf, ppt, doc gibi değişik formatlarda dosyalar da olabiliyor. Öğretmenler seçmiş olduğu sınıfın tamamına ya da listeden seçebilecekleri öğrencilere ödevleri gönderebiliyor.
+
+AKILLI TAHTA SİSTEMLERİ
+
+Akıllı tahta sisteminde de sınıf bilgisayarlarında akıllı tahta programı açık iken ders içerisinde tahtada yapılan uygulamalar öğrenci tabletlerine eş zamanlı bir şekilde gönderiliyor. Öğrenciler tabletlerinden akıllı tahta programını açtıklarında öğretmenlerin tahtada işlediği dersi izleyebiliyor. 
+
+İDARECİLERE DE BÜYÜK KOLAYLIK: YÖNETİM VE ANALİZ EKRANLARI 
+
+Halas Teknolojinin tabletli eğitim sisteminde idareciler seçtikleri okul ve şubede o an hangi dersin işlendiğini görebiliyor, akıllı tahta üzerinde yapılan dersin içeriğine canlı bir şekilde ulaşabiliyor, eğitmenlerin ders sürelerini takip edebiliyorlar.
+
+ÖRNEK UYGULAMALAR YOL GÖSTERİCİ
+
+Başta tabletli eğitim olmak üzere dijital çağın eğitime getirdiklerini geniş çaplı değerlendirme imkanı oluşturan bu yıl 12.si gerçekleştirilmiş olan Eğitim Sempozyumu, Milli Eğitim Bakanlığı, özel okullar ve sektörde faaliyet gösteren firmaların fikir alışverişine sahne olurken, FATİH projesi ile yapılmak istenen yenilikleri özel sektörde başarıyla uygulayan firmaların da teknoloji tabanlı eğitim projelerine yol gösterici sunumlarıyla tüm katılımcılar tarafından memnuniyetle karşılandı.

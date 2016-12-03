@@ -1,0 +1,217 @@
+I|12:16:40.586|Parser ready: 2475ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:16:41.094|Cache ready: 3007ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+######Read Text File:######
+﻿Tarkan'ın acı günü
+
+Türk Pop Müziği sanatçısı Tarkan Tevetoğlu, annesi Neşe Tevetoğlu'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki Rukiye Güler'in durumunun ağırlaşması üzerine geçen Salı, annesi, kardeşleri Handan ve Hakan Tevetoğlu ile birlikte Güler'in Ortakent-Yahşi Beldesi'ndeki evine geldi. Fenalaşıp dün hayatını kaybeden Güler için bugün Ortakent Merkez Camii'nde cenaze töreni düzenlendi. Güler yakınlarının gözyaşları arasında öğlen kılınan cenaze namazının ardından, Ortakent Mezarlığı'na götürüldü. Camideki törene katılmayan Süper Star Tarkan, mezarlıkta Güler için dua etti. Güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "Rukiye teyze soyadı gibi hep gülerdi, çok neşeliydi, bizi çocuklarından ayırmazdı. Çok yakın aile dostumuz olduğu için ağırlaştığını duyunca buraya geldik" dedi.
+
+Tarkan'ın annesi Neşe Tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği ve gözyaşı döktüğü görüldü. Rukiye Güler'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, "Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan'ı ve annesi Neşe'yi çok severdi. Tarkan ve ailesi Rukiye hanım ölmeden önce buraya gelip iki gün dizinin dibinde oturdular" diye konuştu. Tarkan ve ailesinin akşam saatlerinde Bodrum'dan ayrılacağı öğrenildi.
+
+
+
+
+
+
+
+
+######Clean text file:######
+﻿tarkan'ın acı günü
+
+türk pop müziği sanatçısı tarkan tevetoğlu, annesi neşe tevetoğlu'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki rukiye güler'in durumunun ağırlaşması üzerine geçen salı, annesi, kardeşleri handan hakan tevetoğlu birlikte güler'in ortakent-yahşi beldesi'ndeki evine geldi. fenalaşıp dün hayatını kaybeden güler bugün ortakent merkez camii'nde cenaze töreni düzenlendi. güler yakınlarının gözyaşları arasında öğlen kılınan cenaze namazının ardından, ortakent mezarlığı'na götürüldü. camideki törene katılmayan süper star tarkan, mezarlıkta güler dua etti. güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "rukiye teyze soyadı gülerdi, neşeliydi, çocuklarından ayırmazdı. yakın aile dostumuz ağırlaştığını duyunca buraya geldik" dedi.
+
+tarkan'ın annesi neşe tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği gözyaşı döktüğü görüldü. rukiye güler'in 30 yıllık arkadaşı 60 yaşındaki alime kurt, "rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu ağırdı, tarkan'ı annesi neşe'yi severdi. tarkan ailesi rukiye hanım ölmeden önce buraya gelip gün dizinin dibinde oturdular" konuştu. tarkan ailesinin akşam saatlerinde bodrum'dan ayrılacağı öğrenildi.
+
+
+
+
+
+ 
+
+
+######Paragrapfs text file:######
+
+PARAGRAPH: ﻿tarkan'ın acı günü
+
+PARAGRAPH: türk pop müziği sanatçısı tarkan tevetoğlu, annesi neşe tevetoğlu'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki rukiye güler'in durumunun ağırlaşması üzerine geçen salı, annesi, kardeşleri handan hakan tevetoğlu birlikte güler'in ortakent-yahşi beldesi'ndeki evine geldi. fenalaşıp dün hayatını kaybeden güler bugün ortakent merkez camii'nde cenaze töreni düzenlendi. güler yakınlarının gözyaşları arasında öğlen kılınan cenaze namazının ardından, ortakent mezarlığı'na götürüldü. camideki törene katılmayan süper star tarkan, mezarlıkta güler dua etti. güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "rukiye teyze soyadı gülerdi, neşeliydi, çocuklarından ayırmazdı. yakın aile dostumuz ağırlaştığını duyunca buraya geldik" dedi.
+
+PARAGRAPH: tarkan'ın annesi neşe tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği gözyaşı döktüğü görüldü. rukiye güler'in 30 yıllık arkadaşı 60 yaşındaki alime kurt, "rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu ağırdı, tarkan'ı annesi neşe'yi severdi. tarkan ailesi rukiye hanım ölmeden önce buraya gelip gün dizinin dibinde oturdular" konuştu. tarkan ailesinin akşam saatlerinde bodrum'dan ayrılacağı öğrenildi.
+
+
+
+######Cümleler:######
+
+﻿tarkan'ın acı günü
+
+türk pop müziği sanatçısı tarkan tevetoğlu, annesi neşe tevetoğlu'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki rukiye güler'in durumunun ağırlaşması üzerine geçen salı, annesi, kardeşleri handan hakan tevetoğlu birlikte güler'in ortakent-yahşi beldesi'ndeki evine geldi.
+fenalaşıp dün hayatını kaybeden güler bugün ortakent merkez camii'nde cenaze töreni düzenlendi.
+güler yakınlarının gözyaşları arasında öğlen kılınan cenaze namazının ardından, ortakent mezarlığı'na götürüldü.
+camideki törene katılmayan süper star tarkan, mezarlıkta güler dua etti.
+güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "rukiye teyze soyadı gülerdi, neşeliydi, çocuklarından ayırmazdı.
+yakın aile dostumuz ağırlaştığını duyunca buraya geldik" dedi.
+tarkan'ın annesi neşe tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği gözyaşı döktüğü görüldü.
+rukiye güler'in 30 yıllık arkadaşı 60 yaşındaki alime kurt, "rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu ağırdı, tarkan'ı annesi neşe'yi severdi.
+tarkan ailesi rukiye hanım ölmeden önce buraya gelip gün dizinin dibinde oturdular" konuştu.
+tarkan ailesinin akşam saatlerinde bodrum'dan ayrılacağı öğrenildi.
+
+
+
+######Title######
+﻿tarkan'ın acı günü
+
+
+######Nouns of text:######
+[Ac, gün, Türk, müzik, sanat, anne, neşe, yıl, arkadaş, alzheimer, hasta, yaş, durum, üzeri, sal, anne, kardeş, Han, hakan, birlik, belde, evin, dü, hayat, bugün, merkez, camii, cenaze, tören, yakın, gözyaş, ara, öğle, cenaze, namaz, art, mezar, cami, tören, star, mezar, dua, toprak, duygu, do, an, ün, sanat, teyze, soyadı, çocuk, yakı, aile, dost, duyunç, bura, anne, neşe, cenaze, ayak, güç, gözyaş, yıl, arkadaş, yaş, âlim, kurt, hanım, çocuk, birlik, durum, anne, neşe, aile, Han, ön, bura, gün, dizin, dip, aile, akşam, saat, Bodrum]
+I|12:16:42.579|Parser ready: 1375ms.                                                                               | TurkishMorphParser$TurkishMorphParserBuilder#build
+I|12:16:42.659|Cache ready: 1455ms.                                                                                | TurkishMorphParser$TurkishMorphParserBuilder#build
+
+
+######Verbs of text:######
+[acımak, geçmek, gelmek, fena, kaybetmek, gülmek, düzenlemek, gülmek, kılınmak, götürmek, katılmak, gülmek, etmek, gülmek, vermek, anlamak, yaşamak, gülmek, ayırmak, yakmak, ağır, duymak, gelmek, demek, durmak, çekmek, dökmek, görmek, ağır, sever, ölmek, gelmek, dizmek, oturmak, konuşmak, öğrenmek]
+
+
+######Lexicals Chains######
+
+Execute time(miliseconds): 550
+All chain size: 308
+Unique Chains: 68
+Chain Puan Eşik değeri:16
+Chain Strength Eşik değeri:0.9264705882352942
+Chain criterion değeri:3.523214623517764
+Strong Chains: 3
+anne
+hypernymy
+kişi
+hasta
+hypernymy
+kişi
+anne
+hypernymy
+kişi
+çocuk
+hypernymy
+kişi
+dost
+hypernymy
+kişi
+anne
+hypernymy
+kişi
+güç
+hypernymy
+kişi
+çocuk
+hypernymy
+kişi
+anne
+hypernymy
+kişi
+9
+36
+4.0
+
+
+anne
+antonymy
+ebeveyn
+anne
+antonymy
+ebeveyn
+çocuk
+antonymy
+ebeveyn
+çocuk
+holo_member
+ebeveyn
+anne
+antonymy
+ebeveyn
+çocuk
+antonymy
+ebeveyn
+çocuk
+holo_member
+ebeveyn
+anne
+antonymy
+ebeveyn
+8
+50
+6.0
+
+
+çocuk
+holo_member
+evlat
+çocuk
+antonymy
+evlat
+çocuk
+synonymy
+evlat
+çocuk
+holo_member
+evlat
+çocuk
+antonymy
+evlat
+çocuk
+synonymy
+evlat
+6
+42
+5.0
+
+
+[0, 4, 7]
+#############Heuristic1 OUTPUT############
+0 : Türk Pop Müziği sanatçısı Tarkan Tevetoğlu, annesi Neşe Tevetoğlu'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki Rukiye Güler'in durumunun ağırlaşması üzerine geçen Salı, annesi, kardeşleri Handan ve Hakan Tevetoğlu ile birlikte Güler'in Ortakent-Yahşi Beldesi'ndeki evine geldi.
+4 : Güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "Rukiye teyze soyadı gibi hep gülerdi, çok neşeliydi, bizi çocuklarından ayırmazdı.
+7 : Rukiye Güler'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, "Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan'ı ve annesi Neşe'yi çok severdi.
+representative
+[çocuk, anne]
+#############Heuristic2 OUTPUT############
+Türk Pop Müziği sanatçısı Tarkan Tevetoğlu, annesi Neşe Tevetoğlu'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki Rukiye Güler'in durumunun ağırlaşması üzerine geçen Salı, annesi, kardeşleri Handan ve Hakan Tevetoğlu ile birlikte Güler'in Ortakent-Yahşi Beldesi'ndeki evine geldi.
+Tarkan'ın annesi Neşe Tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği ve gözyaşı döktüğü görüldü.
+Rukiye Güler'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, "Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan'ı ve annesi Neşe'yi çok severdi.
+#############Heuristic3 OUTPUT############
+4 : Güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "Rukiye teyze soyadı gibi hep gülerdi, çok neşeliydi, bizi çocuklarından ayırmazdı.
+6 : Tarkan'ın annesi Neşe Tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği ve gözyaşı döktüğü görüldü.
+7 : Rukiye Güler'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, "Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan'ı ve annesi Neşe'yi çok severdi.
+####################CLASS OF ORIGINAL TEXT################
+﻿Tarkan'ın acı günü
+
+Türk Pop Müziği sanatçısı Tarkan Tevetoğlu, annesi Neşe Tevetoğlu'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki Rukiye Güler'in durumunun ağırlaşması üzerine geçen Salı, annesi, kardeşleri Handan ve Hakan Tevetoğlu ile birlikte Güler'in Ortakent-Yahşi Beldesi'ndeki evine geldi. Fenalaşıp dün hayatını kaybeden Güler için bugün Ortakent Merkez Camii'nde cenaze töreni düzenlendi. Güler yakınlarının gözyaşları arasında öğlen kılınan cenaze namazının ardından, Ortakent Mezarlığı'na götürüldü. Camideki törene katılmayan Süper Star Tarkan, mezarlıkta Güler için dua etti. Güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "Rukiye teyze soyadı gibi hep gülerdi, çok neşeliydi, bizi çocuklarından ayırmazdı. Çok yakın aile dostumuz olduğu için ağırlaştığını duyunca buraya geldik" dedi.
+
+Tarkan'ın annesi Neşe Tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği ve gözyaşı döktüğü görüldü. Rukiye Güler'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, "Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan'ı ve annesi Neşe'yi çok severdi. Tarkan ve ailesi Rukiye hanım ölmeden önce buraya gelip iki gün dizinin dibinde oturdular" diye konuştu. Tarkan ve ailesinin akşam saatlerinde Bodrum'dan ayrılacağı öğrenildi.
+
+
+
+
+
+
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'﻿Tarkan\'ın acı günü\n\nTürk Pop Müziği sanatçısı Tarkan Tevetoğlu, annesi Neşe Tevetoğlu\'nun yaklaşık 50 yıllık arkadaşı alzheimer hastası 76 yaşındaki Rukiye Güler\'in durumunun ağırlaşması üzerine geçen Salı, annesi, kardeşleri Handan ve Hakan Tevetoğlu ile birlikte Güler\'in Ortakent-Yahşi Beldesi\'ndeki evine geldi. Fenalaşıp dün hayatını kaybeden Güler için bugün Ortakent Merkez Camii\'nde cenaze töreni düzenlendi. Güler yakınlarının gözyaşları arasında öğlen kılınan cenaze namazının ardından, Ortakent Mezarlığı\'na götürüldü. Camideki törene katılmayan Süper Star Tarkan, mezarlıkta Güler için dua etti. Güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, \"Rukiye teyze soyadı gibi hep gülerdi, çok neşeliydi, bizi çocuklarından ayırmazdı. Çok yakın aile dostumuz olduğu için ağırlaştığını duyunca buraya geldik\" dedi.\n\nTarkan\'ın annesi Neşe Tevetoğlu\'nun cenazede ayakta durmakta güçlük çektiği ve gözyaşı döktüğü görüldü. Rukiye Güler\'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, \"Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan\'ı ve annesi Neşe\'yi çok severdi. Tarkan ve ailesi Rukiye hanım ölmeden önce buraya gelip iki gün dizinin dibinde oturdular\" diye konuştu. Tarkan ve ailesinin akşam saatlerinde Bodrum\'dan ayrılacağı öğrenildi.\n\n\n\n\n\n'
+===== Classified instance =====
+Class predicted: siyasi
+siyasi
+###################CLASS OF SUMMARY#######################
+[4 : Güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, "Rukiye teyze soyadı gibi hep gülerdi, çok neşeliydi, bizi çocuklarından ayırmazdı., 6 : Tarkan'ın annesi Neşe Tevetoğlu'nun cenazede ayakta durmakta güçlük çektiği ve gözyaşı döktüğü görüldü., 7 : Rukiye Güler'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, "Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan'ı ve annesi Neşe'yi çok severdi.]
+===== Loaded model: src/test/res/datasets/1150haber/raw_texts/myClassifier.dat =====
+===== Instance created with reference dataset =====
+@relation 'Test relation'
+
+@attribute class {teknoloji,saglik,ekonomi,spor,siyasi}
+@attribute text string
+
+@data
+?,'[4 : Güler, toprağa verilirken duygu dolu anlar yaşayan ünlü sanatçı, \"Rukiye teyze soyadı gibi hep gülerdi, çok neşeliydi, bizi çocuklarından ayırmazdı., 6 : Tarkan\'ın annesi Neşe Tevetoğlu\'nun cenazede ayakta durmakta güçlük çektiği ve gözyaşı döktüğü görüldü., 7 : Rukiye Güler\'in 30 yıllık arkadaşı 60 yaşındaki Alime Kurt, \"Rukiye hanımın 20 gündür çocuklarıyla birlikte yanındayız, durumu çok ağırdı, Tarkan\'ı ve annesi Neşe\'yi çok severdi.]'
+===== Classified instance =====
+Class predicted: teknoloji
+teknoloji

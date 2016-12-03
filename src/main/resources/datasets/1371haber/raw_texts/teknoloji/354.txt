@@ -1,0 +1,10 @@
+Chrome 24 yayınlandı
+Google, web tarayıcısının son kararlı sürümü Chrome 24‘ü indirmeye sundu. Kullanıcılara yönelik önemli bir yenilik sunmayan Chrome 24′deki değişiklikler, web geliştricilerini ilgilendiriyor.
+ Chrome 24, önceki sürümlerdeki bir dizi güvenlik açığını kapatıyor. Bunun yanında uygulamalar için yeni eklenen IndexedDB desteği, uygulamaların çevrimdışı çalışmasına yardımcı oluyor. Birkaç senedir geliştirilen IndexedDB, bir web sitesinin veya web uygulamasının internet bağlantısı yokken bile veri depolamasına izin veriyor. IndexedDB, Google Docs ve Gmail gibi hizmetler tarafından kullanılıyor.
+ Yeni MathML (Math markup language) desteği ise web tarayıcısının İkinci dereceden denklem eşitliği gibi formülleri göstermesini kolaylaştırıyor. Böylece bazı işaretler ve para simgeleri daha kolay gösteriliyor.
+  
+ Chrome 24′te her zaman olduğu gibi JavaScript performans geliştirmeleri de yapılmış. Google, Cloud Print hizmetinde sunucu tarafında yaptığı değişiklikler sayesinde Chrome’un yazıcı seçimi ekranının iki kat daha hızlıyüklendiğini söylüyor.
+ Google, Chrome’un açışını hızlandırmak üzere çalıştığını, Chrome’un açılışını yavaşlatabilecek kod değişikliklerini yakalamak üzere otomatik testler gerçekleştirdiklerini söylemişti.
+ Chrome 24′ün Google’ın kendi Octane hız testinde önceki sürümüne göre biraz daha hızlı olduğu gözleniyor (10.402 puan yerine 11.343 puan). SunSpiderJavaScript testimizde ise Chrome 24′ün Chrome 23′e göre biraz daha yavaş olduğunu gördük (195.9 milisaniye yerine 214.5 milisaniye).
+ Chrome 24′te bulunan, ancak varsayılan olarak kapalı durumdaki diğer bir özellik ise bazı grafiksel öğeleri programlanabilir kılan CSS custom filters.
+ -teknolojimix-

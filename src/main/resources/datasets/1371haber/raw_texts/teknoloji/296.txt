@@ -1,0 +1,7 @@
+Internet Explorer'da büyük tehlike
+Microsoft'un popüler web tarayıcısı Internet Explorer'da sıfırıncı gün açığı olarak da bilinen önemli bir güvenlik zaafiyeti ortaya çıktı.
+Popüler tarayıcıda Microsoft'un tespit ettiği açık, hacker'ların kolayca bilgisayarları ele geçirebilmesine imkan veriyor. Bunun için kullanıcının zararlı içerik barındıran bir siteye girmesi yeterli.
+
+Açığı tespit ettikten kısa bir süre sonra tarayıcılarını güncelleyen yazılım devi, kullanıcıların mutlaka bu güncellemeleri indirmesi gerektiğini kaydetti.
+
+Söz konusu açık Internet Explorer 6, 7 ve 8 sürümlerinde bulunuyor.

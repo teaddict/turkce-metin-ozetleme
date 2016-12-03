@@ -1,0 +1,25 @@
+Evlerin kontrolü cepten sağlanacak
+Kocaeli Üniversitesi (KOÜ) Kablosuz Haberleşme ve Bilişim Sistemleri Araştırma Birimi'nce (KOBİSAB) yapılan Akıllı ev sistemi sayesinde, mobil cihazlara yüklenecek uygulama ile evde açık unutulan vanalar kapatılabilecek, klima dereceleri ayarlanabilecek.KOÜ Bilgisayar Mühendisliği Bölümü Öğretim Üyesi ve KOBİSAB Müdürü Prof. Dr. Adnan Kavak, yaptığı açıklamada, KOBİSAB bünyesinde ileri nesil kablosuz haberleşme, akıllı anten, gömülü sistemler, mobil uygulamaları ve RFID sistemlerine yönelik çalışmalar yaptıklarını söyledi.
+
+Akıllı ev konsepti üzerine çalışma yürüttüklerini belirten Kavak, popüler hale gelen mobil uygulamaların hemen hemen hayatın her alanına girdiğine dikkati çekerek, geliştirdikleri sistemle android ve bunun gibi mobil cihazların akıllı ev konseptinde kullanılmasını amaçladıklarını bildirdi.
+
+Kavak, bir evin içindeki doğalgaz, yangın ve su sensörü ile güvenlik amacıyla yerleştirilen sensörlerin, tasarladıkları sistem üzerine entegre edilip evin içindeki kablosuz erişim cihazıyla birlikte mobil cihazlara uyumlu hale getirdiklerini söyledi.
+
+Çalışmalarına öncülük edecek ilk prototip ürünlerinde iki mobil cihazın görüntülü olarak haberleşmesini sağladıklarını dile getiren Kavak, Sistemin kullanıcılar için en önemli avantajlarından birisi de telefon hattını veya diğer ücretli hatları kullanmadan birbirleriyle ücretsiz olarak iletişim kurabilecekler. Örneğin geniş sitelerde veya apartmanlarda farklı dairelerdeki kişiler birbirleriyle bunun üzerinden konuşabilecekler diye konuştu.
+Kavak, sistemin entegre edilmesi ve daha da geliştirilmesiyle birlikte kullanıcıların evdeki durumu kontrol edebileceklerini belirterek, site yönetiminin de bu sistemi kurduğu zaman merkezi olarak her dairenin içindeki durumu kontrol edebileceğini kaydetti.
+
+Gözlemin yanında kontrole yönelik uygulamalar
+
+Şu an bu konseptle ilgili ülkede farklı sistemlerin kullanıldığını ancak kendilerinin geliştirdiği sistemin benzerinin henüz tam anlamıyla kullanılmadığına dikkati çeken Kavak, Bu sistemin bir avantajı da uzaktan bakıldığı zaman bir takım şeylere müdahale edilebilmesi. Örneğin, uzaktan dogal gaz kaçağını tespit ettiniz, doğalgaz vanasını cihaz üzerinden tek bir tuşla kapatılabileceksiniz. Bunun gibi gözlemenin yanında kontrole yönelik uygulamaları da olacak şeklinde konuştu.
+
+Kavak, bu projenin farklı projeleri tetikleyebileceğini vurgulayarak, İnternete bağlanan bir çok cihazın birlikte çalışabilmesini sağlayabilir. Yani evler, bir çeşit network haline getirilebilir. Başka yerlerde akıllı evi kullanan sistemle bu sistem entegre olabilir. Bu şekilde ileriye yönelik projeleri tetikleme olasılığı var dedi.
+Proje hayata geçtiğinde modern bina inşa eden firmaların bu konsepti insanlara opsiyonel olarak sunabileceklerini dile getiren Kavak, sistemin ticari ürün haline getirilmesi ile ilgili çalışmaları KOÜ Teknopark'ı bünyesinde 
+faaliyet gösteren bir firma ile ile devam ettirdiklerini kaydetti.
+
+Evin içindeki klimaya uzaktan komut
+
+KOBİSAB Müdür Yardımcısı Dr. Suhap Şahin ise sistem ile evin içindeki cihazla ev sahibinin üzerindeki mobil cihazın görüntülü olarak haberleştiğini anlatarak, dışardaki cihazdan evdekine arama gönderip kabul edildiği zaman karşılıklı görüntü aktarımının başladığını ifade etti.
+
+Sistemin aynı zamanda ses aktarımı da yapabildiğini vurgulayan Şahin, Şuan için piyasada kullanılan bir sistem var. Bu sistem görüntülü diyafon sistemleri. Bunlar şuan Türkiye'de aktif kullanıyor fakat oldukça maliyetli sistemler. Biz iki tablet maliyetiyle bu işi çok rahat gerçekleştirebiliyoruz ifadesini kullandı. 
+
+Şahin, sistemde telefondan tablete mesaj da atılabildiğini belirterek, Bu sisteme eklediğimiz butonları kullanarak dışardaki kişiyi görerek kapıyı açabilirsiniz veya dışardan sisteme komut verip evin içindeki klimayı ayarlayabilirsiniz. Şu anda sistemin en zor kısmı olan görüntü aktarımını gerçekleştirmiş olduk. Maliyeti çok fazla olmadığı için orta düzey gelir altı, bunu çok rahat kullanabilecektir şeklinde konuştu.

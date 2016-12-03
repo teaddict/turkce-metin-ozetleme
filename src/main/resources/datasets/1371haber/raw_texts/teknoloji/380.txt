@@ -1,0 +1,20 @@
+Skype geçmişinizi silin!
+Microsoft, kullanıcılarını Skype'a yönlendirirken Skype hesaplarının internet kafelerde kullanılması kesinlikle önerilmiyor. Peki ama neden? 
+Popüler mesajlaşma programı Live Messenger‘i kapatmaya hazırlanan Microsoft, kullanıcılarını Skype'a yönlendiriyor. 
+
+Ancak Skype’de kullanıcı mesaj ve bilgilerinin hem fiziksel hem de bulut ortamında saklandığı uyarısında bulunan ESET Kıdemli Araştırma Uzmanı Righard Zwienenberg, veri sızmasını önlemek için Skype’nin internet kafe gibi ortamlarda ya da başkasının bilgisayarında kullanılmamasını önerdi. 
+
+Zwienenberg, mesajlaşmayı bitirdikten sonra “Clear History-Geçmişi Temizle“ düğmesine tıklanmasını tavsiye etti. 
+Microsoft'un yaygın kullanılan mesajlaşma programı MSN yani Live Messenger, 2013’un bahar aylarında sona erdiriliyor. MSN’in yerini Skype alacak. Mesajlaşma ve görüntülü konuşma imkanı sunan Skype’yi inceleyen ESET Kıdemli Araştırma Uzmanı Righard Zwienenberg, ürünün kullanışlı bir iletişim yolu sağladığını ifade etti ancak iletişim detaylarının bırkaç yerde saklandığına ve uzun süre silinmediğine dikkat çekti. 
+
+Başka makinede kullanım riskli 
+
+Zwienenberg, şu bilgiyi paylaştı: “Skype’yi başkasının bilgilsayarında ya da internet kafe gibi ortamlarda kullanıyorsanız, verilerin sızması gündeme gelebilir. Geçmiş iletişim bilgileri, sizin makineniz ve bulutun dışında üçüncü bir sisteme transfer edilebilir. Skype kullanmayı sonlandırdığınızda, bu gizli yerde saklanan bilgiler silinmiyor ve sonra da, nereye bakacağını bilen kişiler, gönderdiğiniz mesajları ya da kiminle konuştuğunuz gibi bilgileri inceleyebiliyor”.
+
+Geçmişi temizleyin
+
+Zwienenberg’e göre eğer kendi sisteminiz dışında başka bilgisayarlarda Skype kullanıyorsanız, Skype’ı kapatmadan önce geçmiş bilgilerinizi ve içerik detaylarınızı silebilirsiniz. “Araçlar” menüsü içinde bulunan “Seçenekler” kısmında geçmişin nasıl tutulmasını istediğinizi ayarlayabilirsiniz. Buradaki “Gizlilik Seçenekleri” bölümünde yer alan “Clear History-Geçmişi Temizle“ düğmesiyle, hassas bütün verileriniz yerel olarak saklanan gizli yerlerden silinecek ve gizliliğiniz daha iyi sağlanacaktır. 
+
+Kişisel bilgilerinizle hassas davranın
+
+Kurulum sırasında, küçük puntolarla yazılmış olan, “Skype Kullanım Kılavuzunu” ve “Skype Gizlilik Sözleşmesini”’ni okumayı öneren Zwienenberg’e göre ne yazık ki çoğu kişi bu dokümanları okumaya zahmet etmiyor ve sadece geçerli olan ileri düğmesine basıyor. Ancak “kişisel bilgileriniz ile ilgili hassas olun” uyarısında bulunan Zwienenberg, “Eğer size ait olmayan farklı bir bilgisayar kullanıyorsanız özel verilerinizi silin. Ama en iyisi, sizin için önemli olan gizli ve özel verilerinizi korumak için başka sistem kullanmayın” diye konuştu.

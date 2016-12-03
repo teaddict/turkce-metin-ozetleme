@@ -1,0 +1,15 @@
+NFC'yle ilgili her şey
+Artık telefon alırken NFC özelliğini de arıyoruz. Peki ama NFC'nin ne işe yaradığını biliyor muyuz?
+NFC (Yakın Alan İletişimi) çipi, her geçen gün daha çok akıllı cepte kullanılıyor. NFC'nin Türkiye'deki kullanım alanı henüz çok kısıtlı, ancak NFC'nin tam anlamıyla hayatımıza girdiği gün çok da uzak olmayabilir. İşte NFC'nin bugün kullanıldığı 5 alan.
+
+Ödemeler: NFC'nin en önemli uygulamalarından olan Google Wallet, çeşitli güvenlik endişelerine konu olsa da hala hizmet vermeye devam ediyor. Önde gelen birçok kredi kartını destekleyen NFC, ülkemizde henüz ödeme amaçlı kullanılmıyor. Ancak yine de NFC'yi destekleyen ortak sayısı her geçen gün artıyor.
+
+Etiketler: NFC çiplerinin küçük boyutları, onların hemen hemen her yerde kullanılabilmesine izin veriyor. NFC etiketlerini bugün kendimiz satın alıp kullanmamız gerekse de, yakın gelecekte bu çiplerin birçok ürüne girmesini bekleyebiliriz.
+
+Samsung'un TecTiles adındaki küçük plastik etiketleri, teknolojinin nasıl kullanılabileceğine dair iyi örnekler sunuyor. Örneğin telefonunuzu masanızın üzerine koyduğunuzda otomatik olarak müzik çalacak şekilde programlayabiliyorsunuz.
+
+Dosya paylaşımı: NFC'li ceplerin çoğunu birbirine dokundurarak dosya paylaştırabiliyorsunuz. Bunu birçok NFC destekli Android cebinde entegre gelen uygulamayla veya üçüncü parti uygulamalarla yapmanız mümkün.
+
+Klavye veya fare bağlayın: NFC destekli Android cebinizi NFC klavyenin önüne koymanız yeterli. NFC'ye yönelik fare gibi farklı çevrebirimler de bulunuyor.
+
+Müzede dolaşmak: Müzeler eski yerler olsalar da zaman zaman son teknolojilerle donatıldıklarına rastlıyoruz. Bazı müzeler, akıllı ceplerin dokunmatik özellikleriyle müze deneyiminizi geliştirebiliyor. Londra Müzesi, NFC'yi ziyaretçilere ek bilgiler sunmak için kullanıyor. Bu belki halihazırda sunulan sesli ve metin tabanlı kılavuzlardan çok farklı bir şey değil, ancak size daha fazla özgürlük sağladığı kesin. NFC sayesinde kılavuzun size gösterdiği yol yerine kendi istediğiniz yere gidebilir ve NFC sayesinde ek bilgi edinebilirsiniz.

@@ -1,0 +1,9 @@
+Chrome yenilendi
+Chrome'un son final sürümü için yayınlanan bir güncelleme, bakın neleri değiştiriyor?
+Google, Chrome web tarayıcısındaki 10 açığı kapatan bir güncelleme yayınladı. 25.0.1364.152 sürüm numarasına ulaşan final yapıda 6 "yüksek" dereceli açık kapatılmış bulunuyor. Diğer hatalar ise "orta" ve "düşük" olarak sınıflandırılmış.
+
+Google böylece güncellemeyi 100 bin dolar ödül dağıtılacak olan Pwn2Own'dan sadece 2 gün önce yayınlamış bulunuyor. Yani Chrome'da açık bulmaya çalışacak hacker'ların işi biraz daha zor olabilir.
+
+Kapatılan 10 açığın 4'ünün bağımsız araştırmacılar tarafından raporlandığı ve Chrome'un hata bulma ödüllendirme programından 5.000 dolar kazandıkları bildiriliyor. Google, bu şekilde sene içerisinde 15.500 dolarlık prim dağıtmış bulunuyor. Web tarayıcınızın güncel olup olmadığını kontrol etmek için, yukarıda gördüğünüz Google Chome Hakkında bölümüne göz atabilirsiniz.
+
+Google, geçtiğimiz günlerde iOS için sunduğu Chrome'u da güncellemiş, yakın zamanda gelecek yeni arama işlevlerinin sözünü vermişti.

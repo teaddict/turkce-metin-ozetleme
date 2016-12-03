@@ -1,0 +1,13 @@
+Apple'a siber saldırı şoku
+ABD'li elektronik şirketi Apple, ofislerindeki bilgisayarların ufak bir kısmının siber saldırıya uğradığını açıkladı.
+Apple'a düzenlenen saldırının, geçen hafta sosyal paylaşım sitesi Facebook'a yapılan saldırıyla benzerlikler gösterdiği, iki olayda da yazılım geliştirme programları yapan bir internet sitesinden kötü amaçlı bir yazılımın yüklenmesinin ardından bilgisayarlara virüs bulaştığı vurgulandı.
+
+Apple ve Facebook yetkilileri, bilgisayarlardan veri topladığına dair herhangi bir kanıt bulamadıklarını belirtti.
+
+Saldırıların, Java programlama dilinin ağ tarayıcıları için ürettiği eklentisinin yüklenmesi sırasında oluşan bir hatadan kaynaklandığı kaydedildi.
+
+Uzmanlar, Java'daki güvenlik açığı sorununun bilinen bir durum olduğunu, Apple'ın buna önlem almak amacıyla Mac marka bilgisayarların ağ tarayıcısına Java'yı 'devre dışı' bırakabilme özelliğini getirdiğini belirtti.
+
+Apple yetkilileri, virüsleri yok etmek için kötü amaçlı yazılımları temizleme programlarında güncelleme yapabileceklerini ifade etti.
+
+Bu ay başında başka bir sosyal paylaşım sitesi Twitter da siber saldırıya uğramış ve 250 bin kullanıcının bilgilerinin 'hacker'lar tarafından ele geçirildiği ifade edilmişti.

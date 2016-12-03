@@ -1,0 +1,11 @@
+Şehir Hatları'ndan Karekod Tarife
+İstanbul Büyükşehir Belediyesi Şehir Hatları, Karekod Uygulamalı Tarife ile vapur saatlerini dijital ortama taşıyor.Deniz ulaşımındaki yeniliklere bir yenisini daha ekleyen Şehir Hatları, İstanbulun vapurlarının kalkış-varış saatlerini içeren Kış Tarifesini QR (Karekod) uygulamasına taşıyor.
+
+Yolcularının deniz seyahatlerini daha kolay planlayabilmeleri için tüm hatlarındaki tarifeli seferlerini 2D Barkod uygulamasıyla dijital ortama taşıyan Şehir Hatlarının kare matrisinde yayınlanan kodlar sayesinde, yolcular Tarife Kitapçığına dijital ortamdan ulaşabilecek. 
+
+İlaç, gıda, basın sektöründe hızla yaygınlaşmaya başlayan QR kodu kullanımı, barkod içeriğinin kameralı akıllı telefon ve tabletler tarafından görsel çözümleme yöntemiyle kullanılıyor.
+
+Bilinen barkodlardan daha çok bilgiyi içeriğinde barındıran QR (karekod) kodlar, ulaşılmak istenen bilginin çabuk yanıtlanması şeklinde tanımlanıyor.
+İstanbulun vapurlarının tarifelerine, bundan böyle matris kod üzerinden ulaşılarak, vapur kalkış-varış saatlerinin dijital ortamdan daha rahat takibi sağlanmış olacak.
+
+Akıllı telefonların hemen hepsinde kullanılabilecek tarifeye geçmek için Apple Store, Android Market, Nokia Store gibi sanal marketlerden karekod okuma uygulaması indirmek yeterli.

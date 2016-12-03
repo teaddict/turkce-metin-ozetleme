@@ -1,0 +1,53 @@
+@relation 'Test relation'
+
+@attribute class {ekonomi,bilişim,finans}
+@attribute text string
+
+@data
+
+ekonomi,'  bili dal olmak kaynak sınır , bu karşılık insanoğlu ihtiyaç sonsuz olmak nedeniyle çeşitli soru yanıt aramak .  hareket ekonomi bili , sınır kaynak hangi mal ve hizmet ne kadar , nasıl ve  için üretmek gibi soru yanıt bulmak çalışmak bir bili dal .'
+ekonomi,'  alıcı ve satıcı karar kendi çıkar gözetmek vermek .  , bir mal fiyat kadar o mal üretim maliyet de göz ön almak .  ürün birey ara nasıl bölüşmek soru .  faktör herbir bir piyasa ve bir fiyat var :'
+ekonomi,'   :  , hizmet ve üretim faktör nisbi fiyat nasıl oluşmak , nasıl değişmek ve ne nasıl etkilemek incelemek .  ekonomi öz ; mal çeşit fiyat nasıl oluşmak incelemek .'
+ekonomi,'   :  ekonomi toplam gelmek , toplam istihdam , toplam tüketim , toplam tasarruf , genel fiyat seviye gibi değişken ne etki alt olmak ve bun birbiri ile ilişki incelemek'
+ekonomi,'  :  zaman acı ve üzüntü vermek , karşılamak ise zevk ve haz vermek bir duygu .      '
+ekonomi,'  :  dolay veya doğrudan karşılamak , el tutulmak göz görmek her şe  demek .  :  an tüketmek şey demek .'
+ekonomi,'  :  ihtiyaç karşılamak özellik demek .  mal ve hizmet bir ihtiyaç karşılamak için fayda .  :  gidermek nedeniyle mal ve hizmet atfetmek nispî önem .  mal kıymet olmak o fayda , kıt ve kalite olmak kaynaklanmak'
+ekonomi,'  :  ihtiyaç gidermek için mal ve hizmet kullanmak demek .  :  gereksinim karşılamak mal ve hizmet orta çıkarmak , miktar ve fayda artırmak ekonomik mal kıtlık azaltmak demek .'
+ekonomi,'  :  ekonomi insan bütün ihtiyaç karşılamak kadar mal ve hizmet üretmek kaynak bulunmak durum .'
+ekonomi,'  kıtlık , insan seçi yapmak zor .  seçi yapmak zorunluluk , bazı şey el etmek için başka şey vazgeçmek gerekmek .'
+ekonomi,'   :  el etmek için vazgeçmek zor kalınmak şey .    :  faktör miktar ve teknoloji sabit , bir toplum , üretmek ve üretmek mal demet ayıran sınır çizgi .'
+ekonomi,'  olanak eğri şekil de görmek üzere başlangıç nokta ( orijin ) içbükey .  , mal üretim artırmak fırsat maliyet yükselmek demek .  :  mal veya faktör alıcı ve satıcı  konu  ile ilişki kurmak sağlamak her imkân .'
+ekonomi,'  ve hizmet , firma ve hanehalk ara dağıtmak .  .  gitmek , domates almak istemek ; mal piyasa bir parça olmak .'
+bilişim,'  orta çıkış ve gelişim çeşitli kaynak anlatmak .  olmak bilgisayar gelişim elektronik sektör gelişim paralel olmak ilerlemek görmek .  yüzyıl baş orta çıkmak elektrik işlem yüzyıl orta başlamak silikon teknoloji ve transistör gelişim izlemek .  transistör teknoloji ile birlikte bilgisayar işlemci ve yapı da gelişmek ve gün bilgisayar teknoloji ulaşmak .  geçen gün bilgi ve bilgi işlemek duymak ihtiyaç sonuç bilgisayar teknoloji hızla ilerlemek .'
+bilişim,'  ara üretmek bilgisayar vakum tüp kullanmak .  tüp bir ampul büyük , çok fazla enerji harcamak ve çok fazla ıs yaymak  .  ve program  teyp ve tambur gibi bilgi saklamak araç saklanmak .  ve program bilgisayar delgi kart ile yüklemek .'
+bilişim,'  yıl sonra , büyük çap tümleşik devre kullanmak başlamak .  donanım bu teknoloji kullanmak bilgisayar hesaplamak hız ve güvenmek arttırmak ve hacim çok küçülmek .  demek tek bir tümleşik devre yonga bilgisayar uygulamak ile tek kullanmak ucuz bilgisayar üretmek .'
+bilişim,'  sistem bilgisayar donanım ile bilgisayar kullanmak haberleşmek sağlamak ve bu konu bilgisayar kullanmak almak komut bilgisayar donanım göndermek gerekli olmak komut gerçek uygulamak yazılım olmak  .  sistem genel olmak bilgisayar kullanmak çeşitli çevre birim ile ( yazmak , monitör , ekran , klâvye , çizmek  .  . ) ile haberleşmek de organize etmek .'
+bilişim,'  alan süregelmek hızlı değişim ve gelişim sonuç , bilgi birikim ve paylaşım açı dünya üzerinde yaşanmak trafik yoğ her geçen gün artmak .  odak ve bu bilgi ulaşmak yol ciddi anlam değişmek olay baş  gelmek .  yüzyıl da teknoloji yeni gelişmek süregelmek öngörmek , bu tür teknoloji en etkin bir biçim nasıl kullanmak gerekmek bir an önce öğrenmek gerekmek açık .  , bilgisayar aracı ile  göndermek , sohbet etmek ,  taramak ,  gibi işlem yapmak olanak sağlamak , tüm dünya kapsamak bilgisayar ağ vermek genel is .  , bilgi elektronik orta saklanmak transfer etmek bir almak olmak da düşmek .  ağ bağ olmak herhangi iki bilgisayar ara gerçek işlem en basit ifade ile iki yön bilgi iletim .  derece yüksek bir iletişim sayesinde haberleşmek , kaynak ve bilgi paylaşım gibi olanak kullanmak kolay .'
+bilişim,'  ağ olmak da anmak  ,    tarafından yürütmek bir araştırmak ile orta çıkmak .  (    ,   ) , araştırma ara bilgi ve kaynak paylaşım katkı sağlamak amaç ile deney olmak geliştirmek bir bilgisayar ağ  .  yıl hayat geçirmek , dosya transfer , elektronik post ve bilgi paylaşım yönelik çeşitli servis kullanmak açı vazgeçmek bir ağmak hâl almak .'
+bilişim,'  üzeri her bir adres tek olmak özellik var .  neden tüm dünyada dağıtmak adres tek bir merkez toplamak ve diğer kurum bu kur ile uyum içinde çalışmak gerekmek .  tüm  adres    ad vermek bu kur tarafından merkezî olmak veritaban tutulmak .  ortam sağlık bir biçim çalışmak sağlamak için bu kurmak çok önem rol oynamak .'
+bilişim,'    yazmak için yapmak gerekmek çalışmak ve bilmek gerekmek ön bilgi ihtiyaç var .  bir problem bilgisayar ortam çözmek maalesef hazırlık olmak ve hızlı bir şekil gerçek .  şey önce programlamak bir süreç ve program yazmak bitmek ile bitmek çoğunlukla program yaşamak sürmek içeri değişik şekil devam etmek .'
+bilişim,'    yazmak için yapmak gerekmek çalışmak ve bilmek gerekmek ön bilgi ihtiyaç var .  bir problem bilgisayar ortam çözmek maalesef hazırlık olmak ve hızlı bir şekil gerçek .  şey önce programlamak bir süreç ve program yazmak bitmek ile bitmek çoğunlukla program yaşamak sürmek içeri değişik şekil devam etmek .'
+bilişim,'  dil zaman içeri gelişmek , değişmek , kaybolmak veya yeni çıkmak .  neden programlamak bilgi asla bir programlamak dil bağ tutmak .   mantık ve ön sezi olmak iyi gelişmek ,  kolay kurmak algılamak , çok karmaşık sorun üzerinde fikir yürütmek çöz üretmek bildik programlamak dil fazla bir önem kalmak . çünkü çoğunlukla   hafta gibi bir süre bir programlamak dil orta düzey öğrenmek .  doğrusu da tabiî ki her dert çöz olmak temel bir programlamak dil çok iyi bir şekil öğrenmek her çöz uyarlamak .'
+bilişim,'    bilgi şekil sokmak , bu veri ve bilgi yüksek kapasite saklamak başka ortam iletmek elektronik cihaz .  işlem yapmak çok yüksek hız ve  tekrar olmak aynı iş yapmak bir cihaz .'
+bilişim,'  bir sayı ad sonunda algoritma sonlanmak .  karşılaşmak tüm ihtimal el almak kadar genel olmak .'
+bilişim,'  giriş ve ilk işlem yapmak bölü -  bir bölü olmak kes .  bölü iterasyon bir işlem sürekli tekrar etmek sonuç ulaşmak sağlamak bölü . -  işlem yapmak bölü .  bölü el etmek sonuç ekran yazmak sağlamak bölü .'
+finans,'  finans dünya küresel gelişmek uygun olmak özellikle orta boy ve büyük işletme çoğu bağım bir departman olmak yapılanmak .  yönetim ya da işletme finans konu işletme ihtiyaç duymak fon kaynak bulunmak , seçi ve işletme amaç paralel olmak etkin yatır oluşmak . '
+finans,'  , finansman ve finansal yönetim eş anlam olmak kullanmak .  , kişi ya da kurum faydalanmak par , fon , kaynak ya da sermaye anlam finansman ise fon sağlamak ifade etmek .  yönetim de fon bulunmak yanısıra bulunmak fon kullanım içermek'
+finans,'  genel amaç para ve para olmak finansal amaç üretmek .  hedef öncelik işletme özel yapı göre değişmek birlikte , bu hedef işletme  değer ulaşmak amaç , uygun olmak kâr , likidite ve güve dayanmak .  denk yönetmek ulaşmak .'
+finans,'  firma gelecek sağlamak gelmek akmak ve bun el etmek risk derece firma değer belirlemek .  ilişkin karmak hem firma gelecek nakit akmak büyük etkilemek gibi hem de firma risk derece de etkilemek .'
+finans,'  finansal amaç para ve para olmak amaç olmak iki ayrılmak .  amaç gelmek , nakit akım , likidite , varlık ve kâr yönelik amaç şekil beş başlık alt incelemek .'
+finans,'  yönelik amaç toplam gelir büyümek oran maksimum kılınmak içermek .  âmâ ulaşmak için başta faaliyet gider olmak üzere toplam gider minimum kılınmak gerekmek .'
+finans,'  ak ve likidite yönelik amaç ise işletme işlemek uygun bir nakit düze ile çalışmak ulaşmak .  ve kâr yönelik amaç , işletme piyasa değer en üst düze çıkarma para olmak amaç da işletme iç çalışmak ortam iyi , menfaat grup ara çatışmak önlemek çevre olmak ilişki düzenlemek hedeflemek .'
+finans,'   ise işletme belirli bir dönem el etmek tüm hâsılat ile aynı dönem katlanmak bütün gitmek ve maliyet ve bun sonuç işletme el etmek net kâr veya dönem zarar göstermek tablo .   tablo alt kalem net satış , brüt satış kâr veya zarar , esas faaliyet kâr veya zarar , faaliyet kâr veya zarar , dönem kâr veya zarar ve net dönem kâr veya zarar kapsamak . '
+finans,'  hem kısa hem de uzun dönem planlamak .  vade planlamak , özellikle  ay ileri dikkat almak , daha çok firma ödemek yapmak  sahip olmak süreç nakit giriş ve çıkış düzenlemek çalışmak .'
+finans,'  uzun dönem birincil amaç  değer en üst düze çıkarmak .  yönetmek bu âmâ uygun plan yapmak ve daha sonra bu plan gerçek durum karşılaşmak .'
+finans,'  olmak yatır strateji ve finansman strateji olmak üzere iki tür stratej var .  strateji durmak varlık yönetim ilgi olmak yapmak gerekmek yatır harcamak içermek .'
+finans,'  bütçe ile firma hazırlamak olmak fark bütçe birara getirmek faaliyet koordinasyon yapmak .  ve üretim bütçe hazırlamak sonra faaliyet bütçe yapmak firma beklemek brüt satış kâr veya zarar tahmin etmek .  bütçe ise gelecek dönem yapmak planlamak yatırım ifade etmek .  bütçe ise nakit yönetim bir denet aracı olmak kullanmak .'
+finans,'  gelecek yıl finansman ihtiyaç tahmin temel olmak proforma bilanço ve proforma fon ak tablo kullanmak .  bilanço oluşmak ilk önce , firma hedeflemek satış hacim el etmek için gerekmek aktif yatır tutar tahmin etmek gerekli .'
+
+
+
+
+
+
+

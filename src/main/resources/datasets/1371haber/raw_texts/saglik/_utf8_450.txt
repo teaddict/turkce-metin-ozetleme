@@ -1,0 +1,9 @@
+Cep telefonu sinyallerine karşı kulaklık koruması 
+
+Cep telefonlarının yaydığı ve zararlı olup olmadığı tartışılan mikrodalgalardan koruyan bir kulaklık geliştirildi. 
+
+İngilteredeki Warwick Üniversitesi Mühendislik Fakültesinde görevli bilim adamı Roger Green ve çalışma arkadaşları, kullanıcıları cep telefonlarının yaydığı ve zararlı olup olmadığı tartışılan mikrodalgalardan koruyan bir kulaklık geliştirdiler. 
+Alman Bild der Wissenschaft dergisinin internet sitesinde yayınlanan habere göre, cep telefonundan gelen elektrik sinyalini optik sinyale dönüştürerek plastik bir kablodan geçirdiklerini belirten Green, optik sinyalin bu kablodan geçtikten sonra kulaklığa ulaştığında sese dönüştürüldüğünü kaydetti.
+
+Birçok insanın kulaklık aracığıyla cep telefonunun yaydığı dalgalardan korunmak istediğini, fakat piyasadaki cihazların anten gibi çalışarak zararı artırabileceğini söyleyen Green, bu olası zararı optik sinyalle çözdüklerini belirtti. 
+

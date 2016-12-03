@@ -1,0 +1,13 @@
+Whatsapp'a şok dava
+Kanada ve Hollanda, çevirim içi mesajlaşma hizmeti sunan akıllı telefon uygulaması Whatsapp'ı özel hayatın gizliliğini ihlal etmekle suçladı.
+Kanada Özel Hayatı Koruma Komisyonu (OPC) ve Hollanda Veri Koruma Kurumu (CBP), Whatsapp'ın, kullanıcıların telefon rehberindeki tüm numaralara erişebildiği ve bilgileri elinde tuttuğu için, özel hayatın gizliliği kanununun ihlal edildiği gerekçesiyle başlattığı soruşturmada birtakım bulgulara ulaşıldığını açıkladı.
+
+Telefon rehberindeki diğer Whatsapp kullanıcılarını belirlemek için kullanıcının kişi listesine ulaşan program, Whatsapp kullanmayan numaraları da kayıt altına alabiliyor.
+
+Yalnızca IOS 6 işletim sisteminde, kişiler manuel eklenerek, tüm rehberin otomatik olarak kayıt altına alınması engellenebiliyor.
+
+Ancak diğer akıllı telefon ve işletim sistemlerinde, program, Whatsapp uygulamasını kullanmayan diğer kişilerin bilgilerini silmek yerinde elinde tutabiliyor.
+
+Öte yandan, OPC ve CBP soruşturmanın başında, şifresiz Wi-Fi bağlantısı üzerinde yollanan Whatsapp iletilerinin şifrelenmediğini ve şifrelenmeyen mesajların rahatlıkla ele geçirilebileceğini belirtmesi üzerine program Eylül ayından itibaren gönderilen mesajları şifrelemeye başlamıştı.
+
+Aralık sonunda, programın bir günde 18 milyar mesaj barajına ulaştığı açıklanmıştı.

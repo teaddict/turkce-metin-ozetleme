@@ -1,0 +1,12 @@
+Facebook'ta poker tuzağı
+Bir poker ajanı, 16 bin Facebook kullanıcısının bilgilerini çaldı.Antivirüs yazılımı üreticisi ESET, Facebook üzerinden poker oynayan kişilerin giriş bilgilerini çalan bir truva atını tespit etti. Poker Agent-Poker Ajanı adı verilen truva atı ile 16 bin kişinin Facebook hesaplarına erişildiğini bildiren şirket, bu amaca ulaşmak için 800 virüslü bilgisayardan oluşan geniş bir botnet ağı oluşturulduğunu tespit etti.
+
+Doğrudan Facebook giriş bilgilerini elde etmeye odaklanan Poker Ajanı, bu hesaplar üzerinden popüler poker sitesi Texas Holdem Pokerdeki kullanıcıların  oyun skorlarına ulaşmaya çalıştı. Saldırganlar, poker oyunundaki kredilerini arttırabilmenin yanı sıra bazı kişilerin Facebook hesap ayarlarında bulunan kredi kartı bilgilerine de ulaşmayı hedeflediler. Oyunun, PayPal hesabını kullanarak kredi kartından gerçek para kullanma özelliği de bulunuyor.
+
+Saldırı nasıl gerçekleşiyor?
+
+Kullanıcıların giriş bilgilerine ulaşmak için, hepsi virüslü ve saldırganlar tarafından kontrol edilen 800 bilgisayar kullanıldı. Bu botnetdeki virüslü bilgisayarlar, kullanıcının Facebook hesabına giriş yapmak ve Texas Holdem skorlarına ulaşmak için komut alıyorlar. Kredi kartı bulunan ya da düşük skorları olan kullanıcıları bulan virüslü bilgisayarlar, alınan talimatlar doğrultusunda, kullanıcıların Facebook hesabına yemleme sitesi bağlantısı ile virüs bulaştırırlar. Bu site doğrudan ya da dolaylı olarak Facebook oyuncularını cezbetmek için hareket eder. Bu durumda Facebook ana sayfası olarak görünen bu sayfaya giriş bilgileri bildirildiğinde, saldırganlar bilgileri elde etmiş oluyor. Bu botnetin analizi yapılırken toplamda 16 bin 194 kullanıcının giriş bilgilerine ulaşılabilmiş olacağını tespit edildi. Tehdit ilk olarak ise İsrail'de görüldü.
+
+Adrese dikkat edin
+
+Şirketin Security Intelligence Takım Lideri Robert Lipovsky, konuyla ilgili olarak  şunları paylaştı: Sosyal mühendislik yöntemlerine dayanan saldırılara karşı korunmak için sadece iyi bir güvenlik çözümü yeterli değil. Kullanıcılar bu tip girişimlere karşı dikkatli olmalı. Bu tür saldırılaroda kullanıcılar eğer sitenin URLsini yani site adresini-ismini kontrol ederlerse, sahte Facebook giriş sayfasını tanıyabilirler.

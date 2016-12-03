@@ -1,0 +1,22 @@
+Yetenekli hayalet virüs
+Dünyada en çok görülen tehditler sıralamasında beşinci sırada yer alan “Sirefef“ adlı virüs, hayalet teknikler kullanarak, pek çok karanlık özelliği bir arada gerçekleştirme yeteneğine sahip. Kullanıcının internette yaptığı arama sonuçlarını değiştirerek kullanıcının farklı sitelere yönlendirilmesini sağlayan ve sahte tıklamalar yaptıran Sirefef, bulaştığı bilgisayarlar hakkında da hackerlere bilgi aktarıyor.
+ Her ay dünyadaki en yaygın bilgisayar tehditlerini yayınlayan ESET’in, Eylül ayı Dünya Tehdit Listesi’nde beşinci sırada yer alan“ Win32/Sirefef“ virüsü çok yönlü karanlık özellikleriyle dikkat çekiyor. Win32/Sirefef, çoklu bileşenli, bulaştığı bilgisayarda kendini saklamak için hayalet (stealth) teknikler kullanan bir zararlı yazılım ailesini tanımlıyor. Sirefef, sıklıkla crack ya da korsan programlar aracılığıyla dosya paylaşım siteleri ve Torrent gibi P2P yazılımlar yoluyla yayılıyor. Doğası gereği Sirefef’in verdiği zarar, bulaştığı bilgisayardan bilgisayara göre değişiyor.
+ Neler yapar?
+ Sirefef, P2P protokolü ile kendi güncellemelerini ve diğer zararlı yazılımları indirip sisteme yüklüyor. İndirilen dosyalar ise oluşturulan gizli bir klasörde saklanıyor. İndirilen bileşenler:
+ Kullanıcının internette yaptığı arama sonuçlarını değiştirerek kullanıcının farklı sitelere yönlendirilmesini sağlar.
+     Sistemlerden sahte tıklamalar yaparak, zararlı yazılımı yöneten kişinin tıklama başı reklamdan haksız gelir elde etmesine sebep olur.
+     Etkilenen bilgisayarda Bitcoin (pek çok internet sitesi tarafından ödeme aracı olarak kullanılan bir sayısal para birimi) madenciliği yapar. Erişebildiği Bitcoin‘leri başka hesaplara aktarır.
+     Sirefef ayrıca bulaştığı bilgisyarlar hakkında zararlı yazılımı yöneten kişiye bilgi gönderir. Bu bilgiler sayesinde saldırganlar pek çok amaçla kullanmak için yönetebileceği virüslü bir ağa sahip olur.
+ Güvenlik özelliklerini devre dışı bırakmaya çalışır
+ Win32/Sirefef, kendisinin tespitini ve bilgisayardan kaldırılmasını engellemek için pek çok gelişmiş saklanma ve korunma yöntemi de kullanıyor. Bu virüsün bazı türevleri bazı sistem dosyalarına ve güvenlik bileşenlerine geri dönülmez şekilde zarar vererek sistemi yeniden kurulmadan geri döndürülemeyecek hale getirebiliyor. 
+ 
+ Bulaşmasını engellemek için ne yapılmalı?
+ *Bilgisayarınızdaki güvenlik duvarını etkinleştirin ya da güvenlik duvarı da içeren bir güvenlik yazılımı edinin.
+     *İşletim sistemi de dahil tüm kurulu yazılımlar için mevcut güncellemeleri yükleyin.
+     *Güncel bir antivirus yazılımı kullanın.
+     *Bilgisayarda kullanıcı yetkilerini sınırlayın.
+     *E-posta eklerini açarken ve dosya transfer isteklerini kabul ederken dikkatli olun.
+     *Web sayfalarındaki linklere tıklarken dikkatli olun.
+     *Korsan yazılım kullanmamaya özen gösterin.
+     *Güçlü parolalar kullanın
+  

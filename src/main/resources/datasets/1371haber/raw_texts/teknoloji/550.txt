@@ -1,0 +1,7 @@
+iPhone'larda şoke eden hata
+iOS 6.1'de ortaya çıkan bu sorun, bakın iPhone'larda neler yapıyor neler...
+Mevcut iOS işletim sistemindeki sorunları düzeltmek ve iyileştirmeler yapmak için belirli aralıklarla yapılan güncellemeler zaman zaman can sıkıcı gelişmelere yol açıyor. Son olarak Apple'ın yayınladığı iOS 6.1 güncellemesinde şaşırtan bir açık bulundu. Kilit ekranını ilgilendiren hatada üçüncü kişiler şifre girmeden de telefona girmeyi başarabiliyor.
+
+iPhone'un şifreli kilit ekranını normal şartlarda şifreyi bilmeyen açamazken, güncelleme sonrası şifreyi bilmeyenler de kilidi birkaç saniye gibi kısa bir sürede açabiliyor. Bunun için ise şu yöntem takip ediliyor: Telefonu kapatmaya çalışıp, ardından vazgeçiyorsunuz. Acil arama başlatıp, iptal edip güç kapatıp açma düğmesine birkaç kez basıyorsunuz. Bu işlem güvenlik kodunu geçmenizi ve telefonu tam olarak kullanabilmenizi sağlıyor.
+
+Apple tespit edilen açık sonrası herhangi bir açıklama yapmasa da, aslında bu ilk kez keşfedilen bir hata değil. Benzer bir sorun iOS 4.1 güncellemesinde de meydana gelmiş ve kullanıcıların şikayetleri üzerine Apple yeni bir yama yayınlamıştı.

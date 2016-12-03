@@ -1,0 +1,17 @@
+Google Chrome OS yada ZeroPC ?
+Klasik PC ve notebook evrimi sonrası artık günümüzde birden fazla cihaza sahip olanların sayısı gittikçe artıyor.
+ Beraberinde tablet ve akıllı telefonlarında bu sıralamaya eklenmesiyle donanım sayısı, kullanımı ev ve işyerlerinde gittikçe artmaya başladı. Önümüzdeki yıllarda da artacağı ortada.
+ 
+ Tabi bu artış doğal olarak PC ve notebook pazarını ciddi bir şekilde etkilemeye başladı. Artık herkesten, benim bir akıllı telefona ya da tablete ihtiyacım var kelimesini fazlasıyla duyuyorsunuzdur.
+ Asıl sorun bu kadar donanım varken ve farklı farklı yerlerdeyken bunların nasıl senkronize edileceği?
+ Herhangi bir cloud hizmetini kullanmaya başladıgınızda(depolama,uygulama sanallaştırma vb.) bu servislerinde çeşitliliğine göre birden fazla yerden hizmet aldığınızı düşünürsek,,farklı arayüzler, yönetsel yapıyı öğrenme ve onu
+ uygulamakla ilgili zaman harcamanız gerekmektedir.
+ Bunlara gerek olmadan birçok cloud hizmetini alıp tek bir yerden XP görünümlü bir arayüz ile sadece bir tarayıcı ile donanım farkı olmadan  yönetmeye  kimse hayır demez sanırım.ZeroPC cloud navigator ile birçok popüler cloud uygulamasını tek bir yerden yönetebilirsiniz. (Box, Dropbox, Evernote, Facebook, Flickr, Google Drive, Instagram,Photobucket, Picasa, Recood, SkyDrive, Sugar Sync ve 4shared) .
+ Akıllı telefon kullanıcılarına baktıgımızda birçok uygulamayı indirip denemekten herkes heyecan duyuyor. Deneme yanılmalardan sonra herkes kendine uygun yazılımları kullanıp diğerlerini silip fotoğraf, video ya da döküman uygulamalarını kullanabileceği 2 ya da 3 uygulamayı cep telefonuna indiriyor. Deneme yanılmalar insanları daha iyi uygulama kullanmaya ve seçmeye yöneltiyor. Totalde tüm uygulamaların 10-15 adedi bulduğunu düşünürsek hepsini ayrı ayrı yönetmek yerine ZeroPC ile tek bir noktan tüm dosyaları ve uygulamaları kolay bir şekilde yönetebilirsiniz.
+ Bir tarafta Google ın akıllı telefon pazarındaki Android işletim sistemi ile liderliğini sürdürürken Chrome OS ile yeni bir strateji uygulayarak android tarafındaki kısıtlı kullanımı masaüstü deneyimini bekleyen tüm tüm kullanıcılara Chrome OS ile ulaştırmayı hedeflediğini görmekteyiz.
+ Online işletim sistemi pazarında ZeroPC yi Google chrome işletim sistemine benzetebiliriz. Chrome book u açtığınızda karşınıza google ın bulut servisleri geliyor. Tamamen tarayıcı üzerinden çalışması bu anlamda benzerlik gösterebilir. Fakat ZeroPC nin en büyük avantajı sadece google tarafındaki hizmetlerle sınırlı değil. Dileğiniz bulut hizmetini ZeroPC ile kullanabilirsiniz.
+ Aslında ZeroPC   ve Google Chrome fikrini destekleyecek en büyük argüman insanlar donanımlarını değiştirdiklerinde yada kaybettiklerinde bulutta bir online işletim sistemlerinin onları beklediği ve normal hayatlarına rahatlıkla devam edebilecekleri kurgusudur.Yeni bir bilgisayar aldıklarında tek yapmaları gereken kullanıcı adı ve şifrelerini girip kaldıkları yerden değişen bir şey olmadan devam etmeleridir.
+ Asyadaki donanım üreticilerine baktığımızda sadece tek bir servisi kullanıcılarına sunmak yerine içerisinde kullanıcıların seçebileceği uygulamalarıda barındıran ZeroPC artık Chrome OS ile donanım üreticileri tarafında da
+ seçenek haline  gelmiş görünüyor.Online işletim sistemi pazarında donanım üreticilerinin tüketicilere sunacakları platformlar hangisi daha iyidir yada kullanışlıdır tarafında tüketici eğilimleriyle birlikte belirlenecektir.
+ 
+  

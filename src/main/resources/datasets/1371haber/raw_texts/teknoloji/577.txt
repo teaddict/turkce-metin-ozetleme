@@ -1,0 +1,15 @@
+Sizi kim sildi?
+Facebook'ta sizi arkadaş listesinden kimin çıkardığını biliyor musunuz? Ufak bir programla bunu anında öğrenebilirsiniz.
+1 milyarı aşkın üyesiyle dev bir portal olan Facebook'ta kullanıcıların en merak ettiği sorulardan biri yanıt buluyor. Geliştirilen Unfriend Finder uygulaması sayesinde an ve an hesabınızı takip edebilecek ve sizi kimin arkadaşlıktan çıkardığını hemen öğrenebileceksiniz.
+
+Unfriend Finder uygulamasını ele alalım. Chrome tarayıcınıza yükleyebileceğiniz bir eklenti olan Unfriend Finder ile sizi Facebook'undan silen arkadaşlarınızı an ve an görüntüleyebiliyorsunuz. Ancak uygulama bununla da sınırlı kalmıyor. Arkadaşlarınızın profil hesaplarını kapattığı durumlarda da bundan haberdar oluyorsunuz. Uygulamayı buradan indirebilirsiniz. Chrome'a eklentiyi indirdiğiniz taktirde artık Facebook sayfasını açtığınızda uygulamayı görebileceksiniz. 
+
+AYRI AYRI KURMANIZ GEREKİYOR
+
+Chrome'a eklenti olarak gelen uygulamayı iş yerinizdeki bilgisayara indirdiyseniz evinizdeki bilgisayara da ayrıca indirmeniz gerekiyor; zira söz konusu eklenti sadece kurulu olduğu bilgisayarda çalışıyor. 
+
+BANA KİM BAKMIŞ UYGULAMALARI GERÇEĞİ YANSITMIYOR
+
+Unfriend Finder, arkadaş listesini sık sık kontrol ederek eksilen biri olduğunda bundan sizi haberdar ediyor. Uygulama basitçe bu yöntemle çalışıyor. Ancak Facebook sayfanıza hangi arkadaşınızın baktığını söyleyen uygulamalara itibar etmeyin; zira bunu öğrenmenin yolu yok. 
+
+ Unfirend Finder eklentisi yüklendiğinde Facebook sayfanızda bu şekilde görünüyor

@@ -1,0 +1,11 @@
+Yurt dışından telefon getirenler dikkat!
+Bilgi Teknoloji ve İletişim Kurulu, IMEI (Uluslararası Mobil Cihaz Kodu-International Mobile Equipment Identity) kayıt işlemleri ile ilgili olarak, sisteme girilen bilgiler ile abone kayıt merkezleri tarafından gönderilen belgelerin tutarlılığının olup olmadığının kontrol edilmesi, eksik ve yanlış başvuru kayıtlarının iptal edilmesine karar verdi.
+'IMEI Kayıt İşlemlerine İlişkin Mobil Telefon İşletmecilerine Yükümlülük Getirilmesi'ne ilişkin kurul kararı Bilgi Teknolojileri ve İletişim Kurumu (BTK) internet sitesinde yayımlandı.
+
+Buna göre, Kurul, mobil telefon işletmecilerinin abone kayıt merkezleri aracılığı ile Mobil Cihaz Kayıt Sistemi'ne (MCKS) girişi yapılan kayıt başvurularına ilişkin olarak mobil telefon işletmecileri tarafından gerekli kontrollerin yapılması amacıyla kuruma gönderilen evrak üzerinde 'Abone Kayıt Merkezi' ve 'aslı gibidir' kaşelerinin olup olmadığı ile ilgili kayıt merkezinin açık adres ve iletişim bilgilerinin bulunup bulunmadığının kontrol edilmesini kararlaştırdı.
+
+Kurul ayrıca, sisteme girilen bilgiler ile abone kayıt merkezleri tarafından gönderilen belgelerin tutarlılığının olup olmadığının kontrol edilmesi, eksik ve yanlış başvuru kayıtlarının iptal edilmesine karar verdi.
+
+Kayıt işlemleri sırasında alınan evrakların en geç kayıt tarihini takip eden ay sonuna kadar BTK'ya gönderilmesini da karara bağlayan Kurul, sisteme bilgileri girdiği halde, belgeleri göndermeyen, kasıtlı bir şekilde eksik ve yanlış bilgi gönderen abone kayıt merkezlerine yönelik gerekli tedbirlerin alınması ve alınan tedbirlerin 3 aylık raporlar halinde BTK'ya sunulmasını kararlaştırdı.
+
+Kurul, mevzuata ve hukuka aykırı işlemlerin tesis edilmemesini temin etmek amacıyla, kayıt işlemlerinde kullanılan internet işlem ağının güvenliğini sağlayacak biçimde işletmeciler tarafından gerekli tedbirlerin alınmasını da hükme bağladı.
