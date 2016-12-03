@@ -15,8 +15,6 @@ Bu algoritma metnin ana konusunu belirmeye çalışmaktadır. Metindeki kelimele
 
 Uygulamamızda tüm bu listeyi okuyup her kelime için bir ilişki listesi oluşturuyoruz, bir kelime girildiğinde bunun ilişkili olduğu kelimeler liste halinde kullanıcıya gönderilmektedir. Bu sistemin ileride ayrı bir servis olarak kullanıma sunulması planlanmaktadır. Böylece çevrimiçi Türkçe kelime ağı erişime açılmış olacaktır.
 
-Daha detaylı bilgi icin [bu klasör](https://github.com) altindaki proje raporunu okuyabilirsiniz.
-
 > **Zincirlerin puanlanması:**
 > 
 Bu aşamada zincirdeki kelimelerin aralarındaki ilişkiye göre puanlamasını gerçekleştirdik. Regina Barzilay tarafından hazırlanmış olan "Using Lexical Chains for Text Summarization [13]" doktora tezinden ve "Assessing the Impact of Lexical Chain Scoring Methods and Sentence Extraction Schemes on Summarization [14]" makalesinden faydalanılmıştır. Oluşturdukları puanlama sistemi kendi uygulamamıza göre değiştirilmiştir. Aşağıdaki şekilde bir puanlama sistemi oluşturulmuştur:
@@ -173,14 +171,14 @@ Kelime zinciri kriter değeri:5.500038727775852
 >- Özet metin: <b>spor</b>
 
 > **JSON API RESPOND:**
-{
-   <b>"summaryId"</b>:88,
-   <b>"contextOfText"</b>:"﻿Yıldız Kızlarımız Dünya Şampiyonu\r\n\r\nDünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu. Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.\r\n\r\nYıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı. Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu. Türkiye, 2007 yılında Meksika'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.\r\n\r\nBu arada karşılaşmayı Gençlik ve Spor Bakanı Suat Kılıç, Türkiye Voleybol Federasyonu Başkanı Erol Ünal Karabıyık ile birlikte protokol tribününden takip etti. TVF Başkent Salonu'nun tamamını dolduran seyirciler, ellerindeki Türk bayraklarıyla maç boyunca Türk Milli Takımı'nı coşkulu bir şekilde desteklediler.Voleybolseverler, TVF Bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını bir an bile yalnız bırakmadılar.\r\n\r\nYıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.  İlk şampiyona 1989 yılında Brezilya'nın Curitiba kentinde yapılmıştır. Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.",
-   "summaryOfText":"[Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu., Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti., Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı.]",
-   "<b>wordChain</b>":null,
-   "<b>filename</b>":null,
-   "<b>classOfText</b>":"spor",
-   "<b>classOfSummary</b>":"spor"
+>- {
+>   <b>"summaryId"</b>:88,
+>   <b>"contextOfText"</b>:"﻿Yıldız Kızlarımız Dünya Şampiyonu\r\n\r\nDünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu. Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti.\r\n\r\nYıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı. Tüm oyuncuların iyi oynadığı Türk Milli Takımı'nda Kübra Akman performansıyla göz doldururken, Çin Milli Takımı'nın solak smaçörü Peiyi Liu, Yıldız kızları zorlayan en önemli oyuncu oldu. Türkiye, 2007 yılında Meksika'da yapılan Dünya Yıldız Kızlar Şampiyonası finalinde Çin'e karşı 3-1 kaybederek Dünya ikincisi olduğu maçın rövanşını set kayıpsız aldı.\r\n\r\nBu arada karşılaşmayı Gençlik ve Spor Bakanı Suat Kılıç, Türkiye Voleybol Federasyonu Başkanı Erol Ünal Karabıyık ile birlikte protokol tribününden takip etti. TVF Başkent Salonu'nun tamamını dolduran seyirciler, ellerindeki Türk bayraklarıyla maç boyunca Türk Milli Takımı'nı coşkulu bir şekilde desteklediler.Voleybolseverler, TVF Bandosunun çaldığı hareketli parçalara eşlik ederek, takımlarını bir an bile yalnız bırakmadılar.\r\n\r\nYıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının altındaki voleybolcuların katılabildiği bir şampiyonadır.  İlk şampiyona 1989 yılında Brezilya'nın Curitiba kentinde yapılmıştır. Her iki yılda bir düzenlenen şampiyonaya kıta elemelerini geçen ülke takımları katılabilmektedir.",
+>  <b>"summaryOfText"</b>:"[Dünya Yıldız Kızlar Voleybol Şampiyonası'nda Yıldız Milli Takım, final maçında Çin'i 3-0 yenerek şampiyon oldu., Türkiye, böylece voleybol tarihinin ilk Dünya şampiyonluğunu elde etti., Yıldız Milli Takım, TVF Başkent Salonu'nda yapılan final maçında baştan sona üstün bir performans sergileyerek, Dünyanın en iyi takımları arasında yer alan Çin'e adeta göz açtırmadı.]",
+>   "<b>wordChain</b>":null,
+>   "<b>filename</b>":null,
+>   "<b>classOfText</b>":"spor",
+>   "<b>classOfSummary</b>":"spor"
 }
 
 ----------
@@ -188,5 +186,5 @@ Kelime zinciri kriter değeri:5.500038727775852
 ###API Kullanım
 
 >- [teaddict.net/ozetle](teaddict.net/ozetle) adresinden özetleme işlemini browser üzerinden yapabilirsiniz.
->- [teaddict.net/ozetle/api/new](teaddict.net/ozetle) adresine POST methoduyla özetlemek istediğiniz metni ekleyerek istekte bulunursanız JSON formatında cevap alabilirsiniz. Örnek kullanım için [bu dokümanları](github.com) inceleyebilirsiniz.
->- [örnek metin dosyaları](github.com)
+>- [teaddict.net/ozetle/api/new](teaddict.net/ozetle) adresine POST methoduyla özetlemek istediğiniz metni ekleyerek istekte bulunursanız JSON formatında cevap alabilirsiniz. Örnek kullanım için [bu dokümanları](https://github.com/teaddict/turkce-metin-ozetleme/tree/master/ornek-api-kullanim) inceleyebilirsiniz.
+>- [örnek metin dosyaları](https://github.com/teaddict/turkce-metin-ozetleme/tree/master/ornek-metinler)
