@@ -24,8 +24,6 @@ import java.util.Random;
 import weka.classifiers.Evaluation;
 import weka.classifiers.bayes.NaiveBayes;
 import weka.classifiers.meta.FilteredClassifier;
-import weka.classifiers.rules.PART;
-import weka.classifiers.trees.J48;
 import weka.core.Instances;
 import weka.core.converters.ArffLoader.ArffReader;
 import weka.filters.unsupervised.attribute.StringToWordVector;

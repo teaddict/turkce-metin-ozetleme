@@ -1,11 +1,8 @@
 package com.webservice.lexicalchain;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.net.URISyntaxException;
 import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -13,7 +10,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.logging.Logger;
 
-import com.google.common.io.Resources;
 import com.webservice.controller.WebController;
 
 public class NewLexicalChain {

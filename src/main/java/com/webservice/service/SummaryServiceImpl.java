@@ -1,10 +1,8 @@
 package com.webservice.service;
 
-import java.io.IOException;
 import java.util.logging.Logger;
 
-import javax.inject.Inject;
-
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -15,36 +13,27 @@ import com.webservice.repo.SummaryRepository;
 @Service
 public class SummaryServiceImpl implements SummaryService {
 	private static final Logger LOGGER = Logger.getLogger( WebController.class.getName() );
+	@Autowired
+	private SummaryRepository summaryRepo;
 
-	private final SummaryRepository summaryRepo;
-
-    @Inject
-    public SummaryServiceImpl(final SummaryRepository summaryRepo) {
-        this.summaryRepo = summaryRepo;
-    }
 	@Transactional
-	public Summary add(String contextOfText) {
+	public Summary add(String contextOfText) throws Exception {
 		// TODO Auto-generated method stub
 		Summary tempSummary = new Summary();
-		Summary newSummary = new Summary();
-		tempSummary.setContextOfText(contextOfText);
-		newSummary.setContextOfText(contextOfText);
-		try {
-			tempSummary = summaryRepo.findBycontextOfText(contextOfText);
-			if (tempSummary == null) {
-				LOGGER.info("summary doesnt found");
-				NewPreprocess preprocess = new NewPreprocess();
-				newSummary = preprocess.getSummary(newSummary);
-				summaryRepo.save(newSummary);
-				LOGGER.info("new summary saved");
-			}else{
-				newSummary = tempSummary;
-			}
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+		tempSummary = summaryRepo.findBycontextOfText(contextOfText);
+		if (tempSummary == null) {
+			LOGGER.info("summary doesnt found");
+			NewPreprocess preprocess = new NewPreprocess();
+			tempSummary = new Summary();
+			tempSummary.setContextOfText(contextOfText);
+			tempSummary = preprocess.getSummary(tempSummary);
+			summaryRepo.save(tempSummary);
+			return tempSummary;
+		} else {
+			LOGGER.info("summary found in db");
+			return tempSummary;
 		}
-		return newSummary;
+
 	}
 
 //	@Transactional

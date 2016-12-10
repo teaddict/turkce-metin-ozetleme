@@ -49,7 +49,7 @@ public class WebController {
 //		return result;
 //	}
 	@RequestMapping("/api")
-	public Summary fetchDataByContext(@RequestParam("contextOfText") String contextOfText){
+	public Summary fetchDataByContext(@RequestParam("contextOfText") String contextOfText) throws Exception{
 		LOGGER.info("WebController: " + contextOfText);
 		Summary summary = service.add(contextOfText);
 		return summary;
@@ -58,7 +58,7 @@ public class WebController {
     @CrossOrigin
 	@RequestMapping(value = "/api/new", method = RequestMethod.POST)
 	public @ResponseBody
-	Summary getsummary(@RequestParam("contextOfText") String contextOfText) {
+	Summary getsummary(@RequestParam("contextOfText") String contextOfText) throws Exception {
     	LOGGER.info("WebController: " + contextOfText);
 		Summary summary = service.add(contextOfText);
 		return summary;

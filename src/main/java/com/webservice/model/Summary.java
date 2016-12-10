@@ -18,11 +18,11 @@ public class Summary implements Serializable {
 	@Column(name = "id")
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int summaryId;
-	@Column(name = "context_of_text")
+	@Column(name = "context_of_text" ,columnDefinition = "text")
 	private String contextOfText;
-	@Column(name = "summary_of_text")
+	@Column(name = "summary_of_text",columnDefinition = "text")
 	private String summaryOfText;
-	@Column(name = "word_chain")
+	@Column(name = "word_chain",columnDefinition = "text")
 	private String wordChain;
 	@Column(name = "filename")
 	private String filename;
