@@ -14,7 +14,6 @@ import com.webservice.model.Summary;
 
 public class NewPreprocess {
 	private static final Logger LOGGER = Logger.getLogger( WebController.class.getName() );
-
 	public NewPreprocess() throws IOException {
 		super();
 		this.findNoun = new NewNounFinder();
@@ -226,6 +225,45 @@ public class NewPreprocess {
 		classifier.makeInstance();
 		return classifier.getClassOfText();
 	}
+	
+	public String getVerbs(String contextOfText) throws IOException {
+
+		String readText = readText(contextOfText);
+		LOGGER.info("######Read Text File:######" + readText);
+
+		String cleanText = cleanStopWords(readText);
+		LOGGER.info("######Clean text file:######" + cleanText);
+
+		String verbsOfText = getAllVerbs(cleanText).toString();
+		LOGGER.info("######Verbs of text: " + verbsOfText);
+
+		return verbsOfText;
+	}
+	
+	public String getNouns(String contextOfText) throws IOException {
+		String readText = readText(contextOfText);
+		LOGGER.info("######Read Text File:######" + readText);
+
+		String cleanText = cleanStopWords(readText);
+		LOGGER.info("######Clean text file:######" + cleanText);
+
+		String nounsOfText = getAllNouns(cleanText).toString();
+		LOGGER.info("######Nouns of text: " + nounsOfText);
+
+		return nounsOfText;
+	}
+
+	public String getClass(String contextOfText) throws IOException {
+		String readText = readText(contextOfText);
+		LOGGER.info("######Read Text File:######" + readText);
+
+		String classOfText = classifier.getClassOfText(readText);
+		LOGGER.info("####################CLASS OF ORIGINAL TEXT: " + classOfText);
+
+		return classOfText;
+	}
+
+	
 
 	public static void main(String[] args) throws IOException {
 
@@ -253,9 +291,6 @@ public class NewPreprocess {
 		String nounsOfText = preprocess.getAllNouns(cleanText).toString();
 		LOGGER.info("######Nouns of text: " + nounsOfText);
 
-		String verbsOfText = preprocess.getAllVerbs(cleanText).toString();
-		LOGGER.info("######Verbs of text: " + verbsOfText);
-
 		List<NewLexical> lexicals = preprocess.getAllLexicals(cleanText,readText);
 		String summary = preprocess.createChains(lexicals);
 		if(summary.isEmpty()){
@@ -275,35 +310,31 @@ public class NewPreprocess {
 	
 	public Summary getSummary(Summary summary) throws IOException {
 
-		NewPreprocess preprocess = new NewPreprocess();
-		String readText = preprocess.readText(summary.getContextOfText());
+		String readText = readText(summary.getContextOfText());
 		LOGGER.info("######Read Text File:######" + readText);
 
-		String cleanText = preprocess.cleanStopWords(summary.getContextOfText());
+		String cleanText = cleanStopWords(summary.getContextOfText());
 		LOGGER.info("######Clean text file:######" + cleanText);
 
-		List<String> paragraphsOfText = preprocess.getParagraphs().getParagraphs(cleanText);
+		List<String> paragraphsOfText = getParagraphs().getParagraphs(cleanText);
 		LOGGER.info("######Paragrapfs text file: " + paragraphsOfText.size());
 
-		List<String> sentences = preprocess.getSentenceOperation().getSentences(cleanText);
+		List<String> sentences = getSentenceOperation().getSentences(cleanText);
 		LOGGER.info("######Sentences text file: " + sentences.size());
 
-		String title = preprocess.getSentenceOperation().getTitleSentence(sentences);
+		String title = getSentenceOperation().getTitleSentence(sentences);
 		LOGGER.info("######Title######: " + title);
 
-		String nounsOfText = preprocess.getAllNouns(cleanText).toString();
+		String nounsOfText = getAllNouns(cleanText).toString();
 		LOGGER.info("######Nouns of text: " + nounsOfText);
-
-		String verbsOfText = preprocess.getAllVerbs(cleanText).toString();
-		LOGGER.info("######Verbs of text: " + verbsOfText);
-
-		List<NewLexical> lexicals = preprocess.getAllLexicals(cleanText,readText);
-		String summaryOfText = preprocess.createChains(lexicals);
+		
+		List<NewLexical> lexicals = getAllLexicals(cleanText,readText);
+		String summaryOfText = createChains(lexicals);
 		summary.setSummaryOfText(summaryOfText);
-		String classOfText = preprocess.getClassOfText(readText);
+		String classOfText = getClassOfText(readText);
 		LOGGER.info("####################CLASS OF ORIGINAL TEXT: " + classOfText);
 		summary.setClassOfText(classOfText);
-		String classOfSummary = preprocess.getClassOfText(summaryOfText);
+		String classOfSummary = getClassOfText(summaryOfText);
 		summary.setClassOfSummary(classOfSummary);
 		LOGGER.info("###################CLASS OF SUMMARY: " + summaryOfText);
 

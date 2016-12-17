@@ -15,6 +15,7 @@ public class SummaryServiceImpl implements SummaryService {
 	private static final Logger LOGGER = Logger.getLogger( WebController.class.getName() );
 	@Autowired
 	private SummaryRepository summaryRepo;
+	private NewPreprocess preprocess;
 
 	@Transactional
 	public Summary add(String contextOfText) throws Exception {
@@ -23,9 +24,9 @@ public class SummaryServiceImpl implements SummaryService {
 		tempSummary = summaryRepo.findBycontextOfText(contextOfText);
 		if (tempSummary == null) {
 			LOGGER.info("summary doesnt found");
-			NewPreprocess preprocess = new NewPreprocess();
 			tempSummary = new Summary();
 			tempSummary.setContextOfText(contextOfText);
+			preprocess = new NewPreprocess();
 			tempSummary = preprocess.getSummary(tempSummary);
 			summaryRepo.save(tempSummary);
 			return tempSummary;
@@ -34,6 +35,24 @@ public class SummaryServiceImpl implements SummaryService {
 			return tempSummary;
 		}
 
+	}
+	
+	@Transactional
+	public String getVerbs(String contextOfText) throws Exception {
+		preprocess = new NewPreprocess();
+		return preprocess.getVerbs(contextOfText);
+	}
+	
+	@Transactional
+	public String getNouns(String contextOfText) throws Exception {
+		preprocess = new NewPreprocess();
+		return preprocess.getNouns(contextOfText);
+	}
+	
+	@Transactional
+	public String getClass(String contextOfText) throws Exception {
+		preprocess = new NewPreprocess();
+		return preprocess.getClass(contextOfText);
 	}
 
 //	@Transactional

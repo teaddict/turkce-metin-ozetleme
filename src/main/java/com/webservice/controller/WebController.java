@@ -20,34 +20,6 @@ public class WebController {
 	@Autowired
 	SummaryService service;
 	
-//	@RequestMapping("/save")
-//	public String process(){
-//		repository.save(new Customer("Jack", "Smith"));
-//		repository.save(new Customer("Adam", "Johnson"));
-//		repository.save(new Customer("Kim", "Smith"));
-//		repository.save(new Customer("David", "Williams"));
-//		repository.save(new Customer("Peter", "Davis"));
-//		return "Done";
-//	}
-//	
-//	
-//	@RequestMapping("/findall")
-//	public String findAll(){
-//		String result = "<html>";
-//		
-//		for(Customer cust : repository.findAll()){
-//			result += "<div>" + cust.toString() + "</div>";
-//		}
-//		
-//		return result + "</html>";
-//	}
-	
-//	@RequestMapping("/findbyid")
-//	public String findById(@RequestParam("id") long id){
-//		String result = "";
-//		result = repository.findOne(id).toString();
-//		return result;
-//	}
 	@RequestMapping("/api")
 	public Summary fetchDataByContext(@RequestParam("contextOfText") String contextOfText) throws Exception{
 		LOGGER.info("WebController: " + contextOfText);
@@ -58,10 +30,34 @@ public class WebController {
     @CrossOrigin
 	@RequestMapping(value = "/api/new", method = RequestMethod.POST)
 	public @ResponseBody
-	Summary getsummary(@RequestParam("contextOfText") String contextOfText) throws Exception {
+	Summary getSummary(@RequestParam("contextOfText") String contextOfText) throws Exception {
     	LOGGER.info("WebController: " + contextOfText);
 		Summary summary = service.add(contextOfText);
 		return summary;
+	}
+    
+    @CrossOrigin
+	@RequestMapping(value = "/api/verb/new", method = RequestMethod.POST)
+	public @ResponseBody
+	String getVerbs(@RequestParam("contextOfText") String contextOfText) throws Exception {
+    	LOGGER.info("WebController GetVerbs: " + contextOfText);
+		return service.getVerbs(contextOfText);
+	}
+    
+    @CrossOrigin
+	@RequestMapping(value = "/api/noun/new", method = RequestMethod.POST)
+	public @ResponseBody
+	String getNouns(@RequestParam("contextOfText") String contextOfText) throws Exception {
+    	LOGGER.info("WebController GetNouns: " + contextOfText);
+		return service.getNouns(contextOfText);
+	}
+    
+    @CrossOrigin
+	@RequestMapping(value = "/api/class/new", method = RequestMethod.POST)
+	public @ResponseBody
+	String getClass(@RequestParam("contextOfText") String contextOfText) throws Exception {
+    	LOGGER.info("WebController GetClass: " + contextOfText);
+		return service.getClass(contextOfText);
 	}
 	
 }
