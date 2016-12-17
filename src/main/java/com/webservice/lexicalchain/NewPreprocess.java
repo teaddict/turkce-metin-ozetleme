@@ -9,11 +9,16 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
 import com.webservice.controller.WebController;
 import com.webservice.model.Summary;
 
+@Service
 public class NewPreprocess {
 	private static final Logger LOGGER = Logger.getLogger( WebController.class.getName() );
+	private static NewNounFinder findNoun;
 	public NewPreprocess() throws IOException {
 		super();
 		this.findNoun = new NewNounFinder();
@@ -31,8 +36,6 @@ public class NewPreprocess {
 		this.classifier = new NewClassifier();
 		this.systemPerformance = new NewSystemPerformance();
 	}
-
-	NewNounFinder findNoun;
 	NewVerbFinder findVerb;
 	private NewSentence sentenceOperation;
 	private NewParagraph paragraphs;
@@ -303,7 +306,8 @@ public class NewPreprocess {
 
 		String classOfSummary = preprocess.classifier.getClassOfText(summary);
 		LOGGER.info("###################CLASS OF SUMMARY: " + classOfSummary);
-
+		
+		System.out.println(preprocess.getNouns(cleanText));
 		
 	}
 	

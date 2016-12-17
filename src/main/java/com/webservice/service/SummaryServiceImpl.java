@@ -15,6 +15,7 @@ public class SummaryServiceImpl implements SummaryService {
 	private static final Logger LOGGER = Logger.getLogger( WebController.class.getName() );
 	@Autowired
 	private SummaryRepository summaryRepo;
+	@Autowired
 	private NewPreprocess preprocess;
 
 	@Transactional
@@ -26,7 +27,9 @@ public class SummaryServiceImpl implements SummaryService {
 			LOGGER.info("summary doesnt found");
 			tempSummary = new Summary();
 			tempSummary.setContextOfText(contextOfText);
-			preprocess = new NewPreprocess();
+			if (preprocess == null) {
+				preprocess = new NewPreprocess();
+			}
 			tempSummary = preprocess.getSummary(tempSummary);
 			summaryRepo.save(tempSummary);
 			return tempSummary;
