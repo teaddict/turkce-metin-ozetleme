@@ -9,19 +9,15 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-
 import com.webservice.controller.WebController;
 import com.webservice.model.Summary;
 
-@Service
+
 public class NewPreprocess {
 	private static final Logger LOGGER = Logger.getLogger( WebController.class.getName() );
-	private static NewNounFinder findNoun;
-	public NewPreprocess() throws IOException {
+	public NewPreprocess(TurkishParser tp) throws IOException {
 		super();
-		this.findNoun = new NewNounFinder();
+		this.findNoun = new NewNounFinder(tp);
 		this.findVerb = new NewVerbFinder();
 		this.setSentenceOperation(new NewSentence());
 		this.setParagraphs(new NewParagraph());
@@ -36,6 +32,8 @@ public class NewPreprocess {
 		this.classifier = new NewClassifier();
 		this.systemPerformance = new NewSystemPerformance();
 	}
+	
+	NewNounFinder findNoun;
 	NewVerbFinder findVerb;
 	private NewSentence sentenceOperation;
 	private NewParagraph paragraphs;
@@ -50,6 +48,21 @@ public class NewPreprocess {
 	NewExtractSentences extractSentence;
 	NewClassifier classifier;
 	NewSystemPerformance systemPerformance;
+	
+	public void cleaner(){
+		this.setSentenceOperation(new NewSentence());
+		this.setParagraphs(new NewParagraph());
+		this.lexicalChain = new NewLexicalChain();
+		this.chainScores = new NewChainScores();
+		this.cleanedParagraphsOfText = new ArrayList<String>();
+		this.cleanedSentencesOfText = new ArrayList<String>();
+		this.originalParagraphsOfText = new ArrayList<String>();
+		this.originalSentencesOfText = new ArrayList<String>();
+		this.extractSentence = new NewExtractSentences();
+		this.titleOfText = "";
+		this.classifier = new NewClassifier();
+	}
+	
 	public List<String> getAllNouns(String textFile) throws IOException {
 		List<String> nouns = new ArrayList<String>();
 		// noktalamaları kaldır
@@ -274,7 +287,8 @@ public class NewPreprocess {
 		if(args.length>0){
 			textFilename = args[0];
 		}
-		NewPreprocess preprocess = new NewPreprocess();
+		TurkishParser parser = new TurkishParser();
+		NewPreprocess preprocess = new NewPreprocess(parser);
 		String readText = preprocess.readTextFile(textFilename);
 		LOGGER.info("######Read Text File:######" + readText);
 

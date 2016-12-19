@@ -6,10 +6,12 @@ import java.io.IOException;
 import java.util.List;
 
 public class NewExtractKeywords {
+	TurkishParser parser;
 
 	public NewExtractKeywords() throws IOException {
 		super();
-		this.preprocess = new NewPreprocess();
+		this.parser = new TurkishParser();
+		this.preprocess = new NewPreprocess(this.parser);
 		
 	}
 

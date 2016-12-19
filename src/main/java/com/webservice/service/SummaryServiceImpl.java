@@ -8,6 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.webservice.controller.WebController;
 import com.webservice.lexicalchain.NewPreprocess;
+import com.webservice.lexicalchain.TurkishParser;
 import com.webservice.model.Summary;
 import com.webservice.repo.SummaryRepository;
 @Service
@@ -16,8 +17,10 @@ public class SummaryServiceImpl implements SummaryService {
 	@Autowired
 	private SummaryRepository summaryRepo;
 	@Autowired
+	TurkishParser parser;
+	
 	private NewPreprocess preprocess;
-
+	
 	@Transactional
 	public Summary add(String contextOfText) throws Exception {
 		// TODO Auto-generated method stub
@@ -27,9 +30,10 @@ public class SummaryServiceImpl implements SummaryService {
 			LOGGER.info("summary doesnt found");
 			tempSummary = new Summary();
 			tempSummary.setContextOfText(contextOfText);
-			if (preprocess == null) {
-				preprocess = new NewPreprocess();
+			if(parser == null){
+				parser = new TurkishParser();
 			}
+			preprocess = new NewPreprocess(parser);
 			tempSummary = preprocess.getSummary(tempSummary);
 			summaryRepo.save(tempSummary);
 			return tempSummary;
@@ -42,19 +46,19 @@ public class SummaryServiceImpl implements SummaryService {
 	
 	@Transactional
 	public String getVerbs(String contextOfText) throws Exception {
-		preprocess = new NewPreprocess();
+		preprocess = new NewPreprocess(parser);
 		return preprocess.getVerbs(contextOfText);
 	}
 	
 	@Transactional
 	public String getNouns(String contextOfText) throws Exception {
-		preprocess = new NewPreprocess();
+		preprocess = new NewPreprocess(parser);
 		return preprocess.getNouns(contextOfText);
 	}
 	
 	@Transactional
 	public String getClass(String contextOfText) throws Exception {
-		preprocess = new NewPreprocess();
+		preprocess = new NewPreprocess(parser);
 		return preprocess.getClass(contextOfText);
 	}
 

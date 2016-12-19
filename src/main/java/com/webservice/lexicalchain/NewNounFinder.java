@@ -3,18 +3,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import zemberek.morphology.apps.TurkishMorphParser;
 import zemberek.morphology.parser.MorphParse;
 import zemberek.tokenizer.ZemberekLexer;
 
 public class NewNounFinder {
-
-	TurkishMorphParser parser;
-
-	public NewNounFinder() throws IOException {
+	
+	TurkishParser parser;
+	public NewNounFinder(TurkishParser p) throws IOException {
 		super();
-		//parser ı burda oluşturmayıp fonksiyon içinde oluşturursak çok zaman alıyor!
-		this.parser = TurkishMorphParser.createWithDefaults();
+		this.parser = p;
 	}
 
 	public List<String> simpleTokenization(String input) {
@@ -23,7 +20,7 @@ public class NewNounFinder {
 	}
 
 	public String parse(String word) {
-		List<MorphParse> parses = this.parser.parse(word);
+		List<MorphParse> parses = this.parser.parser.parse(word);
 		List<String> nouns = new ArrayList<String>();
 		for (MorphParse parse : parses) {
 			if (parse.formatOnlyIgs().toString().contains("Noun")
