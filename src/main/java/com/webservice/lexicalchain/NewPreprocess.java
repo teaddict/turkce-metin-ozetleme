@@ -283,7 +283,7 @@ public class NewPreprocess {
 
 	public static void main(String[] args) throws IOException {
 
-		String textFilename = "src/main/resources/datasets/1.txt";
+		String textFilename = "src/main/resources/datasets/2.txt";
 		if(args.length>0){
 			textFilename = args[0];
 		}

@@ -81,7 +81,6 @@ public class NewExtractSentences {
 					uniqueWords.add(lexical.getWord());
 				}
 			}
-
 			// zincirde farklı kelimeler varsa
 			if (uniqueWords.size() > 1) {
 
@@ -140,8 +139,8 @@ public class NewExtractSentences {
 				}
 				for (String sentence : sentences) {
 					String lowerSentence = sentence.toLowerCase();
-					if (lowerSentence.contains(word)) {
-						if (!extractedSentences.contains(sentence)) {
+					if (lowerSentence.contains(word.toLowerCase())) {
+						if (!extractedSentences.contains(sentence.toLowerCase())) {
 							extractedSentences.add(sentence);
 							break;
 						}

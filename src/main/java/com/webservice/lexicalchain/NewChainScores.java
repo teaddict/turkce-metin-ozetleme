@@ -105,6 +105,18 @@ public class NewChainScores {
 				strongChains.add(chains.get(i));
 			}
 		}
+		
+		if(strongChains.isEmpty()){
+			LOGGER.info("Kriter degerinin ustunde zincir bulunamadi, en guclu zincir alincak!");
+			double tempStrength = chains.get(0).getStrength();
+			int tempIndexNumber = 0;
+			for (int i = 1; i < chains.size(); i++) {
+				if (chains.get(i).getStrength() > tempStrength) {
+					tempIndexNumber = i;
+				}
+			}
+			strongChains.add(chains.get(tempIndexNumber));
+		}
 
 		return strongChains;
 	}
