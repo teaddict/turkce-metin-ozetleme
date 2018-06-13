@@ -1,6 +1,10 @@
 Kelime Zinciri Algoritmasıyla Türkçe Metin Özetleme
 ===================
 ---
+### ÖNEMLI NOT
+> **BU PROJE ARTIK GELISTIRILMIYOR. SCALA DILINDE YENIDEN YAZILDI. ARTIK SCALA PROJESINI TAKIM EDEBILIRSINIZ**
+>- **https://github.com/teaddict/turkce-metin-ozetleme-scala**
+
 ### Algoritma
 > **Kelime Zinciri Algoritması:**
 
