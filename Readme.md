@@ -2,7 +2,7 @@ Kelime Zinciri Algoritmasıyla Türkçe Metin Özetleme
 ===================
 ---
 ### ÖNEMLI NOT
-> **BU PROJE ARTIK GELISTIRILMIYOR. SCALA DILINDE YENIDEN YAZILDI. ARTIK SCALA PROJESINI TAKIM EDEBILIRSINIZ**
+> **BU PROJE ARTIK GELİŞTİRİLMİYOR. SCALA DİLİNDE YENİDEN YAZILDI. ARTIK SCALA PROJESİNİ TAKİP EDEBİLİRSİNİZ**
 >- **https://github.com/teaddict/turkce-metin-ozetleme-scala**
 
 ### Algoritma
