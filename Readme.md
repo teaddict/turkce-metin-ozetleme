@@ -187,5 +187,5 @@ Yıldız Kızlar Dünya Şampiyonası FIVB'nin düzenlediği ve 18 yaşının al
 ###API Kullanım
 
 >- [teaddict.net/ozetle](http://teaddict.net/ozetle) adresinden özetleme işlemini browser üzerinden yapabilirsiniz.
->- [teaddict.net/ozetle/api/new](http://teaddict.net/ozetle/api/new) adresine POST methoduyla özetlemek istediğiniz metni ekleyerek istekte bulunursanız JSON formatında cevap alabilirsiniz. Örnek kullanım için [bu dokümanları](https://github.com/teaddict/turkce-metin-ozetleme/tree/master/ornek-api-kullanim) inceleyebilirsiniz.
+>- Örnek kullanım için [bu dokümanları](https://github.com/teaddict/turkce-metin-ozetleme/tree/master/ornek-api-kullanim) inceleyebilirsiniz.
 >- [örnek metin dosyaları](https://github.com/teaddict/turkce-metin-ozetleme/tree/master/ornek-metinler)
